@@ -1,0 +1,73 @@
+{
+  "id": 1344236977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.73333,6.93333,1.73333,6.93333",
+    "geom:latitude":6.93333,
+    "geom:longitude":1.73333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Patohoue",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392181,
+    "gn:latitude":6.93333,
+    "gn:longitude":1.73333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Patohou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palohou\u00e9",
+        "Patahou\u00e9",
+        "Patohou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392181
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"db11228cef412f14d203909734db8656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758881,
+            "locality_id":1344236977,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1344236977,
+    "wof:lastmodified":1537587853,
+    "wof:name":"Patohoue",
+    "wof:parent_id":1108758881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.73333,
+    6.93333,
+    1.73333,
+    6.93333
+],
+  "geometry": {"coordinates":[1.73333,6.93333],"type":"Point"}
+}

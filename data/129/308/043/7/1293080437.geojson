@@ -1,0 +1,71 @@
+{
+  "id": 1293080437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.89597,9.69314,1.89597,9.69314",
+    "geom:latitude":9.69314,
+    "geom:longitude":1.89597,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Fokparei",
+    "gn:country_code":"BJ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394351,
+    "gn:latitude":9.69314,
+    "gn:longitude":1.89597,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Fokpar\u00e8\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anair\u00e9",
+        "Fokpar\u00e8\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394351
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"455dfe960c4280c14fa939acbd0022b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1293080437,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1293080437,
+    "wof:lastmodified":1537587871,
+    "wof:name":"Fokparei",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.89597,
+    9.69314,
+    1.89597,
+    9.69314
+],
+  "geometry": {"coordinates":[1.89597,9.69314],"type":"Point"}
+}

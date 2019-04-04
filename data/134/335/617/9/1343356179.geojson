@@ -1,0 +1,67 @@
+{
+  "id": 1343356179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.37888,11.3355,2.37888,11.3355",
+    "geom:latitude":11.3355,
+    "geom:longitude":2.37888,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Suroko",
+    "gn:country_code":"BJ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391538,
+    "gn:latitude":11.3355,
+    "gn:longitude":2.37888,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Suroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391538
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"38ab42db4c0627c54c4ac9cba45a8cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1343356179,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343356179,
+    "wof:lastmodified":1536896602,
+    "wof:name":"Suroko",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.37888,
+    11.3355,
+    2.37888,
+    11.3355
+],
+  "geometry": {"coordinates":[2.37888,11.3355],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327400259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.80443,7.39699,1.80443,7.39699",
+    "geom:latitude":7.39699,
+    "geom:longitude":1.80443,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Seougegon",
+    "gn:country_code":"BJ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391819,
+    "gn:latitude":7.39699,
+    "gn:longitude":1.80443,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"S\u00e9oug\u00e9gon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391819
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"122731f623a497dcee11579011eed12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1327400259,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1327400259,
+    "wof:lastmodified":1536727660,
+    "wof:name":"Seougegon",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.80443,
+    7.39699,
+    1.80443,
+    7.39699
+],
+  "geometry": {"coordinates":[1.80443,7.39699],"type":"Point"}
+}

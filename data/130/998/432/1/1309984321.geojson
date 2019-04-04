@@ -1,0 +1,67 @@
+{
+  "id": 1309984321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66233,7.70342,1.66233,7.70342",
+    "geom:latitude":7.70342,
+    "geom:longitude":1.66233,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kokero",
+    "gn:country_code":"BJ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393447,
+    "gn:latitude":7.70342,
+    "gn:longitude":1.66233,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kok\u00e9ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393447
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"5a9fa0e1f5adef3774f6cb3bd0f323df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758841,
+            "locality_id":1309984321,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1309984321,
+    "wof:lastmodified":1536673864,
+    "wof:name":"Kokero",
+    "wof:parent_id":1108758841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66233,
+    7.70342,
+    1.66233,
+    7.70342
+],
+  "geometry": {"coordinates":[1.66233,7.70342],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327217671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.95566,9.50574,2.95566,9.50574",
+    "geom:latitude":9.50574,
+    "geom:longitude":2.95566,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Koukerou",
+    "gn:country_code":"BJ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393234,
+    "gn:latitude":9.50574,
+    "gn:longitude":2.95566,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kouk\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393234
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b2d1a98e15bb6c145d71444d101b986d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758981,
+            "locality_id":1327217671,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1327217671,
+    "wof:lastmodified":1536990100,
+    "wof:name":"Koukerou",
+    "wof:parent_id":1108758981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.95566,
+    9.50574,
+    2.95566,
+    9.50574
+],
+  "geometry": {"coordinates":[2.95566,9.50574],"type":"Point"}
+}

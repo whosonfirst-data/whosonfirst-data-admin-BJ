@@ -1,0 +1,67 @@
+{
+  "id": 1276571433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.37426,10.57828,1.37426,10.57828",
+    "geom:latitude":10.57828,
+    "geom:longitude":1.37426,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tinetinou",
+    "gn:country_code":"BJ",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391211,
+    "gn:latitude":10.57828,
+    "gn:longitude":1.37426,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tin\u00e9tinou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391211
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3cda6d07ca7a3dd08eb9cdb302ccd348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":1276571433,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276571433,
+    "wof:lastmodified":1536957217,
+    "wof:name":"Tinetinou",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.37426,
+    10.57828,
+    1.37426,
+    10.57828
+],
+  "geometry": {"coordinates":[1.37426,10.57828],"type":"Point"}
+}

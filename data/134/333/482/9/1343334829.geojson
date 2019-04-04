@@ -1,0 +1,71 @@
+{
+  "id": 1343334829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.75038,6.78811,1.75038,6.78811",
+    "geom:latitude":6.78811,
+    "geom:longitude":1.75038,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Foncome",
+    "gn:country_code":"BJ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394348,
+    "gn:latitude":6.78811,
+    "gn:longitude":1.75038,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Foncom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poncam\u00e9",
+        "Foncom\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394348
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"472caf94cb86c153837a234bb61ce374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758887,
+            "locality_id":1343334829,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1343334829,
+    "wof:lastmodified":1537587871,
+    "wof:name":"Foncome",
+    "wof:parent_id":1108758887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.75038,
+    6.78811,
+    1.75038,
+    6.78811
+],
+  "geometry": {"coordinates":[1.75038,6.78811],"type":"Point"}
+}

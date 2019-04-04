@@ -1,0 +1,67 @@
+{
+  "id": 1259370893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.95,7.81667,1.95,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":1.95,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dassa-Gledji",
+    "gn:country_code":"BJ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394716,
+    "gn:latitude":7.81667,
+    "gn:longitude":1.95,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dassa-Gledji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394716
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"86b42102702e49511223ef8241e70040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758841,
+            "locality_id":1259370893,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1259370893,
+    "wof:lastmodified":1537019548,
+    "wof:name":"Dassa-Gledji",
+    "wof:parent_id":1108758841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.95,
+    7.81667,
+    1.95,
+    7.81667
+],
+  "geometry": {"coordinates":[1.95,7.81667],"type":"Point"}
+}

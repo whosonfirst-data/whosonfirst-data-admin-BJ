@@ -1,0 +1,72 @@
+{
+  "id": 1243044371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58975,9.30613,1.58975,9.30613",
+    "geom:latitude":9.30613,
+    "geom:longitude":1.58975,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gassagadi",
+    "gn:country_code":"BJ",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394215,
+    "gn:latitude":9.30613,
+    "gn:longitude":1.58975,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gassagadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gazagadi",
+        "Gassagadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394215,
+        "wk:page":"Gassagadi"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2b946fee08a68c84f406a6f144166352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1243044371,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1243044371,
+    "wof:lastmodified":1537587870,
+    "wof:name":"Gassagadi",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58975,
+    9.30613,
+    1.58975,
+    9.30613
+],
+  "geometry": {"coordinates":[1.58975,9.30613],"type":"Point"}
+}

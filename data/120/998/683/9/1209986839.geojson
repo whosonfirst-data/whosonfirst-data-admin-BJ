@@ -1,0 +1,71 @@
+{
+  "id": 1209986839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83911,6.34371,1.83911,6.34371",
+    "geom:latitude":6.34371,
+    "geom:longitude":1.83911,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Povidji",
+    "gn:country_code":"BJ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392066,
+    "gn:latitude":6.34371,
+    "gn:longitude":1.83911,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Povidji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpovidji",
+        "Povidji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        421177249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392066
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"fea2dfcbfe8094db2701b2bcbc2d1a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421177249,
+            "locality_id":1209986839,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1209986839,
+    "wof:lastmodified":1537587851,
+    "wof:name":"Povidji",
+    "wof:parent_id":421177249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83911,
+    6.34371,
+    1.83911,
+    6.34371
+],
+  "geometry": {"coordinates":[1.83911,6.34371],"type":"Point"}
+}

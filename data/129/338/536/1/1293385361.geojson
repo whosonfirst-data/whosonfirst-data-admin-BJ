@@ -1,0 +1,74 @@
+{
+  "id": 1293385361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.91489,10.77914,0.91489,10.77914",
+    "geom:latitude":10.77914,
+    "geom:longitude":0.91489,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7874158.0",
+    "gn:admin3_code":"11789893.0",
+    "gn:asciiname":"Gouande",
+    "gn:country_code":"BJ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394021,
+    "gn:latitude":10.77914,
+    "gn:longitude":0.91489,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Gouand\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gwande",
+        "Gouand\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394021,
+        "wk:page":"Gouand%C3%A9"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"eb38f307ff6d632150cbbe16d497f11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1293385361,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1293385361,
+    "wof:lastmodified":1537587869,
+    "wof:name":"Gouande",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.91489,
+    10.77914,
+    0.91489,
+    10.77914
+],
+  "geometry": {"coordinates":[0.91489,10.77914],"type":"Point"}
+}

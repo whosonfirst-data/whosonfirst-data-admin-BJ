@@ -1,0 +1,67 @@
+{
+  "id": 1226633191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.7,7.1,1.7,7.1",
+    "geom:latitude":7.1,
+    "geom:longitude":1.7,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Simlita",
+    "gn:country_code":"BJ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391762,
+    "gn:latitude":7.1,
+    "gn:longitude":1.7,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Simlita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391762
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"7ef2be92d3be97d73080a11348d9d4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758845,
+            "locality_id":1226633191,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1226633191,
+    "wof:lastmodified":1536876711,
+    "wof:name":"Simlita",
+    "wof:parent_id":1108758845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.7,
+    7.1,
+    1.7,
+    7.1
+],
+  "geometry": {"coordinates":[1.7,7.1],"type":"Point"}
+}

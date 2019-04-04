@@ -1,0 +1,61 @@
+{
+  "id": 1209612149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.39476,11.74777,3.39476,11.74777",
+    "geom:latitude":11.74777,
+    "geom:longitude":3.39476,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gabo Guinde",
+    "gn:country_code":"BJ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394308,
+    "gn:latitude":11.74777,
+    "gn:longitude":3.39476,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gabo Guind\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394308
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e0dcac2bf466f33704bdb7a7899dca94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209612149
+        }
+    ],
+    "wof:id":1209612149,
+    "wof:lastmodified":1536281812,
+    "wof:name":"Gabo Guinde",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.39476,
+    11.74777,
+    3.39476,
+    11.74777
+],
+  "geometry": {"coordinates":[3.39476,11.74777],"type":"Point"}
+}

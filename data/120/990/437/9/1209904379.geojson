@@ -1,0 +1,72 @@
+{
+  "id": 1209904379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2724,7.98022,2.2724,7.98022",
+    "geom:latitude":7.98022,
+    "geom:longitude":2.2724,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Agouagon",
+    "gn:country_code":"BJ",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395753,
+    "gn:latitude":7.98022,
+    "gn:longitude":2.2724,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Agouagon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agwagon",
+        "Agouagou",
+        "Agouagon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395753
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"4c8c781e9b55aaeebb7be4bb172d4041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758945,
+            "locality_id":1209904379,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1209904379,
+    "wof:lastmodified":1537587887,
+    "wof:name":"Agouagon",
+    "wof:parent_id":1108758945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2724,
+    7.98022,
+    2.2724,
+    7.98022
+],
+  "geometry": {"coordinates":[2.2724,7.98022],"type":"Point"}
+}

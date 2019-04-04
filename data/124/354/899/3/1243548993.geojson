@@ -1,0 +1,76 @@
+{
+  "id": 1243548993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.40193,6.49245,2.40193,6.49245",
+    "geom:latitude":6.49245,
+    "geom:longitude":2.40193,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7874154.0",
+    "gn:admin3_code":"11837720.0",
+    "gn:asciiname":"So-Ava",
+    "gn:country_code":"BJ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":2391699,
+    "gn:latitude":6.49245,
+    "gn:longitude":2.40193,
+    "gn:modification_date":"2018-04-10",
+    "gn:name":"So-Ava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f4 Avo",
+        "S\u00f4-Ava",
+        "So",
+        "So-Awa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        1108758891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391699,
+        "wk:page":"S%C3%B4-Ava"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6d6848b7494f8adfd27b492823c37ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758891,
+            "locality_id":1243548993,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1243548993,
+    "wof:lastmodified":1537587848,
+    "wof:name":"So-Ava",
+    "wof:parent_id":1108758891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.40193,
+    6.49245,
+    2.40193,
+    6.49245
+],
+  "geometry": {"coordinates":[2.40193,6.49245],"type":"Point"}
+}

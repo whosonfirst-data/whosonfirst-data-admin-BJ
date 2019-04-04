@@ -1,0 +1,67 @@
+{
+  "id": 1293072497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73468,7.07417,2.73468,7.07417",
+    "geom:latitude":7.07417,
+    "geom:longitude":2.73468,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Illemon",
+    "gn:country_code":"BJ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393812,
+    "gn:latitude":7.07417,
+    "gn:longitude":2.73468,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ill\u00e9mon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393812
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"40ee79c9e46201b493a0243ec3434e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758855,
+            "locality_id":1293072497,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1293072497,
+    "wof:lastmodified":1536888051,
+    "wof:name":"Illemon",
+    "wof:parent_id":1108758855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73468,
+    7.07417,
+    2.73468,
+    7.07417
+],
+  "geometry": {"coordinates":[2.73468,7.07417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293255777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.75,7.45,2.75,7.45",
+    "geom:latitude":7.45,
+    "geom:longitude":2.75,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Illikimou",
+    "gn:country_code":"BJ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393811,
+    "gn:latitude":7.45,
+    "gn:longitude":2.75,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Illikimou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393811
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e6be919773c6fda494df74222ce79834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758853,
+            "locality_id":1293255777,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1293255777,
+    "wof:lastmodified":1536622094,
+    "wof:name":"Illikimou",
+    "wof:parent_id":1108758853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.75,
+    7.45,
+    2.75,
+    7.45
+],
+  "geometry": {"coordinates":[2.75,7.45],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209509719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2293,11.20449,2.2293,11.20449",
+    "geom:latitude":11.20449,
+    "geom:longitude":2.2293,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mahebagou",
+    "gn:country_code":"BJ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392842,
+    "gn:latitude":11.20449,
+    "gn:longitude":2.2293,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Mah\u00e9bagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392842
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a28f57e52cec6b1f871b5d0b24006165",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209509719
+        }
+    ],
+    "wof:id":1209509719,
+    "wof:lastmodified":1536284921,
+    "wof:name":"Mahebagou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2293,
+    11.20449,
+    2.2293,
+    11.20449
+],
+  "geometry": {"coordinates":[2.2293,11.20449],"type":"Point"}
+}

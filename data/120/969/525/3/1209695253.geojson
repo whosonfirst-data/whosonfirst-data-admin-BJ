@@ -1,0 +1,62 @@
+{
+  "id": 1209695253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.64465,8.77431,1.64465,8.77431",
+    "geom:latitude":8.77431,
+    "geom:longitude":1.64465,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Biguina",
+    "gn:country_code":"BJ",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395107,
+    "gn:latitude":8.77431,
+    "gn:longitude":1.64465,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Biguina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395107,
+        "wk:page":"Biguina"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"91bab3d4b40d3cad5a11c739f71255c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209695253
+        }
+    ],
+    "wof:id":1209695253,
+    "wof:lastmodified":1537487846,
+    "wof:name":"Biguina",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.64465,
+    8.77431,
+    1.64465,
+    8.77431
+],
+  "geometry": {"coordinates":[1.64465,8.77431],"type":"Point"}
+}

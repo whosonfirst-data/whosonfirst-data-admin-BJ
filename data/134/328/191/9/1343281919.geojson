@@ -1,0 +1,67 @@
+{
+  "id": 1343281919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.09173,10.24179,2.09173,10.24179",
+    "geom:latitude":10.24179,
+    "geom:longitude":2.09173,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Wassamorou",
+    "gn:country_code":"BJ",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390948,
+    "gn:latitude":10.24179,
+    "gn:longitude":2.09173,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Wassamorou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390948
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ccb489fa928517f869737d345131de85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758867,
+            "locality_id":1343281919,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1343281919,
+    "wof:lastmodified":1537003235,
+    "wof:name":"Wassamorou",
+    "wof:parent_id":1108758867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.09173,
+    10.24179,
+    2.09173,
+    10.24179
+],
+  "geometry": {"coordinates":[2.09173,10.24179],"type":"Point"}
+}

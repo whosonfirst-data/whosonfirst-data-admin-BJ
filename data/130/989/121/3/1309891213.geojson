@@ -1,0 +1,67 @@
+{
+  "id": 1309891213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66667,9.7,1.66667,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":1.66667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Djougou I",
+    "gn:country_code":"BJ",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942342,
+    "gn:latitude":9.7,
+    "gn:longitude":1.66667,
+    "gn:modification_date":"2015-11-22",
+    "gn:name":"Djougou I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942342
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"15b979ea2430cffbea152f632623de38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1309891213,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1309891213,
+    "wof:lastmodified":1536807742,
+    "wof:name":"Djougou I",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66667,
+    9.7,
+    1.66667,
+    9.7
+],
+  "geometry": {"coordinates":[1.66667,9.7],"type":"Point"}
+}

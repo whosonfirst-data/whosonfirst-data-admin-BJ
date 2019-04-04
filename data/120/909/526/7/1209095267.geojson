@@ -1,0 +1,61 @@
+{
+  "id": 1209095267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.48434,9.813,2.48434,9.813",
+    "geom:latitude":9.813,
+    "geom:longitude":2.48434,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Souarou",
+    "gn:country_code":"BJ",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391590,
+    "gn:latitude":9.813,
+    "gn:longitude":2.48434,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Souarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391590
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1c54535bba30103422c21bb51cd6e44f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209095267
+        }
+    ],
+    "wof:id":1209095267,
+    "wof:lastmodified":1536297907,
+    "wof:name":"Souarou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.48434,
+    9.813,
+    2.48434,
+    9.813
+],
+  "geometry": {"coordinates":[2.48434,9.813],"type":"Point"}
+}

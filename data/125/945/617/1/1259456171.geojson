@@ -1,0 +1,67 @@
+{
+  "id": 1259456171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83333,6.61667,1.83333,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":1.83333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Locohoui",
+    "gn:country_code":"BJ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392904,
+    "gn:latitude":6.61667,
+    "gn:longitude":1.83333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Locohoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        1108758899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392904
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"66f68099f52fc2b3a65d18f64a670801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758899,
+            "locality_id":1259456171,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1259456171,
+    "wof:lastmodified":1536898045,
+    "wof:name":"Locohoui",
+    "wof:parent_id":1108758899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83333,
+    6.61667,
+    1.83333,
+    6.61667
+],
+  "geometry": {"coordinates":[1.83333,6.61667],"type":"Point"}
+}

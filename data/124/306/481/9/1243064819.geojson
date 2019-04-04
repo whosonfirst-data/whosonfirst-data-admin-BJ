@@ -1,0 +1,67 @@
+{
+  "id": 1243064819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01673,10.66741,1.01673,10.66741",
+    "geom:latitude":10.66741,
+    "geom:longitude":1.01673,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Titonzi-Kaouta",
+    "gn:country_code":"BJ",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391179,
+    "gn:latitude":10.66741,
+    "gn:longitude":1.01673,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Titonzi-Kaouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391179
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6bcd90639b97aa0dfff89f1e9ed970fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1243064819,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1243064819,
+    "wof:lastmodified":1536857463,
+    "wof:name":"Titonzi-Kaouta",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01673,
+    10.66741,
+    1.01673,
+    10.66741
+],
+  "geometry": {"coordinates":[1.01673,10.66741],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260268397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33312,11.36552,3.33312,11.36552",
+    "geom:latitude":11.36552,
+    "geom:longitude":3.33312,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lonko",
+    "gn:country_code":"BJ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392885,
+    "gn:latitude":11.36552,
+    "gn:longitude":3.33312,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Lonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392885
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0c2155d6580ce48ebd463fa05fa51c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758957,
+            "locality_id":1260268397,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1260268397,
+    "wof:lastmodified":1536732404,
+    "wof:name":"Lonko",
+    "wof:parent_id":1108758957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33312,
+    11.36552,
+    3.33312,
+    11.36552
+],
+  "geometry": {"coordinates":[3.33312,11.36552],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209091807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.74829,10.41006,1.74829,10.41006",
+    "geom:latitude":10.41006,
+    "geom:longitude":1.74829,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Worou Sanou",
+    "gn:country_code":"BJ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390875,
+    "gn:latitude":10.41006,
+    "gn:longitude":1.74829,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Worou Sanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390875
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"71450660216249b6d682cef2a96fdeef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209091807
+        }
+    ],
+    "wof:id":1209091807,
+    "wof:lastmodified":1536298013,
+    "wof:name":"Worou Sanou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.74829,
+    10.41006,
+    1.74829,
+    10.41006
+],
+  "geometry": {"coordinates":[1.74829,10.41006],"type":"Point"}
+}

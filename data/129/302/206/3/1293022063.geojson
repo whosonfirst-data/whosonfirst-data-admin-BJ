@@ -1,0 +1,74 @@
+{
+  "id": 1293022063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.79949,10.68895,3.79949,10.68895",
+    "geom:latitude":10.68895,
+    "geom:longitude":3.79949,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koute",
+    "gn:country_code":"BJ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393108,
+    "gn:latitude":10.68895,
+    "gn:longitude":3.79949,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kout\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kude",
+        "Kiure",
+        "Kiour\u00e9",
+        "Koute",
+        "Kout\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393108
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"30861c1eac22f9bd4410fa0d76e02d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1293022063,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293022063,
+    "wof:lastmodified":1537587861,
+    "wof:name":"Koute",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.79949,
+    10.68895,
+    3.79949,
+    10.68895
+],
+  "geometry": {"coordinates":[3.79949,10.68895],"type":"Point"}
+}

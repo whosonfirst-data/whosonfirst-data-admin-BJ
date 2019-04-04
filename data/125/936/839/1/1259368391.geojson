@@ -1,0 +1,67 @@
+{
+  "id": 1259368391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39209,10.02102,1.39209,10.02102",
+    "geom:latitude":10.02102,
+    "geom:longitude":1.39209,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kakou",
+    "gn:country_code":"BJ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393731,
+    "gn:latitude":10.02102,
+    "gn:longitude":1.39209,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393731
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3a436f2644f7f7ce1634725f0212242e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1259368391,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1259368391,
+    "wof:lastmodified":1537023001,
+    "wof:name":"Kakou",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39209,
+    10.02102,
+    1.39209,
+    10.02102
+],
+  "geometry": {"coordinates":[1.39209,10.02102],"type":"Point"}
+}

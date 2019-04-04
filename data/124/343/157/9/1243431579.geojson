@@ -1,0 +1,74 @@
+{
+  "id": 1243431579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.92149,7.0301,1.92149,7.0301",
+    "geom:latitude":7.0301,
+    "geom:longitude":1.92149,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"10344474.0",
+    "gn:admin3_code":"11790191.0",
+    "gn:asciiname":"Ahogbeya",
+    "gn:country_code":"BJ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395724,
+    "gn:latitude":7.0301,
+    "gn:longitude":1.92149,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Ahogbeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahogb\u00e9ia",
+        "Ahogbeya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395724,
+        "wk:page":"Ahogb%C3%A8ya"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cd50fca47492fc8aab1137ea3230e088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758883,
+            "locality_id":1243431579,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1243431579,
+    "wof:lastmodified":1537587886,
+    "wof:name":"Ahogbeya",
+    "wof:parent_id":1108758883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.92149,
+    7.0301,
+    1.92149,
+    7.0301
+],
+  "geometry": {"coordinates":[1.92149,7.0301],"type":"Point"}
+}

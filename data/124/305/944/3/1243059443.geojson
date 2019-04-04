@@ -1,0 +1,67 @@
+{
+  "id": 1243059443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.91398,11.15377,2.91398,11.15377",
+    "geom:latitude":11.15377,
+    "geom:longitude":2.91398,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goubou",
+    "gn:country_code":"BJ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394016,
+    "gn:latitude":11.15377,
+    "gn:longitude":2.91398,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Goubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394016
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"96dcab27ec2018299cbaefbd1639ba22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758975,
+            "locality_id":1243059443,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1243059443,
+    "wof:lastmodified":1536865146,
+    "wof:name":"Goubou",
+    "wof:parent_id":1108758975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.91398,
+    11.15377,
+    2.91398,
+    11.15377
+],
+  "geometry": {"coordinates":[2.91398,11.15377],"type":"Point"}
+}

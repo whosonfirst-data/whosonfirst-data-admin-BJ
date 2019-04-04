@@ -1,0 +1,67 @@
+{
+  "id": 1309693519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.77535,8.06841,1.77535,8.06841",
+    "geom:latitude":8.06841,
+    "geom:longitude":1.77535,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Amou",
+    "gn:country_code":"BJ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395607,
+    "gn:latitude":8.06841,
+    "gn:longitude":1.77535,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Amou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395607
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"dcc03dd5bdb139f8d6d49f3d9a32de0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758841,
+            "locality_id":1309693519,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1309693519,
+    "wof:lastmodified":1537089832,
+    "wof:name":"Amou",
+    "wof:parent_id":1108758841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.77535,
+    8.06841,
+    1.77535,
+    8.06841
+],
+  "geometry": {"coordinates":[1.77535,8.06841],"type":"Point"}
+}

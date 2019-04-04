@@ -1,0 +1,67 @@
+{
+  "id": 1310326203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.76243,10.78101,2.76243,10.78101",
+    "geom:latitude":10.78101,
+    "geom:longitude":2.76243,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gando",
+    "gn:country_code":"BJ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394261,
+    "gn:latitude":10.78101,
+    "gn:longitude":2.76243,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394261
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"74ebdc84c2af44d6c02257a07aa6cc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1310326203,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1310326203,
+    "wof:lastmodified":1536678144,
+    "wof:name":"Gando",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.76243,
+    10.78101,
+    2.76243,
+    10.78101
+],
+  "geometry": {"coordinates":[2.76243,10.78101],"type":"Point"}
+}

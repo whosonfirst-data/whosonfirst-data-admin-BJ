@@ -1,0 +1,67 @@
+{
+  "id": 1260066539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48266,9.96098,1.48266,9.96098",
+    "geom:latitude":9.96098,
+    "geom:longitude":1.48266,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kankoulrha-Neumrhou",
+    "gn:country_code":"BJ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393670,
+    "gn:latitude":9.96098,
+    "gn:longitude":1.48266,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kankoulrha-Neumrhou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393670
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"eaab385f252e1913af09e24a1f0b17bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758985,
+            "locality_id":1260066539,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1260066539,
+    "wof:lastmodified":1537011736,
+    "wof:name":"Kankoulrha-Neumrhou",
+    "wof:parent_id":1108758985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48266,
+    9.96098,
+    1.48266,
+    9.96098
+],
+  "geometry": {"coordinates":[1.48266,9.96098],"type":"Point"}
+}

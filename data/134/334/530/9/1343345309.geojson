@@ -1,0 +1,76 @@
+{
+  "id": 1343345309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.64293,9.58901,2.64293,9.58901",
+    "geom:latitude":9.58901,
+    "geom:longitude":2.64293,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"7669269.0",
+    "gn:admin3_code":"11790205.0",
+    "gn:asciiname":"Serarou",
+    "gn:country_code":"BJ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391717,
+    "gn:latitude":9.58901,
+    "gn:longitude":2.64293,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"S\u00e9rarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seraru",
+        "S\u00e9narou",
+        "Sirarou",
+        "S\u00e9rarou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391717,
+        "wk:page":"Sirarou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d6a6c821364764ac580fae9facb3c247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758877,
+            "locality_id":1343345309,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1343345309,
+    "wof:lastmodified":1537587848,
+    "wof:name":"Serarou",
+    "wof:parent_id":1108758877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.64293,
+    9.58901,
+    2.64293,
+    9.58901
+],
+  "geometry": {"coordinates":[2.64293,9.58901],"type":"Point"}
+}

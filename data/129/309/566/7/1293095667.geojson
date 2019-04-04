@@ -1,0 +1,67 @@
+{
+  "id": 1293095667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.46771,11.36936,2.46771,11.36936",
+    "geom:latitude":11.36936,
+    "geom:longitude":2.46771,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bouhennrou",
+    "gn:country_code":"BJ",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394930,
+    "gn:latitude":11.36936,
+    "gn:longitude":2.46771,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Bouhennrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394930
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c2003e48ff85dd6c4b0ebc18e7ddeacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1293095667,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293095667,
+    "wof:lastmodified":1536853875,
+    "wof:name":"Bouhennrou",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.46771,
+    11.36936,
+    2.46771,
+    11.36936
+],
+  "geometry": {"coordinates":[2.46771,11.36936],"type":"Point"}
+}

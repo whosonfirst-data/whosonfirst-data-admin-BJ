@@ -1,0 +1,70 @@
+{
+  "id": 1343943409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.4368,10.12554,1.4368,10.12554",
+    "geom:latitude":10.12554,
+    "geom:longitude":1.4368,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7669273.0",
+    "gn:admin3_code":"11789886.0",
+    "gn:asciiname":"Perma",
+    "gn:country_code":"BJ",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392133,
+    "gn:latitude":10.12554,
+    "gn:longitude":1.4368,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Perma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392133,
+        "wk:page":"Perma_%28Benin%29"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"edd90c886f8eb1bda9206a66ba1f9118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1343943409,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1343943409,
+    "wof:lastmodified":1537487831,
+    "wof:name":"Perma",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4368,
+    10.12554,
+    1.4368,
+    10.12554
+],
+  "geometry": {"coordinates":[1.4368,10.12554],"type":"Point"}
+}

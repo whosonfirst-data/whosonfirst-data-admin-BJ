@@ -1,0 +1,61 @@
+{
+  "id": 1209208939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5563,10.39364,2.5563,10.39364",
+    "geom:latitude":10.39364,
+    "geom:longitude":2.5563,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Niandi",
+    "gn:country_code":"BJ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392556,
+    "gn:latitude":10.39364,
+    "gn:longitude":2.5563,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Niandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392556
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a5d1e688b941b6a4fff0843f1673bf3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209208939
+        }
+    ],
+    "wof:id":1209208939,
+    "wof:lastmodified":1536294355,
+    "wof:name":"Niandi",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5563,
+    10.39364,
+    2.5563,
+    10.39364
+],
+  "geometry": {"coordinates":[2.5563,10.39364],"type":"Point"}
+}

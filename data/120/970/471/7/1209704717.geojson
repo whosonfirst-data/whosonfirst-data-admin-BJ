@@ -1,0 +1,71 @@
+{
+  "id": 1209704717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.57862,9.31054,2.57862,9.31054",
+    "geom:latitude":9.31054,
+    "geom:longitude":2.57862,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Koumerou",
+    "gn:country_code":"BJ",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393195,
+    "gn:latitude":9.31054,
+    "gn:longitude":2.57862,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Koum\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koum\u00e9rou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393195,
+        "wk:page":"Koumerou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1a4102360c8f53ef05af758ec435cc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758983,
+            "locality_id":1209704717,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1209704717,
+    "wof:lastmodified":1537587861,
+    "wof:name":"Koumerou",
+    "wof:parent_id":1108758983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.57862,
+    9.31054,
+    2.57862,
+    9.31054
+],
+  "geometry": {"coordinates":[2.57862,9.31054],"type":"Point"}
+}

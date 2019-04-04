@@ -1,0 +1,61 @@
+{
+  "id": 1209400243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.72192,10.41037,1.72192,10.41037",
+    "geom:latitude":10.41037,
+    "geom:longitude":1.72192,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Derou",
+    "gn:country_code":"BJ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394656,
+    "gn:latitude":10.41037,
+    "gn:longitude":1.72192,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"D\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394656
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"954161ab4c26f3f340404d3dd4a41dd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209400243
+        }
+    ],
+    "wof:id":1209400243,
+    "wof:lastmodified":1536288171,
+    "wof:name":"Derou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.72192,
+    10.41037,
+    1.72192,
+    10.41037
+],
+  "geometry": {"coordinates":[1.72192,10.41037],"type":"Point"}
+}

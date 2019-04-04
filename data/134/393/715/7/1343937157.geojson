@@ -1,0 +1,67 @@
+{
+  "id": 1343937157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.76093,9.8366,1.76093,9.8366",
+    "geom:latitude":9.8366,
+    "geom:longitude":1.76093,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tigaperou",
+    "gn:country_code":"BJ",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391237,
+    "gn:latitude":9.8366,
+    "gn:longitude":1.76093,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tigap\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391237
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"da0f480f2d2e5b6f2a0f7386d6de71da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1343937157,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1343937157,
+    "wof:lastmodified":1537051518,
+    "wof:name":"Tigaperou",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.76093,
+    9.8366,
+    1.76093,
+    9.8366
+],
+  "geometry": {"coordinates":[1.76093,9.8366],"type":"Point"}
+}

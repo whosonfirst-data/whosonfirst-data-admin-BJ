@@ -1,0 +1,70 @@
+{
+  "id": 1360063389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.23564,7.86887,2.23564,7.86887",
+    "geom:latitude":7.86887,
+    "geom:longitude":2.23564,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7874167.0",
+    "gn:admin3_code":"11789969.0",
+    "gn:asciiname":"Sokponta",
+    "gn:country_code":"BJ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391665,
+    "gn:latitude":7.86887,
+    "gn:longitude":2.23564,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Sokponta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391665,
+        "wk:page":"Sokponta"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a805680357db06d477e8cec077121706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758945,
+            "locality_id":1360063389,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1360063389,
+    "wof:lastmodified":1537487829,
+    "wof:name":"Sokponta",
+    "wof:parent_id":1108758945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.23564,
+    7.86887,
+    2.23564,
+    7.86887
+],
+  "geometry": {"coordinates":[2.23564,7.86887],"type":"Point"}
+}

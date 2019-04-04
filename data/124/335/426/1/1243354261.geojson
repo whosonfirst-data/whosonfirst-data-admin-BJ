@@ -1,0 +1,67 @@
+{
+  "id": 1243354261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.52554,11.0561,3.52554,11.0561",
+    "geom:latitude":11.0561,
+    "geom:longitude":3.52554,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Belebelena",
+    "gn:country_code":"BJ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395190,
+    "gn:latitude":11.0561,
+    "gn:longitude":3.52554,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"B\u00e9l\u00e9b\u00e9l\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395190
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3064914db04d33f290154c9e14590c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1243354261,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1243354261,
+    "wof:lastmodified":1536939224,
+    "wof:name":"Belebelena",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.52554,
+    11.0561,
+    3.52554,
+    11.0561
+],
+  "geometry": {"coordinates":[3.52554,11.0561],"type":"Point"}
+}

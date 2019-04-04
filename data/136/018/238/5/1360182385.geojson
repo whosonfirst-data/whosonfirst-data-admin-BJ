@@ -1,0 +1,73 @@
+{
+  "id": 1360182385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.89386,10.47635,0.89386,10.47635",
+    "geom:latitude":10.47635,
+    "geom:longitude":0.89386,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nanagre",
+    "gn:country_code":"BJ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392637,
+    "gn:latitude":10.47635,
+    "gn:longitude":0.89386,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Nanagr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanorl\u00e9",
+        "Nanarle",
+        "Nonarl\u00e9",
+        "Nanagr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392637
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"306b8d80db7a62e7a47567fce041ed15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758869,
+            "locality_id":1360182385,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1360182385,
+    "wof:lastmodified":1537587857,
+    "wof:name":"Nanagre",
+    "wof:parent_id":1108758869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.89386,
+    10.47635,
+    0.89386,
+    10.47635
+],
+  "geometry": {"coordinates":[0.89386,10.47635],"type":"Point"}
+}

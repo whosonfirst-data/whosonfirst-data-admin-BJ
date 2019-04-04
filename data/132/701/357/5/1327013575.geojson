@@ -1,0 +1,68 @@
+{
+  "id": 1327013575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.60672,9.24879,2.60672,9.24879",
+    "geom:latitude":9.24879,
+    "geom:longitude":2.60672,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gouforou",
+    "gn:country_code":"BJ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394011,
+    "gn:latitude":9.24879,
+    "gn:longitude":2.60672,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gouforou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394011,
+        "wk:page":"Gouforou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6207591edb93151153a9cc9e720b2b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758983,
+            "locality_id":1327013575,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1327013575,
+    "wof:lastmodified":1537487840,
+    "wof:name":"Gouforou",
+    "wof:parent_id":1108758983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.60672,
+    9.24879,
+    2.60672,
+    9.24879
+],
+  "geometry": {"coordinates":[2.60672,9.24879],"type":"Point"}
+}

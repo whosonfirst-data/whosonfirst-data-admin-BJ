@@ -1,0 +1,67 @@
+{
+  "id": 1243549859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.45,10.35,1.45,10.35",
+    "geom:latitude":10.35,
+    "geom:longitude":1.45,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tiori",
+    "gn:country_code":"BJ",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391193,
+    "gn:latitude":10.35,
+    "gn:longitude":1.45,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tiori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391193
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d667a10c7e893822cd07e120d3d83a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1243549859,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1243549859,
+    "wof:lastmodified":1536656646,
+    "wof:name":"Tiori",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.45,
+    10.35,
+    1.45,
+    10.35
+],
+  "geometry": {"coordinates":[1.45,10.35],"type":"Point"}
+}

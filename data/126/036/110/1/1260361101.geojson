@@ -1,0 +1,67 @@
+{
+  "id": 1260361101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73086,6.61414,2.73086,6.61414",
+    "geom:latitude":6.61414,
+    "geom:longitude":2.73086,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ko-Koumolou",
+    "gn:country_code":"BJ",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398144,
+    "gn:latitude":6.61414,
+    "gn:longitude":2.73086,
+    "gn:modification_date":"2016-12-31",
+    "gn:name":"Ko-Koumolou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398144
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d9abec8efd1e2b3b71509520d634e5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758851,
+            "locality_id":1260361101,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1260361101,
+    "wof:lastmodified":1536605018,
+    "wof:name":"Ko-Koumolou",
+    "wof:parent_id":1108758851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73086,
+    6.61414,
+    2.73086,
+    6.61414
+],
+  "geometry": {"coordinates":[2.73086,6.61414],"type":"Point"}
+}

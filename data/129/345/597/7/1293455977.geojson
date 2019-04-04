@@ -1,0 +1,67 @@
+{
+  "id": 1293455977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.9,7.26667,1.9,7.26667",
+    "geom:latitude":7.26667,
+    "geom:longitude":1.9,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Assankanme",
+    "gn:country_code":"BJ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395543,
+    "gn:latitude":7.26667,
+    "gn:longitude":1.9,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Assankanm\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395543
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"023455ed92d4a676a26a86b3d5a67fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1293455977,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1293455977,
+    "wof:lastmodified":1536831650,
+    "wof:name":"Assankanme",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9,
+    7.26667,
+    1.9,
+    7.26667
+],
+  "geometry": {"coordinates":[1.9,7.26667],"type":"Point"}
+}

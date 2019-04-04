@@ -1,0 +1,77 @@
+{
+  "id": 1293860257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.54973,9.24064,1.54973,9.24064",
+    "geom:latitude":9.24064,
+    "geom:longitude":1.54973,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"10344470.0",
+    "gn:admin3_code":"11789982.0",
+    "gn:asciiname":"Penessoulou",
+    "gn:country_code":"BJ",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392150,
+    "gn:latitude":9.24064,
+    "gn:longitude":1.54973,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"P\u00e9n\u00e9ssoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Penesolu",
+        "P\u00e9messoulou",
+        "P\u00e9n\u00e9soulou",
+        "Penesulu",
+        "P\u00e9n\u00e9ssoulou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392150,
+        "wk:page":"P%C3%A9n%C3%A9ssoulou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3c1522a2db35e942176dd84b05fa6e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1293860257,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1293860257,
+    "wof:lastmodified":1537587852,
+    "wof:name":"Penessoulou",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.54973,
+    9.24064,
+    1.54973,
+    9.24064
+],
+  "geometry": {"coordinates":[1.54973,9.24064],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243351663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.9707,8.14323,1.9707,8.14323",
+    "geom:latitude":8.14323,
+    "geom:longitude":1.9707,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Adjigo",
+    "gn:country_code":"BJ",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395864,
+    "gn:latitude":8.14323,
+    "gn:longitude":1.9707,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Adjigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395864
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ba4380d98071e276fab323d3d92c0aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758839,
+            "locality_id":1243351663,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1243351663,
+    "wof:lastmodified":1536942801,
+    "wof:name":"Adjigo",
+    "wof:parent_id":1108758839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9707,
+    8.14323,
+    1.9707,
+    8.14323
+],
+  "geometry": {"coordinates":[1.9707,8.14323],"type":"Point"}
+}

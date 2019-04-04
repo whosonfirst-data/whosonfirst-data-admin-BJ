@@ -1,0 +1,71 @@
+{
+  "id": 1259478749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41207,10.48767,1.41207,10.48767",
+    "geom:latitude":10.48767,
+    "geom:longitude":1.41207,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fotire",
+    "gn:country_code":"BJ",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394336,
+    "gn:latitude":10.48767,
+    "gn:longitude":1.41207,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Fotir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fotid\u00e9",
+        "Fotir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394336
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b9a0e95250ac6219084919253797177a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":1259478749,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1259478749,
+    "wof:lastmodified":1537587871,
+    "wof:name":"Fotire",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41207,
+    10.48767,
+    1.41207,
+    10.48767
+],
+  "geometry": {"coordinates":[1.41207,10.48767],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310697397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.14121,10.81339,1.14121,10.81339",
+    "geom:latitude":10.81339,
+    "geom:longitude":1.14121,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7874158.0",
+    "gn:admin3_code":"11789895.0",
+    "gn:asciiname":"Dassari",
+    "gn:country_code":"BJ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394714,
+    "gn:latitude":10.81339,
+    "gn:longitude":1.14121,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Dassari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dassori",
+        "Dassari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394714,
+        "wk:page":"Dassari%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"5cefa7ad1a686b4be03c5f13954763b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1310697397,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1310697397,
+    "wof:lastmodified":1537587875,
+    "wof:name":"Dassari",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.14121,
+    10.81339,
+    1.14121,
+    10.81339
+],
+  "geometry": {"coordinates":[1.14121,10.81339],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310200553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.60672,9.36592,2.60672,9.36592",
+    "geom:latitude":9.36592,
+    "geom:longitude":2.60672,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Wansirou",
+    "gn:country_code":"BJ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390973,
+    "gn:latitude":9.36592,
+    "gn:longitude":2.60672,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Wansirou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390973,
+        "wk:page":"Wansirou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c9f881684b0c20f610e43ef98f60d784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758983,
+            "locality_id":1310200553,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1310200553,
+    "wof:lastmodified":1537487826,
+    "wof:name":"Wansirou",
+    "wof:parent_id":1108758983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.60672,
+    9.36592,
+    2.60672,
+    9.36592
+],
+  "geometry": {"coordinates":[2.60672,9.36592],"type":"Point"}
+}

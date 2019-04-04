@@ -1,0 +1,71 @@
+{
+  "id": 1293565529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.64743,9.94578,1.64743,9.94578",
+    "geom:latitude":9.94578,
+    "geom:longitude":1.64743,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sanyerangou",
+    "gn:country_code":"BJ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391930,
+    "gn:latitude":9.94578,
+    "gn:longitude":1.64743,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Sany\u00e8rangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panelra",
+        "Sany\u00e8rangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391930
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f540f977eb0bdded6289d41e638395e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1293565529,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1293565529,
+    "wof:lastmodified":1537587850,
+    "wof:name":"Sanyerangou",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.64743,
+    9.94578,
+    1.64743,
+    9.94578
+],
+  "geometry": {"coordinates":[1.64743,9.94578],"type":"Point"}
+}

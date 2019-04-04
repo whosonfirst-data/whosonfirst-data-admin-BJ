@@ -1,0 +1,72 @@
+{
+  "id": 1309995575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.23333,6.38333,2.23333,6.38333",
+    "geom:latitude":6.38333,
+    "geom:longitude":2.23333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zougodo",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390715,
+    "gn:latitude":6.38333,
+    "gn:longitude":2.23333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Zougodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zougoudo",
+        "Zougodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421186271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390715
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"967ebd49bd90111a386e2bac39448466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421186271,
+            "locality_id":1309995575,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1309995575,
+    "wof:lastmodified":1537587839,
+    "wof:name":"Zougodo",
+    "wof:parent_id":421186271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.23333,
+    6.38333,
+    2.23333,
+    6.38333
+],
+  "geometry": {"coordinates":[2.23333,6.38333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327120579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.93198,9.67988,1.93198,9.67988",
+    "geom:latitude":9.67988,
+    "geom:longitude":1.93198,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gogorofiyenga",
+    "gn:country_code":"BJ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394085,
+    "gn:latitude":9.67988,
+    "gn:longitude":1.93198,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gogorofiyenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394085
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b9aa071213ae4c2b1b41e47ee4aa6c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1327120579,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1327120579,
+    "wof:lastmodified":1536631707,
+    "wof:name":"Gogorofiyenga",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.93198,
+    9.67988,
+    1.93198,
+    9.67988
+],
+  "geometry": {"coordinates":[1.93198,9.67988],"type":"Point"}
+}

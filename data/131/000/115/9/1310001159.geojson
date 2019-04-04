@@ -1,0 +1,67 @@
+{
+  "id": 1310001159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6017,8.77429,2.6017,8.77429",
+    "geom:latitude":8.77429,
+    "geom:longitude":2.6017,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Odoakaba",
+    "gn:country_code":"BJ",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392453,
+    "gn:latitude":8.77429,
+    "gn:longitude":2.6017,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Odoakaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392453
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e9d3fe39339cb4f6f51af4ec244d59c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758837,
+            "locality_id":1310001159,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1310001159,
+    "wof:lastmodified":1536649313,
+    "wof:name":"Odoakaba",
+    "wof:parent_id":1108758837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6017,
+    8.77429,
+    2.6017,
+    8.77429
+],
+  "geometry": {"coordinates":[2.6017,8.77429],"type":"Point"}
+}

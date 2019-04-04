@@ -1,0 +1,67 @@
+{
+  "id": 1343650643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.47186,10.51312,2.47186,10.51312",
+    "geom:latitude":10.51312,
+    "geom:longitude":2.47186,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yarra",
+    "gn:country_code":"BJ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390814,
+    "gn:latitude":10.51312,
+    "gn:longitude":2.47186,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Yarra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390814
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0af55a7b7cd53d15b5b9e6315c9682d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758973,
+            "locality_id":1343650643,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1343650643,
+    "wof:lastmodified":1536968937,
+    "wof:name":"Yarra",
+    "wof:parent_id":1108758973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.47186,
+    10.51312,
+    2.47186,
+    10.51312
+],
+  "geometry": {"coordinates":[2.47186,10.51312],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326551385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.85093,10.89757,2.85093,10.89757",
+    "geom:latitude":10.89757,
+    "geom:longitude":2.85093,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Soude",
+    "gn:country_code":"BJ",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391582,
+    "gn:latitude":10.89757,
+    "gn:longitude":2.85093,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Soud\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391582
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a70fe7eda4ad355cb8ef045491b6f44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1326551385,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1326551385,
+    "wof:lastmodified":1536956490,
+    "wof:name":"Soude",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.85093,
+    10.89757,
+    2.85093,
+    10.89757
+],
+  "geometry": {"coordinates":[2.85093,10.89757],"type":"Point"}
+}

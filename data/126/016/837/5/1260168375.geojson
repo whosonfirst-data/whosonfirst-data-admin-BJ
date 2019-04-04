@@ -1,0 +1,67 @@
+{
+  "id": 1260168375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.81667,7.21667,1.81667,7.21667",
+    "geom:latitude":7.21667,
+    "geom:longitude":1.81667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Levourhoe",
+    "gn:country_code":"BJ",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392928,
+    "gn:latitude":7.21667,
+    "gn:longitude":1.81667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"L\u00e9vourho\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392928
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e4503a7a4d206573dd44e82a22e8375a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758845,
+            "locality_id":1260168375,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1260168375,
+    "wof:lastmodified":1536867524,
+    "wof:name":"Levourhoe",
+    "wof:parent_id":1108758845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.81667,
+    7.21667,
+    1.81667,
+    7.21667
+],
+  "geometry": {"coordinates":[1.81667,7.21667],"type":"Point"}
+}

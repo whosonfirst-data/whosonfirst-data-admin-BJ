@@ -1,0 +1,67 @@
+{
+  "id": 1327125039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.04452,10.34168,2.04452,10.34168",
+    "geom:latitude":10.34168,
+    "geom:longitude":2.04452,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Souroubora",
+    "gn:country_code":"BJ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391556,
+    "gn:latitude":10.34168,
+    "gn:longitude":2.04452,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Souroubora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391556
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"23d2bf39e5679e3b4a6c9c4cb84c0df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758867,
+            "locality_id":1327125039,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1327125039,
+    "wof:lastmodified":1536624793,
+    "wof:name":"Souroubora",
+    "wof:parent_id":1108758867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.04452,
+    10.34168,
+    2.04452,
+    10.34168
+],
+  "geometry": {"coordinates":[2.04452,10.34168],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310202139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.14892,10.12773,1.14892,10.12773",
+    "geom:latitude":10.12773,
+    "geom:longitude":1.14892,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koudan-Mangou",
+    "gn:country_code":"BJ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393265,
+    "gn:latitude":10.12773,
+    "gn:longitude":1.14892,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Koudan-Mangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393265
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"7f09d002021c4190aae62711cefb2f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758859,
+            "locality_id":1310202139,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1310202139,
+    "wof:lastmodified":1536855954,
+    "wof:name":"Koudan-Mangou",
+    "wof:parent_id":1108758859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.14892,
+    10.12773,
+    1.14892,
+    10.12773
+],
+  "geometry": {"coordinates":[1.14892,10.12773],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259569477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.65006,8.83356,1.65006,8.83356",
+    "geom:latitude":8.83356,
+    "geom:longitude":1.65006,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aworo",
+    "gn:country_code":"BJ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395469,
+    "gn:latitude":8.83356,
+    "gn:longitude":1.65006,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Aworo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395469,
+        "wk:page":"Aworo"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9ca0f683a0056be2ea6b309e6bf609c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1259569477,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1259569477,
+    "wof:lastmodified":1537487848,
+    "wof:name":"Aworo",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.65006,
+    8.83356,
+    1.65006,
+    8.83356
+],
+  "geometry": {"coordinates":[1.65006,8.83356],"type":"Point"}
+}

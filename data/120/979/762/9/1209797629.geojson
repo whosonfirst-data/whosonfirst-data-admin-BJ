@@ -1,0 +1,71 @@
+{
+  "id": 1209797629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.54405,6.68435,2.54405,6.68435",
+    "geom:latitude":6.68435,
+    "geom:longitude":2.54405,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gbekendji",
+    "gn:country_code":"BJ",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394162,
+    "gn:latitude":6.68435,
+    "gn:longitude":2.54405,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gb\u00e9kendji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bekandji",
+        "Gb\u00e9kendji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394162
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"7aa6bbd404ea3c353cbd43b940e090d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758901,
+            "locality_id":1209797629,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1209797629,
+    "wof:lastmodified":1537587870,
+    "wof:name":"Gbekendji",
+    "wof:parent_id":1108758901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.54405,
+    6.68435,
+    2.54405,
+    6.68435
+],
+  "geometry": {"coordinates":[2.54405,6.68435],"type":"Point"}
+}

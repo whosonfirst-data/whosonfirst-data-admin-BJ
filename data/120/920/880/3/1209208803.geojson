@@ -1,0 +1,65 @@
+{
+  "id": 1209208803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.60398,9.2725,2.60398,9.2725",
+    "geom:latitude":9.2725,
+    "geom:longitude":2.60398,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nekinparo",
+    "gn:country_code":"BJ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392589,
+    "gn:latitude":9.2725,
+    "gn:longitude":2.60398,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"N\u00e9kinparo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9kinparo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392589,
+        "wk:page":"Nekinparo"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ab5a39268d4a668caf017058e0746851",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209208803
+        }
+    ],
+    "wof:id":1209208803,
+    "wof:lastmodified":1537587856,
+    "wof:name":"Nekinparo",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.60398,
+    9.2725,
+    2.60398,
+    9.2725
+],
+  "geometry": {"coordinates":[2.60398,9.2725],"type":"Point"}
+}

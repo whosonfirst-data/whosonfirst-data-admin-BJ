@@ -1,0 +1,68 @@
+{
+  "id": 1327120771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.65105,9.01088,1.65105,9.01088",
+    "geom:latitude":9.01088,
+    "geom:longitude":1.65105,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bakana-Kari",
+    "gn:country_code":"BJ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395382,
+    "gn:latitude":9.01088,
+    "gn:longitude":1.65105,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Bakana-Kari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395382,
+        "wk:page":"Bakana-Kari"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"44b0d286d2f279c114358fcd2b9f4f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1327120771,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1327120771,
+    "wof:lastmodified":1537487848,
+    "wof:name":"Bakana-Kari",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.65105,
+    9.01088,
+    1.65105,
+    9.01088
+],
+  "geometry": {"coordinates":[1.65105,9.01088],"type":"Point"}
+}

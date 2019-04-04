@@ -1,0 +1,71 @@
+{
+  "id": 1309782415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.90612,9.53814,1.90612,9.53814",
+    "geom:latitude":9.53814,
+    "geom:longitude":1.90612,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Partago",
+    "gn:country_code":"BJ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392195,
+    "gn:latitude":9.53814,
+    "gn:longitude":1.90612,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Partago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Partogo",
+        "Partago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392195
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"52c69825d5b41bbb8c3e1b960d9f18f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1309782415,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1309782415,
+    "wof:lastmodified":1537587853,
+    "wof:name":"Partago",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.90612,
+    9.53814,
+    1.90612,
+    9.53814
+],
+  "geometry": {"coordinates":[1.90612,9.53814],"type":"Point"}
+}

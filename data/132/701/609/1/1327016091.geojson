@@ -1,0 +1,71 @@
+{
+  "id": 1327016091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.90178,9.64946,1.90178,9.64946",
+    "geom:latitude":9.64946,
+    "geom:longitude":1.90178,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gbasso",
+    "gn:country_code":"BJ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394183,
+    "gn:latitude":9.64946,
+    "gn:longitude":1.90178,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gbasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bassoroko",
+        "Gbasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394183
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"789fb2795cfa9826740e4c9e4e819e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1327016091,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1327016091,
+    "wof:lastmodified":1537587870,
+    "wof:name":"Gbasso",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.90178,
+    9.64946,
+    1.90178,
+    9.64946
+],
+  "geometry": {"coordinates":[1.90178,9.64946],"type":"Point"}
+}

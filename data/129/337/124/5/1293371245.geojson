@@ -1,0 +1,67 @@
+{
+  "id": 1293371245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.89977,8.14855,1.89977,8.14855",
+    "geom:latitude":8.14855,
+    "geom:longitude":1.89977,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Aloba",
+    "gn:country_code":"BJ",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395628,
+    "gn:latitude":8.14855,
+    "gn:longitude":1.89977,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Aloba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395628
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"82835750f1784be5a64559e24b4756f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758839,
+            "locality_id":1293371245,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1293371245,
+    "wof:lastmodified":1536954733,
+    "wof:name":"Aloba",
+    "wof:parent_id":1108758839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.89977,
+    8.14855,
+    1.89977,
+    8.14855
+],
+  "geometry": {"coordinates":[1.89977,8.14855],"type":"Point"}
+}

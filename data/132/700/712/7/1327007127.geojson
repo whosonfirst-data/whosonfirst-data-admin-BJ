@@ -1,0 +1,67 @@
+{
+  "id": 1327007127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.63333,6.88333,1.63333,6.88333",
+    "geom:latitude":6.88333,
+    "geom:longitude":1.63333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Todjime",
+    "gn:country_code":"BJ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391166,
+    "gn:latitude":6.88333,
+    "gn:longitude":1.63333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Todjim\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391166
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0f9744994e5391c68fce1fd846522208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758845,
+            "locality_id":1327007127,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1327007127,
+    "wof:lastmodified":1536797184,
+    "wof:name":"Todjime",
+    "wof:parent_id":1108758845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.63333,
+    6.88333,
+    1.63333,
+    6.88333
+],
+  "geometry": {"coordinates":[1.63333,6.88333],"type":"Point"}
+}

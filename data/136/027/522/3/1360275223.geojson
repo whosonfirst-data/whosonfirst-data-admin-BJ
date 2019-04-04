@@ -1,0 +1,67 @@
+{
+  "id": 1360275223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.45737,6.50027,2.45737,6.50027",
+    "geom:latitude":6.50027,
+    "geom:longitude":2.45737,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouedo-Agueko",
+    "gn:country_code":"BJ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392334,
+    "gn:latitude":6.50027,
+    "gn:longitude":2.45737,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ou\u00e9do-Agu\u00e9ko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        1108758891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392334
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ed283abed5a06e1e3cc87c3e168ca476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758891,
+            "locality_id":1360275223,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1360275223,
+    "wof:lastmodified":1536671304,
+    "wof:name":"Ouedo-Agueko",
+    "wof:parent_id":1108758891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.45737,
+    6.50027,
+    2.45737,
+    6.50027
+],
+  "geometry": {"coordinates":[2.45737,6.50027],"type":"Point"}
+}

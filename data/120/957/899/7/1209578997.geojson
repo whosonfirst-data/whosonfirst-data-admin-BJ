@@ -1,0 +1,65 @@
+{
+  "id": 1209578997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.72027,6.65503,2.72027,6.65503",
+    "geom:latitude":6.65503,
+    "geom:longitude":2.72027,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Aitedjou",
+    "gn:country_code":"BJ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395711,
+    "gn:latitude":6.65503,
+    "gn:longitude":2.72027,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Aitedjou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayet\u00e9djoun",
+        "Aitedjou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395711
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"4b6d389053e7e30ab0bdfead48050267",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209578997
+        }
+    ],
+    "wof:id":1209578997,
+    "wof:lastmodified":1537587886,
+    "wof:name":"Aitedjou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.72027,
+    6.65503,
+    2.72027,
+    6.65503
+],
+  "geometry": {"coordinates":[2.72027,6.65503],"type":"Point"}
+}

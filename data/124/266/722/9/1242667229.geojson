@@ -1,0 +1,67 @@
+{
+  "id": 1242667229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.30815,6.50117,2.30815,6.50117",
+    "geom:latitude":6.50117,
+    "geom:longitude":2.30815,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zoundja",
+    "gn:country_code":"BJ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390705,
+    "gn:latitude":6.50117,
+    "gn:longitude":2.30815,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Zoundja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421186271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390705
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1eee6fe69a162b112b39e17070438318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421186271,
+            "locality_id":1242667229,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1242667229,
+    "wof:lastmodified":1536935476,
+    "wof:name":"Zoundja",
+    "wof:parent_id":421186271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.30815,
+    6.50117,
+    2.30815,
+    6.50117
+],
+  "geometry": {"coordinates":[2.30815,6.50117],"type":"Point"}
+}

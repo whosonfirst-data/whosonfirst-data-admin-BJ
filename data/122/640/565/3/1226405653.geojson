@@ -1,0 +1,73 @@
+{
+  "id": 1226405653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.01169,7.24743,2.01169,7.24743",
+    "geom:latitude":7.24743,
+    "geom:longitude":2.01169,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"8260654.0",
+    "gn:admin3_code":"11789924.0",
+    "gn:asciiname":"Dohouime",
+    "gn:country_code":"BJ",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394535,
+    "gn:latitude":7.24743,
+    "gn:longitude":2.01169,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"Dohouim\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dohouim\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394535,
+        "wk:page":"Dohouim%C3%A8"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2c1cc6e22784d18458c00e336dd39c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1226405653,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1226405653,
+    "wof:lastmodified":1537587873,
+    "wof:name":"Dohouime",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.01169,
+    7.24743,
+    2.01169,
+    7.24743
+],
+  "geometry": {"coordinates":[2.01169,7.24743],"type":"Point"}
+}

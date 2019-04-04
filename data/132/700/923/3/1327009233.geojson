@@ -1,0 +1,71 @@
+{
+  "id": 1327009233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42129,9.54091,1.42129,9.54091",
+    "geom:latitude":9.54091,
+    "geom:longitude":1.42129,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koukokolo",
+    "gn:country_code":"BJ",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393232,
+    "gn:latitude":9.54091,
+    "gn:longitude":1.42129,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Koukokolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokokolo",
+        "Koukokolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393232
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e1f5b7fd02078ea13c8cbf836ba88e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1327009233,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1327009233,
+    "wof:lastmodified":1537587862,
+    "wof:name":"Koukokolo",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42129,
+    9.54091,
+    1.42129,
+    9.54091
+],
+  "geometry": {"coordinates":[1.42129,9.54091],"type":"Point"}
+}

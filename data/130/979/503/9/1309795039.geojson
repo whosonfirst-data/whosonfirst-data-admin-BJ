@@ -1,0 +1,75 @@
+{
+  "id": 1309795039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.72907,9.07558,2.72907,9.07558",
+    "geom:latitude":9.07558,
+    "geom:longitude":2.72907,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Waria",
+    "gn:country_code":"BJ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390955,
+    "gn:latitude":9.07558,
+    "gn:longitude":2.72907,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Waria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karla",
+        "Weria",
+        "Ouoria",
+        "Ouarla",
+        "Ouaria",
+        "Waria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390955
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9fc3349beea783d6d6dbab269773b733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758837,
+            "locality_id":1309795039,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1309795039,
+    "wof:lastmodified":1537587841,
+    "wof:name":"Waria",
+    "wof:parent_id":1108758837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.72907,
+    9.07558,
+    2.72907,
+    9.07558
+],
+  "geometry": {"coordinates":[2.72907,9.07558],"type":"Point"}
+}

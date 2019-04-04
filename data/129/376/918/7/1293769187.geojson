@@ -1,0 +1,80 @@
+{
+  "id": 1293769187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.00192,10.22746,2.00192,10.22746",
+    "geom:latitude":10.22746,
+    "geom:longitude":2.00192,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7668916.0",
+    "gn:asciiname":"Pehonko",
+    "gn:country_code":"BJ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392164,
+    "gn:latitude":10.22746,
+    "gn:longitude":2.00192,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"P\u00e9honko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9ounko",
+        "P\u00e9hunco",
+        "P\u00e9humko",
+        "Pchumko",
+        "Pshumko",
+        "P\u00e9hunko",
+        "Ouassa-Pehunco",
+        "Pehonco",
+        "P\u00e9honko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392164,
+        "wk:page":"P%C3%A9hunco"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0e9135db9d333db5c6f156c41e30e610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758867,
+            "locality_id":1293769187,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1293769187,
+    "wof:lastmodified":1537587853,
+    "wof:name":"Pehonko",
+    "wof:parent_id":1108758867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.00192,
+    10.22746,
+    2.00192,
+    10.22746
+],
+  "geometry": {"coordinates":[2.00192,10.22746],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343743313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.2602,8.13219,2.2602,8.13219",
+    "geom:latitude":8.13219,
+    "geom:longitude":2.2602,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Houin",
+    "gn:country_code":"BJ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393859,
+    "gn:latitude":8.13219,
+    "gn:longitude":2.2602,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Houin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393859
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"39ac8bd1bf3f28c8b36e4faa38316ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758945,
+            "locality_id":1343743313,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1343743313,
+    "wof:lastmodified":1536834623,
+    "wof:name":"Houin",
+    "wof:parent_id":1108758945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2602,
+    8.13219,
+    2.2602,
+    8.13219
+],
+  "geometry": {"coordinates":[2.2602,8.13219],"type":"Point"}
+}

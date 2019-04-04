@@ -1,0 +1,61 @@
+{
+  "id": 1209535705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41432,10.41119,1.41432,10.41119",
+    "geom:latitude":10.41119,
+    "geom:longitude":1.41432,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Naataya",
+    "gn:country_code":"BJ",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392662,
+    "gn:latitude":10.41119,
+    "gn:longitude":1.41432,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Naataya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392662
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"71bd7dd6e1ed250a5a54f3b0e26bb092",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209535705
+        }
+    ],
+    "wof:id":1209535705,
+    "wof:lastmodified":1536284149,
+    "wof:name":"Naataya",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41432,
+    10.41119,
+    1.41432,
+    10.41119
+],
+  "geometry": {"coordinates":[1.41432,10.41119],"type":"Point"}
+}

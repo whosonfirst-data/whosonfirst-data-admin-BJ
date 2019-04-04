@@ -1,0 +1,71 @@
+{
+  "id": 1344177043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.8866,10.67056,1.8866,10.67056",
+    "geom:latitude":10.67056,
+    "geom:longitude":1.8866,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kedekou",
+    "gn:country_code":"BJ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393594,
+    "gn:latitude":10.67056,
+    "gn:longitude":1.8866,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e9d\u00e9kou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9b\u00e9rou",
+        "K\u00e9d\u00e9kou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393594
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3842016d99e8c79341c3670a66cd4a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1344177043,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1344177043,
+    "wof:lastmodified":1537587864,
+    "wof:name":"Kedekou",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8866,
+    10.67056,
+    1.8866,
+    10.67056
+],
+  "geometry": {"coordinates":[1.8866,10.67056],"type":"Point"}
+}

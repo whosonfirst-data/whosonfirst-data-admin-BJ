@@ -1,0 +1,74 @@
+{
+  "id": 1242963121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1359,6.42255,2.1359,6.42255",
+    "geom:latitude":6.42255,
+    "geom:longitude":2.1359,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7668936.0",
+    "gn:admin3_code":"11789962.0",
+    "gn:asciiname":"Gakpe",
+    "gn:country_code":"BJ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394294,
+    "gn:latitude":6.42255,
+    "gn:longitude":2.1359,
+    "gn:modification_date":"2018-03-19",
+    "gn:name":"Gakp\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gankp\u00e9",
+        "Gakp\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421174729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394294,
+        "wk:page":"Gakp%C3%A8"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d584ab3545122f411a7a31c3d2416bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421174729,
+            "locality_id":1242963121,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1242963121,
+    "wof:lastmodified":1537587871,
+    "wof:name":"Gakpe",
+    "wof:parent_id":421174729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1359,
+    6.42255,
+    2.1359,
+    6.42255
+],
+  "geometry": {"coordinates":[2.1359,6.42255],"type":"Point"}
+}

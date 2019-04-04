@@ -1,0 +1,67 @@
+{
+  "id": 1226622005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.71667,7.63333,1.71667,7.63333",
+    "geom:latitude":7.63333,
+    "geom:longitude":1.71667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"San",
+    "gn:country_code":"BJ",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391978,
+    "gn:latitude":7.63333,
+    "gn:longitude":1.71667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"San",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391978
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9e24cac618df2b39d4724edf04a2fca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1226622005,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1226622005,
+    "wof:lastmodified":1536893495,
+    "wof:name":"San",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.71667,
+    7.63333,
+    1.71667,
+    7.63333
+],
+  "geometry": {"coordinates":[1.71667,7.63333],"type":"Point"}
+}

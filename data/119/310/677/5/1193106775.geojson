@@ -1,0 +1,72 @@
+{
+  "id": 1193106775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.58333,6.61667,2.58333,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":2.58333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Vante",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391019,
+    "gn:latitude":6.61667,
+    "gn:longitude":2.58333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Vant\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vant\u00e9-Avamiti\u00e9",
+        "Vant\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391019
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ffac0b192754ed7eb7d816032d902cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758903,
+            "locality_id":1193106775,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1193106775,
+    "wof:lastmodified":1537587842,
+    "wof:name":"Vante",
+    "wof:parent_id":1108758903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.58333,
+    6.61667,
+    2.58333,
+    6.61667
+],
+  "geometry": {"coordinates":[2.58333,6.61667],"type":"Point"}
+}

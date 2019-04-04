@@ -1,0 +1,71 @@
+{
+  "id": 1292987283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.53693,9.31387,1.53693,9.31387",
+    "geom:latitude":9.31387,
+    "geom:longitude":1.53693,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kemetou Penezoulou",
+    "gn:country_code":"BJ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393580,
+    "gn:latitude":9.31387,
+    "gn:longitude":1.53693,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"K\u00e9m\u00e9tou P\u00e9n\u00e9zoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9m\u00e9tou P\u00e9n\u00e9zoulou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393580,
+        "wk:page":"Kemetou_Penezoulou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c01cb869deba7783f90f607c67e38af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1292987283,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1292987283,
+    "wof:lastmodified":1537587864,
+    "wof:name":"Kemetou Penezoulou",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.53693,
+    9.31387,
+    1.53693,
+    9.31387
+],
+  "geometry": {"coordinates":[1.53693,9.31387],"type":"Point"}
+}

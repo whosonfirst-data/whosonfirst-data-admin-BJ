@@ -1,0 +1,74 @@
+{
+  "id": 1310192283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83722,6.88935,1.83722,6.88935",
+    "geom:latitude":6.88935,
+    "geom:longitude":1.83722,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"10344476.0",
+    "gn:admin3_code":"11790016.0",
+    "gn:asciiname":"Toviklin",
+    "gn:country_code":"BJ",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391034,
+    "gn:latitude":6.88935,
+    "gn:longitude":1.83722,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Toviklin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Touiklin",
+        "Toviklin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391034,
+        "wk:page":"Toviklin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2fb97028a8d6989956e38cd64d5bd913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758947,
+            "locality_id":1310192283,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1310192283,
+    "wof:lastmodified":1537587842,
+    "wof:name":"Toviklin",
+    "wof:parent_id":1108758947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83722,
+    6.88935,
+    1.83722,
+    6.88935
+],
+  "geometry": {"coordinates":[1.83722,6.88935],"type":"Point"}
+}

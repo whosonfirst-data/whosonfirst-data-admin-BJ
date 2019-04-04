@@ -1,0 +1,72 @@
+{
+  "id": 1326719559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.53007,10.46593,3.53007,10.46593",
+    "geom:latitude":10.46593,
+    "geom:longitude":3.53007,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zambara",
+    "gn:country_code":"BJ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390745,
+    "gn:latitude":10.46593,
+    "gn:longitude":3.53007,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zambara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zanmbara",
+        "Zanbara",
+        "Zambara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390745
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0ac65133801a1c0ecfca338e732757e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758835,
+            "locality_id":1326719559,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1326719559,
+    "wof:lastmodified":1537587839,
+    "wof:name":"Zambara",
+    "wof:parent_id":1108758835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.53007,
+    10.46593,
+    3.53007,
+    10.46593
+],
+  "geometry": {"coordinates":[3.53007,10.46593],"type":"Point"}
+}

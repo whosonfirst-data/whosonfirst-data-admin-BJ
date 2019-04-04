@@ -1,0 +1,61 @@
+{
+  "id": 1209095223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.16923,10.39008,3.16923,10.39008",
+    "geom:latitude":10.39008,
+    "geom:longitude":3.16923,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Grobani",
+    "gn:country_code":"BJ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393946,
+    "gn:latitude":10.39008,
+    "gn:longitude":3.16923,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Grobani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393946
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e6c029b695455548ebb84f814cd82207",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209095223
+        }
+    ],
+    "wof:id":1209095223,
+    "wof:lastmodified":1536297908,
+    "wof:name":"Grobani",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.16923,
+    10.39008,
+    3.16923,
+    10.39008
+],
+  "geometry": {"coordinates":[3.16923,10.39008],"type":"Point"}
+}

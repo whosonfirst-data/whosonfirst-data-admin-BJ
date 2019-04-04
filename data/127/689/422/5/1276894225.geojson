@@ -1,0 +1,71 @@
+{
+  "id": 1276894225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05095,10.84648,1.05095,10.84648",
+    "geom:latitude":10.84648,
+    "geom:longitude":1.05095,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Firihoum",
+    "gn:country_code":"BJ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394362,
+    "gn:latitude":10.84648,
+    "gn:longitude":1.05095,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Firihoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Firohoun",
+        "Firihoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394362
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6f9465a34a31785dc89f3b3adb91851a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1276894225,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276894225,
+    "wof:lastmodified":1537587872,
+    "wof:name":"Firihoum",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05095,
+    10.84648,
+    1.05095,
+    10.84648
+],
+  "geometry": {"coordinates":[1.05095,10.84648],"type":"Point"}
+}

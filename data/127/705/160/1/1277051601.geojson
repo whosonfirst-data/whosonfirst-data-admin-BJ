@@ -1,0 +1,70 @@
+{
+  "id": 1277051601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.98164,7.01196,1.98164,7.01196",
+    "geom:latitude":7.01196,
+    "geom:longitude":1.98164,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"8260653.0",
+    "gn:admin3_code":"11789947.0",
+    "gn:asciiname":"Zoungoudo",
+    "gn:country_code":"BJ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390702,
+    "gn:latitude":7.01196,
+    "gn:longitude":1.98164,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"Zoungoudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390702,
+        "wk:page":"Zoungoudo"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8f7c200651fa77742ba52eab61cbd3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758921,
+            "locality_id":1277051601,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1277051601,
+    "wof:lastmodified":1537487825,
+    "wof:name":"Zoungoudo",
+    "wof:parent_id":1108758921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.98164,
+    7.01196,
+    1.98164,
+    7.01196
+],
+  "geometry": {"coordinates":[1.98164,7.01196],"type":"Point"}
+}

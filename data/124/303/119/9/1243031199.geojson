@@ -1,0 +1,67 @@
+{
+  "id": 1243031199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.38108,7.17907,2.38108,7.17907",
+    "geom:latitude":7.17907,
+    "geom:longitude":2.38108,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Dovi-Dove",
+    "gn:country_code":"BJ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394456,
+    "gn:latitude":7.17907,
+    "gn:longitude":2.38108,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dovi-Dov\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394456
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"fe3e9fcaa437ae2401df211fa27c59ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758937,
+            "locality_id":1243031199,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1243031199,
+    "wof:lastmodified":1536907499,
+    "wof:name":"Dovi-Dove",
+    "wof:parent_id":1108758937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.38108,
+    7.17907,
+    2.38108,
+    7.17907
+],
+  "geometry": {"coordinates":[2.38108,7.17907],"type":"Point"}
+}

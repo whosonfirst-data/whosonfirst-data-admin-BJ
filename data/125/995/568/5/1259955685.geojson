@@ -1,0 +1,71 @@
+{
+  "id": 1259955685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0831,7.1461,2.0831,7.1461",
+    "geom:latitude":7.1461,
+    "geom:longitude":2.0831,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Cana",
+    "gn:country_code":"BJ",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394846,
+    "gn:latitude":7.1461,
+    "gn:longitude":2.0831,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Cana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kana",
+        "Cana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394846
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"dcabc381b5cd0844d3eaa017be57648b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758923,
+            "locality_id":1259955685,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1259955685,
+    "wof:lastmodified":1537587877,
+    "wof:name":"Cana",
+    "wof:parent_id":1108758923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0831,
+    7.1461,
+    2.0831,
+    7.1461
+],
+  "geometry": {"coordinates":[2.0831,7.1461],"type":"Point"}
+}

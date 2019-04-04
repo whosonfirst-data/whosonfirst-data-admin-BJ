@@ -1,0 +1,74 @@
+{
+  "id": 1209793963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.55084,8.59138,2.55084,8.59138",
+    "geom:latitude":8.59138,
+    "geom:longitude":2.55084,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"8260649.0",
+    "gn:admin3_code":"11790094.0",
+    "gn:asciiname":"Kemon",
+    "gn:country_code":"BJ",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393579,
+    "gn:latitude":8.59138,
+    "gn:longitude":2.55084,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"K\u00e9mon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9mo",
+        "K\u00e9mon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393579,
+        "wk:page":"K%C3%A8mon"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a787b7c96ff581b34686b2b3c6b28e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758961,
+            "locality_id":1209793963,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1209793963,
+    "wof:lastmodified":1537587864,
+    "wof:name":"Kemon",
+    "wof:parent_id":1108758961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.55084,
+    8.59138,
+    2.55084,
+    8.59138
+],
+  "geometry": {"coordinates":[2.55084,8.59138],"type":"Point"}
+}

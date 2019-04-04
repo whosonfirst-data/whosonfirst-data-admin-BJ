@@ -1,0 +1,69 @@
+{
+  "id": 1360276135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.73333,10.3,1.73333,10.3",
+    "geom:latitude":10.3,
+    "geom:longitude":1.73333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7668910.0",
+    "gn:admin3_code":"10942296.0",
+    "gn:asciiname":"Oroukayo",
+    "gn:country_code":"BJ",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942297,
+    "gn:latitude":10.3,
+    "gn:longitude":1.73333,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Oroukayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942297
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"945b4a88e9a19b7f32445d1c048d1270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1360276135,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1360276135,
+    "wof:lastmodified":1536670016,
+    "wof:name":"Oroukayo",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.73333,
+    10.3,
+    1.73333,
+    10.3
+],
+  "geometry": {"coordinates":[1.73333,10.3],"type":"Point"}
+}

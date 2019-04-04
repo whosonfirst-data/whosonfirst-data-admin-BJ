@@ -1,0 +1,70 @@
+{
+  "id": 1327118885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1,6.41667,2.1,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":2.1,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7668936.0",
+    "gn:admin3_code":"11790043.0",
+    "gn:asciiname":"Savi",
+    "gn:country_code":"BJ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391891,
+    "gn:latitude":6.41667,
+    "gn:longitude":2.1,
+    "gn:modification_date":"2018-03-19",
+    "gn:name":"Savi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421174729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391891,
+        "wk:page":"Savi"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d890b6d70e85b2f195f345bb6c9369b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421174729,
+            "locality_id":1327118885,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1327118885,
+    "wof:lastmodified":1537487830,
+    "wof:name":"Savi",
+    "wof:parent_id":421174729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1,
+    6.41667,
+    2.1,
+    6.41667
+],
+  "geometry": {"coordinates":[2.1,6.41667],"type":"Point"}
+}

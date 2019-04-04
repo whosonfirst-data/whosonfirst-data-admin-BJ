@@ -1,0 +1,65 @@
+{
+  "id": 1209205353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2393,10.28287,1.2393,10.28287",
+    "geom:latitude":10.28287,
+    "geom:longitude":1.2393,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koumagou",
+    "gn:country_code":"BJ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393202,
+    "gn:latitude":10.28287,
+    "gn:longitude":1.2393,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Koumagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koumago",
+        "Koumagou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393202
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a80da62b4d2f65a3729ac8c6f9cfe991",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209205353
+        }
+    ],
+    "wof:id":1209205353,
+    "wof:lastmodified":1537587861,
+    "wof:name":"Koumagou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2393,
+    10.28287,
+    1.2393,
+    10.28287
+],
+  "geometry": {"coordinates":[1.2393,10.28287],"type":"Point"}
+}

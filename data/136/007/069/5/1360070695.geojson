@@ -1,0 +1,74 @@
+{
+  "id": 1360070695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.94933,10.17638,1.94933,10.17638",
+    "geom:latitude":10.17638,
+    "geom:longitude":1.94933,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bouerou-Bankrannou",
+    "gn:country_code":"BJ",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394937,
+    "gn:latitude":10.17638,
+    "gn:longitude":1.94933,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Bou\u00e9rou-Bankrannou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9rognamno",
+        "Berognanino",
+        "B\u0113r\u0113gnamno",
+        "Berognama",
+        "Bou\u00e9rou-Bankrannou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394937
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c4c1d96d66a2aa51b060e415525f5fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758867,
+            "locality_id":1360070695,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1360070695,
+    "wof:lastmodified":1537587878,
+    "wof:name":"Bouerou-Bankrannou",
+    "wof:parent_id":1108758867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.94933,
+    10.17638,
+    1.94933,
+    10.17638
+],
+  "geometry": {"coordinates":[1.94933,10.17638],"type":"Point"}
+}

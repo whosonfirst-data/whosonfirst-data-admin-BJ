@@ -1,0 +1,71 @@
+{
+  "id": 1209801041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.80841,10.28001,1.80841,10.28001",
+    "geom:latitude":10.28001,
+    "geom:longitude":1.80841,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mekrou-Gourou",
+    "gn:country_code":"BJ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392767,
+    "gn:latitude":10.28001,
+    "gn:longitude":1.80841,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"M\u00e9krou-Gourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makrou",
+        "M\u00e9krou-Gourou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392767
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"bf593bd5b86e323d875a917c1ce29526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1209801041,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1209801041,
+    "wof:lastmodified":1537587858,
+    "wof:name":"Mekrou-Gourou",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.80841,
+    10.28001,
+    1.80841,
+    10.28001
+],
+  "geometry": {"coordinates":[1.80841,10.28001],"type":"Point"}
+}

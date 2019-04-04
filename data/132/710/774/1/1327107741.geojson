@@ -1,0 +1,71 @@
+{
+  "id": 1327107741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.64611,6.70452,1.64611,6.70452",
+    "geom:latitude":6.70452,
+    "geom:longitude":1.64611,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dondji-Zouin",
+    "gn:country_code":"BJ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394514,
+    "gn:latitude":6.70452,
+    "gn:longitude":1.64611,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dondji-Zouin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djondjizoum\u00e9",
+        "Dondji-Zouin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        1108758849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394514
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"269a506b7c70d9e1aaa951322e9bc21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758849,
+            "locality_id":1327107741,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1327107741,
+    "wof:lastmodified":1537587873,
+    "wof:name":"Dondji-Zouin",
+    "wof:parent_id":1108758849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.64611,
+    6.70452,
+    1.64611,
+    6.70452
+],
+  "geometry": {"coordinates":[1.64611,6.70452],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344152487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.92631,9.8627,2.92631,9.8627",
+    "geom:latitude":9.8627,
+    "geom:longitude":2.92631,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gandou Donsara",
+    "gn:country_code":"BJ",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394249,
+    "gn:latitude":9.8627,
+    "gn:longitude":2.92631,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gandou Donsara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394249
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"5631214109d0c3975c2460e0a71d7ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":1344152487,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1344152487,
+    "wof:lastmodified":1536742587,
+    "wof:name":"Gandou Donsara",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.92631,
+    9.8627,
+    2.92631,
+    9.8627
+],
+  "geometry": {"coordinates":[2.92631,9.8627],"type":"Point"}
+}

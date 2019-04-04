@@ -1,0 +1,65 @@
+{
+  "id": 1209305217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.74977,10.7897,1.74977,10.7897",
+    "geom:latitude":10.7897,
+    "geom:longitude":1.74977,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ouroufina",
+    "gn:country_code":"BJ",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392257,
+    "gn:latitude":10.7897,
+    "gn:longitude":1.74977,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ouroufina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nansougou Simpassou",
+        "Ouroufina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392257
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"10fa246366b3b62c476f053be80b1bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209305217
+        }
+    ],
+    "wof:id":1209305217,
+    "wof:lastmodified":1537587854,
+    "wof:name":"Ouroufina",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.74977,
+    10.7897,
+    1.74977,
+    10.7897
+],
+  "geometry": {"coordinates":[1.74977,10.7897],"type":"Point"}
+}

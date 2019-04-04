@@ -1,0 +1,72 @@
+{
+  "id": 1243433737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.67424,9.05298,1.67424,9.05298",
+    "geom:latitude":9.05298,
+    "geom:longitude":1.67424,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Guiguizo",
+    "gn:country_code":"BJ",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393918,
+    "gn:latitude":9.05298,
+    "gn:longitude":1.67424,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Guiguizo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guiguiso",
+        "Guiguizo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393918,
+        "wk:page":"Guiguizo"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b06881a102825be225c16fdfa9e22acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1243433737,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1243433737,
+    "wof:lastmodified":1537587868,
+    "wof:name":"Guiguizo",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.67424,
+    9.05298,
+    1.67424,
+    9.05298
+],
+  "geometry": {"coordinates":[1.67424,9.05298],"type":"Point"}
+}

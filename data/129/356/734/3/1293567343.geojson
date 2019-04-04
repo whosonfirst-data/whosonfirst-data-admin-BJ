@@ -1,0 +1,73 @@
+{
+  "id": 1293567343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.95251,8.15914,1.95251,8.15914",
+    "geom:latitude":8.15914,
+    "geom:longitude":1.95251,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Atokolibe",
+    "gn:country_code":"BJ",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395502,
+    "gn:latitude":8.15914,
+    "gn:longitude":1.95251,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Atokolib\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atukobi",
+        "Atokoloto",
+        "Atokolob\u00e9",
+        "Atokolib\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395502
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"dced330a8e11719b0fd7260d405bf08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758839,
+            "locality_id":1293567343,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1293567343,
+    "wof:lastmodified":1537587884,
+    "wof:name":"Atokolibe",
+    "wof:parent_id":1108758839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.95251,
+    8.15914,
+    1.95251,
+    8.15914
+],
+  "geometry": {"coordinates":[1.95251,8.15914],"type":"Point"}
+}

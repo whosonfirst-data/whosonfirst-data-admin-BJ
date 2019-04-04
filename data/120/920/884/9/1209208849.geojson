@@ -1,0 +1,61 @@
+{
+  "id": 1209208849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.37465,10.11228,2.37465,10.11228",
+    "geom:latitude":10.11228,
+    "geom:longitude":2.37465,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sakaro",
+    "gn:country_code":"BJ",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392017,
+    "gn:latitude":10.11228,
+    "gn:longitude":2.37465,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Sakaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392017
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c7f053caf64870fde5ecbf5621911f2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209208849
+        }
+    ],
+    "wof:id":1209208849,
+    "wof:lastmodified":1536294358,
+    "wof:name":"Sakaro",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.37465,
+    10.11228,
+    2.37465,
+    10.11228
+],
+  "geometry": {"coordinates":[2.37465,10.11228],"type":"Point"}
+}

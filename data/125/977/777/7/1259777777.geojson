@@ -1,0 +1,70 @@
+{
+  "id": 1259777777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.16385,6.72292,2.16385,6.72292",
+    "geom:latitude":6.72292,
+    "geom:longitude":2.16385,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"8260655.0",
+    "gn:admin3_code":"11790005.0",
+    "gn:asciiname":"Attogon",
+    "gn:country_code":"BJ",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395492,
+    "gn:latitude":6.72292,
+    "gn:longitude":2.16385,
+    "gn:modification_date":"2018-03-19",
+    "gn:name":"Attogon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421202551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395492,
+        "wk:page":"Attogon"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cc1972874e68f25ce6abb89cea6863a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421202551,
+            "locality_id":1259777777,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1259777777,
+    "wof:lastmodified":1537487848,
+    "wof:name":"Attogon",
+    "wof:parent_id":421202551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.16385,
+    6.72292,
+    2.16385,
+    6.72292
+],
+  "geometry": {"coordinates":[2.16385,6.72292],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209386469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39847,9.68339,1.39847,9.68339",
+    "geom:latitude":9.68339,
+    "geom:longitude":1.39847,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sonaholou",
+    "gn:country_code":"BJ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391657,
+    "gn:latitude":9.68339,
+    "gn:longitude":1.39847,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Sonaholou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanahollou",
+        "Sonaholou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391657
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c464abad2b1b2b1f46b0835fbb6b0f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209386469
+        }
+    ],
+    "wof:id":1209386469,
+    "wof:lastmodified":1537587847,
+    "wof:name":"Sonaholou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39847,
+    9.68339,
+    1.39847,
+    9.68339
+],
+  "geometry": {"coordinates":[1.39847,9.68339],"type":"Point"}
+}

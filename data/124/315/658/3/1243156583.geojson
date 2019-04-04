@@ -1,0 +1,67 @@
+{
+  "id": 1243156583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.04341,6.73389,2.04341,6.73389",
+    "geom:latitude":6.73389,
+    "geom:longitude":2.04341,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Long-Agomey",
+    "gn:country_code":"BJ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392887,
+    "gn:latitude":6.73389,
+    "gn:longitude":2.04341,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Long-Agomey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        1108758977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392887
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"37b1e9c2f0f9181553c4c8877907efb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758977,
+            "locality_id":1243156583,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1243156583,
+    "wof:lastmodified":1536726869,
+    "wof:name":"Long-Agomey",
+    "wof:parent_id":1108758977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.04341,
+    6.73389,
+    2.04341,
+    6.73389
+],
+  "geometry": {"coordinates":[2.04341,6.73389],"type":"Point"}
+}

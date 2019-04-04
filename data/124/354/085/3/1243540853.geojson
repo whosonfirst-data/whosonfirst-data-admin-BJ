@@ -1,0 +1,71 @@
+{
+  "id": 1243540853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.49313,9.28801,1.49313,9.28801",
+    "geom:latitude":9.28801,
+    "geom:longitude":1.49313,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Adeli",
+    "gn:country_code":"BJ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395898,
+    "gn:latitude":9.28801,
+    "gn:longitude":1.49313,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ad\u00e8li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad\u00e8li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395898,
+        "wk:page":"Adeli%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d5a449ea93ef234e130af2ce89fdb3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1243540853,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1243540853,
+    "wof:lastmodified":1537587889,
+    "wof:name":"Adeli",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.49313,
+    9.28801,
+    1.49313,
+    9.28801
+],
+  "geometry": {"coordinates":[1.49313,9.28801],"type":"Point"}
+}

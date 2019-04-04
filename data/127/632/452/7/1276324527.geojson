@@ -1,0 +1,73 @@
+{
+  "id": 1276324527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.94198,10.40492,0.94198,10.40492",
+    "geom:latitude":10.40492,
+    "geom:longitude":0.94198,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"10344466.0",
+    "gn:admin3_code":"11790217.0",
+    "gn:asciiname":"Kountouri",
+    "gn:country_code":"BJ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393166,
+    "gn:latitude":10.40492,
+    "gn:longitude":0.94198,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Kountouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kountori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393166,
+        "wk:page":"Kountori"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cda530f177e2dfedcb15f76fa550fb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758869,
+            "locality_id":1276324527,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276324527,
+    "wof:lastmodified":1537587861,
+    "wof:name":"Kountouri",
+    "wof:parent_id":1108758869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.94198,
+    10.40492,
+    0.94198,
+    10.40492
+],
+  "geometry": {"coordinates":[0.94198,10.40492],"type":"Point"}
+}

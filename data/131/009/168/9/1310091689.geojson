@@ -1,0 +1,68 @@
+{
+  "id": 1310091689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58238,9.32627,1.58238,9.32627",
+    "geom:latitude":9.32627,
+    "geom:longitude":1.58238,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kpendi",
+    "gn:country_code":"BJ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393027,
+    "gn:latitude":9.32627,
+    "gn:longitude":1.58238,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kpendi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393027,
+        "wk:page":"Kpendi"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"14dc7f6a66f5034ee4501cec90d93e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1310091689,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1310091689,
+    "wof:lastmodified":1537487836,
+    "wof:name":"Kpendi",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58238,
+    9.32627,
+    1.58238,
+    9.32627
+],
+  "geometry": {"coordinates":[1.58238,9.32627],"type":"Point"}
+}

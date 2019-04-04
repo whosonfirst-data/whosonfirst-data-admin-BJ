@@ -1,0 +1,72 @@
+{
+  "id": 1343232425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66974,6.76085,1.66974,6.76085",
+    "geom:latitude":6.76085,
+    "geom:longitude":1.66974,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2391090.0",
+    "gn:asciiname":"Deve",
+    "gn:country_code":"BJ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394650,
+    "gn:latitude":6.76085,
+    "gn:longitude":1.66974,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"D\u00e9v\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9v\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394650,
+        "wk:page":"D%C3%A8v%C3%A8"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6cbe033afa39874211d952133377eccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758887,
+            "locality_id":1343232425,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1343232425,
+    "wof:lastmodified":1537587874,
+    "wof:name":"Deve",
+    "wof:parent_id":1108758887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66974,
+    6.76085,
+    1.66974,
+    6.76085
+],
+  "geometry": {"coordinates":[1.66974,6.76085],"type":"Point"}
+}

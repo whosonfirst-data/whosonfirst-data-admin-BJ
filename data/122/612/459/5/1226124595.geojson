@@ -1,0 +1,74 @@
+{
+  "id": 1226124595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.61667,6.36667,2.61667,6.36667",
+    "geom:latitude":6.36667,
+    "geom:longitude":2.61667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"7668941.0",
+    "gn:admin3_code":"11875923.0",
+    "gn:asciiname":"Semi",
+    "gn:country_code":"BJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2391833,
+    "gn:latitude":6.36667,
+    "gn:longitude":2.61667,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Semi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sami",
+        "Semi",
+        "S\u00e8m\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391833
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f21a3a851137e628d5895d3eb1c78f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758917,
+            "locality_id":1226124595,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1226124595,
+    "wof:lastmodified":1537587849,
+    "wof:name":"Semi",
+    "wof:parent_id":1108758917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.61667,
+    6.36667,
+    2.61667,
+    6.36667
+],
+  "geometry": {"coordinates":[2.61667,6.36667],"type":"Point"}
+}

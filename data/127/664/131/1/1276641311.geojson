@@ -1,0 +1,74 @@
+{
+  "id": 1276641311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.12999,10.19499,2.12999,10.19499",
+    "geom:latitude":10.19499,
+    "geom:longitude":2.12999,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7668916.0",
+    "gn:admin3_code":"11790019.0",
+    "gn:asciiname":"Tobre",
+    "gn:country_code":"BJ",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391170,
+    "gn:latitude":10.19499,
+    "gn:longitude":2.12999,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Tobr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tobr",
+        "Tobr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391170,
+        "wk:page":"Tobr%C3%A9"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"bcd6983dc2b49eeb39f91ab0f5eff5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758867,
+            "locality_id":1276641311,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276641311,
+    "wof:lastmodified":1537587843,
+    "wof:name":"Tobre",
+    "wof:parent_id":1108758867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.12999,
+    10.19499,
+    2.12999,
+    10.19499
+],
+  "geometry": {"coordinates":[2.12999,10.19499],"type":"Point"}
+}

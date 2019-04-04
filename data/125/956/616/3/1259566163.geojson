@@ -1,0 +1,68 @@
+{
+  "id": 1259566163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.77295,6.5823,1.77295,6.5823",
+    "geom:latitude":6.5823,
+    "geom:longitude":1.77295,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"7668926.0",
+    "gn:asciiname":"Kpinnou",
+    "gn:country_code":"BJ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11467775,
+    "gn:latitude":6.5823,
+    "gn:longitude":1.77295,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Kpinnou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        1108758899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11467775
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cdabb2e8e00b9e6d828a44687a79dafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758899,
+            "locality_id":1259566163,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1259566163,
+    "wof:lastmodified":1536739722,
+    "wof:name":"Kpinnou",
+    "wof:parent_id":1108758899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.77295,
+    6.5823,
+    1.77295,
+    6.5823
+],
+  "geometry": {"coordinates":[1.77295,6.5823],"type":"Point"}
+}

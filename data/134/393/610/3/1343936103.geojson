@@ -1,0 +1,72 @@
+{
+  "id": 1343936103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41531,7.4828,2.41531,7.4828",
+    "geom:latitude":7.4828,
+    "geom:longitude":2.41531,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Aguigdiji",
+    "gn:country_code":"BJ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395733,
+    "gn:latitude":7.4828,
+    "gn:longitude":2.41531,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Aguigdiji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguigadji",
+        "Aguigaji",
+        "Aguigdiji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395733
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b2a028e2709426e7867a5b9ea097a1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758925,
+            "locality_id":1343936103,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1343936103,
+    "wof:lastmodified":1537587886,
+    "wof:name":"Aguigdiji",
+    "wof:parent_id":1108758925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41531,
+    7.4828,
+    2.41531,
+    7.4828
+],
+  "geometry": {"coordinates":[2.41531,7.4828],"type":"Point"}
+}

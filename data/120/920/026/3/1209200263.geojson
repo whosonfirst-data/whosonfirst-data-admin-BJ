@@ -1,0 +1,61 @@
+{
+  "id": 1209200263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.86967,10.53949,0.86967,10.53949",
+    "geom:latitude":10.53949,
+    "geom:longitude":0.86967,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kayode",
+    "gn:country_code":"BJ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393599,
+    "gn:latitude":10.53949,
+    "gn:longitude":0.86967,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kayod\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393599
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"07777c160b657373922c8382f2f7980e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209200263
+        }
+    ],
+    "wof:id":1209200263,
+    "wof:lastmodified":1536294636,
+    "wof:name":"Kayode",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.86967,
+    10.53949,
+    0.86967,
+    10.53949
+],
+  "geometry": {"coordinates":[0.86967,10.53949],"type":"Point"}
+}

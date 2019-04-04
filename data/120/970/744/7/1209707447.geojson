@@ -1,0 +1,72 @@
+{
+  "id": 1209707447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.06314,12.09887,3.06314,12.09887",
+    "geom:latitude":12.09887,
+    "geom:longitude":3.06314,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kirindou Kwara",
+    "gn:country_code":"BJ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393499,
+    "gn:latitude":12.09887,
+    "gn:longitude":3.06314,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kirindou Kwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirind\u00e9koara",
+        "Kirinndou-Koara",
+        "Kirindou Kwara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393499
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d87d1861f59135b366667f56a426ad82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758955,
+            "locality_id":1209707447,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1209707447,
+    "wof:lastmodified":1537587864,
+    "wof:name":"Kirindou Kwara",
+    "wof:parent_id":1108758955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.06314,
+    12.09887,
+    3.06314,
+    12.09887
+],
+  "geometry": {"coordinates":[3.06314,12.09887],"type":"Point"}
+}

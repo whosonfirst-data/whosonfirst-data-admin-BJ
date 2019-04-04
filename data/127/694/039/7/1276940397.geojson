@@ -1,0 +1,67 @@
+{
+  "id": 1276940397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.45993,7.09794,2.45993,7.09794",
+    "geom:latitude":7.09794,
+    "geom:longitude":2.45993,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ouokon",
+    "gn:country_code":"BJ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392272,
+    "gn:latitude":7.09794,
+    "gn:longitude":2.45993,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ouokon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392272
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e86a1c17ff0007e72901c965fa4e14c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758935,
+            "locality_id":1276940397,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1276940397,
+    "wof:lastmodified":1536960230,
+    "wof:name":"Ouokon",
+    "wof:parent_id":1108758935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.45993,
+    7.09794,
+    2.45993,
+    7.09794
+],
+  "geometry": {"coordinates":[2.45993,7.09794],"type":"Point"}
+}

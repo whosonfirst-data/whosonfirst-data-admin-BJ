@@ -1,0 +1,67 @@
+{
+  "id": 1259504727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.87982,10.94051,2.87982,10.94051",
+    "geom:latitude":10.94051,
+    "geom:longitude":2.87982,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Benechouto",
+    "gn:country_code":"BJ",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395179,
+    "gn:latitude":10.94051,
+    "gn:longitude":2.87982,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"B\u00e9n\u00e9chouto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395179
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"798c3973db21c54f95ff3e629c7d4944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1259504727,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1259504727,
+    "wof:lastmodified":1536827368,
+    "wof:name":"Benechouto",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.87982,
+    10.94051,
+    2.87982,
+    10.94051
+],
+  "geometry": {"coordinates":[2.87982,10.94051],"type":"Point"}
+}

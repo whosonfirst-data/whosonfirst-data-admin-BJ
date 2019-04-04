@@ -1,0 +1,67 @@
+{
+  "id": 1243527033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.62999,6.5829,2.62999,6.5829",
+    "geom:latitude":6.5829,
+    "geom:longitude":2.62999,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gbedjehoun",
+    "gn:country_code":"BJ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394173,
+    "gn:latitude":6.5829,
+    "gn:longitude":2.62999,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gb\u00e8djehoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394173
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"fad6b73e2e45c1f9520cd417f78249f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758911,
+            "locality_id":1243527033,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1243527033,
+    "wof:lastmodified":1536689556,
+    "wof:name":"Gbedjehoun",
+    "wof:parent_id":1108758911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.62999,
+    6.5829,
+    2.62999,
+    6.5829
+],
+  "geometry": {"coordinates":[2.62999,6.5829],"type":"Point"}
+}

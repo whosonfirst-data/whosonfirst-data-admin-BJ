@@ -1,0 +1,67 @@
+{
+  "id": 1276956757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83694,7.81866,1.83694,7.81866",
+    "geom:latitude":7.81866,
+    "geom:longitude":1.83694,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Adjafa",
+    "gn:country_code":"BJ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395886,
+    "gn:latitude":7.81866,
+    "gn:longitude":1.83694,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Adjafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395886
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"dd4289e80b682ea9e48066ffdeade2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758841,
+            "locality_id":1276956757,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1276956757,
+    "wof:lastmodified":1536939087,
+    "wof:name":"Adjafa",
+    "wof:parent_id":1108758841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83694,
+    7.81866,
+    1.83694,
+    7.81866
+],
+  "geometry": {"coordinates":[1.83694,7.81866],"type":"Point"}
+}

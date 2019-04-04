@@ -1,0 +1,67 @@
+{
+  "id": 1343738531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.63333,7.18333,2.63333,7.18333",
+    "geom:latitude":7.18333,
+    "geom:longitude":2.63333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Hollibolo",
+    "gn:country_code":"BJ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393878,
+    "gn:latitude":7.18333,
+    "gn:longitude":2.63333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Hollibolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393878
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"802a214f3499b1c4f383e41a680d3c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758855,
+            "locality_id":1343738531,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1343738531,
+    "wof:lastmodified":1536841516,
+    "wof:name":"Hollibolo",
+    "wof:parent_id":1108758855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.63333,
+    7.18333,
+    2.63333,
+    7.18333
+],
+  "geometry": {"coordinates":[2.63333,7.18333],"type":"Point"}
+}

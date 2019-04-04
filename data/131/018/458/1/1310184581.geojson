@@ -1,0 +1,67 @@
+{
+  "id": 1310184581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.44881,9.6107,1.44881,9.6107",
+    "geom:latitude":9.6107,
+    "geom:longitude":1.44881,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sokobo",
+    "gn:country_code":"BJ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391674,
+    "gn:latitude":9.6107,
+    "gn:longitude":1.44881,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Sokobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391674
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c305e9c1c19cbfe64c7c934633822810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1310184581,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1310184581,
+    "wof:lastmodified":1536881844,
+    "wof:name":"Sokobo",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.44881,
+    9.6107,
+    1.44881,
+    9.6107
+],
+  "geometry": {"coordinates":[1.44881,9.6107],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310522893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41483,11.3077,2.41483,11.3077",
+    "geom:latitude":11.3077,
+    "geom:longitude":2.41483,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Toke-Banta",
+    "gn:country_code":"BJ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391146,
+    "gn:latitude":11.3077,
+    "gn:longitude":2.41483,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tok\u00e9-Banta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391146
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"08a48e7db545927652ac9ebfbd4c22a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1310522893,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1310522893,
+    "wof:lastmodified":1536891504,
+    "wof:name":"Toke-Banta",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41483,
+    11.3077,
+    2.41483,
+    11.3077
+],
+  "geometry": {"coordinates":[2.41483,11.3077],"type":"Point"}
+}

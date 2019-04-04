@@ -1,0 +1,75 @@
+{
+  "id": 1260262331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41141,9.71693,1.41141,9.71693",
+    "geom:latitude":9.71693,
+    "geom:longitude":1.41141,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"7669263.0",
+    "gn:admin3_code":"11790011.0",
+    "gn:asciiname":"Badjoude",
+    "gn:country_code":"BJ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394520,
+    "gn:latitude":9.71693,
+    "gn:longitude":1.41141,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Badjoud\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dompago",
+        "Batloud\u00e9",
+        "Badjoud\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394520,
+        "wk:page":"Badjoud%C3%A8"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0c7d245c903df30c73357935e0d3ec55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1260262331,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1260262331,
+    "wof:lastmodified":1537587873,
+    "wof:name":"Badjoude",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41141,
+    9.71693,
+    1.41141,
+    9.71693
+],
+  "geometry": {"coordinates":[1.41141,9.71693],"type":"Point"}
+}

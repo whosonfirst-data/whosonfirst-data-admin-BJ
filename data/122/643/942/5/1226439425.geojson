@@ -1,0 +1,67 @@
+{
+  "id": 1226439425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1987,10.76703,1.1987,10.76703",
+    "geom:latitude":10.76703,
+    "geom:longitude":1.1987,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Yassenntini",
+    "gn:country_code":"BJ",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390813,
+    "gn:latitude":10.76703,
+    "gn:longitude":1.1987,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Yassenntini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390813
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"94a27c0dc3702567c3dc5fb56abcfcc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1226439425,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226439425,
+    "wof:lastmodified":1536654637,
+    "wof:name":"Yassenntini",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1987,
+    10.76703,
+    1.1987,
+    10.76703
+],
+  "geometry": {"coordinates":[1.1987,10.76703],"type":"Point"}
+}

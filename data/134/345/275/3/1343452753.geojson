@@ -1,0 +1,67 @@
+{
+  "id": 1343452753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.85744,10.62395,2.85744,10.62395",
+    "geom:latitude":10.62395,
+    "geom:longitude":2.85744,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tena",
+    "gn:country_code":"BJ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391323,
+    "gn:latitude":10.62395,
+    "gn:longitude":2.85744,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"T\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391323
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c19656340063c2139cacd4077a3cd96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1343452753,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343452753,
+    "wof:lastmodified":1536757486,
+    "wof:name":"Tena",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.85744,
+    10.62395,
+    2.85744,
+    10.62395
+],
+  "geometry": {"coordinates":[2.85744,10.62395],"type":"Point"}
+}

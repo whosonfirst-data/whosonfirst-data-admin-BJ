@@ -1,0 +1,72 @@
+{
+  "id": 1327253365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.37321,11.12163,3.37321,11.12163",
+    "geom:latitude":11.12163,
+    "geom:longitude":3.37321,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lougou",
+    "gn:country_code":"BJ",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392872,
+    "gn:latitude":11.12163,
+    "gn:longitude":3.37321,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lugu",
+        "Lougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392872,
+        "wk:page":"Lougou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"4b7d1bf50101f0ad64ece04303b451e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1327253365,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1327253365,
+    "wof:lastmodified":1537587859,
+    "wof:name":"Lougou",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.37321,
+    11.12163,
+    3.37321,
+    11.12163
+],
+  "geometry": {"coordinates":[3.37321,11.12163],"type":"Point"}
+}

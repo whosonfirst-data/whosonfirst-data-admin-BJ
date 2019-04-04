@@ -1,0 +1,71 @@
+{
+  "id": 1259756351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.77214,6.4962,1.77214,6.4962",
+    "geom:latitude":6.4962,
+    "geom:longitude":1.77214,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Komouhoue",
+    "gn:country_code":"BJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393392,
+    "gn:latitude":6.4962,
+    "gn:longitude":1.77214,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Komouhou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konouhou\u00e9",
+        "Komouhou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        1108758965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393392
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a6b3471d792ad9abbe668ec19c0c20db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758965,
+            "locality_id":1259756351,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1259756351,
+    "wof:lastmodified":1537587863,
+    "wof:name":"Komouhoue",
+    "wof:parent_id":1108758965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.77214,
+    6.4962,
+    1.77214,
+    6.4962
+],
+  "geometry": {"coordinates":[1.77214,6.4962],"type":"Point"}
+}

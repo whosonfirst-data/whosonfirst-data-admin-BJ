@@ -1,0 +1,67 @@
+{
+  "id": 1293877441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.27134,10.37731,3.27134,10.37731",
+    "geom:latitude":10.37731,
+    "geom:longitude":3.27134,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gbedakparou",
+    "gn:country_code":"BJ",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394178,
+    "gn:latitude":10.37731,
+    "gn:longitude":3.27134,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gb\u00e9dakparou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394178
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"348b16a101b6f8c916167389455d5f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758835,
+            "locality_id":1293877441,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1293877441,
+    "wof:lastmodified":1536722432,
+    "wof:name":"Gbedakparou",
+    "wof:parent_id":1108758835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.27134,
+    10.37731,
+    3.27134,
+    10.37731
+],
+  "geometry": {"coordinates":[3.27134,10.37731],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226561999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.62434,10.32492,1.62434,10.32492",
+    "geom:latitude":10.32492,
+    "geom:longitude":1.62434,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ganikperou",
+    "gn:country_code":"BJ",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394241,
+    "gn:latitude":10.32492,
+    "gn:longitude":1.62434,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ganikp\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganiperou",
+        "Ganikp\u00e9rou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394241
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2e4144673b55d9dfa65b1b9dd4c2e6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1226561999,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226561999,
+    "wof:lastmodified":1537587871,
+    "wof:name":"Ganikperou",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.62434,
+    10.32492,
+    1.62434,
+    10.32492
+],
+  "geometry": {"coordinates":[1.62434,10.32492],"type":"Point"}
+}

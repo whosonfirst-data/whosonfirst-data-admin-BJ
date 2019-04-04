@@ -1,0 +1,67 @@
+{
+  "id": 1309824251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.50179,9.07698,2.50179,9.07698",
+    "geom:latitude":9.07698,
+    "geom:longitude":2.50179,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kenoukpanou",
+    "gn:country_code":"BJ",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393573,
+    "gn:latitude":9.07698,
+    "gn:longitude":2.50179,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"K\u00e9noukpanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393573
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"673116bebc80452a854f47891ab796fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758837,
+            "locality_id":1309824251,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1309824251,
+    "wof:lastmodified":1536904747,
+    "wof:name":"Kenoukpanou",
+    "wof:parent_id":1108758837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.50179,
+    9.07698,
+    2.50179,
+    9.07698
+],
+  "geometry": {"coordinates":[2.50179,9.07698],"type":"Point"}
+}

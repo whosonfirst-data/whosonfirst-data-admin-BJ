@@ -1,0 +1,67 @@
+{
+  "id": 1276894093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.20886,10.33192,1.20886,10.33192",
+    "geom:latitude":10.33192,
+    "geom:longitude":1.20886,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kouniguenngou",
+    "gn:country_code":"BJ",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393173,
+    "gn:latitude":10.33192,
+    "gn:longitude":1.20886,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kouniguenngou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393173
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"76b85b72376ae77d715d8d8eb7421469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758859,
+            "locality_id":1276894093,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276894093,
+    "wof:lastmodified":1537021226,
+    "wof:name":"Kouniguenngou",
+    "wof:parent_id":1108758859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.20886,
+    10.33192,
+    1.20886,
+    10.33192
+],
+  "geometry": {"coordinates":[1.20886,10.33192],"type":"Point"}
+}

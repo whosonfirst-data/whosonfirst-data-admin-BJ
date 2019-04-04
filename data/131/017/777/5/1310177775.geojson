@@ -1,0 +1,73 @@
+{
+  "id": 1310177775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.56126,6.51948,2.56126,6.51948",
+    "geom:latitude":6.51948,
+    "geom:longitude":2.56126,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"9063965.0",
+    "gn:asciiname":"Vakon",
+    "gn:country_code":"BJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391021,
+    "gn:latitude":6.51948,
+    "gn:longitude":2.56126,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Vakon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vacon",
+        "Vakon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391021,
+        "wk:page":"Vakon"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f5b8aa8bf34e3c3a924a7f61ed290725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758903,
+            "locality_id":1310177775,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1310177775,
+    "wof:lastmodified":1537587842,
+    "wof:name":"Vakon",
+    "wof:parent_id":1108758903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.56126,
+    6.51948,
+    2.56126,
+    6.51948
+],
+  "geometry": {"coordinates":[2.56126,6.51948],"type":"Point"}
+}

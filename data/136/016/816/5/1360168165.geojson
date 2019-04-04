@@ -1,0 +1,67 @@
+{
+  "id": 1360168165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.39086,6.37034,2.39086,6.37034",
+    "geom:latitude":6.37034,
+    "geom:longitude":2.39086,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dandji",
+    "gn:country_code":"BJ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497763,
+    "gn:latitude":6.37034,
+    "gn:longitude":2.39086,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Dandji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668811,
+        421202663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497763
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"30f7ce17ec4f154c7c8bcb987e4a0ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421202663,
+            "locality_id":1360168165,
+            "region_id":85668811
+        }
+    ],
+    "wof:id":1360168165,
+    "wof:lastmodified":1536824889,
+    "wof:name":"Dandji",
+    "wof:parent_id":421202663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.39086,
+    6.37034,
+    2.39086,
+    6.37034
+],
+  "geometry": {"coordinates":[2.39086,6.37034],"type":"Point"}
+}

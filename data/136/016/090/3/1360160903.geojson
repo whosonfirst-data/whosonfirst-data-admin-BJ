@@ -1,0 +1,71 @@
+{
+  "id": 1360160903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.55503,7.34916,2.55503,7.34916",
+    "geom:latitude":7.34916,
+    "geom:longitude":2.55503,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Eveji",
+    "gn:country_code":"BJ",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394417,
+    "gn:latitude":7.34916,
+    "gn:longitude":2.55503,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ev\u00e9ji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vedji",
+        "Ev\u00e9ji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394417
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e8a26746638536da85fa7fccf708de36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758853,
+            "locality_id":1360160903,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1360160903,
+    "wof:lastmodified":1537587872,
+    "wof:name":"Eveji",
+    "wof:parent_id":1108758853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.55503,
+    7.34916,
+    2.55503,
+    7.34916
+],
+  "geometry": {"coordinates":[2.55503,7.34916],"type":"Point"}
+}

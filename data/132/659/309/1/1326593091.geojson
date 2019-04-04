@@ -1,0 +1,70 @@
+{
+  "id": 1326593091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.33861,7.23722,2.33861,7.23722",
+    "geom:latitude":7.23722,
+    "geom:longitude":2.33861,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7668907.0",
+    "gn:admin3_code":"11789922.0",
+    "gn:asciiname":"Naogon",
+    "gn:country_code":"BJ",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392617,
+    "gn:latitude":7.23722,
+    "gn:longitude":2.33861,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"Naogon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392617,
+        "wk:page":"Naogon"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8abdca0388f05d22a8c222ac94c5435e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758941,
+            "locality_id":1326593091,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1326593091,
+    "wof:lastmodified":1537487834,
+    "wof:name":"Naogon",
+    "wof:parent_id":1108758941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.33861,
+    7.23722,
+    2.33861,
+    7.23722
+],
+  "geometry": {"coordinates":[2.33861,7.23722],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293177291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56711,9.68153,1.56711,9.68153",
+    "geom:latitude":9.68153,
+    "geom:longitude":1.56711,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"8260658.0",
+    "gn:admin3_code":"11790049.0",
+    "gn:asciiname":"Barei",
+    "gn:country_code":"BJ",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395282,
+    "gn:latitude":9.68153,
+    "gn:longitude":1.56711,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Barei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar\u00e9l",
+        "Barei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395282,
+        "wk:page":"Barei"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"56622f6238b03f5050c2a4f987d9dcd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1293177291,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1293177291,
+    "wof:lastmodified":1537587881,
+    "wof:name":"Barei",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56711,
+    9.68153,
+    1.56711,
+    9.68153
+],
+  "geometry": {"coordinates":[1.56711,9.68153],"type":"Point"}
+}

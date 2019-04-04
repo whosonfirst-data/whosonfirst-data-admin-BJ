@@ -1,0 +1,67 @@
+{
+  "id": 1209088531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.55142,6.53288,2.55142,6.53288",
+    "geom:latitude":6.53288,
+    "geom:longitude":2.55142,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"7668900.0",
+    "gn:asciiname":"Hozin",
+    "gn:country_code":"BJ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393845,
+    "gn:latitude":6.53288,
+    "gn:longitude":2.55142,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Hozin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hozuin",
+        "Hozin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393845,
+        "wk:page":"Hozin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"5748cb74a3ad47fdf996566ba1d996cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209088531
+        }
+    ],
+    "wof:id":1209088531,
+    "wof:lastmodified":1537587867,
+    "wof:name":"Hozin",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.55142,
+    6.53288,
+    2.55142,
+    6.53288
+],
+  "geometry": {"coordinates":[2.55142,6.53288],"type":"Point"}
+}

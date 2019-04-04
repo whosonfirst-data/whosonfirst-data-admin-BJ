@@ -1,0 +1,67 @@
+{
+  "id": 1360008023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.06186,11.35216,3.06186,11.35216",
+    "geom:latitude":11.35216,
+    "geom:longitude":3.06186,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tia",
+    "gn:country_code":"BJ",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391296,
+    "gn:latitude":11.35216,
+    "gn:longitude":3.06186,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Tia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391296
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"023049d03d91b2a2e8c640bf5dc5e8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758975,
+            "locality_id":1360008023,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1360008023,
+    "wof:lastmodified":1537054490,
+    "wof:name":"Tia",
+    "wof:parent_id":1108758975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.06186,
+    11.35216,
+    3.06186,
+    11.35216
+],
+  "geometry": {"coordinates":[3.06186,11.35216],"type":"Point"}
+}

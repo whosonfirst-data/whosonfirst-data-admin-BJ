@@ -1,0 +1,75 @@
+{
+  "id": 1344045653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.23333,7.91667,2.23333,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":2.23333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Cossa-Kame",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394820,
+    "gn:latitude":7.91667,
+    "gn:longitude":2.23333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Cossa-Kam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kossokam",
+        "Cosso-Kame",
+        "Kossa-Kam\u00e9",
+        "Kosso-Kam\u00e9",
+        "Cossa-Kam\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394820
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"07bff3406baf8d4fb31735e6252c0b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758945,
+            "locality_id":1344045653,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1344045653,
+    "wof:lastmodified":1537587876,
+    "wof:name":"Cossa-Kame",
+    "wof:parent_id":1108758945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.23333,
+    7.91667,
+    2.23333,
+    7.91667
+],
+  "geometry": {"coordinates":[2.23333,7.91667],"type":"Point"}
+}

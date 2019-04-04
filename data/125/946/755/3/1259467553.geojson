@@ -1,0 +1,73 @@
+{
+  "id": 1259467553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.22009,6.64005,2.22009,6.64005",
+    "geom:latitude":6.64005,
+    "geom:longitude":2.22009,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Segou",
+    "gn:country_code":"BJ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391866,
+    "gn:latitude":6.64005,
+    "gn:longitude":2.22009,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"S\u00e9gou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9kou",
+        "S\u00e9kkou",
+        "S\u00e9gou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421202551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391866,
+        "wk:page":"S%C3%A9kou%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"bad7e8327f8429a1bffbea4b28cb3912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421202551,
+            "locality_id":1259467553,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1259467553,
+    "wof:lastmodified":1537587850,
+    "wof:name":"Segou",
+    "wof:parent_id":421202551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.22009,
+    6.64005,
+    2.22009,
+    6.64005
+],
+  "geometry": {"coordinates":[2.22009,6.64005],"type":"Point"}
+}

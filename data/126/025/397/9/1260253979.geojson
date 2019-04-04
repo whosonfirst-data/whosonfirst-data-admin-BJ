@@ -1,0 +1,67 @@
+{
+  "id": 1260253979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.00555,9.47714,2.00555,9.47714",
+    "geom:latitude":9.47714,
+    "geom:longitude":2.00555,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Korobani",
+    "gn:country_code":"BJ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393329,
+    "gn:latitude":9.47714,
+    "gn:longitude":2.00555,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Korobani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393329
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e5f3fc11069c5793213f2f9dc4aa287c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1260253979,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1260253979,
+    "wof:lastmodified":1536751835,
+    "wof:name":"Korobani",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.00555,
+    9.47714,
+    2.00555,
+    9.47714
+],
+  "geometry": {"coordinates":[2.00555,9.47714],"type":"Point"}
+}

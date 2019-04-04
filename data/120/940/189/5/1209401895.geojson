@@ -1,0 +1,61 @@
+{
+  "id": 1209401895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.72761,7.34404,1.72761,7.34404",
+    "geom:latitude":7.34404,
+    "geom:longitude":1.72761,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Lanhouetome",
+    "gn:country_code":"BJ",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392955,
+    "gn:latitude":7.34404,
+    "gn:longitude":1.72761,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Lanhouetom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392955
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"36c44f12634323efdff7d9be04e43069",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209401895
+        }
+    ],
+    "wof:id":1209401895,
+    "wof:lastmodified":1536288118,
+    "wof:name":"Lanhouetome",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.72761,
+    7.34404,
+    1.72761,
+    7.34404
+],
+  "geometry": {"coordinates":[1.72761,7.34404],"type":"Point"}
+}

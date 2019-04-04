@@ -1,0 +1,61 @@
+{
+  "id": 1209503495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86568,7.7283,1.86568,7.7283",
+    "geom:latitude":7.7283,
+    "geom:longitude":1.86568,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Konkon",
+    "gn:country_code":"BJ",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393360,
+    "gn:latitude":7.7283,
+    "gn:longitude":1.86568,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Konkon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393360
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f030ec5386102e16787d9643845b9105",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209503495
+        }
+    ],
+    "wof:id":1209503495,
+    "wof:lastmodified":1536285108,
+    "wof:name":"Konkon",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86568,
+    7.7283,
+    1.86568,
+    7.7283
+],
+  "geometry": {"coordinates":[1.86568,7.7283],"type":"Point"}
+}

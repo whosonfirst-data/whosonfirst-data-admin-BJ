@@ -1,0 +1,71 @@
+{
+  "id": 1293270459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.88046,8.21345,1.88046,8.21345",
+    "geom:latitude":8.21345,
+    "geom:longitude":1.88046,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Okpedie",
+    "gn:country_code":"BJ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392395,
+    "gn:latitude":8.21345,
+    "gn:longitude":1.88046,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Okp\u00e9di\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okp\u00e9di\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392395,
+        "wk:page":"Okpedie"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e88a4ddac0d65d1576ad1240b4136105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758839,
+            "locality_id":1293270459,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1293270459,
+    "wof:lastmodified":1537587855,
+    "wof:name":"Okpedie",
+    "wof:parent_id":1108758839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.88046,
+    8.21345,
+    1.88046,
+    8.21345
+],
+  "geometry": {"coordinates":[1.88046,8.21345],"type":"Point"}
+}

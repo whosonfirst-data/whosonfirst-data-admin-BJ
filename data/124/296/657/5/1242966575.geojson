@@ -1,0 +1,74 @@
+{
+  "id": 1242966575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.29169,11.85628,3.29169,11.85628",
+    "geom:latitude":11.85628,
+    "geom:longitude":3.29169,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7874170.0",
+    "gn:admin3_code":"11239735.0",
+    "gn:asciiname":"Tomboutou",
+    "gn:country_code":"BJ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391120,
+    "gn:latitude":11.85628,
+    "gn:longitude":3.29169,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Tomboutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tonboutou",
+        "Tomboutou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391120,
+        "wk:page":"Tomboutou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"36a574e8fba417a393127297b8858376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758957,
+            "locality_id":1242966575,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1242966575,
+    "wof:lastmodified":1537587843,
+    "wof:name":"Tomboutou",
+    "wof:parent_id":1108758957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.29169,
+    11.85628,
+    3.29169,
+    11.85628
+],
+  "geometry": {"coordinates":[3.29169,11.85628],"type":"Point"}
+}

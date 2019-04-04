@@ -1,0 +1,66 @@
+{
+  "id": 1209411235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.16667,6.38333,2.16667,6.38333",
+    "geom:latitude":6.38333,
+    "geom:longitude":2.16667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tchakpecondji",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391386,
+    "gn:latitude":6.38333,
+    "gn:longitude":2.16667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tchakp\u00e9condji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchiap\u00e9codji",
+        "Tchakp\u00e9condji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391386
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1f2382d2223bd5a535fc8ba699b3ec8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209411235
+        }
+    ],
+    "wof:id":1209411235,
+    "wof:lastmodified":1537587845,
+    "wof:name":"Tchakpecondji",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.16667,
+    6.38333,
+    2.16667,
+    6.38333
+],
+  "geometry": {"coordinates":[2.16667,6.38333],"type":"Point"}
+}

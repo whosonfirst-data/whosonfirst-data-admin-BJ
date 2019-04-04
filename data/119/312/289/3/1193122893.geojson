@@ -1,0 +1,67 @@
+{
+  "id": 1193122893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1509,10.22216,1.1509,10.22216",
+    "geom:latitude":10.22216,
+    "geom:longitude":1.1509,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kounokogou",
+    "gn:country_code":"BJ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393172,
+    "gn:latitude":10.22216,
+    "gn:longitude":1.1509,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kounokogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393172
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"85ac48934682322ea2a08b16e5ec01de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758859,
+            "locality_id":1193122893,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1193122893,
+    "wof:lastmodified":1536384015,
+    "wof:name":"Kounokogou",
+    "wof:parent_id":1108758859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1509,
+    10.22216,
+    1.1509,
+    10.22216
+],
+  "geometry": {"coordinates":[1.1509,10.22216],"type":"Point"}
+}

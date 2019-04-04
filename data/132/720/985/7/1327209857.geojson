@@ -1,0 +1,72 @@
+{
+  "id": 1327209857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.05223,6.96492,2.05223,6.96492",
+    "geom:latitude":6.96492,
+    "geom:longitude":2.05223,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Seme-Akiza",
+    "gn:country_code":"BJ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391832,
+    "gn:latitude":6.96492,
+    "gn:longitude":2.05223,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"S\u00e9m\u00e9-Akiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akiza",
+        "S\u00e9m\u00e9-Akiza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391832,
+        "wk:page":"Akiza%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"320c18bd6bd1f46f20b2eb8af6d91459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758939,
+            "locality_id":1327209857,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1327209857,
+    "wof:lastmodified":1537587849,
+    "wof:name":"Seme-Akiza",
+    "wof:parent_id":1108758939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.05223,
+    6.96492,
+    2.05223,
+    6.96492
+],
+  "geometry": {"coordinates":[2.05223,6.96492],"type":"Point"}
+}

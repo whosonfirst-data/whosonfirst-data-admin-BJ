@@ -1,0 +1,68 @@
+{
+  "id": 1226514853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.54454,6.46008,2.54454,6.46008",
+    "geom:latitude":6.46008,
+    "geom:longitude":2.54454,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"7668940.0",
+    "gn:asciiname":"Zoungame",
+    "gn:country_code":"BJ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428873,
+    "gn:latitude":6.46008,
+    "gn:longitude":2.54454,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Zoungam\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428873
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"82f9651d531eb65d646bcb51e5090102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758905,
+            "locality_id":1226514853,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1226514853,
+    "wof:lastmodified":1537040954,
+    "wof:name":"Zoungame",
+    "wof:parent_id":1108758905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.54454,
+    6.46008,
+    2.54454,
+    6.46008
+],
+  "geometry": {"coordinates":[2.54454,6.46008],"type":"Point"}
+}

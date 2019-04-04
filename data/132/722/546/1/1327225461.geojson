@@ -1,0 +1,67 @@
+{
+  "id": 1327225461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.81612,10.69222,2.81612,10.69222",
+    "geom:latitude":10.69222,
+    "geom:longitude":2.81612,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Wenou",
+    "gn:country_code":"BJ",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390919,
+    "gn:latitude":10.69222,
+    "gn:longitude":2.81612,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"W\u00e9nou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390919
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ff98b4eb3bad9bfbd1fb29f3a0cea7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1327225461,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1327225461,
+    "wof:lastmodified":1536979020,
+    "wof:name":"Wenou",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.81612,
+    10.69222,
+    2.81612,
+    10.69222
+],
+  "geometry": {"coordinates":[2.81612,10.69222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310293931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.05002,9.86603,3.05002,9.86603",
+    "geom:latitude":9.86603,
+    "geom:longitude":3.05002,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Darouno",
+    "gn:country_code":"BJ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394722,
+    "gn:latitude":9.86603,
+    "gn:longitude":3.05002,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Darouno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394722
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"53058fcfcb69eb2e7dbcd028920025f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":1310293931,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1310293931,
+    "wof:lastmodified":1536724987,
+    "wof:name":"Darouno",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.05002,
+    9.86603,
+    3.05002,
+    9.86603
+],
+  "geometry": {"coordinates":[3.05002,9.86603],"type":"Point"}
+}

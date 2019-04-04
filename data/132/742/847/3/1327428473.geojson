@@ -1,0 +1,67 @@
+{
+  "id": 1327428473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41667,11.01667,2.41667,11.01667",
+    "geom:latitude":11.01667,
+    "geom:longitude":2.41667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Boumboussou",
+    "gn:country_code":"BJ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394896,
+    "gn:latitude":11.01667,
+    "gn:longitude":2.41667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Boumboussou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394896
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"601270b7e907e7dd5d3cc68d2bd0f9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1327428473,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1327428473,
+    "wof:lastmodified":1536686518,
+    "wof:name":"Boumboussou",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41667,
+    11.01667,
+    2.41667,
+    11.01667
+],
+  "geometry": {"coordinates":[2.41667,11.01667],"type":"Point"}
+}

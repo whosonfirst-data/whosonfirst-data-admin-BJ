@@ -1,0 +1,67 @@
+{
+  "id": 1327224567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23666,10.58909,1.23666,10.58909",
+    "geom:latitude":10.58909,
+    "geom:longitude":1.23666,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Biakou",
+    "gn:country_code":"BJ",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395117,
+    "gn:latitude":10.58909,
+    "gn:longitude":1.23666,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Biakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421172113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395117
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"34f2c8b1e4bd5e9dcc7f0041c86f0bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421172113,
+            "locality_id":1327224567,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1327224567,
+    "wof:lastmodified":1536980280,
+    "wof:name":"Biakou",
+    "wof:parent_id":421172113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23666,
+    10.58909,
+    1.23666,
+    10.58909
+],
+  "geometry": {"coordinates":[1.23666,10.58909],"type":"Point"}
+}

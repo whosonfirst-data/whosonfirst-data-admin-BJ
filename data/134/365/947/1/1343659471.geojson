@@ -1,0 +1,67 @@
+{
+  "id": 1343659471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.17039,11.30096,3.17039,11.30096",
+    "geom:latitude":11.30096,
+    "geom:longitude":3.17039,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fouay",
+    "gn:country_code":"BJ",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394335,
+    "gn:latitude":11.30096,
+    "gn:longitude":3.17039,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Fouay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394335
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"55e1a1b5cf3f924ced8560d1974b7cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758975,
+            "locality_id":1343659471,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343659471,
+    "wof:lastmodified":1536956549,
+    "wof:name":"Fouay",
+    "wof:parent_id":1108758975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.17039,
+    11.30096,
+    3.17039,
+    11.30096
+],
+  "geometry": {"coordinates":[3.17039,11.30096],"type":"Point"}
+}

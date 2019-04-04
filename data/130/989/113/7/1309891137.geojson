@@ -1,0 +1,67 @@
+{
+  "id": 1309891137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01414,10.40479,1.01414,10.40479",
+    "geom:latitude":10.40479,
+    "geom:longitude":1.01414,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tatouta",
+    "gn:country_code":"BJ",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391389,
+    "gn:latitude":10.40479,
+    "gn:longitude":1.01414,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tatouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391389
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"28eeb7b267cf151f0398e132ed9b7c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758859,
+            "locality_id":1309891137,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1309891137,
+    "wof:lastmodified":1536807846,
+    "wof:name":"Tatouta",
+    "wof:parent_id":1108758859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01414,
+    10.40479,
+    1.01414,
+    10.40479
+],
+  "geometry": {"coordinates":[1.01414,10.40479],"type":"Point"}
+}

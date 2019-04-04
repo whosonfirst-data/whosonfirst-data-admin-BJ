@@ -1,0 +1,71 @@
+{
+  "id": 1226627399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.6793,8.12343,1.6793,8.12343",
+    "geom:latitude":8.12343,
+    "geom:longitude":1.6793,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Alekpo",
+    "gn:country_code":"BJ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395645,
+    "gn:latitude":8.12343,
+    "gn:longitude":1.6793,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Al\u00e9kpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u00e9kpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395645,
+        "wk:page":"Alekpo"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"35e34d1db541954ec2bf3c1ef5f60ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758841,
+            "locality_id":1226627399,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1226627399,
+    "wof:lastmodified":1537587885,
+    "wof:name":"Alekpo",
+    "wof:parent_id":1108758841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6793,
+    8.12343,
+    1.6793,
+    8.12343
+],
+  "geometry": {"coordinates":[1.6793,8.12343],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243336061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.56632,6.53228,2.56632,6.53228",
+    "geom:latitude":6.53228,
+    "geom:longitude":2.56632,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"8260657.0",
+    "gn:admin3_code":"11789879.0",
+    "gn:asciiname":"Djigbe",
+    "gn:country_code":"BJ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394574,
+    "gn:latitude":6.53228,
+    "gn:longitude":2.56632,
+    "gn:modification_date":"2018-03-20",
+    "gn:name":"Djigb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djib\u00e9",
+        "Djigb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394574
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3d85eca1f6d1d6883ca854c9d20ec6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758903,
+            "locality_id":1243336061,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1243336061,
+    "wof:lastmodified":1537587873,
+    "wof:name":"Djigbe",
+    "wof:parent_id":1108758903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.56632,
+    6.53228,
+    2.56632,
+    6.53228
+],
+  "geometry": {"coordinates":[2.56632,6.53228],"type":"Point"}
+}

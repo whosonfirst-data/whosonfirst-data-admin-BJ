@@ -1,0 +1,67 @@
+{
+  "id": 1209897371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.03944,8.43335,2.03944,8.43335",
+    "geom:latitude":8.43335,
+    "geom:longitude":2.03944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Djagbalo",
+    "gn:country_code":"BJ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394599,
+    "gn:latitude":8.43335,
+    "gn:longitude":2.03944,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Djagbalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394599
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"904304bb2fafb9f8d27eb35d60d4088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758839,
+            "locality_id":1209897371,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1209897371,
+    "wof:lastmodified":1536388001,
+    "wof:name":"Djagbalo",
+    "wof:parent_id":1108758839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.03944,
+    8.43335,
+    2.03944,
+    8.43335
+],
+  "geometry": {"coordinates":[2.03944,8.43335],"type":"Point"}
+}

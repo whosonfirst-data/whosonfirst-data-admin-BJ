@@ -1,0 +1,75 @@
+{
+  "id": 1243038307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.96051,6.41007,1.96051,6.41007",
+    "geom:latitude":6.41007,
+    "geom:longitude":1.96051,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Segbohoue",
+    "gn:country_code":"BJ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391868,
+    "gn:latitude":6.41007,
+    "gn:longitude":1.96051,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e8gbohou\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Segborue",
+        "Segbowe",
+        "Segbourne",
+        "Segborou\u00e9",
+        "S\u00e8gbohou\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421195933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391868,
+        "wk:page":"Segborou%C3%A9"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9aec035c5b6812a7f6717aeb219263a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421195933,
+            "locality_id":1243038307,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1243038307,
+    "wof:lastmodified":1537587850,
+    "wof:name":"Segbohoue",
+    "wof:parent_id":421195933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.96051,
+    6.41007,
+    1.96051,
+    6.41007
+],
+  "geometry": {"coordinates":[1.96051,6.41007],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209402777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.94558,7.94104,1.94558,7.94104",
+    "geom:latitude":7.94104,
+    "geom:longitude":1.94558,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"8260650.0",
+    "gn:admin3_code":"11839350.0",
+    "gn:asciiname":"Ouesse",
+    "gn:country_code":"BJ",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392320,
+    "gn:latitude":7.94104,
+    "gn:longitude":1.94558,
+    "gn:modification_date":"2018-05-29",
+    "gn:name":"Ou\u00e9ss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392320
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"fcf333223affd9c395371f216368c7bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209402777
+        }
+    ],
+    "wof:id":1209402777,
+    "wof:lastmodified":1536288090,
+    "wof:name":"Ouesse",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.94558,
+    7.941039999999999,
+    1.94558,
+    7.941039999999999
+],
+  "geometry": {"coordinates":[1.94558,7.94104],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242958785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.05924,11.18061,3.05924,11.18061",
+    "geom:latitude":11.18061,
+    "geom:longitude":3.05924,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ikekonkou",
+    "gn:country_code":"BJ",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393819,
+    "gn:latitude":11.18061,
+    "gn:longitude":3.05924,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ik\u00e9konkou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393819
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"357187e2a6fd5c89d5800daff82597f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758975,
+            "locality_id":1242958785,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1242958785,
+    "wof:lastmodified":1537010982,
+    "wof:name":"Ikekonkou",
+    "wof:parent_id":1108758975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.05924,
+    11.18061,
+    3.05924,
+    11.18061
+],
+  "geometry": {"coordinates":[3.05924,11.18061],"type":"Point"}
+}

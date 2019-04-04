@@ -1,0 +1,67 @@
+{
+  "id": 1309981913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.38333,7.0,2.38333,7.0",
+    "geom:latitude":7.0,
+    "geom:longitude":2.38333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tchoue",
+    "gn:country_code":"BJ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391350,
+    "gn:latitude":7.0,
+    "gn:longitude":2.38333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tchou\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391350
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"388a94d75b95cacd2d3c5a0748c426de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758939,
+            "locality_id":1309981913,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1309981913,
+    "wof:lastmodified":1536677359,
+    "wof:name":"Tchoue",
+    "wof:parent_id":1108758939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.38333,
+    7.0,
+    2.38333,
+    7.0
+],
+  "geometry": {"coordinates":[2.38333,7.0],"type":"Point"}
+}

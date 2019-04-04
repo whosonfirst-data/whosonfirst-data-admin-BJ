@@ -1,0 +1,69 @@
+{
+  "id": 1209986827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.97989,6.64739,1.97989,6.64739",
+    "geom:latitude":6.64739,
+    "geom:longitude":1.97989,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"8335019.0",
+    "gn:asciiname":"Agbodji",
+    "gn:country_code":"BJ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395794,
+    "gn:latitude":6.64739,
+    "gn:longitude":1.97989,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Agbodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        1108758893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395794,
+        "wk:page":"Agbodji"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"bff33a90d7c1126476b7047b87be7f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758893,
+            "locality_id":1209986827,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1209986827,
+    "wof:lastmodified":1537487851,
+    "wof:name":"Agbodji",
+    "wof:parent_id":1108758893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.97989,
+    6.64739,
+    1.97989,
+    6.64739
+],
+  "geometry": {"coordinates":[1.97989,6.64739],"type":"Point"}
+}

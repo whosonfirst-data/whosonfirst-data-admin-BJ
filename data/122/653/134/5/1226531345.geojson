@@ -1,0 +1,67 @@
+{
+  "id": 1226531345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.46325,9.65752,2.46325,9.65752",
+    "geom:latitude":9.65752,
+    "geom:longitude":2.46325,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Darno",
+    "gn:country_code":"BJ",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394727,
+    "gn:latitude":9.65752,
+    "gn:longitude":2.46325,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Darno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394727
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"60d0ab719b75a3d87f307a58f884bbf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758877,
+            "locality_id":1226531345,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1226531345,
+    "wof:lastmodified":1537018051,
+    "wof:name":"Darno",
+    "wof:parent_id":1108758877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.46325,
+    9.65752,
+    2.46325,
+    9.65752
+],
+  "geometry": {"coordinates":[2.46325,9.65752],"type":"Point"}
+}

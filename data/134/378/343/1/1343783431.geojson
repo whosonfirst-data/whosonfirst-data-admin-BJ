@@ -1,0 +1,76 @@
+{
+  "id": 1343783431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.42969,10.85025,3.42969,10.85025",
+    "geom:latitude":10.85025,
+    "geom:longitude":3.42969,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"10344468.0",
+    "gn:admin3_code":"11789884.0",
+    "gn:asciiname":"Sokotindji",
+    "gn:country_code":"BJ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391673,
+    "gn:latitude":10.85025,
+    "gn:longitude":3.42969,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Sokotindji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokotendji",
+        "Socotindji",
+        "Sokotinji",
+        "Sokotindji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391673,
+        "wk:page":"Sokotindji"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e75590dd06af2c0d21cdc408ebecb6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1343783431,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343783431,
+    "wof:lastmodified":1537587848,
+    "wof:name":"Sokotindji",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.42969,
+    10.85025,
+    3.42969,
+    10.85025
+],
+  "geometry": {"coordinates":[3.42969,10.85025],"type":"Point"}
+}

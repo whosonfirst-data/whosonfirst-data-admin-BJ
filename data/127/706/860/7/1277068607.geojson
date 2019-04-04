@@ -1,0 +1,67 @@
+{
+  "id": 1277068607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.08107,12.15301,3.08107,12.15301",
+    "geom:latitude":12.15301,
+    "geom:longitude":3.08107,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Toyo",
+    "gn:country_code":"BJ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391032,
+    "gn:latitude":12.15301,
+    "gn:longitude":3.08107,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Toyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391032
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"fc1b9cb186899661e8bcef03ef2058e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758955,
+            "locality_id":1277068607,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1277068607,
+    "wof:lastmodified":1536788478,
+    "wof:name":"Toyo",
+    "wof:parent_id":1108758955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.08107,
+    12.15301,
+    3.08107,
+    12.15301
+],
+  "geometry": {"coordinates":[3.08107,12.15301],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226427919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.78281,10.40851,0.78281,10.40851",
+    "geom:latitude":10.40851,
+    "geom:longitude":0.78281,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"10344466.0",
+    "gn:admin3_code":"11789894.0",
+    "gn:asciiname":"Datori",
+    "gn:country_code":"BJ",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394704,
+    "gn:latitude":10.40851,
+    "gn:longitude":0.78281,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Datori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Datori-Tiokossi",
+        "Datori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394704,
+        "wk:page":"Datori"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b4110f025e6e5dfa9b5eec2f26075cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758869,
+            "locality_id":1226427919,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226427919,
+    "wof:lastmodified":1537587875,
+    "wof:name":"Datori",
+    "wof:parent_id":1108758869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.78281,
+    10.40851,
+    0.78281,
+    10.40851
+],
+  "geometry": {"coordinates":[0.78281,10.40851],"type":"Point"}
+}

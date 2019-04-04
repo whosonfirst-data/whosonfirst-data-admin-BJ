@@ -1,0 +1,67 @@
+{
+  "id": 1192995409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.75,6.86667,1.75,6.86667",
+    "geom:latitude":6.86667,
+    "geom:longitude":1.75,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hangoume",
+    "gn:country_code":"BJ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393897,
+    "gn:latitude":6.86667,
+    "gn:longitude":1.75,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Hangoum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393897
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8187f4f5e44cb5078552d04bca122b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758881,
+            "locality_id":1192995409,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1192995409,
+    "wof:lastmodified":1536376402,
+    "wof:name":"Hangoume",
+    "wof:parent_id":1108758881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.75,
+    6.86667,
+    1.75,
+    6.86667
+],
+  "geometry": {"coordinates":[1.75,6.86667],"type":"Point"}
+}

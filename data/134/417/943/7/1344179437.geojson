@@ -1,0 +1,67 @@
+{
+  "id": 1344179437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.55127,10.05396,1.55127,10.05396",
+    "geom:latitude":10.05396,
+    "geom:longitude":1.55127,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kouboro",
+    "gn:country_code":"BJ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393270,
+    "gn:latitude":10.05396,
+    "gn:longitude":1.55127,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kouboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393270
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"98535696ab6b5db92d55d3be44f1bc5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1344179437,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1344179437,
+    "wof:lastmodified":1536704235,
+    "wof:name":"Kouboro",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.55127,
+    10.05396,
+    1.55127,
+    10.05396
+],
+  "geometry": {"coordinates":[1.55127,10.05396],"type":"Point"}
+}

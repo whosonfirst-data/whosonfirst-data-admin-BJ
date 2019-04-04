@@ -1,0 +1,71 @@
+{
+  "id": 1243061045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42938,10.20053,1.42938,10.20053",
+    "geom:latitude":10.20053,
+    "geom:longitude":1.42938,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koussanzamou",
+    "gn:country_code":"BJ",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393133,
+    "gn:latitude":10.20053,
+    "gn:longitude":1.42938,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Koussanzamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boussasambou",
+        "Koussanzamou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393133
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c5af9858b85fce890c5c3a9870da8f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1243061045,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1243061045,
+    "wof:lastmodified":1537587861,
+    "wof:name":"Koussanzamou",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42938,
+    10.20053,
+    1.42938,
+    10.20053
+],
+  "geometry": {"coordinates":[1.42938,10.20053],"type":"Point"}
+}

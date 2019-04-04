@@ -1,0 +1,62 @@
+{
+  "id": 1209190841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.5,9.42164,1.5,9.42164",
+    "geom:latitude":9.42164,
+    "geom:longitude":1.5,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Odokoriko",
+    "gn:country_code":"BJ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392439,
+    "gn:latitude":9.42164,
+    "gn:longitude":1.5,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Odokoriko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392439,
+        "wk:page":"Odokoriko"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6a2c771478131e67a5d2550655a4eed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209190841
+        }
+    ],
+    "wof:id":1209190841,
+    "wof:lastmodified":1537487833,
+    "wof:name":"Odokoriko",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.5,
+    9.42164,
+    1.5,
+    9.42164
+],
+  "geometry": {"coordinates":[1.5,9.42164],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360058585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.62657,6.60377,1.62657,6.60377",
+    "geom:latitude":6.60377,
+    "geom:longitude":1.62657,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ahoho",
+    "gn:country_code":"BJ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395723,
+    "gn:latitude":6.60377,
+    "gn:longitude":1.62657,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ahoho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        1108758965,
+        85632647,
+        85678537,
+        1108561197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395723
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e6d9ca51d7aba2520bd0b03cb169ee72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758965,
+            "locality_id":1360058585,
+            "region_id":85668823
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561197,
+            "locality_id":1360058585,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1360058585,
+    "wof:lastmodified":1536983270,
+    "wof:name":"Ahoho",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.62657,
+    6.60377,
+    1.62657,
+    6.60377
+],
+  "geometry": {"coordinates":[1.62657,6.60377],"type":"Point"}
+}

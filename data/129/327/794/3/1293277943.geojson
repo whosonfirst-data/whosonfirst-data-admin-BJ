@@ -1,0 +1,75 @@
+{
+  "id": 1293277943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98718,10.5716,0.98718,10.5716",
+    "geom:latitude":10.5716,
+    "geom:longitude":0.98718,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"10344466.0",
+    "gn:admin3_code":"11790216.0",
+    "gn:asciiname":"Topoga",
+    "gn:country_code":"BJ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391109,
+    "gn:latitude":10.5716,
+    "gn:longitude":0.98718,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Topoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holli",
+        "Topoga",
+        "Tapoga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391109,
+        "wk:page":"Tapoga"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9f2421af5476bc495ec3d5b739267f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1293277943,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1293277943,
+    "wof:lastmodified":1537587843,
+    "wof:name":"Topoga",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98718,
+    10.5716,
+    0.98718,
+    10.5716
+],
+  "geometry": {"coordinates":[0.98718,10.5716],"type":"Point"}
+}

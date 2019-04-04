@@ -1,0 +1,61 @@
+{
+  "id": 1209072547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83697,7.32765,1.83697,7.32765",
+    "geom:latitude":7.32765,
+    "geom:longitude":1.83697,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sovlegni",
+    "gn:country_code":"BJ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391547,
+    "gn:latitude":7.32765,
+    "gn:longitude":1.83697,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Sovl\u00e9gni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391547
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"860f30581d6d85a5108176f4fa053e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209072547
+        }
+    ],
+    "wof:id":1209072547,
+    "wof:lastmodified":1536298600,
+    "wof:name":"Sovlegni",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83697,
+    7.32765,
+    1.83697,
+    7.32765
+],
+  "geometry": {"coordinates":[1.83697,7.32765],"type":"Point"}
+}

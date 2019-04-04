@@ -1,0 +1,67 @@
+{
+  "id": 1226129579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66214,7.09384,1.66214,7.09384",
+    "geom:latitude":7.09384,
+    "geom:longitude":1.66214,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Aboloume",
+    "gn:country_code":"BJ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395916,
+    "gn:latitude":7.09384,
+    "gn:longitude":1.66214,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Aboloum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395916
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"602e435b28cbbed58570057acb56cef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758845,
+            "locality_id":1226129579,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1226129579,
+    "wof:lastmodified":1536600998,
+    "wof:name":"Aboloume",
+    "wof:parent_id":1108758845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66214,
+    7.09384,
+    1.66214,
+    7.09384
+],
+  "geometry": {"coordinates":[1.66214,7.09384],"type":"Point"}
+}

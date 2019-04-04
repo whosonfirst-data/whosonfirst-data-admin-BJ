@@ -1,0 +1,77 @@
+{
+  "id": 1343341063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.74368,9.3287,1.74368,9.3287",
+    "geom:latitude":9.3287,
+    "geom:longitude":1.74368,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Diengou",
+    "gn:country_code":"BJ",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394632,
+    "gn:latitude":9.3287,
+    "gn:longitude":1.74368,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Diengou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dangou",
+        "Demgo",
+        "Dengu",
+        "Demou",
+        "Deingou",
+        "Dangu",
+        "Diengou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394632,
+        "wk:page":"Diengou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"849611c2d4b8a5e707bd667fe6488d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1343341063,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1343341063,
+    "wof:lastmodified":1537587874,
+    "wof:name":"Diengou",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.74368,
+    9.3287,
+    1.74368,
+    9.3287
+],
+  "geometry": {"coordinates":[1.74368,9.3287],"type":"Point"}
+}

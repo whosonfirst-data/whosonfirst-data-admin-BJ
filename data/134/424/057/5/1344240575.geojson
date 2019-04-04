@@ -1,0 +1,67 @@
+{
+  "id": 1344240575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3062,10.34852,3.3062,10.34852",
+    "geom:latitude":10.34852,
+    "geom:longitude":3.3062,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dankou",
+    "gn:country_code":"BJ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394748,
+    "gn:latitude":10.34852,
+    "gn:longitude":3.3062,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dankou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394748
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"89587b6c43f1f5ad9df32d512d48b507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758835,
+            "locality_id":1344240575,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1344240575,
+    "wof:lastmodified":1536613296,
+    "wof:name":"Dankou",
+    "wof:parent_id":1108758835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3062,
+    10.34852,
+    3.3062,
+    10.34852
+],
+  "geometry": {"coordinates":[3.3062,10.34852],"type":"Point"}
+}

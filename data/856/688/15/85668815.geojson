@@ -1,0 +1,315 @@
+{
+  "id": 85668815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.22427,
+    "geom:area_square_m":2752468492.684277,
+    "geom:bbox":"1.53192671754,6.68997955971,2.09313357855,7.53638475735",
+    "geom:latitude":6.998202,
+    "geom:longitude":1.773873,
+    "gn:id":"",
+    "gn:population":560182,
+    "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Kouffo Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
+    "lbl:latitude":6.917315,
+    "lbl:longitude":1.793034,
+    "mps:latitude":6.917315,
+    "mps:longitude":1.793034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0625\u062f\u0627\u0631\u0629 \u0643\u0648\u0641\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09ab\u09c1 \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bre_x_preferred":[
+        "Kouffo"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0444\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Kouffo"
+    ],
+    "name:chi_x_preferred":[
+        "\u5eab\u798f\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Kouffo"
+    ],
+    "name:dut_x_preferred":[
+        "Couffo"
+    ],
+    "name:eng_x_preferred":[
+        "Kouffo Department"
+    ],
+    "name:eng_x_variant":[
+        "Kouffo",
+        "Couffo"
+    ],
+    "name:fin_x_preferred":[
+        "Kouffo"
+    ],
+    "name:fra_x_preferred":[
+        "Kouffo"
+    ],
+    "name:fra_x_variant":[
+        "Couffo"
+    ],
+    "name:fre_x_preferred":[
+        "Couffo"
+    ],
+    "name:ger_x_preferred":[
+        "Couffo"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03cd\u03c6\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acc\u0aab\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u092b\u093c\u094b \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Couffo"
+    ],
+    "name:ind_x_preferred":[
+        "Departemen Kouffo"
+    ],
+    "name:ita_x_preferred":[
+        "dipartimento di Kouffo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30c3\u30d5\u30a9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccb\u0cab\u0cca \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ud3ec \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Kufo departaments"
+    ],
+    "name:lit_x_preferred":[
+        "Kufo departamentas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094c\u092b\u094b \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Kouffo Department"
+    ],
+    "name:nob_x_preferred":[
+        "Kouffo"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0641\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Departament Kouffo"
+    ],
+    "name:por_x_preferred":[
+        "Kouffo"
+    ],
+    "name:rum_x_preferred":[
+        "Departamentul Kouffo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0444\u0444\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0d8b\u0dc6\u0dca\u0dc6\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Kouffo"
+    ],
+    "name:swe_x_preferred":[
+        "Couffo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0baa\u0bbf\u0baa\u0bbf\u0b92  \u0ba4\u0bc1\u0bb1\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4c\u0c2b\u0c4b \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041a\u0443\u0444\u0444\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e39\u0e1f\u0e42\u0e1f"
+    ],
+    "name:tur_x_preferred":[
+        "Kouffo Department"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041a\u0443\u0444\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Couffo"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0624\u0641\u0648 \u0645\u062d\u06a9\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Kouffo"
+    ],
+    "name:yor_x_preferred":[
+        "Ap\u00e1 Kouffo"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BEN",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BEN-2176",
+    "ne:adm1_code":"BEN-2176",
+    "ne:admin":"Benin",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"BJ.CF",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2176",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BN12",
+    "ne:fips_alt":"BN04",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Benin",
+    "ne:gn_a1_code":"BJ.12",
+    "ne:gn_id":"2597273",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Kouffo Department",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BN12",
+    "ne:gns_id":"9145889",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Kouffo, Departement du",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BEN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BJ-",
+    "ne:iso_a2":"BJ",
+    "ne:labelrank":"7",
+    "ne:latitude":"6.98499000000",
+    "ne:longitude":"1.81235000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Kouffo",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CF",
+    "ne:provnum_ne":"12",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"BEN",
+    "ne:sub_code":"",
+    "ne:type":"D\u00e9partement",
+    "ne:type_en":"Department",
+    "ne:wikipedia":"",
+    "ne:woe_id":55967668,
+    "ne:woe_label":"Kouffo, BJ, Benin",
+    "ne:woe_name":"Kouffo",
+    "qs:a0":"Benin",
+    "qs:a0_lc":"BJ",
+    "qs:a1":"Kouffo",
+    "qs:a1_lc":"BEN-2176",
+    "qs:adm0":"Benin",
+    "qs:adm0_a3":"BEN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Department",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-02-11",
+    "statoids:area_km":"2,404",
+    "statoids:area_mi":"928",
+    "statoids:as_of_date":"2002-02-11",
+    "statoids:capital":"Dogbo ?",
+    "statoids:country":"BJ",
+    "statoids:gec":"BN12",
+    "statoids:hasc":"BJ.CF",
+    "statoids:iso":"KO",
+    "statoids:name":"Couffo",
+    "statoids:population":"524586",
+    "statoids:timezone":"+1",
+    "statoids:type":"department",
+    "unlc:subdivision":"BJ-KO",
+    "wof:belongsto":[
+        102191573,
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037910c6-8f76-11e1-848f-cfd5bf3ef515",
+        "fips:code":"BN12",
+        "gn:id":2597273,
+        "gp:id":55967668,
+        "hasc:id":"BJ.CF",
+        "iso:id":"BJ-KO",
+        "qs:id":575163,
+        "unlc:id":"BJ-KO",
+        "wd:id":"Q29173",
+        "wk:page":"Kouffo Department"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1396b99d51e827d8bdc9bf9a8ff5edd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":85668815,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553550312,
+    "wof:name":"Kouffo",
+    "wof:parent_id":85632247,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"department",
+    "wof:population":524586,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:shortcode":"CF",
+    "wof:subdivision":"BJ-KO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.53192671754402,
+    6.68997955970895,
+    2.09313357855183,
+    7.53638475735073
+],
+  "geometry": {"coordinates":[[[2.04988040505668,6.91192983589326],[2.06042239657637,6.9162189797222],[2.07701053201049,6.92536570906026],[2.08398685101241,6.9193195660452],[2.09313357855183,6.89487661426438],[2.08832767078542,6.87965790438881],[2.08212649903874,6.86795319288558],[2.06631351085991,6.82769725202661],[2.06181766055664,6.81891225789445],[2.05360110810471,6.80937795672736],[2.03918338390611,6.78431488732224],[2.03556603364558,6.77431549726242],[2.03417076966531,6.76576304802632],[2.03603112073966,6.75336070453295],[2.03696129672653,6.73372366051859],[2.02362877814562,6.70649017987796],[1.96265058765454,6.73697927557316],[1.93179975765276,6.74568675444021],[1.89841678210888,6.74700450315532],[1.84394982262626,6.73519643796527],[1.78080122179898,6.71207123489961],[1.68675011592518,6.68997955970895],[1.66489098473119,6.69036713333657],[1.64799279093461,6.69246002930697],[1.5933708018211,6.71853078906469],[1.58918229033048,6.72046032858134],[1.59703902133384,6.73095977857099],[1.60106978454297,6.74643686906632],[1.59517867025949,6.77056976338395],[1.58753055768915,6.79103363149693],[1.58318973791614,6.8082677202791],[1.58256962029179,6.82534678122903],[1.59011438007462,6.86733388285245],[1.58804732342526,6.88123484311359],[1.57905562281877,6.89203521705167],[1.56422344335726,6.90308938956372],[1.56262251791492,6.90428253271278],[1.55135705508405,6.92087066634821],[1.53192671754402,6.99192576126489],[1.60747766096534,6.99140899642811],[1.62566776505537,6.99678334587475],[1.62494429644215,7.14364776753047],[1.62432417791854,7.28880686504482],[1.62370406029419,7.43810007855581],[1.62325136675725,7.53638475735073],[1.65558922666151,7.52982493687136],[1.67682824113046,7.50432261789456],[1.6844246759581,7.49197195124458],[1.73687625473542,7.38102265157414],[1.74261233938802,7.35533946454473],[1.7461780128051,7.34758799918689],[1.75191409655838,7.33929393236912],[1.75377444763268,7.33247264209882],[1.75532474124384,7.31353323007454],[1.75920047392276,7.30560089846273],[1.76715864395629,7.29598908113121],[1.78266157377266,7.28443939925893],[1.8213155450764,7.23485586190856],[1.82612145284281,7.2237712671303],[1.82984215679016,7.21754425696196],[1.84255455864599,7.2095602485067],[1.85790245883146,7.18294688638974],[1.87092491994912,7.13625722888804],[1.88043338359381,7.0927198354521],[1.89283572798649,7.07184255618904],[1.89965701735753,7.06688161879174],[1.9053931011108,7.06432363482793],[1.92136111802125,7.05223134969708],[1.94234175007176,7.02024363903274],[1.95861982624405,6.99735097906449],[1.97474287278538,6.98897939698162],[1.98828209784057,6.96867055939884],[1.99293297687541,6.95097138082463],[1.9951033872116,6.94647553142067],[2.00052941170304,6.94143707875821],[2.03463585765877,6.9162189797222],[2.04336917494749,6.91265330720444],[2.04988040505668,6.91192983589326]]],"type":"Polygon"}
+}

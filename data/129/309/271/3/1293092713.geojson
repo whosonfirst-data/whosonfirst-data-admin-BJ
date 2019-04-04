@@ -1,0 +1,77 @@
+{
+  "id": 1293092713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.92404,12.29236,2.92404,12.29236",
+    "geom:latitude":12.29236,
+    "geom:longitude":2.92404,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7874155.0",
+    "gn:admin3_code":"11790042.0",
+    "gn:asciiname":"Monsey",
+    "gn:country_code":"BJ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392698,
+    "gn:latitude":12.29236,
+    "gn:longitude":2.92404,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Monsey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masi",
+        "Mossey",
+        "Mossei",
+        "Monsey",
+        "Massi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392698,
+        "wk:page":"Monsey%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c4670bdeb1d3ce1ecefd4b9bfb1aa5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758955,
+            "locality_id":1293092713,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293092713,
+    "wof:lastmodified":1537587857,
+    "wof:name":"Monsey",
+    "wof:parent_id":1108758955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.92404,
+    12.29236,
+    2.92404,
+    12.29236
+],
+  "geometry": {"coordinates":[2.92404,12.29236],"type":"Point"}
+}

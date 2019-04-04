@@ -1,0 +1,71 @@
+{
+  "id": 1242764071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.4622,9.63065,1.4622,9.63065",
+    "geom:latitude":9.63065,
+    "geom:longitude":1.4622,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bodom",
+    "gn:country_code":"BJ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395061,
+    "gn:latitude":9.63065,
+    "gn:longitude":1.4622,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Bodom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ponndon",
+        "Bodom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395061
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8487ac8c728f2852045440e456587e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1242764071,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1242764071,
+    "wof:lastmodified":1537587879,
+    "wof:name":"Bodom",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4622,
+    9.63065,
+    1.4622,
+    9.63065
+],
+  "geometry": {"coordinates":[1.4622,9.63065],"type":"Point"}
+}

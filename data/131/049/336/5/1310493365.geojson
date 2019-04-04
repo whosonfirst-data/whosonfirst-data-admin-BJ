@@ -1,0 +1,67 @@
+{
+  "id": 1310493365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.90339,12.24401,2.90339,12.24401",
+    "geom:latitude":12.24401,
+    "geom:longitude":2.90339,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Loumbou Loumbou",
+    "gn:country_code":"BJ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392866,
+    "gn:latitude":12.24401,
+    "gn:longitude":2.90339,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Loumbou Loumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392866
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a789bdd3239ccf56f6ea01c16dde9586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758955,
+            "locality_id":1310493365,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1310493365,
+    "wof:lastmodified":1536935205,
+    "wof:name":"Loumbou Loumbou",
+    "wof:parent_id":1108758955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.90339,
+    12.24401,
+    2.90339,
+    12.24401
+],
+  "geometry": {"coordinates":[2.90339,12.24401],"type":"Point"}
+}

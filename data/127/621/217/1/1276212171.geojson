@@ -1,0 +1,67 @@
+{
+  "id": 1276212171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.97897,10.76516,0.97897,10.76516",
+    "geom:latitude":10.76516,
+    "geom:longitude":0.97897,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Konkohoum",
+    "gn:country_code":"BJ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393362,
+    "gn:latitude":10.76516,
+    "gn:longitude":0.97897,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Konkohoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393362
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"118592778517e6d2ac8f4c63bb4b7e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1276212171,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276212171,
+    "wof:lastmodified":1536942089,
+    "wof:name":"Konkohoum",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.97897,
+    10.76516,
+    0.97897,
+    10.76516
+],
+  "geometry": {"coordinates":[0.97897,10.76516],"type":"Point"}
+}

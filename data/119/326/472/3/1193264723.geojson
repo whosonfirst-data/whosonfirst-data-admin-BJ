@@ -1,0 +1,71 @@
+{
+  "id": 1193264723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83143,9.02647,1.83143,9.02647",
+    "geom:latitude":9.02647,
+    "geom:longitude":1.83143,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Aletoutou",
+    "gn:country_code":"BJ",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395642,
+    "gn:latitude":9.02647,
+    "gn:longitude":1.83143,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Al\u00e9toutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u00e9toutou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395642,
+        "wk:page":"Aletoutou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"158dc28b2d44b9ee5110e42a060f8d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1193264723,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1193264723,
+    "wof:lastmodified":1537587885,
+    "wof:name":"Aletoutou",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83143,
+    9.02647,
+    1.83143,
+    9.02647
+],
+  "geometry": {"coordinates":[1.83143,9.02647],"type":"Point"}
+}

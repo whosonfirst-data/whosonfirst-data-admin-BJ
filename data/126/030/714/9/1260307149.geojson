@@ -1,0 +1,74 @@
+{
+  "id": 1260307149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.72104,10.81281,2.72104,10.81281",
+    "geom:latitude":10.81281,
+    "geom:longitude":2.72104,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"10344469.0",
+    "gn:asciiname":"Bagou",
+    "gn:country_code":"BJ",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395398,
+    "gn:latitude":10.81281,
+    "gn:longitude":2.72104,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Bagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagu",
+        "Baku",
+        "Bagou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395398,
+        "wk:page":"Bagou%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"dbc349d3ac939c45b7055a6cc81bdca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1260307149,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1260307149,
+    "wof:lastmodified":1537587882,
+    "wof:name":"Bagou",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.72104,
+    10.81281,
+    2.72104,
+    10.81281
+],
+  "geometry": {"coordinates":[2.72104,10.81281],"type":"Point"}
+}

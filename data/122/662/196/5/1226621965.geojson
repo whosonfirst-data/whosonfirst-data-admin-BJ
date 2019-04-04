@@ -1,0 +1,67 @@
+{
+  "id": 1226621965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.90695,7.12088,1.90695,7.12088",
+    "geom:latitude":7.12088,
+    "geom:longitude":1.90695,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Adomougon",
+    "gn:country_code":"BJ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395848,
+    "gn:latitude":7.12088,
+    "gn:longitude":1.90695,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Adomougon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395848
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"af7a001bee0bce810cf4f9feaa540b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758921,
+            "locality_id":1226621965,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1226621965,
+    "wof:lastmodified":1536893553,
+    "wof:name":"Adomougon",
+    "wof:parent_id":1108758921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.90695,
+    7.12088,
+    1.90695,
+    7.12088
+],
+  "geometry": {"coordinates":[1.90695,7.12088],"type":"Point"}
+}

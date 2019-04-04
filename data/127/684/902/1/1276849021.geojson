@@ -1,0 +1,67 @@
+{
+  "id": 1276849021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.67115,7.72809,1.67115,7.72809",
+    "geom:latitude":7.72809,
+    "geom:longitude":1.67115,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ketikpli",
+    "gn:country_code":"BJ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393554,
+    "gn:latitude":7.72809,
+    "gn:longitude":1.67115,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"K\u00e9tikpli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393554
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1e4ed80bdeec861b7473d4a617012a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758841,
+            "locality_id":1276849021,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1276849021,
+    "wof:lastmodified":1537079315,
+    "wof:name":"Ketikpli",
+    "wof:parent_id":1108758841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.67115,
+    7.72809,
+    1.67115,
+    7.72809
+],
+  "geometry": {"coordinates":[1.67115,7.72809],"type":"Point"}
+}

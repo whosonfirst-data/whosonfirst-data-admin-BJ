@@ -1,0 +1,67 @@
+{
+  "id": 1242774845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39114,10.42664,1.39114,10.42664",
+    "geom:latitude":10.42664,
+    "geom:longitude":1.39114,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tantougou",
+    "gn:country_code":"BJ",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391420,
+    "gn:latitude":10.42664,
+    "gn:longitude":1.39114,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tantougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391420
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"442f95329659d2ab65cbb989276f792b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":1242774845,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1242774845,
+    "wof:lastmodified":1536780122,
+    "wof:name":"Tantougou",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39114,
+    10.42664,
+    1.39114,
+    10.42664
+],
+  "geometry": {"coordinates":[1.39114,10.42664],"type":"Point"}
+}

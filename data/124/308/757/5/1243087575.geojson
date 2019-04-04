@@ -1,0 +1,67 @@
+{
+  "id": 1243087575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.87427,10.23894,1.87427,10.23894",
+    "geom:latitude":10.23894,
+    "geom:longitude":1.87427,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gbouiba",
+    "gn:country_code":"BJ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394118,
+    "gn:latitude":10.23894,
+    "gn:longitude":1.87427,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gbouiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394118
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f837296fa6a536903987ee5b770c94ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758867,
+            "locality_id":1243087575,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1243087575,
+    "wof:lastmodified":1536824952,
+    "wof:name":"Gbouiba",
+    "wof:parent_id":1108758867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.87427,
+    10.23894,
+    1.87427,
+    10.23894
+],
+  "geometry": {"coordinates":[1.87427,10.23894],"type":"Point"}
+}

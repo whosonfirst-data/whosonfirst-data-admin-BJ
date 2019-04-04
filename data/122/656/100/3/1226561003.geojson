@@ -1,0 +1,71 @@
+{
+  "id": 1226561003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0304,6.31853,2.0304,6.31853",
+    "geom:latitude":6.31853,
+    "geom:longitude":2.0304,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Azizacoue",
+    "gn:country_code":"BJ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395450,
+    "gn:latitude":6.31853,
+    "gn:longitude":2.0304,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Azizacoue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azizahou\u00e9",
+        "Azizacoue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421174729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395450
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"29683e458fa433e9e778c6bc85a84e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421174729,
+            "locality_id":1226561003,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1226561003,
+    "wof:lastmodified":1537587883,
+    "wof:name":"Azizacoue",
+    "wof:parent_id":421174729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0304,
+    6.31853,
+    2.0304,
+    6.31853
+],
+  "geometry": {"coordinates":[2.0304,6.31853],"type":"Point"}
+}

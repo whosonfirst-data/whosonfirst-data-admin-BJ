@@ -1,0 +1,67 @@
+{
+  "id": 1326909887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.67826,9.65897,1.67826,9.65897",
+    "geom:latitude":9.65897,
+    "geom:longitude":1.67826,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dewa",
+    "gn:country_code":"BJ",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394649,
+    "gn:latitude":9.65897,
+    "gn:longitude":1.67826,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"D\u00e9wa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394649
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1321115cc5f46548990e9d7e58266799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1326909887,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1326909887,
+    "wof:lastmodified":1536937802,
+    "wof:name":"Dewa",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.67826,
+    9.65897,
+    1.67826,
+    9.65897
+],
+  "geometry": {"coordinates":[1.67826,9.65897],"type":"Point"}
+}

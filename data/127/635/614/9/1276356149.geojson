@@ -1,0 +1,67 @@
+{
+  "id": 1276356149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58473,10.44424,1.58473,10.44424",
+    "geom:latitude":10.44424,
+    "geom:longitude":1.58473,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bouranga",
+    "gn:country_code":"BJ",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394877,
+    "gn:latitude":10.44424,
+    "gn:longitude":1.58473,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Bouranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394877
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d15d9ed4c52f612475851b869533baf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":1276356149,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276356149,
+    "wof:lastmodified":1536747821,
+    "wof:name":"Bouranga",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58473,
+    10.44424,
+    1.58473,
+    10.44424
+],
+  "geometry": {"coordinates":[1.58473,10.44424],"type":"Point"}
+}

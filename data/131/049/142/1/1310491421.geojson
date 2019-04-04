@@ -1,0 +1,74 @@
+{
+  "id": 1310491421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.20338,6.34555,2.20338,6.34555",
+    "geom:latitude":6.34555,
+    "geom:longitude":2.20338,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7668936.0",
+    "gn:admin3_code":"11789899.0",
+    "gn:asciiname":"Avlekete",
+    "gn:country_code":"BJ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395476,
+    "gn:latitude":6.34555,
+    "gn:longitude":2.20338,
+    "gn:modification_date":"2018-03-19",
+    "gn:name":"Avl\u00e9k\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avr\u00e9k\u00e9t\u00e9",
+        "Avl\u00e9k\u00e9t\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421174729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395476,
+        "wk:page":"Avl%C3%A9k%C3%A9t%C3%A9"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b61bec5590fa34bd7da0b94b9ed74ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421174729,
+            "locality_id":1310491421,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1310491421,
+    "wof:lastmodified":1537587883,
+    "wof:name":"Avlekete",
+    "wof:parent_id":421174729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.20338,
+    6.34555,
+    2.20338,
+    6.34555
+],
+  "geometry": {"coordinates":[2.20338,6.34555],"type":"Point"}
+}

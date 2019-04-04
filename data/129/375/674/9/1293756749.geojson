@@ -1,0 +1,71 @@
+{
+  "id": 1293756749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.78499,6.4269,1.78499,6.4269",
+    "geom:latitude":6.4269,
+    "geom:longitude":1.78499,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vodome",
+    "gn:country_code":"BJ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391011,
+    "gn:latitude":6.4269,
+    "gn:longitude":1.78499,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Vodom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wadome",
+        "Vodom\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        421177249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391011
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6d43f78e0107e3d336bf7f700a12f18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421177249,
+            "locality_id":1293756749,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1293756749,
+    "wof:lastmodified":1537587842,
+    "wof:name":"Vodome",
+    "wof:parent_id":421177249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.78499,
+    6.4269,
+    1.78499,
+    6.4269
+],
+  "geometry": {"coordinates":[1.78499,6.4269],"type":"Point"}
+}

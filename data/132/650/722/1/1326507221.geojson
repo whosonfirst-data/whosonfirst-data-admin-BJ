@@ -1,0 +1,70 @@
+{
+  "id": 1326507221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66667,7.1,1.66667,7.1",
+    "geom:latitude":7.1,
+    "geom:longitude":1.66667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7874152.0",
+    "gn:admin3_code":"11790218.0",
+    "gn:asciiname":"Togba",
+    "gn:country_code":"BJ",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391164,
+    "gn:latitude":7.1,
+    "gn:longitude":1.66667,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Togba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391164,
+        "wk:page":"Togba%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0632488ac47f195632ff59ad53347a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758845,
+            "locality_id":1326507221,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1326507221,
+    "wof:lastmodified":1537487827,
+    "wof:name":"Togba",
+    "wof:parent_id":1108758845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66667,
+    7.1,
+    1.66667,
+    7.1
+],
+  "geometry": {"coordinates":[1.66667,7.1],"type":"Point"}
+}

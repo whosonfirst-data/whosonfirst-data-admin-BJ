@@ -1,0 +1,71 @@
+{
+  "id": 1226771147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.73704,10.92433,3.73704,10.92433",
+    "geom:latitude":10.92433,
+    "geom:longitude":3.73704,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goussissare",
+    "gn:country_code":"BJ",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393962,
+    "gn:latitude":10.92433,
+    "gn:longitude":3.73704,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goussissar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goussin Sar\u00e9",
+        "Goussissar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393962
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b48a7c915ad289aee92609bd050a6838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1226771147,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1226771147,
+    "wof:lastmodified":1537587868,
+    "wof:name":"Goussissare",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.73704,
+    10.92433,
+    3.73704,
+    10.92433
+],
+  "geometry": {"coordinates":[3.73704,10.92433],"type":"Point"}
+}

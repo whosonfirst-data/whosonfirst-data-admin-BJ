@@ -1,0 +1,71 @@
+{
+  "id": 1276215913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.21336,10.033,3.21336,10.033",
+    "geom:latitude":10.033,
+    "geom:longitude":3.21336,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kali",
+    "gn:country_code":"BJ",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393720,
+    "gn:latitude":10.033,
+    "gn:longitude":3.21336,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kal\u00e9",
+        "Kali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393720
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"478957ea0ac9d5ad54a6895c37a37016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":1276215913,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1276215913,
+    "wof:lastmodified":1537587865,
+    "wof:name":"Kali",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.21336,
+    10.033,
+    3.21336,
+    10.033
+],
+  "geometry": {"coordinates":[3.21336,10.033],"type":"Point"}
+}

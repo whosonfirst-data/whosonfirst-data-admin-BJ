@@ -1,0 +1,67 @@
+{
+  "id": 1343947739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.20079,6.63745,2.20079,6.63745",
+    "geom:latitude":6.63745,
+    "geom:longitude":2.20079,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Adimale",
+    "gn:country_code":"BJ",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395891,
+    "gn:latitude":6.63745,
+    "gn:longitude":2.20079,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Adimal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421202551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395891
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cddc7f82a9c9672324a4330ec0281af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421202551,
+            "locality_id":1343947739,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1343947739,
+    "wof:lastmodified":1537036822,
+    "wof:name":"Adimale",
+    "wof:parent_id":421202551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.20079,
+    6.63745,
+    2.20079,
+    6.63745
+],
+  "geometry": {"coordinates":[2.20079,6.63745],"type":"Point"}
+}

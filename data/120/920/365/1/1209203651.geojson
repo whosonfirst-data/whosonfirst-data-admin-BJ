@@ -1,0 +1,61 @@
+{
+  "id": 1209203651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9774,9.76437,2.9774,9.76437",
+    "geom:latitude":9.76437,
+    "geom:longitude":2.9774,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Keni",
+    "gn:country_code":"BJ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393576,
+    "gn:latitude":9.76437,
+    "gn:longitude":2.9774,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"K\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393576
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"06881ba47f8b481f9cc6e7fbab7feb57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209203651
+        }
+    ],
+    "wof:id":1209203651,
+    "wof:lastmodified":1536294525,
+    "wof:name":"Keni",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9774,
+    9.76437,
+    2.9774,
+    9.76437
+],
+  "geometry": {"coordinates":[2.9774,9.76437],"type":"Point"}
+}

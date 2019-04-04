@@ -1,0 +1,75 @@
+{
+  "id": 1310481809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.63998,6.82148,1.63998,6.82148",
+    "geom:latitude":6.82148,
+    "geom:longitude":1.63998,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"10344473.0",
+    "gn:admin3_code":"11790031.0",
+    "gn:asciiname":"Kpoba",
+    "gn:country_code":"BJ",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392995,
+    "gn:latitude":6.82148,
+    "gn:longitude":1.63998,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Kpoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poba",
+        "Kpota",
+        "Kpoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392995,
+        "wk:page":"Kpoba"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"42e324324910395e77959345d9d2065f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758881,
+            "locality_id":1310481809,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1310481809,
+    "wof:lastmodified":1537587860,
+    "wof:name":"Kpoba",
+    "wof:parent_id":1108758881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.63998,
+    6.82148,
+    1.63998,
+    6.82148
+],
+  "geometry": {"coordinates":[1.63998,6.82148],"type":"Point"}
+}

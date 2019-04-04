@@ -1,0 +1,77 @@
+{
+  "id": 1226230313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.24856,8.14916,2.24856,8.14916",
+    "geom:latitude":8.14916,
+    "geom:longitude":2.24856,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"7874167.0",
+    "gn:admin3_code":"11790044.0",
+    "gn:asciiname":"Assante",
+    "gn:country_code":"BJ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395542,
+    "gn:latitude":8.14916,
+    "gn:longitude":2.24856,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Assant\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assanoe",
+        "Assanti",
+        "Assanb\u00e9",
+        "Assamb\u00e9",
+        "Assant\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395542,
+        "wk:page":"Assant%C3%A9"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c630dbfa2949843d8ef59c46a10a6c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758945,
+            "locality_id":1226230313,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1226230313,
+    "wof:lastmodified":1537587884,
+    "wof:name":"Assante",
+    "wof:parent_id":1108758945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.24856,
+    8.14916,
+    2.24856,
+    8.14916
+],
+  "geometry": {"coordinates":[2.24856,8.14916],"type":"Point"}
+}

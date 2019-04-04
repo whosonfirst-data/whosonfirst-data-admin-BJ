@@ -1,0 +1,67 @@
+{
+  "id": 1344235273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.43882,8.48969,2.43882,8.48969",
+    "geom:latitude":8.48969,
+    "geom:longitude":2.43882,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yakoko",
+    "gn:country_code":"BJ",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390849,
+    "gn:latitude":8.48969,
+    "gn:longitude":2.43882,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Yakoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390849
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"7a293112772a3a13e659e12bfd1db198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758961,
+            "locality_id":1344235273,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1344235273,
+    "wof:lastmodified":1536621344,
+    "wof:name":"Yakoko",
+    "wof:parent_id":1108758961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.43882,
+    8.48969,
+    2.43882,
+    8.48969
+],
+  "geometry": {"coordinates":[2.43882,8.48969],"type":"Point"}
+}

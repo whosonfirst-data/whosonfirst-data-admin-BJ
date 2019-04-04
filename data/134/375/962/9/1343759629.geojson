@@ -1,0 +1,71 @@
+{
+  "id": 1343759629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.57191,11.67916,3.57191,11.67916",
+    "geom:latitude":11.67916,
+    "geom:longitude":3.57191,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gadi Tounga",
+    "gn:country_code":"BJ",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6960435,
+    "gn:latitude":11.67916,
+    "gn:longitude":3.57191,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gadi Tounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gadi",
+        "Gadi Tounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6960435
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e5f1cc73b38702d64380bc866e677a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758957,
+            "locality_id":1343759629,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343759629,
+    "wof:lastmodified":1537587889,
+    "wof:name":"Gadi Tounga",
+    "wof:parent_id":1108758957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.57191,
+    11.67916,
+    3.57191,
+    11.67916
+],
+  "geometry": {"coordinates":[3.57191,11.67916],"type":"Point"}
+}

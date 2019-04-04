@@ -1,0 +1,64 @@
+{
+  "id": 1209491285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.01701,7.23806,2.01701,7.23806",
+    "geom:latitude":7.23806,
+    "geom:longitude":2.01701,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"8260654.0",
+    "gn:admin3_code":"11789951.0",
+    "gn:asciiname":"Mougnon",
+    "gn:country_code":"BJ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392689,
+    "gn:latitude":7.23806,
+    "gn:longitude":2.01701,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"Mougnon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392689,
+        "wk:page":"Mougnon"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"17b5f99a37b5c8410615dcd573002155",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209491285
+        }
+    ],
+    "wof:id":1209491285,
+    "wof:lastmodified":1537487834,
+    "wof:name":"Mougnon",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.01701,
+    7.23806,
+    2.01701,
+    7.23806
+],
+  "geometry": {"coordinates":[2.01701,7.23806],"type":"Point"}
+}

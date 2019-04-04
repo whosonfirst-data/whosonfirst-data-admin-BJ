@@ -1,0 +1,67 @@
+{
+  "id": 1209879499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.88333,7.61667,1.88333,7.61667",
+    "geom:latitude":7.61667,
+    "geom:longitude":1.88333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Boibablin",
+    "gn:country_code":"BJ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395042,
+    "gn:latitude":7.61667,
+    "gn:longitude":1.88333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Bo\u00efbablin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395042
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"11dd93d70a47479e19d85e9588006092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1209879499,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1209879499,
+    "wof:lastmodified":1536395697,
+    "wof:name":"Boibablin",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.88333,
+    7.61667,
+    1.88333,
+    7.61667
+],
+  "geometry": {"coordinates":[1.88333,7.61667],"type":"Point"}
+}

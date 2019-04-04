@@ -1,0 +1,67 @@
+{
+  "id": 1293575701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.72012,9.95992,1.72012,9.95992",
+    "geom:latitude":9.95992,
+    "geom:longitude":1.72012,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tanfounge",
+    "gn:country_code":"BJ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391465,
+    "gn:latitude":9.95992,
+    "gn:longitude":1.72012,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tanfoung\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391465
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"7b206db4efaaf03b983dc690baab3049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758985,
+            "locality_id":1293575701,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1293575701,
+    "wof:lastmodified":1536660014,
+    "wof:name":"Tanfounge",
+    "wof:parent_id":1108758985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.72012,
+    9.95992,
+    1.72012,
+    9.95992
+],
+  "geometry": {"coordinates":[1.72012,9.95992],"type":"Point"}
+}

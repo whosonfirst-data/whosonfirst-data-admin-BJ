@@ -1,0 +1,67 @@
+{
+  "id": 1276142223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.35874,10.42948,1.35874,10.42948",
+    "geom:latitude":10.42948,
+    "geom:longitude":1.35874,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kianatatingou",
+    "gn:country_code":"BJ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393546,
+    "gn:latitude":10.42948,
+    "gn:longitude":1.35874,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kianatatingou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393546
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1b49bd778555d8afeb1b3e0d204cb211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":1276142223,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276142223,
+    "wof:lastmodified":1537033366,
+    "wof:name":"Kianatatingou",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.35874,
+    10.42948,
+    1.35874,
+    10.42948
+],
+  "geometry": {"coordinates":[1.35874,10.42948],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209211771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.50827,11.32817,2.50827,11.32817",
+    "geom:latitude":11.32817,
+    "geom:longitude":2.50827,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gbessera",
+    "gn:country_code":"BJ",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394142,
+    "gn:latitude":11.32817,
+    "gn:longitude":2.50827,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gb\u00e9ss\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394142
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"55548f41dfa2d57eb7cafc497cad0b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209211771
+        }
+    ],
+    "wof:id":1209211771,
+    "wof:lastmodified":1536294267,
+    "wof:name":"Gbessera",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.50827,
+    11.32817,
+    2.50827,
+    11.32817
+],
+  "geometry": {"coordinates":[2.50827,11.32817],"type":"Point"}
+}

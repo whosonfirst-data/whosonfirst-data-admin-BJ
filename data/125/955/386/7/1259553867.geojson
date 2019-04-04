@@ -1,0 +1,72 @@
+{
+  "id": 1259553867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.78333,6.76667,1.78333,6.76667",
+    "geom:latitude":6.76667,
+    "geom:longitude":1.78333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Padove",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392231,
+    "gn:latitude":6.76667,
+    "gn:longitude":1.78333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Padov\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podav\u00e9",
+        "Padov\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392231
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a02454e171729fa428ad28e04b34eb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758887,
+            "locality_id":1259553867,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1259553867,
+    "wof:lastmodified":1537587853,
+    "wof:name":"Padove",
+    "wof:parent_id":1108758887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.78333,
+    6.76667,
+    1.78333,
+    6.76667
+],
+  "geometry": {"coordinates":[1.78333,6.76667],"type":"Point"}
+}

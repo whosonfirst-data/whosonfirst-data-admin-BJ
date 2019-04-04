@@ -1,0 +1,70 @@
+{
+  "id": 1193244711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1957,7.2271,2.1957,7.2271",
+    "geom:latitude":7.2271,
+    "geom:longitude":2.1957,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"7668932.0",
+    "gn:admin3_code":"11790058.0",
+    "gn:asciiname":"Kpozoun",
+    "gn:country_code":"BJ",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427410,
+    "gn:latitude":7.2271,
+    "gn:longitude":2.1957,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"Kpozoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427410,
+        "wk:page":"Kpozoun"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a2f1bf20db3875898cbc63f88efbf0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758953,
+            "locality_id":1193244711,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1193244711,
+    "wof:lastmodified":1537487852,
+    "wof:name":"Kpozoun",
+    "wof:parent_id":1108758953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1957,
+    7.2271,
+    2.1957,
+    7.2271
+],
+  "geometry": {"coordinates":[2.1957,7.2271],"type":"Point"}
+}

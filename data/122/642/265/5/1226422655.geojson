@@ -1,0 +1,71 @@
+{
+  "id": 1226422655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.6465,6.79796,1.6465,6.79796",
+    "geom:latitude":6.79796,
+    "geom:longitude":1.6465,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Agohoue-Balime",
+    "gn:country_code":"BJ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395774,
+    "gn:latitude":6.79796,
+    "gn:longitude":1.6465,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Agohou\u00e9-Balim\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agokou\u00e9",
+        "Agohou\u00e9-Balim\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395774
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2913eca5f1a1160817a1c6f91d858e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758881,
+            "locality_id":1226422655,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1226422655,
+    "wof:lastmodified":1537587887,
+    "wof:name":"Agohoue-Balime",
+    "wof:parent_id":1108758881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6465,
+    6.79796,
+    1.6465,
+    6.79796
+],
+  "geometry": {"coordinates":[1.6465,6.79796],"type":"Point"}
+}

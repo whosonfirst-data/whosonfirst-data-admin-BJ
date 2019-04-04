@@ -1,0 +1,67 @@
+{
+  "id": 1326615717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.49978,10.37576,1.49978,10.37576",
+    "geom:latitude":10.37576,
+    "geom:longitude":1.49978,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fayoure",
+    "gn:country_code":"BJ",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394389,
+    "gn:latitude":10.37576,
+    "gn:longitude":1.49978,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Fayour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394389
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"53aabe520337f99847082bb7b1a3f4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":1326615717,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1326615717,
+    "wof:lastmodified":1536862319,
+    "wof:name":"Fayoure",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.49978,
+    10.37576,
+    1.49978,
+    10.37576
+],
+  "geometry": {"coordinates":[1.49978,10.37576],"type":"Point"}
+}

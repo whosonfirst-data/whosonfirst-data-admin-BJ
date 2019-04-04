@@ -1,0 +1,73 @@
+{
+  "id": 1293379699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.10102,6.5549,2.10102,6.5549",
+    "geom:latitude":6.5549,
+    "geom:longitude":2.10102,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Azohoue-Cada",
+    "gn:country_code":"BJ",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395449,
+    "gn:latitude":6.5549,
+    "gn:longitude":2.10102,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Azohou\u00e9-Cada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azo\u00e9-Cada",
+        "Azohou\u00e8-Kada",
+        "Azohou\u00e9-Cada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        1108758873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395449,
+        "wk:page":"Azohou%C3%A8-Cada"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"df63d8119ce8a49986bdce6b1c2a8a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758873,
+            "locality_id":1293379699,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1293379699,
+    "wof:lastmodified":1537587883,
+    "wof:name":"Azohoue-Cada",
+    "wof:parent_id":1108758873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.10102,
+    6.5549,
+    2.10102,
+    6.5549
+],
+  "geometry": {"coordinates":[2.10102,6.5549],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209625139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48232,9.23156,1.48232,9.23156",
+    "geom:latitude":9.23156,
+    "geom:longitude":1.48232,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Inkolonie",
+    "gn:country_code":"BJ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393798,
+    "gn:latitude":9.23156,
+    "gn:longitude":1.48232,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Inkoloni\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inkoloni\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393798,
+        "wk:page":"Inkolonie"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1042c8bcb6d644965b635e35ed622ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209625139
+        }
+    ],
+    "wof:id":1209625139,
+    "wof:lastmodified":1537587866,
+    "wof:name":"Inkolonie",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48232,
+    9.23156,
+    1.48232,
+    9.23156
+],
+  "geometry": {"coordinates":[1.48232,9.23156],"type":"Point"}
+}

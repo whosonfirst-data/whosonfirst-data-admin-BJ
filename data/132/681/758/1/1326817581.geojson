@@ -1,0 +1,67 @@
+{
+  "id": 1326817581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.81667,7.16667,1.81667,7.16667",
+    "geom:latitude":7.16667,
+    "geom:longitude":1.81667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fagigarhoe",
+    "gn:country_code":"BJ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394409,
+    "gn:latitude":7.16667,
+    "gn:longitude":1.81667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Fagigarho\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394409
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c3c6854435c2bb3bf1558bb48ccc8f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758883,
+            "locality_id":1326817581,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1326817581,
+    "wof:lastmodified":1537066986,
+    "wof:name":"Fagigarhoe",
+    "wof:parent_id":1108758883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.81667,
+    7.16667,
+    1.81667,
+    7.16667
+],
+  "geometry": {"coordinates":[1.81667,7.16667],"type":"Point"}
+}

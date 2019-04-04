@@ -1,0 +1,74 @@
+{
+  "id": 1276648149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.83174,10.8399,2.83174,10.8399",
+    "geom:latitude":10.8399,
+    "geom:longitude":2.83174,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"10344469.0",
+    "gn:admin3_code":"11789990.0",
+    "gn:asciiname":"Gogounou",
+    "gn:country_code":"BJ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394087,
+    "gn:latitude":10.8399,
+    "gn:longitude":2.83174,
+    "gn:modification_date":"2018-03-19",
+    "gn:name":"Gogounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gogonou",
+        "Gogounou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394087,
+        "wk:page":"Gogounou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1f821c0a56c30a051807d4e38e961648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1276648149,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1276648149,
+    "wof:lastmodified":1537587869,
+    "wof:name":"Gogounou",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.83174,
+    10.8399,
+    2.83174,
+    10.8399
+],
+  "geometry": {"coordinates":[2.83174,10.8399],"type":"Point"}
+}

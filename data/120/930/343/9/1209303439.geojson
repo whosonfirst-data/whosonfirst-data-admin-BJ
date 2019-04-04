@@ -1,0 +1,61 @@
+{
+  "id": 1209303439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.29745,10.3583,3.29745,10.3583",
+    "geom:latitude":10.3583,
+    "geom:longitude":3.29745,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dekbouroukparou",
+    "gn:country_code":"BJ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394682,
+    "gn:latitude":10.3583,
+    "gn:longitude":3.29745,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dekbouroukparou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394682
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f2ad2ce7e9e4e486a4bf391e640ab591",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209303439
+        }
+    ],
+    "wof:id":1209303439,
+    "wof:lastmodified":1536291276,
+    "wof:name":"Dekbouroukparou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.29745,
+    10.3583,
+    3.29745,
+    10.3583
+],
+  "geometry": {"coordinates":[3.29745,10.3583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326725943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.11029,10.938,1.11029,10.938",
+    "geom:latitude":10.938,
+    "geom:longitude":1.11029,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nanporeyade",
+    "gn:country_code":"BJ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392625,
+    "gn:latitude":10.938,
+    "gn:longitude":1.11029,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Nanpor\u00e9yad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421172113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392625
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"52304aecd5754a7e291534ad37e1db60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421172113,
+            "locality_id":1326725943,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1326725943,
+    "wof:lastmodified":1536705168,
+    "wof:name":"Nanporeyade",
+    "wof:parent_id":421172113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.11029,
+    10.938,
+    1.11029,
+    10.938
+],
+  "geometry": {"coordinates":[1.11029,10.938],"type":"Point"}
+}

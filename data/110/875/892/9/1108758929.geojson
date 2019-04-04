@@ -1,0 +1,104 @@
+{
+  "id": 1108758929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1419708.129403,
+    "geom:bbox":"2.14482631386,7.54464936466,2.16551036011,7.55381652669",
+    "geom:latitude":7.548984,
+    "geom:longitude":2.153459,
+    "iso:country":"BJ",
+    "lbl:latitude":7.548707,
+    "lbl:longitude":2.153262,
+    "meso:adm1_en":"Zou",
+    "meso:dissme":"ZouCove",
+    "meso:gadm_adm2":"Cov\u00e8",
+    "meso:gadm_alt":"",
+    "meso:gadm_hasc":"BJ.ZO.CO",
+    "meso:gaul_adm2":"Cove",
+    "meso:mps_x":2.153262,
+    "meso:mps_y":7.548707,
+    "meso:name_en":"Cove",
+    "meso:source":"AOTM",
+    "mps:latitude":7.548707,
+    "mps:longitude":2.153262,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cov\u00e8"
+    ],
+    "name:eng_x_preferred":[
+        "Cov\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Cov\u00e8"
+    ],
+    "name:ger_x_preferred":[
+        "Cov\u00e8"
+    ],
+    "name:hun_x_preferred":[
+        "Cov\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Cov\u00e8"
+    ],
+    "name:may_x_preferred":[
+        "Cov\u00e8"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0648\u0647\u060c \u0628\u0646\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Cov\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Cov\u00e9"
+    ],
+    "name:rum_x_preferred":[
+        "Cov\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Cov\u00e9"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2464735"
+    },
+    "wof:country":"BJ",
+    "wof:created":1481322735,
+    "wof:geomhash":"07490d7a3454f548dfa2f1cb973e17ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758929,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1108758929,
+    "wof:lastmodified":1513900069,
+    "wof:name":"Cove",
+    "wof:parent_id":85668807,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.14482631385694,
+    7.54464936466376,
+    2.16551036011128,
+    7.55381652669473
+],
+  "geometry": {"coordinates":[[[2.16551036011128,7.54806311988798],[2.16219256697773,7.54691774635461],[2.15887477384419,7.54577237282123],[2.15432419079913,7.54465976145742],[2.15024796132642,7.54464936466376],[2.14782914522676,7.54583972457062],[2.14629373615957,7.54820722791083],[2.14513297426615,7.55176976512674],[2.14482631385694,7.55381652669473],[2.15568760340384,7.55245253529885],[2.16059898175756,7.55025782759342],[2.16387323399338,7.54879468912313],[2.16551036011128,7.54806311988798]]],"type":"Polygon"}
+}

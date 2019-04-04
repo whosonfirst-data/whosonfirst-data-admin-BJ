@@ -1,0 +1,71 @@
+{
+  "id": 1276426709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.45666,10.24981,1.45666,10.24981",
+    "geom:latitude":10.24981,
+    "geom:longitude":1.45666,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Taniapeta",
+    "gn:country_code":"BJ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391452,
+    "gn:latitude":10.24981,
+    "gn:longitude":1.45666,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Taniap\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagnap\u00e9ta",
+        "Taniap\u00e9ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391452
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"333e47e60c743c33aa673505ce3be0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1276426709,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276426709,
+    "wof:lastmodified":1537587846,
+    "wof:name":"Taniapeta",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.45666,
+    10.24981,
+    1.45666,
+    10.24981
+],
+  "geometry": {"coordinates":[1.45666,10.24981],"type":"Point"}
+}

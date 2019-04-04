@@ -1,0 +1,67 @@
+{
+  "id": 1242852641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.68158,7.81264,1.68158,7.81264",
+    "geom:latitude":7.81264,
+    "geom:longitude":1.68158,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dekampe",
+    "gn:country_code":"BJ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394684,
+    "gn:latitude":7.81264,
+    "gn:longitude":1.68158,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"D\u00e9kamp\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394684
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"816938a6e162eb4b6fc6a385e72f24a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758841,
+            "locality_id":1242852641,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1242852641,
+    "wof:lastmodified":1536667559,
+    "wof:name":"Dekampe",
+    "wof:parent_id":1108758841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.68158,
+    7.81264,
+    1.68158,
+    7.81264
+],
+  "geometry": {"coordinates":[1.68158,7.81264],"type":"Point"}
+}

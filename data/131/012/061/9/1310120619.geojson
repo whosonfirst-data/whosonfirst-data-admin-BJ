@@ -1,0 +1,67 @@
+{
+  "id": 1310120619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.84529,6.2839,1.84529,6.2839",
+    "geom:latitude":6.2839,
+    "geom:longitude":1.84529,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Heve",
+    "gn:country_code":"BJ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393888,
+    "gn:latitude":6.2839,
+    "gn:longitude":1.84529,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"H\u00e9v\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        421177249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393888
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b3008208d359fec3ea1ec96bf4168fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421177249,
+            "locality_id":1310120619,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1310120619,
+    "wof:lastmodified":1536974136,
+    "wof:name":"Heve",
+    "wof:parent_id":421177249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.84529,
+    6.2839,
+    1.84529,
+    6.2839
+],
+  "geometry": {"coordinates":[1.84529,6.2839],"type":"Point"}
+}

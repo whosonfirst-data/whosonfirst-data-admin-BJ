@@ -1,0 +1,67 @@
+{
+  "id": 1310667065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.33516,7.18386,2.33516,7.18386",
+    "geom:latitude":7.18386,
+    "geom:longitude":2.33516,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lainta",
+    "gn:country_code":"BJ",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392966,
+    "gn:latitude":7.18386,
+    "gn:longitude":2.33516,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"La\u00efnta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392966
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a5cf6c0adc7cb88358f272df6d3146e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758941,
+            "locality_id":1310667065,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1310667065,
+    "wof:lastmodified":1536683853,
+    "wof:name":"Lainta",
+    "wof:parent_id":1108758941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.33516,
+    7.18386,
+    2.33516,
+    7.18386
+],
+  "geometry": {"coordinates":[2.33516,7.18386],"type":"Point"}
+}

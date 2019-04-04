@@ -1,0 +1,67 @@
+{
+  "id": 1293874295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.24156,10.45512,1.24156,10.45512",
+    "geom:latitude":10.45512,
+    "geom:longitude":1.24156,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nafora",
+    "gn:country_code":"BJ",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392655,
+    "gn:latitude":10.45512,
+    "gn:longitude":1.24156,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Nafora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392655
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2c2fd2a79e9cf9f7d991582e26dc56b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":1293874295,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1293874295,
+    "wof:lastmodified":1536727003,
+    "wof:name":"Nafora",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.24156,
+    10.45512,
+    1.24156,
+    10.45512
+],
+  "geometry": {"coordinates":[1.24156,10.45512],"type":"Point"}
+}

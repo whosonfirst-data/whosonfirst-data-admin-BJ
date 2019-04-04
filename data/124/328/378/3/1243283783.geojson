@@ -1,0 +1,67 @@
+{
+  "id": 1243283783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5104,11.57412,3.5104,11.57412",
+    "geom:latitude":11.57412,
+    "geom:longitude":3.5104,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sadia-Kpara",
+    "gn:country_code":"BJ",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392038,
+    "gn:latitude":11.57412,
+    "gn:longitude":3.5104,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sadia-Kpara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392038
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8f6eab778db6fbe4795f6c590a505976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758957,
+            "locality_id":1243283783,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1243283783,
+    "wof:lastmodified":1537038441,
+    "wof:name":"Sadia-Kpara",
+    "wof:parent_id":1108758957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5104,
+    11.57412,
+    3.5104,
+    11.57412
+],
+  "geometry": {"coordinates":[3.5104,11.57412],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293314867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96891,11.04801,0.96891,11.04801",
+    "geom:latitude":11.04801,
+    "geom:longitude":0.96891,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Porga",
+    "gn:country_code":"BJ",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392090,
+    "gn:latitude":11.04801,
+    "gn:longitude":0.96891,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Porga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392090,
+        "wk:page":"Porga"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"876b9793f54763707a013d5613661d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1293314867,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1293314867,
+    "wof:lastmodified":1537487831,
+    "wof:name":"Porga",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96891,
+    11.04801,
+    0.96891,
+    11.04801
+],
+  "geometry": {"coordinates":[0.96891,11.04801],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209090103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.17733,9.81308,3.17733,9.81308",
+    "geom:latitude":9.81308,
+    "geom:longitude":3.17733,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Oberougando",
+    "gn:country_code":"BJ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392460,
+    "gn:latitude":9.81308,
+    "gn:longitude":3.17733,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ob\u00e9rougando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392460
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a0d872bd1dc45ac6a3c4ac6f7c7babdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209090103
+        }
+    ],
+    "wof:id":1209090103,
+    "wof:lastmodified":1536298062,
+    "wof:name":"Oberougando",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.17733,
+    9.81308,
+    3.17733,
+    9.81308
+],
+  "geometry": {"coordinates":[3.17733,9.81308],"type":"Point"}
+}

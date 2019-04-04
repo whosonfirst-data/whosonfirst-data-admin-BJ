@@ -1,0 +1,67 @@
+{
+  "id": 1360269193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.48144,9.20335,2.48144,9.20335",
+    "geom:latitude":9.20335,
+    "geom:longitude":2.48144,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gouarou",
+    "gn:country_code":"BJ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394020,
+    "gn:latitude":9.20335,
+    "gn:longitude":2.48144,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gouarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394020
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"95c434b24f448feba7d22e89a03aed15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758837,
+            "locality_id":1360269193,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1360269193,
+    "wof:lastmodified":1536680071,
+    "wof:name":"Gouarou",
+    "wof:parent_id":1108758837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.48144,
+    9.20335,
+    2.48144,
+    9.20335
+],
+  "geometry": {"coordinates":[2.48144,9.20335],"type":"Point"}
+}

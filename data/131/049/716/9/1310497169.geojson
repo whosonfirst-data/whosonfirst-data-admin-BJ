@@ -1,0 +1,67 @@
+{
+  "id": 1310497169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96206,10.52746,0.96206,10.52746",
+    "geom:latitude":10.52746,
+    "geom:longitude":0.96206,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Oubangou",
+    "gn:country_code":"BJ",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392352,
+    "gn:latitude":10.52746,
+    "gn:longitude":0.96206,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Oubangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392352
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e8815c6724fce9e46b567fcd0b33950d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758869,
+            "locality_id":1310497169,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1310497169,
+    "wof:lastmodified":1536929683,
+    "wof:name":"Oubangou",
+    "wof:parent_id":1108758869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96206,
+    10.52746,
+    0.96206,
+    10.52746
+],
+  "geometry": {"coordinates":[0.96206,10.52746],"type":"Point"}
+}

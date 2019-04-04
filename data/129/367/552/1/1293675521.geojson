@@ -1,0 +1,71 @@
+{
+  "id": 1293675521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.40786,9.69886,1.40786,9.69886",
+    "geom:latitude":9.69886,
+    "geom:longitude":1.40786,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Akarade",
+    "gn:country_code":"BJ",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395702,
+    "gn:latitude":9.69886,
+    "gn:longitude":1.40786,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Akarad\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agalad\u00e9",
+        "Akarad\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395702
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"5434b959b63c0fa63e0f3bd3022894e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1293675521,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1293675521,
+    "wof:lastmodified":1537587886,
+    "wof:name":"Akarade",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.40786,
+    9.69886,
+    1.40786,
+    9.69886
+],
+  "geometry": {"coordinates":[1.40786,9.69886],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209604205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38328,10.04319,3.38328,10.04319",
+    "geom:latitude":10.04319,
+    "geom:longitude":3.38328,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sakabansi",
+    "gn:country_code":"BJ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392021,
+    "gn:latitude":10.04319,
+    "gn:longitude":3.38328,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sakabansi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392021
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"62ab2fab4beb75da680ab6ed56ae1105",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209604205
+        }
+    ],
+    "wof:id":1209604205,
+    "wof:lastmodified":1536282066,
+    "wof:name":"Sakabansi",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3832800000000005,
+    10.04319,
+    3.3832800000000005,
+    10.04319
+],
+  "geometry": {"coordinates":[3.38328,10.04319],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276617271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.97976,7.36309,1.97976,7.36309",
+    "geom:latitude":7.36309,
+    "geom:longitude":1.97976,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ahouame",
+    "gn:country_code":"BJ",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395718,
+    "gn:latitude":7.36309,
+    "gn:longitude":1.97976,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ahouam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395718
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2f10b3f5d4afdffbfd755e787b9a2652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1276617271,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1276617271,
+    "wof:lastmodified":1536895537,
+    "wof:name":"Ahouame",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.97976,
+    7.36309,
+    1.97976,
+    7.36309
+],
+  "geometry": {"coordinates":[1.97976,7.36309],"type":"Point"}
+}

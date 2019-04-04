@@ -1,0 +1,72 @@
+{
+  "id": 1242667265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.18258,6.83221,2.18258,6.83221",
+    "geom:latitude":6.83221,
+    "geom:longitude":2.18258,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouagbo-Aliho",
+    "gn:country_code":"BJ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392362,
+    "gn:latitude":6.83221,
+    "gn:longitude":2.18258,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ouagbo-Aliho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouagbo",
+        "Wagbo",
+        "Ouagbo-Aliho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        1108758977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392362
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"47f665e7984b6027eadfb370a208ce16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758977,
+            "locality_id":1242667265,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1242667265,
+    "wof:lastmodified":1537587855,
+    "wof:name":"Ouagbo-Aliho",
+    "wof:parent_id":1108758977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.18258,
+    6.83221,
+    2.18258,
+    6.83221
+],
+  "geometry": {"coordinates":[2.18258,6.83221],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226428043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.95508,10.68067,0.95508,10.68067",
+    "geom:latitude":10.68067,
+    "geom:longitude":0.95508,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kotoroukointega",
+    "gn:country_code":"BJ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393299,
+    "gn:latitude":10.68067,
+    "gn:longitude":0.95508,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kotoroukoint\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393299
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c4f686cfb73408ede013ba3df895790e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1226428043,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226428043,
+    "wof:lastmodified":1536670977,
+    "wof:name":"Kotoroukointega",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.95508,
+    10.68067,
+    0.95508,
+    10.68067
+],
+  "geometry": {"coordinates":[0.95508,10.68067],"type":"Point"}
+}

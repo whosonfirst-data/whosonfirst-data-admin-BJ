@@ -1,0 +1,61 @@
+{
+  "id": 1209491219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.89825,7.48508,1.89825,7.48508",
+    "geom:latitude":7.48508,
+    "geom:longitude":1.89825,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bohe",
+    "gn:country_code":"BJ",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395050,
+    "gn:latitude":7.48508,
+    "gn:longitude":1.89825,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Boh\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395050
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"06cab0f0edc809bf43ffdf91f78221b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209491219
+        }
+    ],
+    "wof:id":1209491219,
+    "wof:lastmodified":1536285479,
+    "wof:name":"Bohe",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.89825,
+    7.48508,
+    1.89825,
+    7.48508
+],
+  "geometry": {"coordinates":[1.89825,7.48508],"type":"Point"}
+}

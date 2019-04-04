@@ -1,0 +1,67 @@
+{
+  "id": 1260376193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.63815,9.48712,1.63815,9.48712",
+    "geom:latitude":9.48712,
+    "geom:longitude":1.63815,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pelebina",
+    "gn:country_code":"BJ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8224805,
+    "gn:latitude":9.48712,
+    "gn:longitude":1.63815,
+    "gn:modification_date":"2012-03-30",
+    "gn:name":"Pelebina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224805
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"39c89c35c5261e441172a58c19de33bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1260376193,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1260376193,
+    "wof:lastmodified":1537081580,
+    "wof:name":"Pelebina",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.63815,
+    9.48712,
+    1.63815,
+    9.48712
+],
+  "geometry": {"coordinates":[1.63815,9.48712],"type":"Point"}
+}

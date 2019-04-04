@@ -1,0 +1,72 @@
+{
+  "id": 1293708963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.19914,10.18537,1.19914,10.18537",
+    "geom:latitude":10.18537,
+    "geom:longitude":1.19914,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koussoukoingou",
+    "gn:country_code":"BJ",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393315,
+    "gn:latitude":10.18537,
+    "gn:longitude":1.19914,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koussoukoingou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kossokouangou",
+        "Koussokouagou",
+        "Koussoukoingou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393315
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"48fa68a3395634eb3118e4ea94140f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758859,
+            "locality_id":1293708963,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1293708963,
+    "wof:lastmodified":1537587862,
+    "wof:name":"Koussoukoingou",
+    "wof:parent_id":1108758859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.19914,
+    10.18537,
+    1.19914,
+    10.18537
+],
+  "geometry": {"coordinates":[1.19914,10.18537],"type":"Point"}
+}

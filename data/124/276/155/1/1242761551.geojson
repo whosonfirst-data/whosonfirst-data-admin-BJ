@@ -1,0 +1,67 @@
+{
+  "id": 1242761551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.98587,9.76975,2.98587,9.76975",
+    "geom:latitude":9.76975,
+    "geom:longitude":2.98587,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ourara",
+    "gn:country_code":"BJ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392268,
+    "gn:latitude":9.76975,
+    "gn:longitude":2.98587,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ourara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392268
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f1833ea79d5eaf499e99b848816158df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758981,
+            "locality_id":1242761551,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1242761551,
+    "wof:lastmodified":1536798833,
+    "wof:name":"Ourara",
+    "wof:parent_id":1108758981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.98587,
+    9.76975,
+    2.98587,
+    9.76975
+],
+  "geometry": {"coordinates":[2.98587,9.76975],"type":"Point"}
+}

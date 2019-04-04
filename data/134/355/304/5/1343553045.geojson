@@ -1,0 +1,67 @@
+{
+  "id": 1343553045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.23081,11.93784,3.23081,11.93784",
+    "geom:latitude":11.93784,
+    "geom:longitude":3.23081,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kargui",
+    "gn:country_code":"BJ",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393642,
+    "gn:latitude":11.93784,
+    "gn:longitude":3.23081,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kargui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393642
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ff688ad26664a6de79b8a47662812036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758955,
+            "locality_id":1343553045,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343553045,
+    "wof:lastmodified":1536610016,
+    "wof:name":"Kargui",
+    "wof:parent_id":1108758955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.23081,
+    11.93784,
+    3.23081,
+    11.93784
+],
+  "geometry": {"coordinates":[3.23081,11.93784],"type":"Point"}
+}

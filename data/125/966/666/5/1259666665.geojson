@@ -1,0 +1,73 @@
+{
+  "id": 1259666665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83875,6.43479,1.83875,6.43479",
+    "geom:latitude":6.43479,
+    "geom:longitude":1.83875,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166076.0",
+    "gn:asciiname":"Oumako",
+    "gn:country_code":"BJ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392289,
+    "gn:latitude":6.43479,
+    "gn:longitude":1.83875,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Oumako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouamako",
+        "Oumako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        1108758895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392289,
+        "wk:page":"Oumako"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9fa56f420421883a113b1e9bdcdd455d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758895,
+            "locality_id":1259666665,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1259666665,
+    "wof:lastmodified":1537587854,
+    "wof:name":"Oumako",
+    "wof:parent_id":1108758895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83875,
+    6.43479,
+    1.83875,
+    6.43479
+],
+  "geometry": {"coordinates":[1.83875,6.43479],"type":"Point"}
+}

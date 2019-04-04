@@ -1,0 +1,67 @@
+{
+  "id": 1276358579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.12452,10.37702,1.12452,10.37702",
+    "geom:latitude":10.37702,
+    "geom:longitude":1.12452,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tadouata",
+    "gn:country_code":"BJ",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391529,
+    "gn:latitude":10.37702,
+    "gn:longitude":1.12452,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tadouata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391529
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"48506d43a53edf6b1c0359b06ab2debf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758859,
+            "locality_id":1276358579,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276358579,
+    "wof:lastmodified":1536744472,
+    "wof:name":"Tadouata",
+    "wof:parent_id":1108758859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.12452,
+    10.37702,
+    1.12452,
+    10.37702
+],
+  "geometry": {"coordinates":[1.12452,10.37702],"type":"Point"}
+}

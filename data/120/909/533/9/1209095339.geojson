@@ -1,0 +1,61 @@
+{
+  "id": 1209095339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.44126,9.75912,2.44126,9.75912",
+    "geom:latitude":9.75912,
+    "geom:longitude":2.44126,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Baborimmborou",
+    "gn:country_code":"BJ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395430,
+    "gn:latitude":9.75912,
+    "gn:longitude":2.44126,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Baborimmborou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395430
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9e77dd5709296031c0e77ffbc88d8c04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209095339
+        }
+    ],
+    "wof:id":1209095339,
+    "wof:lastmodified":1536297905,
+    "wof:name":"Baborimmborou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.44126,
+    9.75912,
+    2.44126,
+    9.75912
+],
+  "geometry": {"coordinates":[2.44126,9.75912],"type":"Point"}
+}

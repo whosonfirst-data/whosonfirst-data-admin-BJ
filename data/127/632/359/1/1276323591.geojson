@@ -1,0 +1,73 @@
+{
+  "id": 1276323591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41207,6.47187,2.41207,6.47187",
+    "geom:latitude":6.47187,
+    "geom:longitude":2.41207,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"So-Tchahoue",
+    "gn:country_code":"BJ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391605,
+    "gn:latitude":6.47187,
+    "gn:longitude":2.41207,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"So-Tchahou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f4 Tchanhou\u00e9",
+        "So Shanhui",
+        "S\u00f4 Chanhui",
+        "So-Tchahou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        1108758891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391605
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"5f9a771787ea2697c3838295f6acaf4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758891,
+            "locality_id":1276323591,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1276323591,
+    "wof:lastmodified":1537587847,
+    "wof:name":"So-Tchahoue",
+    "wof:parent_id":1108758891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41207,
+    6.47187,
+    2.41207,
+    6.47187
+],
+  "geometry": {"coordinates":[2.41207,6.47187],"type":"Point"}
+}

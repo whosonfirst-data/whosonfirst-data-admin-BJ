@@ -1,0 +1,67 @@
+{
+  "id": 1310300845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.82737,10.64461,0.82737,10.64461",
+    "geom:latitude":10.64461,
+    "geom:longitude":0.82737,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tindawanga",
+    "gn:country_code":"BJ",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391220,
+    "gn:latitude":10.64461,
+    "gn:longitude":0.82737,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tindawanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391220
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1a4cdedf007ca147e09998233d4c7aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758869,
+            "locality_id":1310300845,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1310300845,
+    "wof:lastmodified":1536714993,
+    "wof:name":"Tindawanga",
+    "wof:parent_id":1108758869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.82737,
+    10.64461,
+    0.82737,
+    10.64461
+],
+  "geometry": {"coordinates":[0.82737,10.64461],"type":"Point"}
+}

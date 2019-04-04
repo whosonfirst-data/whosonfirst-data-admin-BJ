@@ -1,0 +1,70 @@
+{
+  "id": 1243044329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39159,9.94779,1.39159,9.94779",
+    "geom:latitude":9.94779,
+    "geom:longitude":1.39159,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"7669275.0",
+    "gn:admin3_code":"11790048.0",
+    "gn:asciiname":"Anandana",
+    "gn:country_code":"BJ",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395599,
+    "gn:latitude":9.94779,
+    "gn:longitude":1.39159,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Anandana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395599,
+        "wk:page":"Anandana"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ec687f4d8add360c5bdbbb91771a5756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758985,
+            "locality_id":1243044329,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1243044329,
+    "wof:lastmodified":1537487849,
+    "wof:name":"Anandana",
+    "wof:parent_id":1108758985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39159,
+    9.94779,
+    1.39159,
+    9.94779
+],
+  "geometry": {"coordinates":[1.39159,9.94779],"type":"Point"}
+}

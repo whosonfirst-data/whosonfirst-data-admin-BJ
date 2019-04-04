@@ -1,0 +1,67 @@
+{
+  "id": 1259703743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48686,10.05158,1.48686,10.05158",
+    "geom:latitude":10.05158,
+    "geom:longitude":1.48686,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kounounko",
+    "gn:country_code":"BJ",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393171,
+    "gn:latitude":10.05158,
+    "gn:longitude":1.48686,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kounounko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393171
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"7c04795822ab96f0dba97158421e8421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1259703743,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1259703743,
+    "wof:lastmodified":1537036355,
+    "wof:name":"Kounounko",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48686,
+    10.05158,
+    1.48686,
+    10.05158
+],
+  "geometry": {"coordinates":[1.48686,10.05158],"type":"Point"}
+}

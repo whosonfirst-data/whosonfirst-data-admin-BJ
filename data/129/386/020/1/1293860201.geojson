@@ -1,0 +1,71 @@
+{
+  "id": 1293860201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.38131,9.68666,1.38131,9.68666",
+    "geom:latitude":9.68666,
+    "geom:longitude":1.38131,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tchalade",
+    "gn:country_code":"BJ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391385,
+    "gn:latitude":9.68666,
+    "gn:longitude":1.38131,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tchalad\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walad\u00e9",
+        "Tchalad\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391385
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"fcf03a0020600b35e89128487555382d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1293860201,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1293860201,
+    "wof:lastmodified":1537587845,
+    "wof:name":"Tchalade",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.38131,
+    9.68666,
+    1.38131,
+    9.68666
+],
+  "geometry": {"coordinates":[1.38131,9.68666],"type":"Point"}
+}

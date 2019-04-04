@@ -1,0 +1,67 @@
+{
+  "id": 1343955703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.17546,11.63329,3.17546,11.63329",
+    "geom:latitude":11.63329,
+    "geom:longitude":3.17546,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bangoun",
+    "gn:country_code":"BJ",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395335,
+    "gn:latitude":11.63329,
+    "gn:longitude":3.17546,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bangoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395335
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b6011463f017c099131bf6d7674baa7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758957,
+            "locality_id":1343955703,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343955703,
+    "wof:lastmodified":1537025769,
+    "wof:name":"Bangoun",
+    "wof:parent_id":1108758957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.17546,
+    11.63329,
+    3.17546,
+    11.63329
+],
+  "geometry": {"coordinates":[3.17546,11.63329],"type":"Point"}
+}

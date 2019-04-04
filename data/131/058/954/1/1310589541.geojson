@@ -1,0 +1,75 @@
+{
+  "id": 1310589541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.9609,8.29308,1.9609,8.29308",
+    "geom:latitude":8.29308,
+    "geom:longitude":1.9609,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"8260647.0",
+    "gn:asciiname":"Agoua",
+    "gn:country_code":"BJ",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395755,
+    "gn:latitude":8.29308,
+    "gn:longitude":1.9609,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Agoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agaoua",
+        "Agua",
+        "Agwa",
+        "Agoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395755,
+        "wk:page":"Agoua"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ff8d897425c94284501ce37d1bbe0920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758839,
+            "locality_id":1310589541,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1310589541,
+    "wof:lastmodified":1537587887,
+    "wof:name":"Agoua",
+    "wof:parent_id":1108758839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9609,
+    8.29308,
+    1.9609,
+    8.29308
+],
+  "geometry": {"coordinates":[1.9609,8.29308],"type":"Point"}
+}

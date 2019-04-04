@@ -1,0 +1,67 @@
+{
+  "id": 1310099897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.22505,6.7335,2.22505,6.7335",
+    "geom:latitude":6.7335,
+    "geom:longitude":2.22505,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dahoue",
+    "gn:country_code":"BJ",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394788,
+    "gn:latitude":6.7335,
+    "gn:longitude":2.22505,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dahou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        1108758875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394788
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"74a385e11db95da160875a4479b717b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758875,
+            "locality_id":1310099897,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1310099897,
+    "wof:lastmodified":1537003826,
+    "wof:name":"Dahoue",
+    "wof:parent_id":1108758875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.22505,
+    6.7335,
+    2.22505,
+    6.7335
+],
+  "geometry": {"coordinates":[2.22505,6.7335],"type":"Point"}
+}

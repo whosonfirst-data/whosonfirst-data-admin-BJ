@@ -1,0 +1,71 @@
+{
+  "id": 1277001777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05555,10.67125,1.05555,10.67125",
+    "geom:latitude":10.67125,
+    "geom:longitude":1.05555,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kotadi",
+    "gn:country_code":"BJ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393310,
+    "gn:latitude":10.67125,
+    "gn:longitude":1.05555,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kotadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotari",
+        "Kotadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393310
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"950f0235d525a726bcc46fe65856f60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1277001777,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1277001777,
+    "wof:lastmodified":1537587862,
+    "wof:name":"Kotadi",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05555,
+    10.67125,
+    1.05555,
+    10.67125
+],
+  "geometry": {"coordinates":[1.05555,10.67125],"type":"Point"}
+}

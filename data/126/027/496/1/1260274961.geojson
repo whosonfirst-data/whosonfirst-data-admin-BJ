@@ -1,0 +1,74 @@
+{
+  "id": 1260274961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.31676,10.64147,3.31676,10.64147",
+    "geom:latitude":10.64147,
+    "geom:longitude":3.31676,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Monrau",
+    "gn:country_code":"BJ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392699,
+    "gn:latitude":10.64147,
+    "gn:longitude":3.31676,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Monrau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muru",
+        "Morou",
+        "Mourou",
+        "Monrou",
+        "Monrau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392699
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c56fa34e9e46861099892215fd897f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1260274961,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1260274961,
+    "wof:lastmodified":1537587857,
+    "wof:name":"Monrau",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.31676,
+    10.64147,
+    3.31676,
+    10.64147
+],
+  "geometry": {"coordinates":[3.31676,10.64147],"type":"Point"}
+}

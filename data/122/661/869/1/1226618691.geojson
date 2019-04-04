@@ -1,0 +1,68 @@
+{
+  "id": 1226618691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.61667,6.36667,2.61667,6.36667",
+    "geom:latitude":6.36667,
+    "geom:longitude":2.61667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"7668941.0",
+    "gn:asciiname":"Seme Kpodji",
+    "gn:country_code":"BJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551141,
+    "gn:latitude":6.36667,
+    "gn:longitude":2.61667,
+    "gn:modification_date":"2018-05-29",
+    "gn:name":"Seme Kpodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551141
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f21a3a851137e628d5895d3eb1c78f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758917,
+            "locality_id":1226618691,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1226618691,
+    "wof:lastmodified":1536898362,
+    "wof:name":"Seme Kpodji",
+    "wof:parent_id":1108758917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.61667,
+    6.36667,
+    2.61667,
+    6.36667
+],
+  "geometry": {"coordinates":[2.61667,6.36667],"type":"Point"}
+}

@@ -1,0 +1,306 @@
+{
+  "id": 85668821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.252076,
+    "geom:area_square_m":3092434383.679348,
+    "geom:bbox":"2.41776492691,6.50429778062,2.79231490091,7.65971365036",
+    "geom:latitude":7.18671,
+    "geom:longitude":2.625202,
+    "gn:population":435623,
+    "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Plateau Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
+    "lbl:latitude":7.303816,
+    "lbl:longitude":2.606722,
+    "mps:latitude":7.303816,
+    "mps:longitude":2.606722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0625\u062f\u0627\u0631\u0629 \u0628\u0644\u0627\u062a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cd\u09b2\u09be\u09a4\u09c7\u0993 \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bre_x_preferred":[
+        "Plateau"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043b\u0430\u0442\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Plateau"
+    ],
+    "name:chi_x_preferred":[
+        "\u9ad8\u539f\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Plateau"
+    ],
+    "name:dut_x_preferred":[
+        "Plateau"
+    ],
+    "name:eng_x_preferred":[
+        "Plateau Department"
+    ],
+    "name:eng_x_variant":[
+        "Plateau"
+    ],
+    "name:fin_x_preferred":[
+        "Plateaun departmentti"
+    ],
+    "name:fra_x_preferred":[
+        "Plateau"
+    ],
+    "name:fre_x_preferred":[
+        "Plateau"
+    ],
+    "name:ger_x_preferred":[
+        "Plateau"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03b5\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a0\u03bb\u03b1\u03c4\u03cc"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acd\u0ab2\u0ac7\u0a9f\u0ac1 \u0ab5\u0abf\u0aad\u0abe\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0920\u093e\u0930 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Plateau"
+    ],
+    "name:ind_x_preferred":[
+        "Departemen Plateau"
+    ],
+    "name:ita_x_preferred":[
+        "dipartimento dell'Altopiano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30c8\u30fc\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccd\u0cb0\u0cb8\u0ccd\u0ca5\u0cad\u0cc2\u0cae\u0cbf \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud50c\ub77c\ud1a0 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Plato departaments"
+    ],
+    "name:lit_x_preferred":[
+        "Plynauk\u0161t\u0117s departamentas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094d\u0932\u0947\u091f\u092f\u0942 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Jabatan Plateau"
+    ],
+    "name:nob_x_preferred":[
+        "Plateau"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0644\u0627\u062a\u0626\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Departament Plateau"
+    ],
+    "name:por_x_preferred":[
+        "Plateau"
+    ],
+    "name:rum_x_preferred":[
+        "Departamentul Plateau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u0442\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dca\u0dbd\u0da7\u0dda\u0d8c \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Plateau"
+    ],
+    "name:swe_x_preferred":[
+        "Plateau"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb3\u0bbe\u0b9f\u0bcb\u0bb5\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4d\u0c32\u0c3e\u0c1f\u0c42 \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1b\u0e25\u0e32\u0e42\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Plateau Departman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u041f\u043b\u0430\u0442\u043e"
+    ],
+    "name:unk_x_variant":[
+        "D\u00e9partement du Plateau"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0644\u06cc\u0679\u06cc\u0648 \u0645\u062d\u06a9\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Khu h\u00e0nh ch\u00ednh Plateau"
+    ],
+    "name:yor_x_preferred":[
+        "Ap\u00e1 Plateau"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BEN",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BEN-2179",
+    "ne:adm1_code":"BEN-2179",
+    "ne:admin":"Benin",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"BJ.PL",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2179",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BN17",
+    "ne:fips_alt":"BN05",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Benin",
+    "ne:gn_a1_code":"BJ.17",
+    "ne:gn_id":"2597277",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Plateau Department",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BN17",
+    "ne:gns_id":"9146021",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Plateau, Departement du",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BEN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BJ-",
+    "ne:iso_a2":"BJ",
+    "ne:labelrank":"7",
+    "ne:latitude":"7.15213000000",
+    "ne:longitude":"2.60483000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Plateau",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PL",
+    "ne:provnum_ne":"2",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"BEN",
+    "ne:sub_code":"",
+    "ne:type":"D\u00e9partement",
+    "ne:type_en":"Department",
+    "ne:wikipedia":"",
+    "ne:woe_id":55967669,
+    "ne:woe_label":"Plateau, BJ, Benin",
+    "ne:woe_name":"Plateau",
+    "qs:a0":"Benin",
+    "qs:a0_lc":"BJ",
+    "qs:a1":"Plateau",
+    "qs:a1_lc":"BEN-2179",
+    "qs:adm0":"Benin",
+    "qs:adm0_a3":"BEN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Department",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-02-11",
+    "statoids:area_km":"1,865",
+    "statoids:area_mi":"720",
+    "statoids:as_of_date":"2002-02-11",
+    "statoids:capital":"Sak\u00e9t\u00e9 ?",
+    "statoids:country":"BJ",
+    "statoids:gec":"BN17",
+    "statoids:hasc":"BJ.PL",
+    "statoids:iso":"PL",
+    "statoids:name":"Plateau",
+    "statoids:population":"407116",
+    "statoids:timezone":"+1",
+    "statoids:type":"department",
+    "unlc:subdivision":"BJ-PL",
+    "wof:belongsto":[
+        102191573,
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BN17",
+        "gn:id":2597277,
+        "gp:id":55967669,
+        "hasc:id":"BJ.PL",
+        "iso:id":"BJ-PL",
+        "qs:id":894129,
+        "unlc:id":"BJ-PL",
+        "wd:id":"Q32108",
+        "wk:page":"Plateau Department"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f5f2d7fc619ce2cd45dde63e2a93352b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":85668821,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553814710,
+    "wof:name":"Plateau",
+    "wof:parent_id":85632247,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"department",
+    "wof:population":407116,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:shortcode":"PL",
+    "wof:subdivision":"BJ-PL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41776492690991,
+    6.50429778061812,
+    2.792314900912,
+    7.65971365036472
+],
+  "geometry": {"coordinates":[[[2.71764113912729,7.65854889791336],[2.71531701666703,7.6257888791535],[2.7205880124269,7.58656646706885],[2.7406384684906,7.54935943748808],[2.77019738729962,7.51427113960148],[2.792314900912,7.47763254810366],[2.78962772573902,7.43582631543217],[2.78725060982782,7.42688629256838],[2.78652714031534,7.42125356160261],[2.78332320120484,7.41923817999805],[2.7617224524293,7.42352732382699],[2.75128381369711,7.42363067751381],[2.74363570112678,7.41923817999805],[2.74115523242807,7.40817942454083],[2.76213586447864,7.16219960592713],[2.76110233570426,7.14835032250943],[2.75779504380625,7.13889353570818],[2.74983687287346,7.1285582479648],[2.7406384684906,7.10959299841818],[2.73629764781822,7.10292673867809],[2.7352641190439,7.09600209651961],[2.73908817487944,7.0829796354019],[2.74766646343659,7.07223093740788],[2.77391809034765,7.05078521736397],[2.77970585094431,7.04132843146198],[2.77577844232133,7.03052805662458],[2.76554650826478,7.02510203033449],[2.75273075452077,7.0213296513424],[2.74105188053989,7.01580027316413],[2.71511031109202,6.97983347613405],[2.71841760209071,6.94355662164082],[2.73195682804521,6.90521270869959],[2.73691776544257,6.86330312144196],[2.72627242023606,6.82136769756124],[2.7235852459624,6.799715271043],[2.7286495361472,6.78000071356212],[2.73629764781822,6.76984629297209],[2.7447725826886,6.76377431243463],[2.75500451674509,6.76072540295502],[2.76740686023845,6.75956268297148],[2.77329797452194,6.75504099514586],[2.77526167748448,6.74488657635448],[2.77856896938249,6.69876536143232],[2.7729879152601,6.6874740601798],[2.76068892365493,6.67938669893704],[2.74260217235241,6.6633411676608],[2.73113000484591,6.64184377167277],[2.73081994648339,6.62135406513806],[2.73939823414122,6.5791860963613],[2.73733117749191,6.5580245971575],[2.71880318102205,6.50429778061812],[2.71852176336876,6.50477122601131],[2.67955773280317,6.57032278117146],[2.66420983171838,6.58670421013124],[2.61563398561998,6.62750275334946],[2.59635867681152,6.65887034818809],[2.57573977996691,6.77609833397099],[2.52793908022443,6.89162099920981],[2.51832726379223,6.94228974037924],[2.52003258613502,6.99316518802306],[2.53910119026779,6.99176992404279],[2.54643924267697,6.99192495457305],[2.55233035606113,6.99293264402633],[2.55667117673346,6.99512889188492],[2.55899661580122,6.99807444947629],[2.55977176305646,6.99954722692303],[2.56008182141898,7.00008983018159],[2.56008182141898,7.0001673454467],[2.55527591275324,7.04468659081357],[2.53305504725267,7.15602346411163],[2.534295281602,7.17286998106482],[2.53383019360859,7.17845103608647],[2.52809410985532,7.18496226619567],[2.48075849810624,7.2170791689685],[2.46556562665239,7.25015208614991],[2.44990766810446,7.309269923768],[2.44665205215051,7.32105215143571],[2.44654870026238,7.3366584331402],[2.44200117401499,7.34627025047172],[2.43642011899334,7.35368581814606],[2.43295779836376,7.36265167943151],[2.43295779836376,7.40732595532864],[2.42753177207368,7.42603282335614],[2.42034874839607,7.45086334876459],[2.41776492690991,7.47486705187299],[2.42954715277892,7.49670034374594],[2.46091474761755,7.54101288533644],[2.47083662331158,7.54760162981142],[2.48525434661087,7.55214915605876],[2.48757978657795,7.56320791331461],[2.48075849810624,7.58920115780722],[2.483083937174,7.61751984316629],[2.49817345494102,7.65906769521803],[2.51150597532057,7.65971365036472],[2.71728152812005,7.65855093038118],[2.71764113912729,7.65854889791336]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210011947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.4168,10.71968,1.4168,10.71968",
+    "geom:latitude":10.71968,
+    "geom:longitude":1.4168,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Niangou",
+    "gn:country_code":"BJ",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392551,
+    "gn:latitude":10.71968,
+    "gn:longitude":1.4168,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Niangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421172113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392551
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9fd091ad12667682c49088e4aeaf90d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421172113,
+            "locality_id":1210011947,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1210011947,
+    "wof:lastmodified":1536396801,
+    "wof:name":"Niangou",
+    "wof:parent_id":421172113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4168,
+    10.71968,
+    1.4168,
+    10.71968
+],
+  "geometry": {"coordinates":[1.4168,10.71968],"type":"Point"}
+}

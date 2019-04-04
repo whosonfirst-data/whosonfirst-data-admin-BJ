@@ -1,0 +1,65 @@
+{
+  "id": 1209406501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.87567,12.24276,2.87567,12.24276",
+    "geom:latitude":12.24276,
+    "geom:longitude":2.87567,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bonwalou",
+    "gn:country_code":"BJ",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395003,
+    "gn:latitude":12.24276,
+    "gn:longitude":2.87567,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bonwalou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonvalou",
+        "Bonwalou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395003
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c895abf99a0be40351a0539d2177fe40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209406501
+        }
+    ],
+    "wof:id":1209406501,
+    "wof:lastmodified":1537587878,
+    "wof:name":"Bonwalou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.87567,
+    12.24276,
+    2.87567,
+    12.24276
+],
+  "geometry": {"coordinates":[2.87567,12.24276],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209185599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39772,9.64954,1.39772,9.64954",
+    "geom:latitude":9.64954,
+    "geom:longitude":1.39772,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Komte",
+    "gn:country_code":"BJ",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393345,
+    "gn:latitude":9.64954,
+    "gn:longitude":1.39772,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Komt\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koumd\u00e9",
+        "Kooumd\u00e8",
+        "Komt\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393345
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"76eaad226f6b6f7d1d687ec8b7af379d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209185599
+        }
+    ],
+    "wof:id":1209185599,
+    "wof:lastmodified":1537587863,
+    "wof:name":"Komte",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39772,
+    9.64954,
+    1.39772,
+    9.64954
+],
+  "geometry": {"coordinates":[1.39772,9.64954],"type":"Point"}
+}

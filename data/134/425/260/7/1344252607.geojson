@@ -1,0 +1,67 @@
+{
+  "id": 1344252607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.8221,10.4201,0.8221,10.4201",
+    "geom:latitude":10.4201,
+    "geom:longitude":0.8221,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Laniangou",
+    "gn:country_code":"BJ",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392953,
+    "gn:latitude":10.4201,
+    "gn:longitude":0.8221,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Laniangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392953
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"209ae6eb871295f31fb5b56d809baacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758869,
+            "locality_id":1344252607,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1344252607,
+    "wof:lastmodified":1537092352,
+    "wof:name":"Laniangou",
+    "wof:parent_id":1108758869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.8221,
+    10.4201,
+    0.8221,
+    10.4201
+],
+  "geometry": {"coordinates":[0.8221,10.4201],"type":"Point"}
+}

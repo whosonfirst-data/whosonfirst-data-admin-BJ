@@ -1,0 +1,67 @@
+{
+  "id": 1276540691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.98292,10.73752,2.98292,10.73752",
+    "geom:latitude":10.73752,
+    "geom:longitude":2.98292,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Serebou",
+    "gn:country_code":"BJ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391812,
+    "gn:latitude":10.73752,
+    "gn:longitude":2.98292,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"S\u00e9r\u00e9bou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391812
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6cdeba6615ff2bbe26e86142e73f997c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1276540691,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1276540691,
+    "wof:lastmodified":1536997404,
+    "wof:name":"Serebou",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.98292,
+    10.73752,
+    2.98292,
+    10.73752
+],
+  "geometry": {"coordinates":[2.98292,10.73752],"type":"Point"}
+}

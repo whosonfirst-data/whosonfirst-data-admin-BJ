@@ -1,0 +1,71 @@
+{
+  "id": 1310478131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.75219,9.70823,1.75219,9.70823",
+    "geom:latitude":9.70823,
+    "geom:longitude":1.75219,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tossaou",
+    "gn:country_code":"BJ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391093,
+    "gn:latitude":9.70823,
+    "gn:longitude":1.75219,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tossaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9d\u00e9ra",
+        "Tossaou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391093
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"00282a8f15d19cf684e7d3d54e41db6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1310478131,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1310478131,
+    "wof:lastmodified":1537587843,
+    "wof:name":"Tossaou",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.75219,
+    9.70823,
+    1.75219,
+    9.70823
+],
+  "geometry": {"coordinates":[1.75219,9.70823],"type":"Point"}
+}

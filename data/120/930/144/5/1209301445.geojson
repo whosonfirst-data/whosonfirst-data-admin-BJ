@@ -1,0 +1,61 @@
+{
+  "id": 1209301445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.65,7.36667,1.65,7.36667",
+    "geom:latitude":7.36667,
+    "geom:longitude":1.65,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zonklandji",
+    "gn:country_code":"BJ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390721,
+    "gn:latitude":7.36667,
+    "gn:longitude":1.65,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Zonklandji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390721
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b7dddaede7e726d780772d35cf8c4835",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209301445
+        }
+    ],
+    "wof:id":1209301445,
+    "wof:lastmodified":1536291344,
+    "wof:name":"Zonklandji",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.65,
+    7.36667,
+    1.65,
+    7.36667
+],
+  "geometry": {"coordinates":[1.65,7.36667],"type":"Point"}
+}

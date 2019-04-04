@@ -1,0 +1,67 @@
+{
+  "id": 1327118135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.58002,10.61994,3.58002,10.61994",
+    "geom:latitude":10.61994,
+    "geom:longitude":3.58002,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Managbasso",
+    "gn:country_code":"BJ",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392822,
+    "gn:latitude":10.61994,
+    "gn:longitude":3.58002,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Managbasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392822
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"96cb2f29155339705a8279ea33a7e8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758835,
+            "locality_id":1327118135,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1327118135,
+    "wof:lastmodified":1536635502,
+    "wof:name":"Managbasso",
+    "wof:parent_id":1108758835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.58002,
+    10.61994,
+    3.58002,
+    10.61994
+],
+  "geometry": {"coordinates":[3.58002,10.61994],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327106087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.58621,6.63164,2.58621,6.63164",
+    "geom:latitude":6.63164,
+    "geom:longitude":2.58621,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Katagon",
+    "gn:country_code":"BJ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393617,
+    "gn:latitude":6.63164,
+    "gn:longitude":2.58621,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Katagon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393617,
+        "wk:page":"Katagon"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9e597e4071a6930a4b133fd4611943d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758903,
+            "locality_id":1327106087,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1327106087,
+    "wof:lastmodified":1537487838,
+    "wof:name":"Katagon",
+    "wof:parent_id":1108758903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.58621,
+    6.63164,
+    2.58621,
+    6.63164
+],
+  "geometry": {"coordinates":[2.58621,6.63164],"type":"Point"}
+}

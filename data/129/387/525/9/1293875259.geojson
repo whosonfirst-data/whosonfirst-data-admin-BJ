@@ -1,0 +1,67 @@
+{
+  "id": 1293875259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.51496,11.29737,2.51496,11.29737",
+    "geom:latitude":11.29737,
+    "geom:longitude":2.51496,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yabo",
+    "gn:country_code":"BJ",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390866,
+    "gn:latitude":11.29737,
+    "gn:longitude":2.51496,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Yabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390866
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"4688af33dcf89e21d2640e0f822b8041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1293875259,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293875259,
+    "wof:lastmodified":1536725618,
+    "wof:name":"Yabo",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.51496,
+    11.29737,
+    2.51496,
+    11.29737
+],
+  "geometry": {"coordinates":[2.51496,11.29737],"type":"Point"}
+}

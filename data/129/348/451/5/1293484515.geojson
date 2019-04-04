@@ -1,0 +1,67 @@
+{
+  "id": 1293484515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.49224,11.52614,2.49224,11.52614",
+    "geom:latitude":11.52614,
+    "geom:longitude":2.49224,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baraouni",
+    "gn:country_code":"BJ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395285,
+    "gn:latitude":11.52614,
+    "gn:longitude":2.49224,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Baraouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395285
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cda988ba1f60ee3d778034a01249c1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1293484515,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293484515,
+    "wof:lastmodified":1536791729,
+    "wof:name":"Baraouni",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.49224,
+    11.52614,
+    2.49224,
+    11.52614
+],
+  "geometry": {"coordinates":[2.49224,11.52614],"type":"Point"}
+}

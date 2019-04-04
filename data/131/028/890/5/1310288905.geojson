@@ -1,0 +1,67 @@
+{
+  "id": 1310288905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.57661,9.36272,2.57661,9.36272",
+    "geom:latitude":9.36272,
+    "geom:longitude":2.57661,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tora",
+    "gn:country_code":"BJ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391108,
+    "gn:latitude":9.36272,
+    "gn:longitude":2.57661,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391108
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b09a10912cf78557a66259195c50b25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758983,
+            "locality_id":1310288905,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1310288905,
+    "wof:lastmodified":1536732145,
+    "wof:name":"Tora",
+    "wof:parent_id":1108758983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.57661,
+    9.36272,
+    2.57661,
+    9.36272
+],
+  "geometry": {"coordinates":[2.57661,9.36272],"type":"Point"}
+}

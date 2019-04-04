@@ -1,0 +1,67 @@
+{
+  "id": 1243286169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.37405,10.18569,1.37405,10.18569",
+    "geom:latitude":10.18569,
+    "geom:longitude":1.37405,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Takourte",
+    "gn:country_code":"BJ",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391504,
+    "gn:latitude":10.18569,
+    "gn:longitude":1.37405,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Takourt\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391504
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0921f37861af8b9ca49dcecd9ea91419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1243286169,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1243286169,
+    "wof:lastmodified":1537035101,
+    "wof:name":"Takourte",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.37405,
+    10.18569,
+    1.37405,
+    10.18569
+],
+  "geometry": {"coordinates":[1.37405,10.18569],"type":"Point"}
+}

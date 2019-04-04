@@ -1,0 +1,67 @@
+{
+  "id": 1343549161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.78396,7.98386,1.78396,7.98386",
+    "geom:latitude":7.98386,
+    "geom:longitude":1.78396,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Adanhoue",
+    "gn:country_code":"BJ",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395901,
+    "gn:latitude":7.98386,
+    "gn:longitude":1.78396,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Adanhoue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395901
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f1aa6b8ff017f28615e9325e645924aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758841,
+            "locality_id":1343549161,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1343549161,
+    "wof:lastmodified":1536615935,
+    "wof:name":"Adanhoue",
+    "wof:parent_id":1108758841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.78396,
+    7.98386,
+    1.78396,
+    7.98386
+],
+  "geometry": {"coordinates":[1.78396,7.98386],"type":"Point"}
+}

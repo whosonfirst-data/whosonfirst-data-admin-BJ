@@ -1,0 +1,71 @@
+{
+  "id": 1193113625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.47687,9.62177,1.47687,9.62177",
+    "geom:latitude":9.62177,
+    "geom:longitude":1.47687,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Assode Kandia",
+    "gn:country_code":"BJ",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395536,
+    "gn:latitude":9.62177,
+    "gn:longitude":1.47687,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Assod\u00e8 Kandia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asso Kandia",
+        "Assod\u00e8 Kandia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395536
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a856861d6f6626195f54e71006e72d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1193113625,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1193113625,
+    "wof:lastmodified":1537587884,
+    "wof:name":"Assode Kandia",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.47687,
+    9.62177,
+    1.47687,
+    9.62177
+],
+  "geometry": {"coordinates":[1.47687,9.62177],"type":"Point"}
+}

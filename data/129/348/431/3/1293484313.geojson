@@ -1,0 +1,70 @@
+{
+  "id": 1293484313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.48533,10.92375,3.48533,10.92375",
+    "geom:latitude":10.92375,
+    "geom:longitude":3.48533,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"10344468.0",
+    "gn:admin3_code":"11789888.0",
+    "gn:asciiname":"Liboussou",
+    "gn:country_code":"BJ",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392925,
+    "gn:latitude":10.92375,
+    "gn:longitude":3.48533,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Liboussou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392925,
+        "wk:page":"Liboussou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"7667a5bdea90559e38f3789a7442784e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1293484313,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293484313,
+    "wof:lastmodified":1537487835,
+    "wof:name":"Liboussou",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.48533,
+    10.92375,
+    3.48533,
+    10.92375
+],
+  "geometry": {"coordinates":[3.48533,10.92375],"type":"Point"}
+}

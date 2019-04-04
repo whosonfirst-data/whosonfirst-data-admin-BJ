@@ -1,0 +1,67 @@
+{
+  "id": 1343468845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.14217,9.24674,3.14217,9.24674",
+    "geom:latitude":9.24674,
+    "geom:longitude":3.14217,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Samerinega",
+    "gn:country_code":"BJ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391985,
+    "gn:latitude":9.24674,
+    "gn:longitude":3.14217,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sam\u00e9rin\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391985
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f63f25a561d3be235e20889a13a44914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563089,
+            "locality_id":1343468845,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1343468845,
+    "wof:lastmodified":1536734115,
+    "wof:name":"Samerinega",
+    "wof:parent_id":1108563089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.14217,
+    9.24674,
+    3.14217,
+    9.24674
+],
+  "geometry": {"coordinates":[3.14217,9.24674],"type":"Point"}
+}

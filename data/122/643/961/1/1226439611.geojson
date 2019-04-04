@@ -1,0 +1,67 @@
+{
+  "id": 1226439611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.26893,10.21866,1.26893,10.21866",
+    "geom:latitude":10.21866,
+    "geom:longitude":1.26893,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bouatani",
+    "gn:country_code":"BJ",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394954,
+    "gn:latitude":10.21866,
+    "gn:longitude":1.26893,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Bouatani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394954
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0d7c2170909c179982a7a3d22c75ae2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1226439611,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226439611,
+    "wof:lastmodified":1536654331,
+    "wof:name":"Bouatani",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.26893,
+    10.21866,
+    1.26893,
+    10.21866
+],
+  "geometry": {"coordinates":[1.26893,10.21866],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209712215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.62502,10.82334,3.62502,10.82334",
+    "geom:latitude":10.82334,
+    "geom:longitude":3.62502,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouami",
+    "gn:country_code":"BJ",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390988,
+    "gn:latitude":10.82334,
+    "gn:longitude":3.62502,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wami",
+        "Ouami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390988
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b243df082c7a24666ca1ef7deb7834b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1209712215,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1209712215,
+    "wof:lastmodified":1537587842,
+    "wof:name":"Ouami",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.62502,
+    10.82334,
+    3.62502,
+    10.82334
+],
+  "geometry": {"coordinates":[3.62502,10.82334],"type":"Point"}
+}

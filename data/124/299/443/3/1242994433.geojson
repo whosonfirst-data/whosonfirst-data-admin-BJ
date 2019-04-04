@@ -1,0 +1,71 @@
+{
+  "id": 1242994433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.42276,11.19768,2.42276,11.19768",
+    "geom:latitude":11.19768,
+    "geom:longitude":2.42276,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nafarou",
+    "gn:country_code":"BJ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392658,
+    "gn:latitude":11.19768,
+    "gn:longitude":2.42276,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Nafarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nafiarou",
+        "Nafarou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392658
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3668240598c8ff5f3447cd8eaf5f442e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1242994433,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1242994433,
+    "wof:lastmodified":1537587857,
+    "wof:name":"Nafarou",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.42276,
+    11.19768,
+    2.42276,
+    11.19768
+],
+  "geometry": {"coordinates":[2.42276,11.19768],"type":"Point"}
+}

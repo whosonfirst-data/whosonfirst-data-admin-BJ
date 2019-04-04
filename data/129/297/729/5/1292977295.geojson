@@ -1,0 +1,71 @@
+{
+  "id": 1292977295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.75727,9.68878,1.75727,9.68878",
+    "geom:latitude":9.68878,
+    "geom:longitude":1.75727,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Afatalanga",
+    "gn:country_code":"BJ",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395841,
+    "gn:latitude":9.68878,
+    "gn:longitude":1.75727,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Afatalanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajetalanga",
+        "Afatalanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395841
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"39409d53b22b014dcb2b3175818b49d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1292977295,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1292977295,
+    "wof:lastmodified":1537587888,
+    "wof:name":"Afatalanga",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.75727,
+    9.68878,
+    1.75727,
+    9.68878
+],
+  "geometry": {"coordinates":[1.75727,9.68878],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226219521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.84222,6.98028,1.84222,6.98028",
+    "geom:latitude":6.98028,
+    "geom:longitude":1.84222,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"10344474.0",
+    "gn:admin3_code":"11789880.0",
+    "gn:asciiname":"Klouekanme",
+    "gn:country_code":"BJ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10339148,
+    "gn:latitude":6.98028,
+    "gn:longitude":1.84222,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Klou\u00e9kanm\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10339148
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2423c897864f0cfcc88e999c354c80d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758883,
+            "locality_id":1226219521,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1226219521,
+    "wof:lastmodified":1536971133,
+    "wof:name":"Klouekanme",
+    "wof:parent_id":1108758883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.84222,
+    6.98028,
+    1.84222,
+    6.98028
+],
+  "geometry": {"coordinates":[1.84222,6.98028],"type":"Point"}
+}

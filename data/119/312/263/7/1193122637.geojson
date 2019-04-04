@@ -1,0 +1,71 @@
+{
+  "id": 1193122637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23051,10.39932,1.23051,10.39932",
+    "geom:latitude":10.39932,
+    "geom:longitude":1.23051,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Inafonnte",
+    "gn:country_code":"BJ",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393803,
+    "gn:latitude":10.39932,
+    "gn:longitude":1.23051,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Inafonnt\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imafot\u00e9",
+        "Inafonnt\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393803
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"185739ce6db8108aa9c942f47ea310cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1193122637,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1193122637,
+    "wof:lastmodified":1537587866,
+    "wof:name":"Inafonnte",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23051,
+    10.39932,
+    1.23051,
+    10.39932
+],
+  "geometry": {"coordinates":[1.23051,10.39932],"type":"Point"}
+}

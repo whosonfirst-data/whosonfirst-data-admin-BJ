@@ -1,0 +1,67 @@
+{
+  "id": 1343532759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.76667,6.75,2.76667,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":2.76667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Fetan",
+    "gn:country_code":"BJ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394378,
+    "gn:latitude":6.75,
+    "gn:longitude":2.76667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"F\u00e9tan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394378
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6977cd5f68d6ab7c99d01d678e1d51d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758851,
+            "locality_id":1343532759,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1343532759,
+    "wof:lastmodified":1536641150,
+    "wof:name":"Fetan",
+    "wof:parent_id":1108758851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.76667,
+    6.75,
+    2.76667,
+    6.75
+],
+  "geometry": {"coordinates":[2.76667,6.75],"type":"Point"}
+}

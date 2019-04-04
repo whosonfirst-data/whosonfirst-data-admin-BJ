@@ -1,0 +1,66 @@
+{
+  "id": 1209509443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.20631,12.03752,3.20631,12.03752",
+    "geom:latitude":12.03752,
+    "geom:longitude":3.20631,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tondi Kwaria",
+    "gn:country_code":"BJ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391116,
+    "gn:latitude":12.03752,
+    "gn:longitude":3.20631,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tondi Kwaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tondikouria",
+        "Tondi-Kouaria",
+        "Tondi Kwaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391116
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d259e78bed11487d9497a9e138ee6fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209509443
+        }
+    ],
+    "wof:id":1209509443,
+    "wof:lastmodified":1537587843,
+    "wof:name":"Tondi Kwaria",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.20631,
+    12.03752,
+    3.20631,
+    12.03752
+],
+  "geometry": {"coordinates":[3.20631,12.03752],"type":"Point"}
+}

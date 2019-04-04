@@ -1,0 +1,61 @@
+{
+  "id": 1209604263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.19351,9.67332,3.19351,9.67332",
+    "geom:latitude":9.67332,
+    "geom:longitude":3.19351,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Babire",
+    "gn:country_code":"BJ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395431,
+    "gn:latitude":9.67332,
+    "gn:longitude":3.19351,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Babir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395431
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"392f90deaa2e58968ab17ee3c4a1becb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209604263
+        }
+    ],
+    "wof:id":1209604263,
+    "wof:lastmodified":1536282065,
+    "wof:name":"Babire",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.19351,
+    9.67332,
+    3.19351,
+    9.67332
+],
+  "geometry": {"coordinates":[3.19351,9.67332],"type":"Point"}
+}

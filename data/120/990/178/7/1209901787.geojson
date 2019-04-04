@@ -1,0 +1,67 @@
+{
+  "id": 1209901787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.08957,10.75163,1.08957,10.75163",
+    "geom:latitude":10.75163,
+    "geom:longitude":1.08957,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Santiahon",
+    "gn:country_code":"BJ",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391934,
+    "gn:latitude":10.75163,
+    "gn:longitude":1.08957,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Santiahon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391934
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d3ff55dc90379f94b2cc10c8aac2763f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1209901787,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1209901787,
+    "wof:lastmodified":1536386105,
+    "wof:name":"Santiahon",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.08957,
+    10.75163,
+    1.08957,
+    10.75163
+],
+  "geometry": {"coordinates":[1.08957,10.75163],"type":"Point"}
+}

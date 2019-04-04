@@ -1,0 +1,71 @@
+{
+  "id": 1293271505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.36938,9.98559,1.36938,9.98559",
+    "geom:latitude":9.98559,
+    "geom:longitude":1.36938,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kohobe",
+    "gn:country_code":"BJ",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393459,
+    "gn:latitude":9.98559,
+    "gn:longitude":1.36938,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kohob\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kohob\u00e9i",
+        "Kohob\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393459
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"aea94431f519b517ad2d9d816a3a9ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758985,
+            "locality_id":1293271505,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1293271505,
+    "wof:lastmodified":1537587863,
+    "wof:name":"Kohobe",
+    "wof:parent_id":1108758985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.36938,
+    9.98559,
+    1.36938,
+    9.98559
+],
+  "geometry": {"coordinates":[1.36938,9.98559],"type":"Point"}
+}

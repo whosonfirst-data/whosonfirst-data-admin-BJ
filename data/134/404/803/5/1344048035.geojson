@@ -1,0 +1,71 @@
+{
+  "id": 1344048035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.40117,10.38842,1.40117,10.38842",
+    "geom:latitude":10.38842,
+    "geom:longitude":1.40117,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Yari-Kate",
+    "gn:country_code":"BJ",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390819,
+    "gn:latitude":10.38842,
+    "gn:longitude":1.40117,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Yari-Kat\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yari-Kat\u00e9re",
+        "Yari-Kat\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390819
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2d98ef981f8c4031473035db06473cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1344048035,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1344048035,
+    "wof:lastmodified":1537587840,
+    "wof:name":"Yari-Kate",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.40117,
+    10.38842,
+    1.40117,
+    10.38842
+],
+  "geometry": {"coordinates":[1.40117,10.38842],"type":"Point"}
+}

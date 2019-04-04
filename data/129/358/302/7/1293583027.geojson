@@ -1,0 +1,67 @@
+{
+  "id": 1293583027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.13827,9.739,3.13827,9.739",
+    "geom:latitude":9.739,
+    "geom:longitude":3.13827,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kpiire",
+    "gn:country_code":"BJ",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393000,
+    "gn:latitude":9.739,
+    "gn:longitude":3.13827,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kpiir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393000
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b1a33327f8a38afb175e4c6e7209ff80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":1293583027,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1293583027,
+    "wof:lastmodified":1536649120,
+    "wof:name":"Kpiire",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.13827,
+    9.739,
+    3.13827,
+    9.739
+],
+  "geometry": {"coordinates":[3.13827,9.739],"type":"Point"}
+}

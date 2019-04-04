@@ -1,0 +1,65 @@
+{
+  "id": 1209290777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.72207,6.67818,2.72207,6.67818",
+    "geom:latitude":6.67818,
+    "geom:longitude":2.72207,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ifanhim",
+    "gn:country_code":"BJ",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393831,
+    "gn:latitude":6.67818,
+    "gn:longitude":2.72207,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ifanhim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ifanhin",
+        "Ifanhim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393831
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ce35c94af87e7a7922fa3aca5a8539e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209290777
+        }
+    ],
+    "wof:id":1209290777,
+    "wof:lastmodified":1537587867,
+    "wof:name":"Ifanhim",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.72207,
+    6.67818,
+    2.72207,
+    6.67818
+],
+  "geometry": {"coordinates":[2.72207,6.67818],"type":"Point"}
+}

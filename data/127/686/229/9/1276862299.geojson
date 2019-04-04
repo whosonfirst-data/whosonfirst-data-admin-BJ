@@ -1,0 +1,71 @@
+{
+  "id": 1276862299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.73124,10.27192,1.73124,10.27192",
+    "geom:latitude":10.27192,
+    "geom:longitude":1.73124,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tokoro",
+    "gn:country_code":"BJ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391141,
+    "gn:latitude":10.27192,
+    "gn:longitude":1.73124,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tokoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tocro",
+        "Tokoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391141
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f6ea6da3cc86c8d1f7f8d00b6d896be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1276862299,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276862299,
+    "wof:lastmodified":1537587843,
+    "wof:name":"Tokoro",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.73124,
+    10.27192,
+    1.73124,
+    10.27192
+],
+  "geometry": {"coordinates":[1.73124,10.27192],"type":"Point"}
+}

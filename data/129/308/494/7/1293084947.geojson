@@ -1,0 +1,73 @@
+{
+  "id": 1293084947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.98403,9.79721,2.98403,9.79721",
+    "geom:latitude":9.79721,
+    "geom:longitude":2.98403,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"7669352.0",
+    "gn:admin3_code":"11790025.0",
+    "gn:asciiname":"Perere",
+    "gn:country_code":"BJ",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392134,
+    "gn:latitude":9.79721,
+    "gn:longitude":2.98403,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"P\u00e8r\u00e8r\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392134,
+        "wk:page":"P%C3%A8r%C3%A8r%C3%A8"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b88675f9d96771153115489ebcae2b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758981,
+            "locality_id":1293084947,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1293084947,
+    "wof:lastmodified":1537587852,
+    "wof:name":"Perere",
+    "wof:parent_id":1108758981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.98403,
+    9.79721,
+    2.98403,
+    9.79721
+],
+  "geometry": {"coordinates":[2.98403,9.79721],"type":"Point"}
+}

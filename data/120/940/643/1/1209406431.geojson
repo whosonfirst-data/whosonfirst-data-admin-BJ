@@ -1,0 +1,65 @@
+{
+  "id": 1209406431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.63376,10.97078,3.63376,10.97078",
+    "geom:latitude":10.97078,
+    "geom:longitude":3.63376,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guifambara",
+    "gn:country_code":"BJ",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393905,
+    "gn:latitude":10.97078,
+    "gn:longitude":3.63376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guifambara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guivan Bara",
+        "Guifambara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393905
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"157f9ebf12208270fda72082dc1147a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209406431
+        }
+    ],
+    "wof:id":1209406431,
+    "wof:lastmodified":1537587868,
+    "wof:name":"Guifambara",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.63376,
+    10.97078,
+    3.63376,
+    10.97078
+],
+  "geometry": {"coordinates":[3.63376,10.97078],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310384755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.98252,9.50276,1.98252,9.50276",
+    "geom:latitude":9.50276,
+    "geom:longitude":1.98252,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"8260658.0",
+    "gn:admin3_code":"11239767.0",
+    "gn:asciiname":"Onklou",
+    "gn:country_code":"BJ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392379,
+    "gn:latitude":9.50276,
+    "gn:longitude":1.98252,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Onklou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392379,
+        "wk:page":"Onklou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e139bd8810f7acb0931b705c91e85611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1310384755,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1310384755,
+    "wof:lastmodified":1537487833,
+    "wof:name":"Onklou",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.98252,
+    9.50276,
+    1.98252,
+    9.50276
+],
+  "geometry": {"coordinates":[1.98252,9.50276],"type":"Point"}
+}

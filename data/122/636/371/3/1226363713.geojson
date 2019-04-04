@@ -1,0 +1,67 @@
+{
+  "id": 1226363713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.6614,10.61775,2.6614,10.61775",
+    "geom:latitude":10.61775,
+    "geom:longitude":2.6614,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sinabanou",
+    "gn:country_code":"BJ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391759,
+    "gn:latitude":10.61775,
+    "gn:longitude":2.6614,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Sinabanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391759
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"928eb0889ac436a386fbbf6024e9a481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1226363713,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1226363713,
+    "wof:lastmodified":1536764040,
+    "wof:name":"Sinabanou",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6614,
+    10.61775,
+    2.6614,
+    10.61775
+],
+  "geometry": {"coordinates":[2.6614,10.61775],"type":"Point"}
+}

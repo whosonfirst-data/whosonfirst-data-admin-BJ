@@ -1,0 +1,67 @@
+{
+  "id": 1293880465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.37872,10.86584,3.37872,10.86584",
+    "geom:latitude":10.86584,
+    "geom:longitude":3.37872,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gbessara",
+    "gn:country_code":"BJ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394148,
+    "gn:latitude":10.86584,
+    "gn:longitude":3.37872,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Gb\u00e9ssara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394148
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"76440cd35c936034fb5ae39ba026c712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1293880465,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293880465,
+    "wof:lastmodified":1536718100,
+    "wof:name":"Gbessara",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.37872,
+    10.86584,
+    3.37872,
+    10.86584
+],
+  "geometry": {"coordinates":[3.37872,10.86584],"type":"Point"}
+}

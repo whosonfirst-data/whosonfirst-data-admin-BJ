@@ -1,0 +1,67 @@
+{
+  "id": 1243449689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.73888,10.20555,1.73888,10.20555",
+    "geom:latitude":10.20555,
+    "geom:longitude":1.73888,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Agbanson",
+    "gn:country_code":"BJ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395814,
+    "gn:latitude":10.20555,
+    "gn:longitude":1.73888,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Agbanson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395814
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3bb624349099ee58dbb4f145325b042a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1243449689,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1243449689,
+    "wof:lastmodified":1536800919,
+    "wof:name":"Agbanson",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.73888,
+    10.20555,
+    1.73888,
+    10.20555
+],
+  "geometry": {"coordinates":[1.73888,10.20555],"type":"Point"}
+}

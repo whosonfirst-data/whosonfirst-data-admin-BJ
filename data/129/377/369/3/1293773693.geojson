@@ -1,0 +1,70 @@
+{
+  "id": 1293773693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.36791,6.50298,2.36791,6.50298",
+    "geom:latitude":6.50298,
+    "geom:longitude":2.36791,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7874152.0",
+    "gn:admin3_code":"11789960.0",
+    "gn:asciiname":"Akassato",
+    "gn:country_code":"BJ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395700,
+    "gn:latitude":6.50298,
+    "gn:longitude":2.36791,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Akassato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421186271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395700,
+        "wk:page":"Akassato"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"877ee946f5ba444986a437ba8e100851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421186271,
+            "locality_id":1293773693,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1293773693,
+    "wof:lastmodified":1537487850,
+    "wof:name":"Akassato",
+    "wof:parent_id":421186271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.36791,
+    6.50298,
+    2.36791,
+    6.50298
+],
+  "geometry": {"coordinates":[2.36791,6.50298],"type":"Point"}
+}

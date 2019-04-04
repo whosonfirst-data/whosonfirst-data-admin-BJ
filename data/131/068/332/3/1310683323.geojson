@@ -1,0 +1,71 @@
+{
+  "id": 1310683323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.45677,6.54639,2.45677,6.54639",
+    "geom:latitude":6.54639,
+    "geom:longitude":2.45677,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dekin-Afio",
+    "gn:country_code":"BJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394680,
+    "gn:latitude":6.54639,
+    "gn:longitude":2.45677,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"D\u00e9kin-Afio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9kin-Fyo",
+        "D\u00e9kin-Afio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394680
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a84999be27c9ee832ef03caf0183881a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758909,
+            "locality_id":1310683323,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1310683323,
+    "wof:lastmodified":1537587875,
+    "wof:name":"Dekin-Afio",
+    "wof:parent_id":1108758909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.45677,
+    6.54639,
+    2.45677,
+    6.54639
+],
+  "geometry": {"coordinates":[2.45677,6.54639],"type":"Point"}
+}

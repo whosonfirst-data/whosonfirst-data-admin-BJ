@@ -1,0 +1,74 @@
+{
+  "id": 1242965001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8322,10.69272,2.8322,10.69272",
+    "geom:latitude":10.69272,
+    "geom:longitude":2.8322,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Winsene",
+    "gn:country_code":"BJ",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390901,
+    "gn:latitude":10.69272,
+    "gn:longitude":2.8322,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Wins\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9ss\u00e9n\u00e9",
+        "Ou\u00e9ss\u00e9n\u00e9",
+        "Wesseme",
+        "Ouess\u00e9m\u00e9",
+        "Wins\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390901
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"7e26f520265da158995f69014d52aaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1242965001,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1242965001,
+    "wof:lastmodified":1537587840,
+    "wof:name":"Winsene",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8322,
+    10.69272,
+    2.8322,
+    10.69272
+],
+  "geometry": {"coordinates":[2.8322,10.69272],"type":"Point"}
+}

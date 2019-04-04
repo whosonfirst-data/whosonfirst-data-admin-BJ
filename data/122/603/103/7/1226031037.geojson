@@ -1,0 +1,67 @@
+{
+  "id": 1226031037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.50732,9.52111,1.50732,9.52111",
+    "geom:latitude":9.52111,
+    "geom:longitude":1.50732,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koumpene",
+    "gn:country_code":"BJ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393190,
+    "gn:latitude":9.52111,
+    "gn:longitude":1.50732,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Koumpen\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393190
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d6d6c6c11a1a36b2aa4e83f883dc0599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1226031037,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1226031037,
+    "wof:lastmodified":1536746108,
+    "wof:name":"Koumpene",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.50732,
+    9.52111,
+    1.50732,
+    9.52111
+],
+  "geometry": {"coordinates":[1.50732,9.52111],"type":"Point"}
+}

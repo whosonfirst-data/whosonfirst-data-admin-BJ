@@ -1,0 +1,61 @@
+{
+  "id": 1209094391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.56918,8.03204,2.56918,8.03204",
+    "geom:latitude":8.03204,
+    "geom:longitude":2.56918,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Youe",
+    "gn:country_code":"BJ",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390762,
+    "gn:latitude":8.03204,
+    "gn:longitude":2.56918,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"You\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390762
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c2b12d4b09c8ac0c06a61bbf5191e1f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209094391
+        }
+    ],
+    "wof:id":1209094391,
+    "wof:lastmodified":1536297934,
+    "wof:name":"Youe",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.56918,
+    8.03204,
+    2.56918,
+    8.03204
+],
+  "geometry": {"coordinates":[2.56918,8.03204],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242945523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.52836,6.61621,2.52836,6.61621",
+    "geom:latitude":6.61621,
+    "geom:longitude":2.52836,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zounke",
+    "gn:country_code":"BJ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390701,
+    "gn:latitude":6.61621,
+    "gn:longitude":2.52836,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Zounk\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoungu\u00e9",
+        "Zounk\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390701,
+        "wk:page":"Zoungu%C3%A8"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"32e11d94627caf3cda08fc8f3e7a4cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758909,
+            "locality_id":1242945523,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1242945523,
+    "wof:lastmodified":1537587839,
+    "wof:name":"Zounke",
+    "wof:parent_id":1108758909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.52836,
+    6.61621,
+    2.52836,
+    6.61621
+],
+  "geometry": {"coordinates":[2.52836,6.61621],"type":"Point"}
+}

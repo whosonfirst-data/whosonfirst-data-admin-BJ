@@ -1,0 +1,71 @@
+{
+  "id": 1276325637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.64259,10.74521,3.64259,10.74521",
+    "geom:latitude":10.74521,
+    "geom:longitude":3.64259,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Niambara",
+    "gn:country_code":"BJ",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392566,
+    "gn:latitude":10.74521,
+    "gn:longitude":3.64259,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Niambara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niammbara",
+        "Niambara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392566
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"eef9c37e17ad67caec33831046a6388f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1276325637,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1276325637,
+    "wof:lastmodified":1537587856,
+    "wof:name":"Niambara",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.64259,
+    10.74521,
+    3.64259,
+    10.74521
+],
+  "geometry": {"coordinates":[3.64259,10.74521],"type":"Point"}
+}

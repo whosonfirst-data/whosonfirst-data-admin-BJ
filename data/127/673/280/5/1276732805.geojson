@@ -1,0 +1,67 @@
+{
+  "id": 1276732805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.76667,6.78333,1.76667,6.78333",
+    "geom:latitude":6.78333,
+    "geom:longitude":1.76667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Toukame",
+    "gn:country_code":"BJ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391074,
+    "gn:latitude":6.78333,
+    "gn:longitude":1.76667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Toukam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391074
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2be4cb90a2d51f9967f1b98ff4615506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758887,
+            "locality_id":1276732805,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1276732805,
+    "wof:lastmodified":1536740513,
+    "wof:name":"Toukame",
+    "wof:parent_id":1108758887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.76667,
+    6.78333,
+    1.76667,
+    6.78333
+],
+  "geometry": {"coordinates":[1.76667,6.78333],"type":"Point"}
+}

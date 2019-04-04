@@ -1,0 +1,67 @@
+{
+  "id": 1327217485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.34442,10.11028,2.34442,10.11028",
+    "geom:latitude":10.11028,
+    "geom:longitude":2.34442,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Baro",
+    "gn:country_code":"BJ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395273,
+    "gn:latitude":10.11028,
+    "gn:longitude":2.34442,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Baro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395273
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"61b2cbf6162b3e991f1eeefd45c4e856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758973,
+            "locality_id":1327217485,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1327217485,
+    "wof:lastmodified":1536990363,
+    "wof:name":"Baro",
+    "wof:parent_id":1108758973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.34442,
+    10.11028,
+    2.34442,
+    10.11028
+],
+  "geometry": {"coordinates":[2.34442,10.11028],"type":"Point"}
+}

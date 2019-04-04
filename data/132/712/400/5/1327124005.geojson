@@ -1,0 +1,67 @@
+{
+  "id": 1327124005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.04407,6.69134,2.04407,6.69134",
+    "geom:latitude":6.69134,
+    "geom:longitude":2.04407,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Glotome",
+    "gn:country_code":"BJ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394106,
+    "gn:latitude":6.69134,
+    "gn:longitude":2.04407,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Glotom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421202551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394106
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cf4d17080038ccb56ec7b4d7a43584b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421202551,
+            "locality_id":1327124005,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1327124005,
+    "wof:lastmodified":1536626370,
+    "wof:name":"Glotome",
+    "wof:parent_id":421202551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.04407,
+    6.69134,
+    2.04407,
+    6.69134
+],
+  "geometry": {"coordinates":[2.04407,6.69134],"type":"Point"}
+}

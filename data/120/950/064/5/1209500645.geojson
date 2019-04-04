@@ -1,0 +1,65 @@
+{
+  "id": 1209500645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.12815,11.56088,3.12815,11.56088",
+    "geom:latitude":11.56088,
+    "geom:longitude":3.12815,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Goungoun",
+    "gn:country_code":"BJ",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393984,
+    "gn:latitude":11.56088,
+    "gn:longitude":3.12815,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goungoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gungun",
+        "Goungoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393984
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"72644f224ddbb0ec253fbaa937ba8614",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209500645
+        }
+    ],
+    "wof:id":1209500645,
+    "wof:lastmodified":1537587868,
+    "wof:name":"Goungoun",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.12815,
+    11.56088,
+    3.12815,
+    11.56088
+],
+  "geometry": {"coordinates":[3.12815,11.56088],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310168647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1,7.2,2.1,7.2",
+    "geom:latitude":7.2,
+    "geom:longitude":2.1,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lisse-Sokodome",
+    "gn:country_code":"BJ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392911,
+    "gn:latitude":7.2,
+    "gn:longitude":2.1,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Liss\u00e8-Sokodom\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392911
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"174c43f6af872a0e16a55517df2e5f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758923,
+            "locality_id":1310168647,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1310168647,
+    "wof:lastmodified":1536905822,
+    "wof:name":"Lisse-Sokodome",
+    "wof:parent_id":1108758923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1,
+    7.2,
+    2.1,
+    7.2
+],
+  "geometry": {"coordinates":[2.1,7.2],"type":"Point"}
+}

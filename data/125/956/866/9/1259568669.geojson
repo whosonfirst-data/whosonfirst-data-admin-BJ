@@ -1,0 +1,67 @@
+{
+  "id": 1259568669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.17183,10.90532,2.17183,10.90532",
+    "geom:latitude":10.90532,
+    "geom:longitude":2.17183,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Baoureu",
+    "gn:country_code":"BJ",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395295,
+    "gn:latitude":10.90532,
+    "gn:longitude":2.17183,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Baoureu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395295
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"63fe45cf8415db13f66bd6dcfe979f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758971,
+            "locality_id":1259568669,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1259568669,
+    "wof:lastmodified":1536736293,
+    "wof:name":"Baoureu",
+    "wof:parent_id":1108758971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.17183,
+    10.90532,
+    2.17183,
+    10.90532
+],
+  "geometry": {"coordinates":[2.17183,10.90532],"type":"Point"}
+}

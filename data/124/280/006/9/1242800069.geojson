@@ -1,0 +1,75 @@
+{
+  "id": 1242800069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2026,10.54265,1.2026,10.54265",
+    "geom:latitude":10.54265,
+    "geom:longitude":1.2026,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7874156.0",
+    "gn:admin3_code":"11790224.0",
+    "gn:asciiname":"Tayakou",
+    "gn:country_code":"BJ",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391387,
+    "gn:latitude":10.54265,
+    "gn:longitude":1.2026,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Tayakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u00efacou",
+        "Ta\u00efakou",
+        "Tayakou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421172113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391387,
+        "wk:page":"Taiakou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d3f337c59fa69dd9c376417712c5b20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421172113,
+            "locality_id":1242800069,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1242800069,
+    "wof:lastmodified":1537587845,
+    "wof:name":"Tayakou",
+    "wof:parent_id":421172113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2026,
+    10.54265,
+    1.2026,
+    10.54265
+],
+  "geometry": {"coordinates":[1.2026,10.54265],"type":"Point"}
+}

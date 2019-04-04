@@ -1,0 +1,70 @@
+{
+  "id": 1192982099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.61038,6.70796,2.61038,6.70796",
+    "geom:latitude":6.70796,
+    "geom:longitude":2.61038,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"8334580.0",
+    "gn:admin3_code":"11789948.0",
+    "gn:asciiname":"Yoko",
+    "gn:country_code":"BJ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390769,
+    "gn:latitude":6.70796,
+    "gn:longitude":2.61038,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"Yoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390769,
+        "wk:page":"Yoko%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2abf7503768bc21e4cdc804e774dc285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758919,
+            "locality_id":1192982099,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1192982099,
+    "wof:lastmodified":1537487825,
+    "wof:name":"Yoko",
+    "wof:parent_id":1108758919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.61038,
+    6.70796,
+    2.61038,
+    6.70796
+],
+  "geometry": {"coordinates":[2.61038,6.70796],"type":"Point"}
+}

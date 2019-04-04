@@ -1,0 +1,61 @@
+{
+  "id": 1209200849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.89377,9.99771,1.89377,9.99771",
+    "geom:latitude":9.99771,
+    "geom:longitude":1.89377,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kpere",
+    "gn:country_code":"BJ",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393024,
+    "gn:latitude":9.99771,
+    "gn:longitude":1.89377,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kp\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393024
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b5a725bc1eb40ad1f99b10b52c0e039b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209200849
+        }
+    ],
+    "wof:id":1209200849,
+    "wof:lastmodified":1536294616,
+    "wof:name":"Kpere",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.89377,
+    9.99771,
+    1.89377,
+    9.99771
+],
+  "geometry": {"coordinates":[1.89377,9.99771],"type":"Point"}
+}

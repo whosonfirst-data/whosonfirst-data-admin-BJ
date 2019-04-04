@@ -1,0 +1,71 @@
+{
+  "id": 1243530345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.94293,7.37778,1.94293,7.37778",
+    "geom:latitude":7.37778,
+    "geom:longitude":1.94293,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djesi",
+    "gn:country_code":"BJ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394581,
+    "gn:latitude":7.37778,
+    "gn:longitude":1.94293,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dj\u00e9si",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djessi",
+        "Dj\u00e9si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394581
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e4c6c1f9b34b1a14eef4dc43724ad9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1243530345,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1243530345,
+    "wof:lastmodified":1537587873,
+    "wof:name":"Djesi",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.94293,
+    7.37778,
+    1.94293,
+    7.37778
+],
+  "geometry": {"coordinates":[1.94293,7.37778],"type":"Point"}
+}

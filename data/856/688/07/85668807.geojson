@@ -1,0 +1,312 @@
+{
+  "id": 85668807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.176855,
+    "geom:area_square_m":14405817439.63834,
+    "geom:bbox":"1.60106978454,7.42603282336,2.74477258269,8.77667389608",
+    "geom:latitude":8.122761,
+    "geom:longitude":2.194288,
+    "gn:population":602066,
+    "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Collines Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
+    "lbl:latitude":8.006149,
+    "lbl:longitude":2.18346,
+    "mps:latitude":8.006149,
+    "mps:longitude":2.18346,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0625\u062f\u0627\u0631\u0629 \u0643\u0648\u0644\u0627\u064a\u0646\u064a\u0633"
+    ],
+    "name:baq_x_preferred":[
+        "Collines departamendua"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09b2\u09bf\u09a8\u09cd\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bre_x_preferred":[
+        "Collines"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043b\u0438\u043d\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Collines"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e18\u9675\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Collines"
+    ],
+    "name:dut_x_preferred":[
+        "Collines"
+    ],
+    "name:eng_x_preferred":[
+        "Collines Department"
+    ],
+    "name:eng_x_variant":[
+        "Collines"
+    ],
+    "name:fin_x_preferred":[
+        "Collines"
+    ],
+    "name:fra_x_preferred":[
+        "Collines"
+    ],
+    "name:fre_x_preferred":[
+        "Collines"
+    ],
+    "name:ger_x_preferred":[
+        "Collines"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bb\u03bb\u03af\u03bd\u03b5\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0ab2\u0abf\u0aa8\u0acd\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0949\u0932\u093f\u0902\u0938 \u0921\u093f\u092a\u093e\u0930\u094d\u091f\u092e\u0947\u0902\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Collines"
+    ],
+    "name:ind_x_preferred":[
+        "Departemen Collines"
+    ],
+    "name:ita_x_preferred":[
+        "dipartimento delle Colline"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ea\u30cd\u30b9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbe\u0cb2\u0cbf\u0ca8\u0ccd\u0cb8\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf5c\ub9b0 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Kolinzas departaments"
+    ],
+    "name:lit_x_preferred":[
+        "Kalv\u0173 departamentas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0949\u0932\u093f\u0928\u094d\u0938 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Collines Department"
+    ],
+    "name:nob_x_preferred":[
+        "Collines"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u0644\u06cc\u0646\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Departament Collines"
+    ],
+    "name:por_x_preferred":[
+        "Collines"
+    ],
+    "name:rum_x_preferred":[
+        "Departamentul Collines"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043b\u0438\u043d\u0437"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dbd\u0dba\u0dd2\u0db1\u0dca\u0dc3\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Collines"
+    ],
+    "name:swe_x_preferred":[
+        "Collines"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c32\u0c3f\u0c28\u0c4d\u0c38\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041a\u043e\u043b\u043b\u0438\u043d\u0435\u0441"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e01\u0e25\u0e25\u0e35\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Collines Departman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0456\u043d"
+    ],
+    "name:unk_x_variant":[
+        "D\u00e9partement du Collines"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0644\u06cc\u0646\u0632 \u0645\u062d\u06a9\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Collines"
+    ],
+    "name:yor_x_preferred":[
+        "Ap\u00e1 Collines"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BEN",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BEN-2171",
+    "ne:adm1_code":"BEN-2171",
+    "ne:admin":"Benin",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"BJ.CL",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2171",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BN11",
+    "ne:fips_alt":"BN06",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Benin",
+    "ne:gn_a1_code":"BJ.11",
+    "ne:gn_id":"2597272",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Collines Department",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BN11",
+    "ne:gns_id":"9145888",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Collines, Departement du",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BEN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BJ-",
+    "ne:iso_a2":"BJ",
+    "ne:labelrank":"7",
+    "ne:latitude":"8.00513000000",
+    "ne:longitude":"2.17251000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Collines",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CL",
+    "ne:provnum_ne":"6",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"BEN",
+    "ne:sub_code":"",
+    "ne:type":"D\u00e9partement",
+    "ne:type_en":"Department",
+    "ne:wikipedia":"",
+    "ne:woe_id":55967670,
+    "ne:woe_label":"Collines, BJ, Benin",
+    "ne:woe_name":"Collines",
+    "qs:a0":"Benin",
+    "qs:a0_lc":"BJ",
+    "qs:a1":"Collines",
+    "qs:a1_lc":"BEN-2171",
+    "qs:adm0":"Benin",
+    "qs:adm0_a3":"BEN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Department",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-02-11",
+    "statoids:area_km":"13,561",
+    "statoids:area_mi":"5,236",
+    "statoids:as_of_date":"2002-02-11",
+    "statoids:capital":"Savalou ?",
+    "statoids:country":"BJ",
+    "statoids:gec":"BN11",
+    "statoids:hasc":"BJ.CL",
+    "statoids:iso":"CO",
+    "statoids:name":"Collines",
+    "statoids:population":"535923",
+    "statoids:timezone":"+1",
+    "statoids:type":"department",
+    "unlc:subdivision":"BJ-CO",
+    "wof:belongsto":[
+        102191573,
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BN11",
+        "gn:id":2597272,
+        "gp:id":55967670,
+        "hasc:id":"BJ.CL",
+        "iso:id":"BJ-CO",
+        "qs:id":1200743,
+        "unlc:id":"BJ-CO",
+        "wd:id":"Q29141",
+        "wk:page":"Collines Department"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e922a4a3020d418d1d5e9a28bd083ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":85668807,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553550312,
+    "wof:name":"Collines",
+    "wof:parent_id":85632247,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"department",
+    "wof:population":535923,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:shortcode":"CL",
+    "wof:subdivision":"BJ-CO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.60106978454297,
+    7.42603282335614,
+    2.7447725826886,
+    8.77667389608348
+],
+  "geometry": {"coordinates":[[[2.7229489432392,8.77121793855707],[2.7424386693092,8.52748144371373],[2.7447725826886,8.49829376234732],[2.73691776544257,8.46452321407514],[2.72895959540904,8.45274098730675],[2.70901249213284,8.43039093149633],[2.70374149547371,8.41788523341683],[2.7035347898987,8.40902272671752],[2.70601525949667,8.39054840088806],[2.70601525949667,8.38127248124005],[2.69836714692633,8.33985382129686],[2.69712691347633,8.32070770369762],[2.70074426283753,8.29688486864183],[2.70849572729605,8.27481903097356],[2.72813277131041,8.23319366545536],[2.73495406068139,8.21190297504234],[2.73443729674392,8.18996632948256],[2.72658247949789,8.17159535733992],[2.71614383896707,8.15490387001762],[2.70839237540787,8.13797983869864],[2.70570520023483,8.11968638092179],[2.7035347898987,8.05989674883591],[2.69092574083032,7.9965672808554],[2.68710168409547,7.93352203461427],[2.68358768752182,7.92463368859393],[2.67335575346527,7.9055650844611],[2.67108199034163,7.89791697189077],[2.67169450509738,7.89343447741925],[2.67221887190345,7.88959706755065],[2.68028039652313,7.8773497518896],[2.69154585845467,7.84866933222395],[2.71552372224204,7.82205596920767],[2.72441206826238,7.80768992095312],[2.72720259622287,7.79332387359796],[2.71764113912729,7.65854889791336],[2.71728152812005,7.65855093038118],[2.51150597532057,7.65971365036472],[2.49817345494102,7.65906769521803],[2.483083937174,7.61751984316629],[2.48075849810624,7.58920115780722],[2.48757978657795,7.56320791331461],[2.48525434661087,7.55214915605876],[2.47083662331158,7.54760162981142],[2.46091474761755,7.54101288533644],[2.42954715277892,7.49670034374594],[2.41776492690991,7.47486705187299],[2.42034874839607,7.45086334876459],[2.42753177207368,7.42603282335614],[2.24816287581609,7.50757823294913],[2.17757286889281,7.5297732609273],[2.11938520726153,7.53496674232133],[2.06662356922237,7.5336489927069],[2.01928795657398,7.54155548679631],[1.98140913342479,7.56747121782251],[1.94404707241449,7.60044078221637],[1.88942508330098,7.62310089818794],[1.84472496898218,7.63240265535831],[1.64251508959973,7.62069794385508],[1.62285491232438,7.62245969955552],[1.6227738852067,7.64005157551986],[1.62194706200734,7.83828236943583],[1.62132694528236,7.9965672808554],[1.62380741398101,8.15588572194855],[1.62556441226786,8.27047821030123],[1.61491906706135,8.35626108957769],[1.60985477687649,8.36548533148289],[1.60396366349232,8.36744903624407],[1.60394487305751,8.36747621555497],[1.60106978454297,8.3716348272855],[1.60603072104101,8.39602610312221],[1.60603072104101,8.41338938401293],[1.60758101375285,8.42186431888325],[1.64044722445988,8.47581451442835],[1.64416792840723,8.49348785548017],[1.63993046142173,8.50325470064399],[1.61409224476131,8.53578501456684],[1.60902795367718,8.54697296123322],[1.60758101375285,8.55875518800156],[1.607204026045,8.58861730244661],[1.62530683833995,8.58733144818785],[1.67899865056734,8.58539358184839],[1.69791222506916,8.58709890419112],[1.70318322082903,8.58694387545955],[1.71424197808488,8.58802908017793],[1.80111006028113,8.61115428324365],[1.81759484202837,8.61394481030482],[1.82968712715922,8.61487498629162],[1.8358882989059,8.61332469357978],[1.84658532095585,8.60890635854167],[1.8551119317703,8.60355784841602],[1.86270836839651,8.59735667577002],[1.88973514166349,8.56841787368597],[1.89376590307404,8.56552399293798],[1.89841678210888,8.56288849550771],[1.9036877778687,8.56079560043668],[1.90926883289035,8.55924530682552],[1.91547000463703,8.55839264610381],[1.94590742438817,8.55870270446627],[1.95179853687301,8.55777252937878],[1.95660444463948,8.55591217740511],[1.96094526531181,8.55304413507884],[1.96451093872889,8.5497110047591],[1.97939375182023,8.53053904873815],[1.98673180512873,8.52364024500133],[1.99541344557412,8.51790416124811],[2.00487023327469,8.51302073821654],[2.03417076966531,8.5042357449837],[2.03851159033769,8.50183279155016],[2.05003543468763,8.49245351821537],[2.05484134335336,8.49043813751007],[2.0602673678448,8.48943044715747],[2.08460696773744,8.48950796152326],[2.09654422413666,8.48741506645223],[2.124191115028,8.47738983797069],[2.13023725804305,8.47614960452069],[2.13628340015884,8.47560700126212],[2.15989952963963,8.47645966198388],[2.17695275216784,8.48129140907133],[2.18889000766779,8.48694997845877],[2.19757164901245,8.49245351821537],[2.21173099079266,8.50312470094423],[2.2194824561505,8.51511363418689],[2.21390140112879,8.52084971794017],[2.2066667006078,8.5449826122578],[2.22010257287548,8.63071381289222],[2.20372114391569,8.72003652626472],[2.19648644429401,8.73373078005153],[2.18718468622433,8.74571971329419],[2.19462609232033,8.77667389608348],[2.72255252387993,8.771222032271],[2.7229489432392,8.77121793855707]]],"type":"Polygon"}
+}

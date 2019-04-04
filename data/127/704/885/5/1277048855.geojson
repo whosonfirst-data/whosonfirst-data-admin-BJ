@@ -1,0 +1,69 @@
+{
+  "id": 1277048855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.71653,6.78017,1.71653,6.78017",
+    "geom:latitude":6.78017,
+    "geom:longitude":1.71653,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"2391090.0",
+    "gn:asciiname":"Ayomi",
+    "gn:country_code":"BJ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395458,
+    "gn:latitude":6.78017,
+    "gn:longitude":1.71653,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Ayomi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395458,
+        "wk:page":"Ayomi"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2702163a353dd1e1f996d1f3fc45a8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758887,
+            "locality_id":1277048855,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1277048855,
+    "wof:lastmodified":1537487848,
+    "wof:name":"Ayomi",
+    "wof:parent_id":1108758887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.71653,
+    6.78017,
+    1.71653,
+    6.78017
+],
+  "geometry": {"coordinates":[1.71653,6.78017],"type":"Point"}
+}

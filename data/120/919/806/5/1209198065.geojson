@@ -1,0 +1,64 @@
+{
+  "id": 1209198065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.725,9.97628,2.725,9.97628",
+    "geom:latitude":9.97628,
+    "geom:longitude":2.725,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"7669270.0",
+    "gn:admin3_code":"11790034.0",
+    "gn:asciiname":"Ina",
+    "gn:country_code":"BJ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393807,
+    "gn:latitude":9.97628,
+    "gn:longitude":2.725,
+    "gn:modification_date":"2018-03-20",
+    "gn:name":"Ina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393807,
+        "wk:page":"Ina%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2064df7e03a17299f308eeeb19a1b973",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209198065
+        }
+    ],
+    "wof:id":1209198065,
+    "wof:lastmodified":1537487839,
+    "wof:name":"Ina",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.725,
+    9.97628,
+    2.725,
+    9.97628
+],
+  "geometry": {"coordinates":[2.725,9.97628],"type":"Point"}
+}

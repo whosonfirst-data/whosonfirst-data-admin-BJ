@@ -1,0 +1,75 @@
+{
+  "id": 1360266469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.5957,8.68251,2.5957,8.68251",
+    "geom:latitude":8.68251,
+    "geom:longitude":2.5957,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"8260649.0",
+    "gn:admin3_code":"11790017.0",
+    "gn:asciiname":"Toui",
+    "gn:country_code":"BJ",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391080,
+    "gn:latitude":8.68251,
+    "gn:longitude":2.5957,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Toui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tui",
+        "Tuwi",
+        "Toui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391080,
+        "wk:page":"Toui"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d4048537111d03349f054fa39919ce9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758961,
+            "locality_id":1360266469,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1360266469,
+    "wof:lastmodified":1537587842,
+    "wof:name":"Toui",
+    "wof:parent_id":1108758961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5957,
+    8.68251,
+    2.5957,
+    8.68251
+],
+  "geometry": {"coordinates":[2.5957,8.68251],"type":"Point"}
+}

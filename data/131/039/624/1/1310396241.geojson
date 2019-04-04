@@ -1,0 +1,67 @@
+{
+  "id": 1310396241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.38067,10.62177,1.38067,10.62177",
+    "geom:latitude":10.62177,
+    "geom:longitude":1.38067,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Boanna",
+    "gn:country_code":"BJ",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395068,
+    "gn:latitude":10.62177,
+    "gn:longitude":1.38067,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Boanna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421172113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395068
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"de0d774b13c861c3a3e7a3a6a15e2158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421172113,
+            "locality_id":1310396241,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1310396241,
+    "wof:lastmodified":1537071549,
+    "wof:name":"Boanna",
+    "wof:parent_id":421172113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.38067,
+    10.62177,
+    1.38067,
+    10.62177
+],
+  "geometry": {"coordinates":[1.38067,10.62177],"type":"Point"}
+}

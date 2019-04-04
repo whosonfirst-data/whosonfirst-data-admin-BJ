@@ -1,0 +1,71 @@
+{
+  "id": 1310390893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.60796,10.22656,1.60796,10.22656",
+    "geom:latitude":10.22656,
+    "geom:longitude":1.60796,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Niarosson",
+    "gn:country_code":"BJ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392538,
+    "gn:latitude":10.22656,
+    "gn:longitude":1.60796,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Niarosson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nioroson",
+        "Niarosson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392538
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"34cdc3c084d74f3128cfe7b3bb27dce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1310390893,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1310390893,
+    "wof:lastmodified":1537587855,
+    "wof:name":"Niarosson",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.60796,
+    10.22656,
+    1.60796,
+    10.22656
+],
+  "geometry": {"coordinates":[1.60796,10.22656],"type":"Point"}
+}

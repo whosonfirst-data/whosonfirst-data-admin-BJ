@@ -1,0 +1,67 @@
+{
+  "id": 1226030435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.00315,10.85788,1.00315,10.85788",
+    "geom:latitude":10.85788,
+    "geom:longitude":1.00315,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Madoga",
+    "gn:country_code":"BJ",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392848,
+    "gn:latitude":10.85788,
+    "gn:longitude":1.00315,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Madoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392848
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"482e121129ef3c0ee2a0de5685cb2100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1226030435,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226030435,
+    "wof:lastmodified":1536747041,
+    "wof:name":"Madoga",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.00315,
+    10.85788,
+    1.00315,
+    10.85788
+],
+  "geometry": {"coordinates":[1.00315,10.85788],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209436167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7004,10.86374,3.7004,10.86374",
+    "geom:latitude":10.86374,
+    "geom:longitude":3.7004,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Passaou",
+    "gn:country_code":"BJ",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392192,
+    "gn:latitude":10.86374,
+    "gn:longitude":3.7004,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Passaou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392192
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"21fa79063a09f19a91580a320fc43477",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209436167
+        }
+    ],
+    "wof:id":1209436167,
+    "wof:lastmodified":1536287098,
+    "wof:name":"Passaou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7004,
+    10.86374,
+    3.7004,
+    10.86374
+],
+  "geometry": {"coordinates":[3.7004,10.86374],"type":"Point"}
+}

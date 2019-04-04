@@ -1,0 +1,67 @@
+{
+  "id": 1326921099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.91218,10.68451,0.91218,10.68451",
+    "geom:latitude":10.68451,
+    "geom:longitude":0.91218,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Samahou",
+    "gn:country_code":"BJ",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391987,
+    "gn:latitude":10.68451,
+    "gn:longitude":0.91218,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Samahou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391987
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2484f1744a294cddef3ce204bd4527df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1326921099,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1326921099,
+    "wof:lastmodified":1536921509,
+    "wof:name":"Samahou",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.91218,
+    10.68451,
+    0.91218,
+    10.68451
+],
+  "geometry": {"coordinates":[0.91218,10.68451],"type":"Point"}
+}

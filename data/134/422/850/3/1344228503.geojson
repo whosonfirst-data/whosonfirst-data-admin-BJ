@@ -1,0 +1,73 @@
+{
+  "id": 1344228503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.69138,6.67736,2.69138,6.67736",
+    "geom:latitude":6.67736,
+    "geom:longitude":2.69138,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"9063970.0",
+    "gn:admin3_code":"11789917.0",
+    "gn:asciiname":"Lagbe",
+    "gn:country_code":"BJ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392970,
+    "gn:latitude":6.67736,
+    "gn:longitude":2.69138,
+    "gn:modification_date":"2018-05-29",
+    "gn:name":"Lagb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392970,
+        "wk:page":"Lagb%C3%A9"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d90195a76ff9d6928bf9ef0f2e1c6cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758851,
+            "locality_id":1344228503,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1344228503,
+    "wof:lastmodified":1537587860,
+    "wof:name":"Lagbe",
+    "wof:parent_id":1108758851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.69138,
+    6.67736,
+    2.69138,
+    6.67736
+],
+  "geometry": {"coordinates":[2.69138,6.67736],"type":"Point"}
+}

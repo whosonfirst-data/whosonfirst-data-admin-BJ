@@ -1,0 +1,71 @@
+{
+  "id": 1343631745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.85,6.33333,1.85,6.33333",
+    "geom:latitude":6.33333,
+    "geom:longitude":1.85,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gbehoue",
+    "gn:country_code":"BJ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394165,
+    "gn:latitude":6.33333,
+    "gn:longitude":1.85,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gbehou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbehou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        421177249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394165,
+        "wk:page":"Gb%C3%A9hou%C3%A9"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"401c8cc5ca5fa54e72a671870d7cf7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421177249,
+            "locality_id":1343631745,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1343631745,
+    "wof:lastmodified":1537587870,
+    "wof:name":"Gbehoue",
+    "wof:parent_id":421177249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.85,
+    6.33333,
+    1.85,
+    6.33333
+],
+  "geometry": {"coordinates":[1.85,6.33333],"type":"Point"}
+}

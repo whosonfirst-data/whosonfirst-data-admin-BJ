@@ -1,0 +1,71 @@
+{
+  "id": 1343575907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.35788,9.953,1.35788,9.953",
+    "geom:latitude":9.953,
+    "geom:longitude":1.35788,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koutiandi",
+    "gn:country_code":"BJ",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393105,
+    "gn:latitude":9.953,
+    "gn:longitude":1.35788,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koutiandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koutianti",
+        "Koutiandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393105
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f995c21f0d9d4d152291c16b57fbb394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758985,
+            "locality_id":1343575907,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1343575907,
+    "wof:lastmodified":1537587861,
+    "wof:name":"Koutiandi",
+    "wof:parent_id":1108758985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.35788,
+    9.953,
+    1.35788,
+    9.953
+],
+  "geometry": {"coordinates":[1.35788,9.953],"type":"Point"}
+}

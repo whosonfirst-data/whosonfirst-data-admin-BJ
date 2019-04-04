@@ -1,0 +1,67 @@
+{
+  "id": 1310099407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.63075,9.23555,2.63075,9.23555",
+    "geom:latitude":9.23555,
+    "geom:longitude":2.63075,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bebieourou",
+    "gn:country_code":"BJ",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395223,
+    "gn:latitude":9.23555,
+    "gn:longitude":2.63075,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"B\u00e9bi\u00e9ourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395223
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b7c24f6d29e5ca1512f2fd660f73effa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758837,
+            "locality_id":1310099407,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1310099407,
+    "wof:lastmodified":1537004548,
+    "wof:name":"Bebieourou",
+    "wof:parent_id":1108758837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.63075,
+    9.23555,
+    2.63075,
+    9.23555
+],
+  "geometry": {"coordinates":[2.63075,9.23555],"type":"Point"}
+}

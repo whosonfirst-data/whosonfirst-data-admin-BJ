@@ -1,0 +1,71 @@
+{
+  "id": 1259843125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73654,6.89691,2.73654,6.89691",
+    "geom:latitude":6.89691,
+    "geom:longitude":2.73654,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cobedjo",
+    "gn:country_code":"BJ",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394830,
+    "gn:latitude":6.89691,
+    "gn:longitude":2.73654,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Cob\u00e9djo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobedio",
+        "Cob\u00e9djo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394830
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"5181bb5a22c0bb9e1c4e8731dfe33193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758919,
+            "locality_id":1259843125,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1259843125,
+    "wof:lastmodified":1537587876,
+    "wof:name":"Cobedjo",
+    "wof:parent_id":1108758919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73654,
+    6.89691,
+    2.73654,
+    6.89691
+],
+  "geometry": {"coordinates":[2.73654,6.89691],"type":"Point"}
+}

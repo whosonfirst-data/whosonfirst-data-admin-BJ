@@ -1,0 +1,67 @@
+{
+  "id": 1326900829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.8233,6.52686,1.8233,6.52686",
+    "geom:latitude":6.52686,
+    "geom:longitude":1.8233,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Segbo",
+    "gn:country_code":"BJ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391869,
+    "gn:latitude":6.52686,
+    "gn:longitude":1.8233,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"S\u00e8gbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        1108758899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391869
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"eb4133ef2a0a132773fb45ba69074059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758899,
+            "locality_id":1326900829,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1326900829,
+    "wof:lastmodified":1536950354,
+    "wof:name":"Segbo",
+    "wof:parent_id":1108758899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8233,
+    6.52686,
+    1.8233,
+    6.52686
+],
+  "geometry": {"coordinates":[1.8233,6.52686],"type":"Point"}
+}

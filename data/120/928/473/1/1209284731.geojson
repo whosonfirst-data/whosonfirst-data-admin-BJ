@@ -1,0 +1,66 @@
+{
+  "id": 1209284731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.76667,6.26667,1.76667,6.26667",
+    "geom:latitude":6.26667,
+    "geom:longitude":1.76667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nicouecodji",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392529,
+    "gn:latitude":6.26667,
+    "gn:longitude":1.76667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Nicou\u00e9codji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nikou\u00e9 Condji",
+        "Nicou\u00e9codji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392529
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d86a94300cacf64421c8faecefd10f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209284731
+        }
+    ],
+    "wof:id":1209284731,
+    "wof:lastmodified":1537587855,
+    "wof:name":"Nicouecodji",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.76667,
+    6.26667,
+    1.76667,
+    6.26667
+],
+  "geometry": {"coordinates":[1.76667,6.26667],"type":"Point"}
+}

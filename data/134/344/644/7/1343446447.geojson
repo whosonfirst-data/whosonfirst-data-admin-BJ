@@ -1,0 +1,67 @@
+{
+  "id": 1343446447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03144,10.23171,1.03144,10.23171",
+    "geom:latitude":10.23171,
+    "geom:longitude":1.03144,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koupagou Korontiere",
+    "gn:country_code":"BJ",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393161,
+    "gn:latitude":10.23171,
+    "gn:longitude":1.03144,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Koupagou Koronti\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393161
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"24cc44be74c8a2fca69e74250012fbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758859,
+            "locality_id":1343446447,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1343446447,
+    "wof:lastmodified":1536766927,
+    "wof:name":"Koupagou Korontiere",
+    "wof:parent_id":1108758859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03144,
+    10.23171,
+    1.03144,
+    10.23171
+],
+  "geometry": {"coordinates":[1.03144,10.23171],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259468569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.11227,10.52929,1.11227,10.52929",
+    "geom:latitude":10.52929,
+    "geom:longitude":1.11227,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7874156.0",
+    "gn:admin3_code":"11789956.0",
+    "gn:asciiname":"Ndahonta",
+    "gn:country_code":"BJ",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392596,
+    "gn:latitude":10.52929,
+    "gn:longitude":1.11227,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Ndahonta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nahonta",
+        "Ndahonta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421172113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392596
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ecd814a89d07b10cc6b1c260db3aa316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421172113,
+            "locality_id":1259468569,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1259468569,
+    "wof:lastmodified":1537587856,
+    "wof:name":"Ndahonta",
+    "wof:parent_id":421172113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.11227,
+    10.52929,
+    1.11227,
+    10.52929
+],
+  "geometry": {"coordinates":[1.11227,10.52929],"type":"Point"}
+}

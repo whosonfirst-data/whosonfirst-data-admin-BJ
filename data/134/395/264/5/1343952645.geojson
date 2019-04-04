@@ -1,0 +1,75 @@
+{
+  "id": 1343952645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.18405,12.06911,3.18405,12.06911",
+    "geom:latitude":12.06911,
+    "geom:longitude":3.18405,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7874155.0",
+    "gn:admin3_code":"11789983.0",
+    "gn:asciiname":"Karimama",
+    "gn:country_code":"BJ",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393640,
+    "gn:latitude":12.06911,
+    "gn:longitude":3.18405,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Karimama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kariman",
+        "Korimama",
+        "Karimama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393640,
+        "wk:page":"Karimama%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a51c67d28d1666c0993ef1988dbd701e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758955,
+            "locality_id":1343952645,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343952645,
+    "wof:lastmodified":1537587864,
+    "wof:name":"Karimama",
+    "wof:parent_id":1108758955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.18405,
+    12.06911,
+    3.18405,
+    12.06911
+],
+  "geometry": {"coordinates":[3.18405,12.06911],"type":"Point"}
+}

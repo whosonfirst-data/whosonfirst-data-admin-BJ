@@ -1,0 +1,68 @@
+{
+  "id": 1293467869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.6793,8.10251,1.6793,8.10251",
+    "geom:latitude":8.10251,
+    "geom:longitude":1.6793,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Akoumokoumo",
+    "gn:country_code":"BJ",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395684,
+    "gn:latitude":8.10251,
+    "gn:longitude":1.6793,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Akoumokoumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395684,
+        "wk:page":"Akoumokoumo"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e4a91fd087430d0569d68b674459555a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758841,
+            "locality_id":1293467869,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1293467869,
+    "wof:lastmodified":1537487850,
+    "wof:name":"Akoumokoumo",
+    "wof:parent_id":1108758841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6793,
+    8.10251,
+    1.6793,
+    8.10251
+],
+  "geometry": {"coordinates":[1.6793,8.10251],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225834035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.31667,8.8,2.31667,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":2.31667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Carnotville",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394845,
+    "gn:latitude":8.8,
+    "gn:longitude":2.31667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Carnotville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carnoville",
+        "Carnotville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394845
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"617068bc1da6c457c937cc61d17f8c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758837,
+            "locality_id":1225834035,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1225834035,
+    "wof:lastmodified":1537587877,
+    "wof:name":"Carnotville",
+    "wof:parent_id":1108758837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.31667,
+    8.8,
+    2.31667,
+    8.8
+],
+  "geometry": {"coordinates":[2.31667,8.8],"type":"Point"}
+}

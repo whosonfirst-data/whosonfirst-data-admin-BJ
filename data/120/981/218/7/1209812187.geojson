@@ -1,0 +1,67 @@
+{
+  "id": 1209812187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.13572,12.04848,3.13572,12.04848",
+    "geom:latitude":12.04848,
+    "geom:longitude":3.13572,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mamassi",
+    "gn:country_code":"BJ",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392828,
+    "gn:latitude":12.04848,
+    "gn:longitude":3.13572,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Mamassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392828
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"672e19bbbb4a6672a3947513d14cbb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758955,
+            "locality_id":1209812187,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1209812187,
+    "wof:lastmodified":1536385937,
+    "wof:name":"Mamassi",
+    "wof:parent_id":1108758955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.13572,
+    12.04848,
+    3.13572,
+    12.04848
+],
+  "geometry": {"coordinates":[3.13572,12.04848],"type":"Point"}
+}

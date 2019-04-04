@@ -1,0 +1,61 @@
+{
+  "id": 1209498853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.63596,9.45221,2.63596,9.45221",
+    "geom:latitude":9.45221,
+    "geom:longitude":2.63596,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tele",
+    "gn:country_code":"BJ",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391331,
+    "gn:latitude":9.45221,
+    "gn:longitude":2.63596,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"T\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391331
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b186d4ed69f701967302b5dde8a181f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209498853
+        }
+    ],
+    "wof:id":1209498853,
+    "wof:lastmodified":1536285248,
+    "wof:name":"Tele",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.63596,
+    9.45221,
+    2.63596,
+    9.45221
+],
+  "geometry": {"coordinates":[2.63596,9.45221],"type":"Point"}
+}

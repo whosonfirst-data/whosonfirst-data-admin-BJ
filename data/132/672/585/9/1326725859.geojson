@@ -1,0 +1,67 @@
+{
+  "id": 1326725859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.43529,10.61225,1.43529,10.61225",
+    "geom:latitude":10.61225,
+    "geom:longitude":1.43529,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pemovou",
+    "gn:country_code":"BJ",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392154,
+    "gn:latitude":10.61225,
+    "gn:longitude":1.43529,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"P\u00e9movou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392154
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e4605236289ac9dc877b44bf18eec690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":1326725859,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1326725859,
+    "wof:lastmodified":1536705286,
+    "wof:name":"Pemovou",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.43529,
+    10.61225,
+    1.43529,
+    10.61225
+],
+  "geometry": {"coordinates":[1.43529,10.61225],"type":"Point"}
+}

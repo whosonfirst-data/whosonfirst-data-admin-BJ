@@ -1,0 +1,67 @@
+{
+  "id": 1310091771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61701,9.87956,1.61701,9.87956",
+    "geom:latitude":9.87956,
+    "geom:longitude":1.61701,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Goraperoun",
+    "gn:country_code":"BJ",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394053,
+    "gn:latitude":9.87956,
+    "gn:longitude":1.61701,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gorap\u00e8roun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394053
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"325abf61fbfc8b4944a846924392d97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758985,
+            "locality_id":1310091771,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1310091771,
+    "wof:lastmodified":1537015633,
+    "wof:name":"Goraperoun",
+    "wof:parent_id":1108758985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61701,
+    9.87956,
+    1.61701,
+    9.87956
+],
+  "geometry": {"coordinates":[1.61701,9.87956],"type":"Point"}
+}

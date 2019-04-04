@@ -1,0 +1,67 @@
+{
+  "id": 1343382555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.92627,11.38032,2.92627,11.38032",
+    "geom:latitude":11.38032,
+    "geom:longitude":2.92627,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ekiwo",
+    "gn:country_code":"BJ",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394433,
+    "gn:latitude":11.38032,
+    "gn:longitude":2.92627,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ekiwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394433
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ff6f13db01c7d40bd679addb25c013b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758975,
+            "locality_id":1343382555,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343382555,
+    "wof:lastmodified":1536857402,
+    "wof:name":"Ekiwo",
+    "wof:parent_id":1108758975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.92627,
+    11.38032,
+    2.92627,
+    11.38032
+],
+  "geometry": {"coordinates":[2.92627,11.38032],"type":"Point"}
+}

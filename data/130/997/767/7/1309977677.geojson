@@ -1,0 +1,67 @@
+{
+  "id": 1309977677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73176,6.59048,2.73176,6.59048",
+    "geom:latitude":6.59048,
+    "geom:longitude":2.73176,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Akadja",
+    "gn:country_code":"BJ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395709,
+    "gn:latitude":6.59048,
+    "gn:longitude":2.73176,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Akadja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395709
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"4149f41f9b5bbaa9a7bea1d4ebf63cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758851,
+            "locality_id":1309977677,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1309977677,
+    "wof:lastmodified":1536683423,
+    "wof:name":"Akadja",
+    "wof:parent_id":1108758851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73176,
+    6.59048,
+    2.73176,
+    6.59048
+],
+  "geometry": {"coordinates":[2.73176,6.59048],"type":"Point"}
+}

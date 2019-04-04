@@ -1,0 +1,71 @@
+{
+  "id": 1193157047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.68255,10.48566,1.68255,10.48566",
+    "geom:latitude":10.48566,
+    "geom:longitude":1.68255,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ganmbodanrou",
+    "gn:country_code":"BJ",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394237,
+    "gn:latitude":10.48566,
+    "gn:longitude":1.68255,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ganmbodanrou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamboudarou",
+        "Ganmbodanrou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394237
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e9c11a9e8c4980e41937c0c3d512f0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758863,
+            "locality_id":1193157047,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1193157047,
+    "wof:lastmodified":1537587871,
+    "wof:name":"Ganmbodanrou",
+    "wof:parent_id":1108758863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.68255,
+    10.48566,
+    1.68255,
+    10.48566
+],
+  "geometry": {"coordinates":[1.68255,10.48566],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209604273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1438,9.78163,3.1438,9.78163",
+    "geom:latitude":9.78163,
+    "geom:longitude":3.1438,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Soria Gando",
+    "gn:country_code":"BJ",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391615,
+    "gn:latitude":9.78163,
+    "gn:longitude":3.1438,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Soria Gando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391615
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"882b7e389a678dd6093bbf7fc4b8fa6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209604273
+        }
+    ],
+    "wof:id":1209604273,
+    "wof:lastmodified":1536282064,
+    "wof:name":"Soria Gando",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1438,
+    9.78163,
+    3.1438,
+    9.78163
+],
+  "geometry": {"coordinates":[3.1438,9.78163],"type":"Point"}
+}

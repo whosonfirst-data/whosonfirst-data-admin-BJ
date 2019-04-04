@@ -1,0 +1,72 @@
+{
+  "id": 1276940489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83333,7.41667,1.83333,7.41667",
+    "geom:latitude":7.41667,
+    "geom:longitude":1.83333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Peteki",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392124,
+    "gn:latitude":7.41667,
+    "gn:longitude":1.83333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"P\u00e9t\u00e9ki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adjadohond\u00e9gon",
+        "P\u00e9t\u00e9ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392124
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0785fc84f8b8d147d9c1c455a84b790f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1276940489,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1276940489,
+    "wof:lastmodified":1537587852,
+    "wof:name":"Peteki",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83333,
+    7.41667,
+    1.83333,
+    7.41667
+],
+  "geometry": {"coordinates":[1.83333,7.41667],"type":"Point"}
+}

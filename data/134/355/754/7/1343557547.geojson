@@ -1,0 +1,74 @@
+{
+  "id": 1343557547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.13333,6.36667,2.13333,6.36667",
+    "geom:latitude":6.36667,
+    "geom:longitude":2.13333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Adjovicodji",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395855,
+    "gn:latitude":6.36667,
+    "gn:longitude":2.13333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Adjovicodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aviconji",
+        "Avicondji",
+        "Aouicodji",
+        "Adjovicodji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421174729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395855
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c5fb58319741268398285e7b44af5ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421174729,
+            "locality_id":1343557547,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1343557547,
+    "wof:lastmodified":1537587888,
+    "wof:name":"Adjovicodji",
+    "wof:parent_id":421174729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.13333,
+    6.36667,
+    2.13333,
+    6.36667
+],
+  "geometry": {"coordinates":[2.13333,6.36667],"type":"Point"}
+}

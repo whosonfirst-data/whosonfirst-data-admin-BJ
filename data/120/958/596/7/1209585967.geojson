@@ -1,0 +1,66 @@
+{
+  "id": 1209585967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.85,6.28333,1.85,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":1.85,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beffa",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395212,
+    "gn:latitude":6.28333,
+    "gn:longitude":1.85,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Beffa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Befa",
+        "Beffa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395212
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"699aaef9d60bdce8ba5bdf579d261fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209585967
+        }
+    ],
+    "wof:id":1209585967,
+    "wof:lastmodified":1537587880,
+    "wof:name":"Beffa",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.85,
+    6.28333,
+    1.85,
+    6.28333
+],
+  "geometry": {"coordinates":[1.85,6.28333],"type":"Point"}
+}

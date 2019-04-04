@@ -1,0 +1,67 @@
+{
+  "id": 1327023739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.17881,9.90379,3.17881,9.90379",
+    "geom:latitude":9.90379,
+    "geom:longitude":3.17881,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Baoussi",
+    "gn:country_code":"BJ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395294,
+    "gn:latitude":9.90379,
+    "gn:longitude":3.17881,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Baoussi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395294
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"7a1c691b8336ffc20e0f409801c7f02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":1327023739,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1327023739,
+    "wof:lastmodified":1536773621,
+    "wof:name":"Baoussi",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.17881,
+    9.90379,
+    3.17881,
+    9.90379
+],
+  "geometry": {"coordinates":[3.17881,9.90379],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243047369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.44673,9.43114,1.44673,9.43114",
+    "geom:latitude":9.43114,
+    "geom:longitude":1.44673,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Adedewo",
+    "gn:country_code":"BJ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395899,
+    "gn:latitude":9.43114,
+    "gn:longitude":1.44673,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ad\u00e9d\u00e9wo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395899
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6fa27ca8ef25446e5e3fc824cf7f2219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1243047369,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1243047369,
+    "wof:lastmodified":1536883264,
+    "wof:name":"Adedewo",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.44673,
+    9.43114,
+    1.44673,
+    9.43114
+],
+  "geometry": {"coordinates":[1.44673,9.43114],"type":"Point"}
+}

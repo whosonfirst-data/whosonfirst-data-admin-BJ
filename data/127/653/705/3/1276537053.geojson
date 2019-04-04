@@ -1,0 +1,75 @@
+{
+  "id": 1276537053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.42872,8.48639,2.42872,8.48639",
+    "geom:latitude":8.48639,
+    "geom:longitude":2.42872,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"8260649.0",
+    "gn:asciiname":"Ouesse",
+    "gn:country_code":"BJ",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392319,
+    "gn:latitude":8.48639,
+    "gn:longitude":2.42872,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Ouess\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wessi",
+        "Ou\u00e9c\u00e9",
+        "Wesse",
+        "Ouess\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392319,
+        "wk:page":"Ou%C3%A8ss%C3%A8"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"4ad06bc41622852d9c796fb63ee2cd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758961,
+            "locality_id":1276537053,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1276537053,
+    "wof:lastmodified":1537587854,
+    "wof:name":"Ouesse",
+    "wof:parent_id":1108758961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.42872,
+    8.48639,
+    2.42872,
+    8.48639
+],
+  "geometry": {"coordinates":[2.42872,8.48639],"type":"Point"}
+}

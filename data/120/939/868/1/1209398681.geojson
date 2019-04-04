@@ -1,0 +1,61 @@
+{
+  "id": 1209398681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.95659,9.74241,2.95659,9.74241",
+    "geom:latitude":9.74241,
+    "geom:longitude":2.95659,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dando",
+    "gn:country_code":"BJ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394765,
+    "gn:latitude":9.74241,
+    "gn:longitude":2.95659,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394765
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d3abdd6e52d3a52d745765873176daaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209398681
+        }
+    ],
+    "wof:id":1209398681,
+    "wof:lastmodified":1536288217,
+    "wof:name":"Dando",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9565900000000003,
+    9.74241,
+    2.9565900000000003,
+    9.74241
+],
+  "geometry": {"coordinates":[2.95659,9.74241],"type":"Point"}
+}

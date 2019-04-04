@@ -1,0 +1,71 @@
+{
+  "id": 1310078719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.95981,6.34358,1.95981,6.34358",
+    "geom:latitude":6.34358,
+    "geom:longitude":1.95981,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gbezoume",
+    "gn:country_code":"BJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394135,
+    "gn:latitude":6.34358,
+    "gn:longitude":1.95981,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gb\u00e9zoum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bazume",
+        "Gb\u00e9zoum\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        421177249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394135
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"501f06dc08f5c47a5d24ddc2cdf4e6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421177249,
+            "locality_id":1310078719,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1310078719,
+    "wof:lastmodified":1537587870,
+    "wof:name":"Gbezoume",
+    "wof:parent_id":421177249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.95981,
+    6.34358,
+    1.95981,
+    6.34358
+],
+  "geometry": {"coordinates":[1.95981,6.34358],"type":"Point"}
+}

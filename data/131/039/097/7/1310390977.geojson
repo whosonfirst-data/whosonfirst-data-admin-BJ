@@ -1,0 +1,72 @@
+{
+  "id": 1310390977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.29419,10.06039,1.29419,10.06039",
+    "geom:latitude":10.06039,
+    "geom:longitude":1.29419,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Wanko",
+    "gn:country_code":"BJ",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390977,
+    "gn:latitude":10.06039,
+    "gn:longitude":1.29419,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Wanko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouanko",
+        "Ouonko",
+        "Wanko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390977
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b1c06802a9777e6e1b48532cce56ca44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758859,
+            "locality_id":1310390977,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1310390977,
+    "wof:lastmodified":1537587842,
+    "wof:name":"Wanko",
+    "wof:parent_id":1108758859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.29419,
+    10.06039,
+    1.29419,
+    10.06039
+],
+  "geometry": {"coordinates":[1.29419,10.06039],"type":"Point"}
+}

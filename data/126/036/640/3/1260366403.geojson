@@ -1,0 +1,71 @@
+{
+  "id": 1260366403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.7631,9.97901,1.7631,9.97901",
+    "geom:latitude":9.97901,
+    "geom:longitude":1.7631,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gbangbar-Peroun",
+    "gn:country_code":"BJ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394193,
+    "gn:latitude":9.97901,
+    "gn:longitude":1.7631,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gbangbar-P\u00e9roun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbangbanrou",
+        "Gbangbar-P\u00e9roun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394193
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b2a2fde98cf380a730dc3072caec550d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1260366403,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1260366403,
+    "wof:lastmodified":1537587870,
+    "wof:name":"Gbangbar-Peroun",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.7631,
+    9.97901,
+    1.7631,
+    9.97901
+],
+  "geometry": {"coordinates":[1.7631,9.97901],"type":"Point"}
+}

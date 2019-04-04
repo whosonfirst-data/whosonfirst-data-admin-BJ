@@ -1,0 +1,75 @@
+{
+  "id": 1310169057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.69302,7.48119,2.69302,7.48119",
+    "geom:latitude":7.48119,
+    "geom:longitude":2.69302,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"7670840.0",
+    "gn:asciiname":"Idigny",
+    "gn:country_code":"BJ",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393836,
+    "gn:latitude":7.48119,
+    "gn:longitude":2.69302,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Idigny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idahin",
+        "Idahim",
+        "Idanyin",
+        "Idigny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393836,
+        "wk:page":"Idigny"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b6c8851f8d45e31ee31fc78496411f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758853,
+            "locality_id":1310169057,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1310169057,
+    "wof:lastmodified":1537587867,
+    "wof:name":"Idigny",
+    "wof:parent_id":1108758853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.69302,
+    7.48119,
+    2.69302,
+    7.48119
+],
+  "geometry": {"coordinates":[2.69302,7.48119],"type":"Point"}
+}

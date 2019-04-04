@@ -1,0 +1,72 @@
+{
+  "id": 1260153959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.9,6.55,1.9,6.55",
+    "geom:latitude":6.55,
+    "geom:longitude":1.9,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dakpla",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394778,
+    "gn:latitude":6.55,
+    "gn:longitude":1.9,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dakpla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahou\u00e9 Dakpla",
+        "Dakpla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        1108758899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394778
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"63789dfe53cf4034af822f0e865ab0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758899,
+            "locality_id":1260153959,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1260153959,
+    "wof:lastmodified":1537587876,
+    "wof:name":"Dakpla",
+    "wof:parent_id":1108758899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9,
+    6.55,
+    1.9,
+    6.55
+],
+  "geometry": {"coordinates":[1.9,6.55],"type":"Point"}
+}

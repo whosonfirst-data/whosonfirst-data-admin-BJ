@@ -1,0 +1,67 @@
+{
+  "id": 1260069253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.03618,9.9225,3.03618,9.9225",
+    "geom:latitude":9.9225,
+    "geom:longitude":3.03618,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Serekali",
+    "gn:country_code":"BJ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391810,
+    "gn:latitude":9.9225,
+    "gn:longitude":3.03618,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"S\u00e9r\u00e9kali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391810
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"909da7acfdd64aba6473a88a3d4bd45a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":1260069253,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1260069253,
+    "wof:lastmodified":1537007813,
+    "wof:name":"Serekali",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.03618,
+    9.9225,
+    3.03618,
+    9.9225
+],
+  "geometry": {"coordinates":[3.03618,9.9225],"type":"Point"}
+}

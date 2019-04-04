@@ -1,0 +1,67 @@
+{
+  "id": 1360106079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.23812,11.36226,2.23812,11.36226",
+    "geom:latitude":11.36226,
+    "geom:longitude":2.23812,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tobaga",
+    "gn:country_code":"BJ",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391176,
+    "gn:latitude":11.36226,
+    "gn:longitude":2.23812,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tobaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391176
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"0e3781f9744269f1719c12751e867582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1360106079,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1360106079,
+    "wof:lastmodified":1536915883,
+    "wof:name":"Tobaga",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.23812,
+    11.36226,
+    2.23812,
+    11.36226
+],
+  "geometry": {"coordinates":[2.23812,11.36226],"type":"Point"}
+}

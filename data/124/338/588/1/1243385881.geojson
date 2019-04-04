@@ -1,0 +1,67 @@
+{
+  "id": 1243385881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.09874,10.85262,1.09874,10.85262",
+    "geom:latitude":10.85262,
+    "geom:longitude":1.09874,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kandou",
+    "gn:country_code":"BJ",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393688,
+    "gn:latitude":10.85262,
+    "gn:longitude":1.09874,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393688
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9a55bf40fd995ba92db8eaa286dbb660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1243385881,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1243385881,
+    "wof:lastmodified":1536892660,
+    "wof:name":"Kandou",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.09874,
+    10.85262,
+    1.09874,
+    10.85262
+],
+  "geometry": {"coordinates":[1.09874,10.85262],"type":"Point"}
+}

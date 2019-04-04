@@ -1,0 +1,71 @@
+{
+  "id": 1343341121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39505,9.84724,1.39505,9.84724",
+    "geom:latitude":9.84724,
+    "geom:longitude":1.39505,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Batakessi",
+    "gn:country_code":"BJ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395247,
+    "gn:latitude":9.84724,
+    "gn:longitude":1.39505,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Batak\u00e9ssi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u00e8l\u00e8koursi",
+        "Batak\u00e9ssi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395247
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"202685bc7dd5f24f94ae95dd0489fe8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758985,
+            "locality_id":1343341121,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1343341121,
+    "wof:lastmodified":1537587881,
+    "wof:name":"Batakessi",
+    "wof:parent_id":1108758985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39505,
+    9.84724,
+    1.39505,
+    9.84724
+],
+  "geometry": {"coordinates":[1.39505,9.84724],"type":"Point"}
+}

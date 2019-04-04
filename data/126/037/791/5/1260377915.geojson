@@ -1,0 +1,70 @@
+{
+  "id": 1260377915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.78333,7.03333,1.78333,7.03333",
+    "geom:latitude":7.03333,
+    "geom:longitude":1.78333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"10344472.0",
+    "gn:admin3_code":"11789981.0",
+    "gn:asciiname":"Godohou",
+    "gn:country_code":"BJ",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394093,
+    "gn:latitude":7.03333,
+    "gn:longitude":1.78333,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Godohou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394093,
+        "wk:page":"Godohou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d4463d1f6c9bbc12ff14728599518550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758883,
+            "locality_id":1260377915,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1260377915,
+    "wof:lastmodified":1537487841,
+    "wof:name":"Godohou",
+    "wof:parent_id":1108758883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.78333,
+    7.03333,
+    1.78333,
+    7.03333
+],
+  "geometry": {"coordinates":[1.78333,7.03333],"type":"Point"}
+}

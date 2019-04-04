@@ -1,0 +1,71 @@
+{
+  "id": 1309882027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.77563,6.72755,2.77563,6.72755",
+    "geom:latitude":6.72755,
+    "geom:longitude":2.77563,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Baodjo",
+    "gn:country_code":"BJ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395299,
+    "gn:latitude":6.72755,
+    "gn:longitude":2.77563,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Baodjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baoudjo",
+        "Baodjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395299
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1566211e213c358fea54e006b0994fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758851,
+            "locality_id":1309882027,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1309882027,
+    "wof:lastmodified":1537587881,
+    "wof:name":"Baodjo",
+    "wof:parent_id":1108758851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.77563,
+    6.72755,
+    2.77563,
+    6.72755
+],
+  "geometry": {"coordinates":[2.77563,6.72755],"type":"Point"}
+}

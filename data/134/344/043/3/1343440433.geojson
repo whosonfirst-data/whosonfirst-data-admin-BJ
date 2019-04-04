@@ -1,0 +1,68 @@
+{
+  "id": 1343440433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48978,9.4151,1.48978,9.4151",
+    "geom:latitude":9.4151,
+    "geom:longitude":1.48978,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Katia",
+    "gn:country_code":"BJ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393612,
+    "gn:latitude":9.4151,
+    "gn:longitude":1.48978,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Katia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393612,
+        "wk:page":"Katia%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"53f4002e23eaaa2aca29edff9d1343e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1343440433,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1343440433,
+    "wof:lastmodified":1537487838,
+    "wof:name":"Katia",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48978,
+    9.4151,
+    1.48978,
+    9.4151
+],
+  "geometry": {"coordinates":[1.48978,9.4151],"type":"Point"}
+}

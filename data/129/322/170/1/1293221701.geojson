@@ -1,0 +1,67 @@
+{
+  "id": 1293221701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.47025,11.3686,2.47025,11.3686",
+    "geom:latitude":11.3686,
+    "geom:longitude":2.47025,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nimmbere",
+    "gn:country_code":"BJ",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392502,
+    "gn:latitude":11.3686,
+    "gn:longitude":2.47025,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Nimmb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392502
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cb50cf6ee2c7a5e13c132867feeb3d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1293221701,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293221701,
+    "wof:lastmodified":1536673200,
+    "wof:name":"Nimmbere",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.47025,
+    11.3686,
+    2.47025,
+    11.3686
+],
+  "geometry": {"coordinates":[2.47025,11.3686],"type":"Point"}
+}

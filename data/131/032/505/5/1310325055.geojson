@@ -1,0 +1,71 @@
+{
+  "id": 1310325055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2086,10.73068,1.2086,10.73068",
+    "geom:latitude":10.73068,
+    "geom:longitude":1.2086,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tiele",
+    "gn:country_code":"BJ",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391245,
+    "gn:latitude":10.73068,
+    "gn:longitude":1.2086,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ti\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tele",
+        "Ti\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391245
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"70000a3f687a0e8e7141a3ee85dac1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1310325055,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1310325055,
+    "wof:lastmodified":1537587844,
+    "wof:name":"Tiele",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2086,
+    10.73068,
+    1.2086,
+    10.73068
+],
+  "geometry": {"coordinates":[1.2086,10.73068],"type":"Point"}
+}

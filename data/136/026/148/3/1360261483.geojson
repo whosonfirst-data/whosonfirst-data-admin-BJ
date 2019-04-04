@@ -1,0 +1,71 @@
+{
+  "id": 1360261483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.45374,9.55618,1.45374,9.55618",
+    "geom:latitude":9.55618,
+    "geom:longitude":1.45374,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kekeleba",
+    "gn:country_code":"BJ",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393590,
+    "gn:latitude":9.55618,
+    "gn:longitude":1.45374,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"K\u00e8k\u00e8l\u00e8ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Negl\u00e9de",
+        "K\u00e8k\u00e8l\u00e8ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393590
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"683302a30f26de22bdbcdd04f494b169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1360261483,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1360261483,
+    "wof:lastmodified":1537587864,
+    "wof:name":"Kekeleba",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.45374,
+    9.55618,
+    1.45374,
+    9.55618
+],
+  "geometry": {"coordinates":[1.45374,9.55618],"type":"Point"}
+}

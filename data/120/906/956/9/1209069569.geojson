@@ -1,0 +1,61 @@
+{
+  "id": 1209069569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.81667,7.46667,1.81667,7.46667",
+    "geom:latitude":7.46667,
+    "geom:longitude":1.81667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Hanagbo",
+    "gn:country_code":"BJ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393899,
+    "gn:latitude":7.46667,
+    "gn:longitude":1.81667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Hanagbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393899
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"e8bb49e1624adbad18091ef916d39d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209069569
+        }
+    ],
+    "wof:id":1209069569,
+    "wof:lastmodified":1536298691,
+    "wof:name":"Hanagbo",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.81667,
+    7.46667,
+    1.81667,
+    7.46667
+],
+  "geometry": {"coordinates":[1.81667,7.46667],"type":"Point"}
+}

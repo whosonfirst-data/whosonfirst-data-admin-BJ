@@ -1,0 +1,71 @@
+{
+  "id": 1309927277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.53366,10.79656,3.53366,10.79656",
+    "geom:latitude":10.79656,
+    "geom:longitude":3.53366,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bobena",
+    "gn:country_code":"BJ",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395066,
+    "gn:latitude":10.79656,
+    "gn:longitude":3.53366,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bob\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boben\u00e9",
+        "Bob\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395066
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c912f9262b0d40147c7c0337f5e4d059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1309927277,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1309927277,
+    "wof:lastmodified":1537587879,
+    "wof:name":"Bobena",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.53366,
+    10.79656,
+    3.53366,
+    10.79656
+],
+  "geometry": {"coordinates":[3.53366,10.79656],"type":"Point"}
+}

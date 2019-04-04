@@ -1,0 +1,69 @@
+{
+  "id": 1226067495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.99972,10.49222,0.99972,10.49222",
+    "geom:latitude":10.49222,
+    "geom:longitude":0.99972,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"10344466.0",
+    "gn:admin3_code":"11789881.0",
+    "gn:asciiname":"Cobly",
+    "gn:country_code":"BJ",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10339095,
+    "gn:latitude":10.49222,
+    "gn:longitude":0.99972,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Cobly",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10339095
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d1c2531fae6ea9252fd55a48b9de08d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758869,
+            "locality_id":1226067495,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226067495,
+    "wof:lastmodified":1536694082,
+    "wof:name":"Cobly",
+    "wof:parent_id":1108758869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.99972,
+    10.49222,
+    0.99972,
+    10.49222
+],
+  "geometry": {"coordinates":[0.99972,10.49222],"type":"Point"}
+}

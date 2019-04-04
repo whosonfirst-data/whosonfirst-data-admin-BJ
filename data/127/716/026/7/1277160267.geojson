@@ -1,0 +1,74 @@
+{
+  "id": 1277160267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.83775,6.3245,1.83775,6.3245",
+    "geom:latitude":6.3245,
+    "geom:longitude":1.83775,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"9166075.0",
+    "gn:asciiname":"Adjaha",
+    "gn:country_code":"BJ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395883,
+    "gn:latitude":6.3245,
+    "gn:longitude":1.83775,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Adjaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajaha",
+        "Adjah",
+        "Adjaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        421177249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395883,
+        "wk:page":"Adjaha"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f108e0a62dec83185713fd25654947a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421177249,
+            "locality_id":1277160267,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1277160267,
+    "wof:lastmodified":1537587888,
+    "wof:name":"Adjaha",
+    "wof:parent_id":421177249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.83775,
+    6.3245,
+    1.83775,
+    6.3245
+],
+  "geometry": {"coordinates":[1.83775,6.3245],"type":"Point"}
+}

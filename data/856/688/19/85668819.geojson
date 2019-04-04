@@ -1,0 +1,318 @@
+{
+  "id": 85668819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.41656,
+    "geom:area_square_m":5109465783.854208,
+    "geom:bbox":"1.62285491232,6.91192983589,2.56008182142,7.63240265536",
+    "geom:latitude":7.265427,
+    "geom:longitude":2.110191,
+    "gn:population":628684,
+    "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Zou Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
+    "lbl:latitude":7.225614,
+    "lbl:longitude":2.157033,
+    "mps:latitude":7.225614,
+    "mps:longitude":2.157033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0625\u062f\u0627\u0631\u0629 \u0632\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c1 \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bre_x_preferred":[
+        "Zou"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Zou"
+    ],
+    "name:chi_x_preferred":[
+        "\u7956\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Zou"
+    ],
+    "name:dut_x_preferred":[
+        "Zou"
+    ],
+    "name:eng_x_preferred":[
+        "Zou Department"
+    ],
+    "name:eng_x_variant":[
+        "Zou"
+    ],
+    "name:fin_x_preferred":[
+        "Zoun depatermentti"
+    ],
+    "name:fra_x_preferred":[
+        "Zou"
+    ],
+    "name:fre_x_preferred":[
+        "Zou"
+    ],
+    "name:ger_x_preferred":[
+        "Zou"
+    ],
+    "name:gre_x_preferred":[
+        "\u0396\u03bf\u03c5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0acb\u0aa8\u0abf\u0aaf\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d6\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u091d\u093e\u090a \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Zou"
+    ],
+    "name:ind_x_preferred":[
+        "Departemen Zou"
+    ],
+    "name:ita_x_preferred":[
+        "dipartimento di Zou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30fc\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9d\u0ccc \u0cb5\u0cbf\u0cad\u0cbe\u0c97"
+    ],
+    "name:kor_x_preferred":[
+        "\uc8fc \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Zu departaments"
+    ],
+    "name:lit_x_preferred":[
+        "Zu departamentas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091d\u094b\u090a \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Zou Department"
+    ],
+    "name:nob_x_preferred":[
+        "Zou"
+    ],
+    "name:oci_x_preferred":[
+        "Departament de Zou"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0632\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Departament Zou"
+    ],
+    "name:por_x_preferred":[
+        "Zou"
+    ],
+    "name:rum_x_preferred":[
+        "Departamentul Zou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0ddd\u0d8b \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Zou"
+    ],
+    "name:swe_x_preferred":[
+        "Zou"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bb5\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c4b\u0c35\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0417\u0443"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e39\u0e27 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Zou Departman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u0417\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Center"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0648\u0624 \u0645\u062d\u06a9\u0645\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Zu"
+    ],
+    "name:vie_x_preferred":[
+        "Khu v\u1ef1c h\u00e0nh ch\u00ednh Zou"
+    ],
+    "name:yor_x_preferred":[
+        "Ap\u00e1 Zou"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BEN",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BEN-2178",
+    "ne:adm1_code":"BEN-2178",
+    "ne:admin":"Benin",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"BJ.ZO",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2178",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BN18",
+    "ne:fips_alt":"BN05",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Benin",
+    "ne:gn_a1_code":"BJ.18",
+    "ne:gn_id":"2390719",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Zou Department",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BN18",
+    "ne:gns_id":"-1337096",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Zou, Departement du",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BEN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BJ-",
+    "ne:iso_a2":"BJ",
+    "ne:labelrank":"7",
+    "ne:latitude":"7.22681000000",
+    "ne:longitude":"2.09135000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Zou",
+    "ne:name_alt":"",
+    "ne:name_len":3,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"ZO",
+    "ne:provnum_ne":"11",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"BEN",
+    "ne:sub_code":"",
+    "ne:type":"D\u00e9partement",
+    "ne:type_en":"Department",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344829,
+    "ne:woe_label":"Zou, BJ, Benin",
+    "ne:woe_name":"Zou",
+    "qs:a0":"Benin",
+    "qs:a0_lc":"BJ",
+    "qs:a1":"Zou",
+    "qs:a1_lc":"BEN-2178",
+    "qs:adm0":"Benin",
+    "qs:adm0_a3":"BEN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Department",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-02-11",
+    "statoids:area_km":"5,106",
+    "statoids:area_mi":"1,971",
+    "statoids:as_of_date":"2002-02-11",
+    "statoids:capital":"Abomey",
+    "statoids:country":"BJ",
+    "statoids:gec":"BN18",
+    "statoids:hasc":"BJ.ZO",
+    "statoids:iso":"ZO",
+    "statoids:name":"Zou",
+    "statoids:population":"599954",
+    "statoids:timezone":"+1",
+    "statoids:type":"department",
+    "unlc:subdivision":"BJ-ZO",
+    "wof:belongsto":[
+        102191573,
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BN18",
+        "gn:id":2390719,
+        "gp:id":2344829,
+        "hasc:id":"BJ.ZO",
+        "iso:id":"BJ-ZO",
+        "qs:id":1083804,
+        "unlc:id":"BJ-ZO",
+        "wd:id":"Q29172",
+        "wk:page":"Zou Department"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9a6e2bdcf8984ee1912ae0686c1367ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":85668819,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553814710,
+    "wof:name":"Zou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"department",
+    "wof:population":599954,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:shortcode":"ZO",
+    "wof:subdivision":"BJ-ZO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.62285491232438,
+    6.91192983589326,
+    2.56008182141898,
+    7.63240265535831
+],
+  "geometry": {"coordinates":[[[2.06662356922237,7.5336489927069],[2.11938520726153,7.53496674232133],[2.17757286889281,7.5297732609273],[2.24816287581609,7.50757823294913],[2.42753177207368,7.42603282335614],[2.43295779836376,7.40732595532864],[2.43295779836376,7.36265167943151],[2.43642011899334,7.35368581814606],[2.44200117401499,7.34627025047172],[2.44654870026238,7.3366584331402],[2.44665205215051,7.32105215143571],[2.44990766810446,7.309269923768],[2.46556562665239,7.25015208614991],[2.48075849810624,7.2170791689685],[2.52809410985532,7.18496226619567],[2.53383019360859,7.17845103608647],[2.534295281602,7.17286998106482],[2.53305504725267,7.15602346411163],[2.55527591275324,7.04468659081357],[2.56008182141898,7.0001673454467],[2.56008182141898,7.00008983018159],[2.55977176305646,6.99954722692303],[2.55899661580122,6.99807444947629],[2.55667117673346,6.99512889188492],[2.55233035606113,6.99293264402633],[2.54643924267697,6.99192495457305],[2.53910119026779,6.99176992404279],[2.52003258613502,6.99316518802306],[2.4579691909255,6.99355276075136],[2.43001224077233,6.99076223369019],[2.41388919423099,6.98231313724153],[2.3976111180587,6.96027313889431],[2.38660403764629,6.94081696203324],[2.38489871620283,6.92055980129385],[2.08398685101241,6.9193195660452],[2.07701053201049,6.92536570906026],[2.06042239657637,6.9162189797222],[2.04988040505668,6.91192983589326],[2.04336917494749,6.91265330720444],[2.03463585765877,6.9162189797222],[2.00052941170304,6.94143707875821],[1.9951033872116,6.94647553142067],[1.99293297687541,6.95097138082463],[1.98828209784057,6.96867055939884],[1.97474287278538,6.98897939698162],[1.95861982624405,6.99735097906449],[1.94234175007176,7.02024363903274],[1.92136111802125,7.05223134969708],[1.9053931011108,7.06432363482793],[1.89965701735753,7.06688161879174],[1.89283572798649,7.07184255618904],[1.88043338359381,7.0927198354521],[1.87092491994912,7.13625722888804],[1.85790245883146,7.18294688638974],[1.84255455864599,7.2095602485067],[1.82984215679016,7.21754425696196],[1.82612145284281,7.2237712671303],[1.8213155450764,7.23485586190856],[1.78266157377266,7.28443939925893],[1.76715864395629,7.29598908113121],[1.75920047392276,7.30560089846273],[1.75532474124384,7.31353323007454],[1.75377444763268,7.33247264209882],[1.75191409655838,7.33929393236912],[1.7461780128051,7.34758799918689],[1.74261233938802,7.35533946454473],[1.73687625473542,7.38102265157414],[1.6844246759581,7.49197195124458],[1.67682824113046,7.50432261789456],[1.65558922666151,7.52982493687136],[1.62325136675725,7.53638475735073],[1.62285491232438,7.62245969955552],[1.64251508959973,7.62069794385508],[1.84472496898218,7.63240265535831],[1.88942508330098,7.62310089818794],[1.94404707241449,7.60044078221637],[1.98140913342479,7.56747121782251],[2.01928795657398,7.54155548679631],[2.06662356922237,7.5336489927069]]],"type":"Polygon"}
+}

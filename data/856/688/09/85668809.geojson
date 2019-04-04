@@ -1,0 +1,312 @@
+{
+  "id": 85668809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.256572,
+    "geom:area_square_m":3151530980.976142,
+    "geom:bbox":"1.95784467899,6.28652051521,2.48742475785,6.92055980129",
+    "geom:latitude":6.598127,
+    "geom:longitude":2.220157,
+    "gn:population":896901,
+    "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Atlantique Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
+    "lbl:latitude":6.601561,
+    "lbl:longitude":2.225194,
+    "mps:latitude":6.601561,
+    "mps:longitude":2.225194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0625\u062f\u0627\u0631\u0629 \u0623\u062a\u0644\u0627\u0646\u062a\u064a\u0643"
+    ],
+    "name:baq_x_preferred":[
+        "Atlantique departamendua"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u099f\u09b2\u09be\u09a8\u09cd\u099f\u09bf\u0995 \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bre_x_preferred":[
+        "Atlantique"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Atlantique"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u897f\u6d0b\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Atlantique"
+    ],
+    "name:dut_x_preferred":[
+        "Atlantique"
+    ],
+    "name:eng_x_preferred":[
+        "Atlantique Department"
+    ],
+    "name:eng_x_variant":[
+        "Atlantique"
+    ],
+    "name:fin_x_preferred":[
+        "Atlantique"
+    ],
+    "name:fra_x_preferred":[
+        "Atlantique"
+    ],
+    "name:fre_x_preferred":[
+        "Atlantique"
+    ],
+    "name:ger_x_preferred":[
+        "Atlantique"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03c4\u03bb\u03ac\u03c4\u03b9\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0a9f\u0ab2\u0abe\u0aa8\u0acd\u0a9f\u0ac0\u0a95 \u0ab5\u0abf\u0aad\u0abe\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u091f\u0932\u093e\u0902\u091f\u093f\u0915 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Atlantique"
+    ],
+    "name:ind_x_preferred":[
+        "Departemen Atlantique"
+    ],
+    "name:ita_x_preferred":[
+        "dipartimento dell'Atlantico"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c8\u30e9\u30f3\u30c6\u30a3\u30c3\u30af\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c9f\u0ccd\u0cb2\u0cbe\u0c82\u0c9f\u0cbf\u0c95\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ud2c0\ub791\ud2f0\ud06c \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Atlantikas departaments"
+    ],
+    "name:lit_x_preferred":[
+        "Atlanto departamentas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u091f\u0932\u093e\u0902\u091f\u093f\u0915 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Atlantique Department"
+    ],
+    "name:nob_x_preferred":[
+        "Atlantique"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u062a\u0644\u0627\u0646\u062a\u06cc\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Departament Atlantique"
+    ],
+    "name:por_x_preferred":[
+        "Atlantique"
+    ],
+    "name:rum_x_preferred":[
+        "Departamentul Atlantique"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d87\u0da7\u0dca\u0dbd\u0db1\u0dca\u0da7\u0dd2\u0d9a\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Atlantique"
+    ],
+    "name:swe_x_preferred":[
+        "Atlantique"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b9f\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c1f\u0c4d\u0c32\u0c3e\u0c02\u0c1f\u0c3f\u0c15\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u0442\u043b\u0430\u043d\u0442\u0438\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e15\u0e4c\u0e25\u0e2d\u0e07\u0e15\u0e35\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Atlantique Departman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u0447\u043d\u0438\u0439 \u0420\u0435\u0433\u0456\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "South"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0679\u0644\u0627\u0646\u0679\u06a9 \u0645\u062d\u06a9\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Atlantique"
+    ],
+    "name:yor_x_preferred":[
+        "Ap\u00e1 Atlantique"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BEN",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BEN-2174",
+    "ne:adm1_code":"BEN-2174",
+    "ne:admin":"Benin",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"BJ.AQ",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2174",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BN09",
+    "ne:fips_alt":"BN02",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Benin",
+    "ne:gn_a1_code":"BJ.09",
+    "ne:gn_id":"2395504",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Atlantique Department",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BN09",
+    "ne:gns_id":"-1332302",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Atlantique, Departement de l'",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BEN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BJ-",
+    "ne:iso_a2":"BJ",
+    "ne:labelrank":"7",
+    "ne:latitude":"6.61657000000",
+    "ne:longitude":"2.22263000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Atlantique",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AQ",
+    "ne:provnum_ne":"8",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"BEN",
+    "ne:sub_code":"",
+    "ne:type":"D\u00e9partement",
+    "ne:type_en":"Department",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344825,
+    "ne:woe_label":"Atlantique, BJ, Benin",
+    "ne:woe_name":"Atlantique",
+    "qs:a0":"Benin",
+    "qs:a0_lc":"BJ",
+    "qs:a1":"Atlantique",
+    "qs:a1_lc":"BEN-2174",
+    "qs:adm0":"Benin",
+    "qs:adm0_a3":"BEN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Department",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-02-11",
+    "statoids:area_km":"3,233",
+    "statoids:area_mi":"1,248",
+    "statoids:as_of_date":"2002-02-11",
+    "statoids:capital":"Ouidah ?",
+    "statoids:country":"BJ",
+    "statoids:gec":"BN09",
+    "statoids:hasc":"BJ.AQ",
+    "statoids:iso":"AQ",
+    "statoids:name":"Atlantique",
+    "statoids:population":"801683",
+    "statoids:timezone":"+1",
+    "statoids:type":"department",
+    "unlc:subdivision":"BJ-AQ",
+    "wof:belongsto":[
+        102191573,
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BN09",
+        "gn:id":2395504,
+        "gp:id":2344825,
+        "hasc:id":"BJ.AQ",
+        "iso:id":"BJ-AQ",
+        "qs:id":235567,
+        "unlc:id":"BJ-AQ",
+        "wd:id":"Q29147",
+        "wk:page":"Atlantique Department"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f3ccb2cb30f2f1501df9ee9de9a488f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":85668809,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553550312,
+    "wof:name":"Atlantique",
+    "wof:parent_id":85632247,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"department",
+    "wof:population":801683,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:shortcode":"AQ",
+    "wof:subdivision":"BJ-AQ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.95784467898881,
+    6.28652051520965,
+    2.48742475784633,
+    6.92055980129385
+],
+  "geometry": {"coordinates":[[[2.46758100825696,6.39583730704612],[2.42040042523951,6.39002370892706],[2.39916141077055,6.38413259554289],[2.38148807061799,6.37271210398046],[2.36903405118056,6.36085236194697],[2.35985340391153,6.33640142508574],[2.30697675877048,6.33148834870838],[2.22681725391317,6.313666083523],[1.9877088609752,6.28652051520965],[1.98771365705966,6.28659332881909],[1.98828209784057,6.29522329332036],[1.98487145315511,6.31320669183543],[1.97629316639655,6.33927745249247],[1.96094526531181,6.36147248047064],[1.95784467898881,6.39234914799482],[1.96296064601705,6.41322642725788],[1.98487145315511,6.46963125218059],[1.99045250817676,6.48397146201341],[1.99324303523792,6.49593455593504],[1.99432824085568,6.51647593841386],[1.99091759617016,6.57303579296752],[1.98983239055241,6.6001142439772],[1.99107262490179,6.60944184046861],[1.99417321122479,6.61789093691726],[2.00176964695169,6.63013825077968],[2.00688561397993,6.63667532020992],[2.01510216643186,6.64489187356116],[2.01742760639894,6.65163564676772],[2.01928795657398,6.66243602070585],[2.01820275185554,6.68065196411692],[2.02362877814562,6.70649017987796],[2.03696129672653,6.73372366051859],[2.03603112073966,6.75336070453295],[2.03417076966531,6.76576304802632],[2.03556603364558,6.77431549726242],[2.03918338390611,6.78431488732224],[2.05360110810471,6.80937795672736],[2.06181766055664,6.81891225789445],[2.06631351085991,6.82769725202661],[2.08212649903874,6.86795319288558],[2.08832767078542,6.87965790438881],[2.09313357855183,6.89487661426438],[2.08398685101241,6.9193195660452],[2.38489871620283,6.92055980129385],[2.41916018999081,6.86500763619352],[2.42908206478552,6.82426076891937],[2.4322343279519,6.76661570874802],[2.43626509026177,6.65933543528217],[2.43735029498015,6.62936310532308],[2.44448164181438,6.53828339276441],[2.45548872222679,6.51872386311584],[2.4610697772485,6.51740611440073],[2.46696088973334,6.51515818879943],[2.47130171130499,6.51283274973167],[2.483083937174,6.50453868201458],[2.48742475784633,6.45898590697408],[2.48339399643584,6.43449127924919],[2.46758100825696,6.39583730704612]]],"type":"Polygon"}
+}

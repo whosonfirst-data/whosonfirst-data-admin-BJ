@@ -1,0 +1,77 @@
+{
+  "id": 1293607273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.12943,9.25566,3.12943,9.25566",
+    "geom:latitude":9.25566,
+    "geom:longitude":3.12943,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sayounga",
+    "gn:country_code":"BJ",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391886,
+    "gn:latitude":9.25566,
+    "gn:longitude":3.12943,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sayounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563089,
+        85632247,
+        85668803,
+        1108758837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391886
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"fcac9ca2afd003802d8d0af73618e663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563089,
+            "locality_id":1293607273,
+            "region_id":85675339
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758837,
+            "locality_id":1293607273,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1293607273,
+    "wof:lastmodified":1536611923,
+    "wof:name":"Sayounga",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.12943,
+    9.25566,
+    3.12943,
+    9.25566
+],
+  "geometry": {"coordinates":[3.12943,9.25566],"type":"Point"}
+}

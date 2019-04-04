@@ -1,0 +1,136 @@
+{
+  "id": 421180359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.21075,9.94009,3.21075,9.94009",
+    "geom:latitude":9.94009,
+    "geom:longitude":3.21075,
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Nikki"
+    ],
+    "name:dut_x_preferred":[
+        "Nikki"
+    ],
+    "name:eng_x_preferred":[
+        "Nikki"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u06cc\u060c \u0628\u0646\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nikki"
+    ],
+    "name:fre_x_preferred":[
+        "Nikki"
+    ],
+    "name:hrv_x_preferred":[
+        "Nikki"
+    ],
+    "name:ita_x_preferred":[
+        "Nikki"
+    ],
+    "name:may_x_preferred":[
+        "Nikki"
+    ],
+    "name:msa_x_preferred":[
+        "Nikki"
+    ],
+    "name:nld_x_preferred":[
+        "Nikki"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u06cc\u06a9\u06cc\u060c \u0628\u0646\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Nikki"
+    ],
+    "name:ron_x_preferred":[
+        "Nikki"
+    ],
+    "name:rum_x_preferred":[
+        "Nikki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Nikki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043a\u043a\u0456"
+    ],
+    "qs:gn_country":"BJ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2392505,
+    "qs:gn_pop":54009,
+    "qs:name":"Nikki",
+    "qs:name_adm0":"B\u00e9nin",
+    "qs:name_adm1":"Borgou",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":427293,
+    "qs:woe_adm0":23424764,
+    "qs:woe_id":1268212,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392505,
+        "gp:id":1268212,
+        "qs:id":427293,
+        "wd:id":"Q2378608",
+        "wk:page":"Nikki, Benin"
+    },
+    "wof:country":"BJ",
+    "wof:created":1459009253,
+    "wof:geomhash":"47eb97e56bfec0ff505150105c5cb223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":421180359,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":421180359,
+    "wof:lastmodified":1527716238,
+    "wof:name":"Nikki",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:population":54009,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.21075,
+    9.94009,
+    3.21075,
+    9.94009
+],
+  "geometry": {"coordinates":[3.21075,9.94009],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226771179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.41646,11.23617,2.41646,11.23617",
+    "geom:latitude":11.23617,
+    "geom:longitude":2.41646,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7668935.0",
+    "gn:admin3_code":"11790271.0",
+    "gn:asciiname":"Oune",
+    "gn:country_code":"BJ",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392282,
+    "gn:latitude":11.23617,
+    "gn:longitude":2.41646,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Oun\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unet",
+        "Ounet",
+        "Oun\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392282,
+        "wk:page":"Ounet"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ee927a76b5d503be2c65eaa2bbbb2b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1226771179,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1226771179,
+    "wof:lastmodified":1537587854,
+    "wof:name":"Oune",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.41646,
+    11.23617,
+    2.41646,
+    11.23617
+],
+  "geometry": {"coordinates":[2.41646,11.23617],"type":"Point"}
+}

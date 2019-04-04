@@ -1,0 +1,67 @@
+{
+  "id": 1259345993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.77687,7.5981,1.77687,7.5981",
+    "geom:latitude":7.5981,
+    "geom:longitude":1.77687,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djegekpodji",
+    "gn:country_code":"BJ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394586,
+    "gn:latitude":7.5981,
+    "gn:longitude":1.77687,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dj\u00e9g\u00e9kpodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394586
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"04b36f03826b2f64a6c547249020589e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1259345993,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1259345993,
+    "wof:lastmodified":1537054033,
+    "wof:name":"Djegekpodji",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.77687,
+    7.5981,
+    1.77687,
+    7.5981
+],
+  "geometry": {"coordinates":[1.77687,7.5981],"type":"Point"}
+}

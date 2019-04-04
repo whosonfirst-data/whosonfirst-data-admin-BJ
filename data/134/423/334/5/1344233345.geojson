@@ -1,0 +1,71 @@
+{
+  "id": 1344233345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73723,6.5583,2.73723,6.5583",
+    "geom:latitude":6.5583,
+    "geom:longitude":2.73723,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Gblogblo",
+    "gn:country_code":"BJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394125,
+    "gn:latitude":6.5583,
+    "gn:longitude":2.73723,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gblogblo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bloblo",
+        "Gblogblo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394125
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"57215dfaa7b6c7febad1147ad1d73197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758851,
+            "locality_id":1344233345,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1344233345,
+    "wof:lastmodified":1537587870,
+    "wof:name":"Gblogblo",
+    "wof:parent_id":1108758851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73723,
+    6.5583,
+    2.73723,
+    6.5583
+],
+  "geometry": {"coordinates":[2.73723,6.5583],"type":"Point"}
+}

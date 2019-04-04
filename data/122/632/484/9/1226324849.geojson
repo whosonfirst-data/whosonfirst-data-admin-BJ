@@ -1,0 +1,73 @@
+{
+  "id": 1226324849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.66667,6.4,2.66667,6.4",
+    "geom:latitude":6.4,
+    "geom:longitude":2.66667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Akrake",
+    "gn:country_code":"BJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395661,
+    "gn:latitude":6.4,
+    "gn:longitude":2.66667,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Akrak\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krake"
+    ],
+    "name:und_x_variant":[
+        "Akrak\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395661
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"64f4e4cfee8024947569ea69a632de1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758917,
+            "locality_id":1226324849,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1226324849,
+    "wof:lastmodified":1537587885,
+    "wof:name":"Akrake",
+    "wof:parent_id":1108758917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.66667,
+    6.4,
+    2.66667,
+    6.4
+],
+  "geometry": {"coordinates":[2.66667,6.4],"type":"Point"}
+}

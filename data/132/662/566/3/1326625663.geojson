@@ -1,0 +1,67 @@
+{
+  "id": 1326625663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.31771,9.88958,3.31771,9.88958",
+    "geom:latitude":9.88958,
+    "geom:longitude":3.31771,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ouroumossi",
+    "gn:country_code":"BJ",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392251,
+    "gn:latitude":9.88958,
+    "gn:longitude":3.31771,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ouroumossi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392251
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"71ff6cdd4846caa88b6ee439780bce72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":1326625663,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1326625663,
+    "wof:lastmodified":1536848236,
+    "wof:name":"Ouroumossi",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.31771,
+    9.88958,
+    3.31771,
+    9.88958
+],
+  "geometry": {"coordinates":[3.31771,9.88958],"type":"Point"}
+}

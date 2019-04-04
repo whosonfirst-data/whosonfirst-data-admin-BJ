@@ -1,0 +1,67 @@
+{
+  "id": 1343821127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.37413,7.1614,2.37413,7.1614",
+    "geom:latitude":7.1614,
+    "geom:longitude":2.37413,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Dovi-Dizigo",
+    "gn:country_code":"BJ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394457,
+    "gn:latitude":7.1614,
+    "gn:longitude":2.37413,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dovi-Dizigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394457
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1744c3fb1391339f92ec17105386844f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758937,
+            "locality_id":1343821127,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1343821127,
+    "wof:lastmodified":1536723885,
+    "wof:name":"Dovi-Dizigo",
+    "wof:parent_id":1108758937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.37413,
+    7.1614,
+    2.37413,
+    7.1614
+],
+  "geometry": {"coordinates":[2.37413,7.1614],"type":"Point"}
+}

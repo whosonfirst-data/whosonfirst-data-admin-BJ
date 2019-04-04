@@ -1,0 +1,71 @@
+{
+  "id": 1293874363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.11359,10.71377,1.11359,10.71377",
+    "geom:latitude":10.71377,
+    "geom:longitude":1.11359,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pondissari",
+    "gn:country_code":"BJ",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392092,
+    "gn:latitude":10.71377,
+    "gn:longitude":1.11359,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Pondissari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pendissari",
+        "Pondissari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392092
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c1c07c385c8ed3cdd7c6e72f9cb1b7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1293874363,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1293874363,
+    "wof:lastmodified":1537587852,
+    "wof:name":"Pondissari",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.11359,
+    10.71377,
+    1.11359,
+    10.71377
+],
+  "geometry": {"coordinates":[1.11359,10.71377],"type":"Point"}
+}

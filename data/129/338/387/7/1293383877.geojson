@@ -1,0 +1,67 @@
+{
+  "id": 1293383877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.7385,10.51135,2.7385,10.51135",
+    "geom:latitude":10.51135,
+    "geom:longitude":2.7385,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kongou",
+    "gn:country_code":"BJ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393370,
+    "gn:latitude":10.51135,
+    "gn:longitude":2.7385,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kongou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393370
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"402a4b8d2fbd72f088c1f326673393ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758979,
+            "locality_id":1293383877,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1293383877,
+    "wof:lastmodified":1536937155,
+    "wof:name":"Kongou",
+    "wof:parent_id":1108758979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.7385,
+    10.51135,
+    2.7385,
+    10.51135
+],
+  "geometry": {"coordinates":[2.7385,10.51135],"type":"Point"}
+}

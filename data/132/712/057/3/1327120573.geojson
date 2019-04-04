@@ -1,0 +1,72 @@
+{
+  "id": 1327120573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.63333,9.66667,1.63333,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":1.63333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Passar",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392191,
+    "gn:latitude":9.66667,
+    "gn:longitude":1.63333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Passar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sapaga",
+        "Passar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392191
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f7381977020a7bdbdea16342bce43041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1327120573,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1327120573,
+    "wof:lastmodified":1537587853,
+    "wof:name":"Passar",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.63333,
+    9.66667,
+    1.63333,
+    9.66667
+],
+  "geometry": {"coordinates":[1.63333,9.66667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293763071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.89019,9.50689,1.89019,9.50689",
+    "geom:latitude":9.50689,
+    "geom:longitude":1.89019,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sangbanga",
+    "gn:country_code":"BJ",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391965,
+    "gn:latitude":9.50689,
+    "gn:longitude":1.89019,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Sangbanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangbaga",
+        "Sangbanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391965
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"69c6afdb44a6e4296e70aa1c050c6004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1293763071,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1293763071,
+    "wof:lastmodified":1537587851,
+    "wof:name":"Sangbanga",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.89019,
+    9.50689,
+    1.89019,
+    9.50689
+],
+  "geometry": {"coordinates":[1.89019,9.50689],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310690235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.43249,9.3755,2.43249,9.3755",
+    "geom:latitude":9.3755,
+    "geom:longitude":2.43249,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bissira",
+    "gn:country_code":"BJ",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395076,
+    "gn:latitude":9.3755,
+    "gn:longitude":2.43249,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Bissira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395076
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a2b3a509af49991ce0ee397c4fc6d30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758837,
+            "locality_id":1310690235,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1310690235,
+    "wof:lastmodified":1536650193,
+    "wof:name":"Bissira",
+    "wof:parent_id":1108758837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.43249,
+    9.3755,
+    2.43249,
+    9.3755
+],
+  "geometry": {"coordinates":[2.43249,9.3755],"type":"Point"}
+}

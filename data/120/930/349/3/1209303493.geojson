@@ -1,0 +1,65 @@
+{
+  "id": 1209303493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.45959,10.32808,3.45959,10.32808",
+    "geom:latitude":10.32808,
+    "geom:longitude":3.45959,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lou",
+    "gn:country_code":"BJ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392880,
+    "gn:latitude":10.32808,
+    "gn:longitude":3.45959,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu",
+        "Lou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392880
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8a3dfb7f8054cd0616c6898b22841c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209303493
+        }
+    ],
+    "wof:id":1209303493,
+    "wof:lastmodified":1537587859,
+    "wof:name":"Lou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.45959,
+    10.32808,
+    3.45959,
+    10.32808
+],
+  "geometry": {"coordinates":[3.45959,10.32808],"type":"Point"}
+}

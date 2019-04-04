@@ -1,0 +1,67 @@
+{
+  "id": 1293477951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.64285,8.40571,1.64285,8.40571",
+    "geom:latitude":8.40571,
+    "geom:longitude":1.64285,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Faimbe",
+    "gn:country_code":"BJ",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394408,
+    "gn:latitude":8.40571,
+    "gn:longitude":1.64285,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Fa\u00efmb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394408
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ca5c748d81cbcb66d3fc86468176dafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758839,
+            "locality_id":1293477951,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1293477951,
+    "wof:lastmodified":1536800896,
+    "wof:name":"Faimbe",
+    "wof:parent_id":1108758839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.64285,
+    8.40571,
+    1.64285,
+    8.40571
+],
+  "geometry": {"coordinates":[1.64285,8.40571],"type":"Point"}
+}

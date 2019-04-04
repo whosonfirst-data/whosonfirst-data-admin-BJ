@@ -1,0 +1,72 @@
+{
+  "id": 1243385017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.06324,12.1614,3.06324,12.1614",
+    "geom:latitude":12.1614,
+    "geom:longitude":3.06324,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kompanti",
+    "gn:country_code":"BJ",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393389,
+    "gn:latitude":12.1614,
+    "gn:longitude":3.06324,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kompanti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompatie",
+        "Kompatje",
+        "Kompanti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393389
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c007c78e37b83664c54c56443c380cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758955,
+            "locality_id":1243385017,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1243385017,
+    "wof:lastmodified":1537587863,
+    "wof:name":"Kompanti",
+    "wof:parent_id":1108758955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.06324,
+    12.1614,
+    3.06324,
+    12.1614
+],
+  "geometry": {"coordinates":[3.06324,12.1614],"type":"Point"}
+}

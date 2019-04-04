@@ -1,0 +1,61 @@
+{
+  "id": 1209504075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1026,9.51337,3.1026,9.51337",
+    "geom:latitude":9.51337,
+    "geom:longitude":3.1026,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tokounkparo",
+    "gn:country_code":"BJ",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391135,
+    "gn:latitude":9.51337,
+    "gn:longitude":3.1026,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tokounkparo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391135
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"20821d8c6d86923ec9755c90a94977d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209504075
+        }
+    ],
+    "wof:id":1209504075,
+    "wof:lastmodified":1536285089,
+    "wof:name":"Tokounkparo",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1026,
+    9.51337,
+    3.1026,
+    9.51337
+],
+  "geometry": {"coordinates":[3.1026,9.51337],"type":"Point"}
+}

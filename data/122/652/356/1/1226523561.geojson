@@ -1,0 +1,67 @@
+{
+  "id": 1226523561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.58715,8.45972,2.58715,8.45972",
+    "geom:latitude":8.45972,
+    "geom:longitude":2.58715,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Agborro",
+    "gn:country_code":"BJ",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395789,
+    "gn:latitude":8.45972,
+    "gn:longitude":2.58715,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Agborro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395789
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a68191c660f6b10753217fa6e728df55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758961,
+            "locality_id":1226523561,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1226523561,
+    "wof:lastmodified":1537028831,
+    "wof:name":"Agborro",
+    "wof:parent_id":1108758961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.58715,
+    8.45972,
+    2.58715,
+    8.45972
+],
+  "geometry": {"coordinates":[2.58715,8.45972],"type":"Point"}
+}

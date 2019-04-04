@@ -1,0 +1,61 @@
+{
+  "id": 1209609499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.91481,11.16785,2.91481,11.16785",
+    "geom:latitude":11.16785,
+    "geom:longitude":2.91481,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dodokpane",
+    "gn:country_code":"BJ",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394554,
+    "gn:latitude":11.16785,
+    "gn:longitude":2.91481,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dodokpan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394554
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"57b18dfaa1c4addec650019f1f0c8b31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209609499
+        }
+    ],
+    "wof:id":1209609499,
+    "wof:lastmodified":1536281895,
+    "wof:name":"Dodokpane",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.91481,
+    11.16785,
+    2.91481,
+    11.16785
+],
+  "geometry": {"coordinates":[2.91481,11.16785],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326916567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.77549,9.48615,1.77549,9.48615",
+    "geom:latitude":9.48615,
+    "geom:longitude":1.77549,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sesse",
+    "gn:country_code":"BJ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391791,
+    "gn:latitude":9.48615,
+    "gn:longitude":1.77549,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"S\u00e9ss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sece",
+        "Serser",
+        "S\u00e9ss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391791
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"07cb533e436313188bfd4550041b1f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1326916567,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1326916567,
+    "wof:lastmodified":1537587849,
+    "wof:name":"Sesse",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.77549,
+    9.48615,
+    1.77549,
+    9.48615
+],
+  "geometry": {"coordinates":[1.77549,9.48615],"type":"Point"}
+}

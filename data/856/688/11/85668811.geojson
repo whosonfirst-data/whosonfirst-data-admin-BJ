@@ -1,0 +1,318 @@
+{
+  "id": 85668811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00472,
+    "geom:area_square_m":58002012.749697,
+    "geom:bbox":"2.35985340391,6.33640142509,2.48395221103,6.39583730705",
+    "geom:latitude":6.363618,
+    "geom:longitude":2.424064,
+    "gn:population":690584,
+    "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Littoral Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
+    "lbl:latitude":6.366549,
+    "lbl:longitude":2.425245,
+    "mps:latitude":6.366549,
+    "mps:longitude":2.425245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0633\u0627\u062d\u0644\u064a\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u099f\u09cd\u099f\u09cb\u09b0\u09be\u09b2 \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bre_x_preferred":[
+        "Littoral"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0442\u043e\u0440\u0430\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Littoral"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ff1\u6d77\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Littoral"
+    ],
+    "name:dut_x_preferred":[
+        "Littoral"
+    ],
+    "name:eng_x_preferred":[
+        "Littoral Department"
+    ],
+    "name:eng_x_variant":[
+        "Littoral"
+    ],
+    "name:fin_x_preferred":[
+        "Littoralin departmentti"
+    ],
+    "name:fra_x_preferred":[
+        "Littoral"
+    ],
+    "name:fre_x_preferred":[
+        "Littoral"
+    ],
+    "name:ger_x_preferred":[
+        "Littoral"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03af\u03c4\u03c4\u03bf\u03c1\u03b1\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abf\u0a9f\u0acb\u0ab0\u0ab2 \u0ab5\u0abf\u0aad\u0abe\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u091f\u094b\u0930\u0932 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Littoral"
+    ],
+    "name:ind_x_preferred":[
+        "Departemen Littoral"
+    ],
+    "name:ita_x_preferred":[
+        "Dipartimento del Litorale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30c8\u30e9\u30eb\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbf\u0c9f\u0cca\u0cb0\u0cb2\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ud1a0\ub784 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Litor\u0101lais departaments"
+    ],
+    "name:lit_x_preferred":[
+        "Pakrant\u0117s departamentas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093f\u091f\u094d\u091f\u094b\u0930\u0945\u0932 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Littoral Department"
+    ],
+    "name:nob_x_preferred":[
+        "Littoral"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u06cc\u062a\u0648\u0631\u0627\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Departament Littoral"
+    ],
+    "name:por_x_preferred":[
+        "Littoral"
+    ],
+    "name:ron_x_preferred":[
+        "Departamentul Littoral"
+    ],
+    "name:rum_x_preferred":[
+        "Departamentul Littoral"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u043e\u0440\u0430\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Littoral Depairtment"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd2\u0da7\u0dca\u0da7\u0ddc\u0dbb\u0dbd\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Littoral"
+    ],
+    "name:swe_x_preferred":[
+        "Littoral"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb3\u0bbf\u0b9f\u0bcd\u0b9f\u0bcb\u0bb0\u0bb2\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3f\u0c1f\u0c4d\u0c1f\u0c4b\u0c30\u0c32\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041b\u0438\u0442\u0442\u043e\u0440\u0430\u043b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e34\u0e17\u0e42\u0e17\u0e25\u0e2d\u0e25 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Littoral Departman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u041b\u0456\u0442\u043e\u0440\u0430\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "D\u00e9partement du Littoral"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u062a\u0648\u0631\u0627\u0644 \u0645\u062d\u06a9\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Littoral"
+    ],
+    "name:yor_x_preferred":[
+        "Ap\u00e1 Littoral"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ff1\u6d77\u7701"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BEN",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BEN-2175",
+    "ne:adm1_code":"BEN-2175",
+    "ne:admin":"Benin",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"BJ.LI",
+    "ne:code_local":"",
+    "ne:datarank":"6",
+    "ne:diss_me":"2175",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BN14",
+    "ne:fips_alt":"BN02",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Benin",
+    "ne:gn_a1_code":"BJ.14",
+    "ne:gn_id":"2597275",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Littoral",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BN14",
+    "ne:gns_id":"9145897",
+    "ne:gns_lang":"slv",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Littoral, Departement du",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BEN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BJ-",
+    "ne:iso_a2":"BJ",
+    "ne:labelrank":"7",
+    "ne:latitude":"6.36623000000",
+    "ne:longitude":"2.42192000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Littoral",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"LI",
+    "ne:provnum_ne":"3",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"BEN",
+    "ne:sub_code":"",
+    "ne:type":"D\u00e9partement",
+    "ne:type_en":"Department",
+    "ne:wikipedia":"",
+    "ne:woe_id":55967673,
+    "ne:woe_label":"Littoral, BJ, Benin",
+    "ne:woe_name":"Littoral",
+    "qs:a0":"Benin",
+    "qs:a0_lc":"BJ",
+    "qs:a1":"Littoral",
+    "qs:a1_lc":"BEN-2175",
+    "qs:adm0":"Benin",
+    "qs:adm0_a3":"BEN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Department",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-02-11",
+    "statoids:area_km":"79",
+    "statoids:area_mi":"31",
+    "statoids:as_of_date":"2002-02-11",
+    "statoids:capital":"Cotonou",
+    "statoids:country":"BJ",
+    "statoids:gec":"BN14",
+    "statoids:hasc":"BJ.LI",
+    "statoids:iso":"LI",
+    "statoids:name":"Littoral",
+    "statoids:population":"665100",
+    "statoids:timezone":"+1",
+    "statoids:type":"department",
+    "unlc:subdivision":"BJ-LI",
+    "wof:belongsto":[
+        102191573,
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BN14",
+        "gn:id":2597275,
+        "gp:id":55967673,
+        "hasc:id":"BJ.LI",
+        "iso:id":"BJ-LI",
+        "qs:id":224308,
+        "unlc:id":"BJ-LI",
+        "wd:id":"Q29158",
+        "wk:page":"Littoral Department"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3ea9a623abe0dde3067d349329b410ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "region_id":85668811
+        }
+    ],
+    "wof:id":85668811,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553814710,
+    "wof:name":"Littoral",
+    "wof:parent_id":85632247,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"department",
+    "wof:population":665100,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:shortcode":"LI",
+    "wof:subdivision":"BJ-LI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.35985340391153,
+    6.33640142508574,
+    2.48395221102578,
+    6.39583730704612
+],
+  "geometry": {"coordinates":[[[2.48395221102578,6.34793216633648],[2.35985340391153,6.33640142508574],[2.36903405118056,6.36085236194697],[2.38148807061799,6.37271210398046],[2.39916141077055,6.38413259554289],[2.42040042523951,6.39002370892706],[2.46758100825696,6.39583730704612],[2.46433012363633,6.37516005409327],[2.47189017009532,6.36873401496285],[2.47680419975404,6.3679780097774],[2.48171823031214,6.36495399173339],[2.48395221102578,6.34793216633648]]],"type":"Polygon"}
+}

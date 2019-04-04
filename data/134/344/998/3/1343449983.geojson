@@ -1,0 +1,67 @@
+{
+  "id": 1343449983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.94393,9.84646,2.94393,9.84646",
+    "geom:latitude":9.84646,
+    "geom:longitude":2.94393,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kouboure",
+    "gn:country_code":"BJ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393268,
+    "gn:latitude":9.84646,
+    "gn:longitude":2.94393,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Koubour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393268
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ed6d0d3333631299e4bcdf7a40ac5cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":1343449983,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1343449983,
+    "wof:lastmodified":1536761608,
+    "wof:name":"Kouboure",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.94393,
+    9.84646,
+    2.94393,
+    9.84646
+],
+  "geometry": {"coordinates":[2.94393,9.84646],"type":"Point"}
+}

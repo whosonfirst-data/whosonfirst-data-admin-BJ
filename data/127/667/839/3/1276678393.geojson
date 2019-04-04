@@ -1,0 +1,73 @@
+{
+  "id": 1276678393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.95466,10.87459,0.95466,10.87459",
+    "geom:latitude":10.87459,
+    "geom:longitude":0.95466,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Semehoun-Nanbouli",
+    "gn:country_code":"BJ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391831,
+    "gn:latitude":10.87459,
+    "gn:longitude":0.95466,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"S\u00e9m\u00e9houn-Nanbouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nambouti",
+        "Nambouli",
+        "Namboul\u00e9",
+        "S\u00e9m\u00e9houn-Nanbouli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391831
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"07e15e063a8dbe5047f7cd9ffc87442e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1276678393,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276678393,
+    "wof:lastmodified":1537587849,
+    "wof:name":"Semehoun-Nanbouli",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.95466,
+    10.87459,
+    0.95466,
+    10.87459
+],
+  "geometry": {"coordinates":[0.95466,10.87459],"type":"Point"}
+}

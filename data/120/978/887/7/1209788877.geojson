@@ -1,0 +1,71 @@
+{
+  "id": 1209788877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.95969,6.36687,1.95969,6.36687",
+    "geom:latitude":6.36687,
+    "geom:longitude":1.95969,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nazoume",
+    "gn:country_code":"BJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392598,
+    "gn:latitude":6.36687,
+    "gn:longitude":1.95969,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Nazoum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazeme",
+        "Nazoum\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421195933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392598
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"08f71c91d42e979c7c5615ea04ae9b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421195933,
+            "locality_id":1209788877,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1209788877,
+    "wof:lastmodified":1537587856,
+    "wof:name":"Nazoume",
+    "wof:parent_id":421195933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.95969,
+    6.36687,
+    1.95969,
+    6.36687
+],
+  "geometry": {"coordinates":[1.95969,6.36687],"type":"Point"}
+}

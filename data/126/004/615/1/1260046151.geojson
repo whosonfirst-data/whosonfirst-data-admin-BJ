@@ -1,0 +1,71 @@
+{
+  "id": 1260046151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.11755,7.06725,2.11755,7.06725",
+    "geom:latitude":7.06725,
+    "geom:longitude":2.11755,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Zogbodome",
+    "gn:country_code":"BJ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390727,
+    "gn:latitude":7.06725,
+    "gn:longitude":2.11755,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Zogbodom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zobodom\u00e9",
+        "Zogbodom\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390727
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cba23ff3e0d1444bb50edb4281ba750d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758939,
+            "locality_id":1260046151,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1260046151,
+    "wof:lastmodified":1537587839,
+    "wof:name":"Zogbodome",
+    "wof:parent_id":1108758939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.11755,
+    7.06725,
+    2.11755,
+    7.06725
+],
+  "geometry": {"coordinates":[2.11755,7.06725],"type":"Point"}
+}

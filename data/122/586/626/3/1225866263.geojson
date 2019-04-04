@@ -1,0 +1,67 @@
+{
+  "id": 1225866263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.42247,11.36518,2.42247,11.36518",
+    "geom:latitude":11.36518,
+    "geom:longitude":2.42247,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Soborogou",
+    "gn:country_code":"BJ",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391694,
+    "gn:latitude":11.36518,
+    "gn:longitude":2.42247,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Soborogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391694
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"79549f48888f095381016e381c01137f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":1225866263,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1225866263,
+    "wof:lastmodified":1536983410,
+    "wof:name":"Soborogou",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.42247,
+    11.36518,
+    2.42247,
+    11.36518
+],
+  "geometry": {"coordinates":[2.42247,11.36518],"type":"Point"}
+}

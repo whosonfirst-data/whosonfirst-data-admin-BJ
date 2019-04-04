@@ -1,0 +1,76 @@
+{
+  "id": 1327425713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.84535,10.87147,2.84535,10.87147",
+    "geom:latitude":10.87147,
+    "geom:longitude":2.84535,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"10344469.0",
+    "gn:admin3_code":"11789996.0",
+    "gn:asciiname":"Gounarou",
+    "gn:country_code":"BJ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393988,
+    "gn:latitude":10.87147,
+    "gn:longitude":2.84535,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Gounarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gononou",
+        "Gunaru",
+        "Goumarou",
+        "Gounarou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393988,
+        "wk:page":"Gounarou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3f0de954e5ed6181c7a3c9fae461a219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1327425713,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1327425713,
+    "wof:lastmodified":1537587868,
+    "wof:name":"Gounarou",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.84535,
+    10.87147,
+    2.84535,
+    10.87147
+],
+  "geometry": {"coordinates":[2.84535,10.87147],"type":"Point"}
+}

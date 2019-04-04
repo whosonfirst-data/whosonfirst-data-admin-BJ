@@ -1,0 +1,67 @@
+{
+  "id": 1226631867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.9791,10.82132,0.9791,10.82132",
+    "geom:latitude":10.82132,
+    "geom:longitude":0.9791,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koussega",
+    "gn:country_code":"BJ",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393132,
+    "gn:latitude":10.82132,
+    "gn:longitude":0.9791,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kouss\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393132
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"fb53fb62b606f05da5fc89c414c9ab25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1226631867,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226631867,
+    "wof:lastmodified":1536878695,
+    "wof:name":"Koussega",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.9791,
+    10.82132,
+    0.9791,
+    10.82132
+],
+  "geometry": {"coordinates":[0.9791,10.82132],"type":"Point"}
+}

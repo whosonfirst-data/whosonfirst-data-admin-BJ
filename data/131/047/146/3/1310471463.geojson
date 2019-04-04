@@ -1,0 +1,67 @@
+{
+  "id": 1310471463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.45041,6.56173,2.45041,6.56173",
+    "geom:latitude":6.56173,
+    "geom:longitude":2.45041,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dekin-Hounhoue",
+    "gn:country_code":"BJ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394679,
+    "gn:latitude":6.56173,
+    "gn:longitude":2.45041,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"D\u00e9kin-Hounhou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394679
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2ef52f3dd8fd20de98b849266821a189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758909,
+            "locality_id":1310471463,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1310471463,
+    "wof:lastmodified":1536965876,
+    "wof:name":"Dekin-Hounhoue",
+    "wof:parent_id":1108758909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.45041,
+    6.56173,
+    2.45041,
+    6.56173
+],
+  "geometry": {"coordinates":[2.45041,6.56173],"type":"Point"}
+}

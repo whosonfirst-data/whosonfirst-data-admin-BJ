@@ -1,0 +1,71 @@
+{
+  "id": 1225833079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.60371,8.20502,2.60371,8.20502",
+    "geom:latitude":8.20502,
+    "geom:longitude":2.60371,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Moteo",
+    "gn:country_code":"BJ",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392695,
+    "gn:latitude":8.20502,
+    "gn:longitude":2.60371,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Mot\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mateo",
+        "Mot\u00e9o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668807,
+        1108758963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392695
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"152916492d98e0df6c1d9a35bccc059f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758963,
+            "locality_id":1225833079,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":1225833079,
+    "wof:lastmodified":1537587857,
+    "wof:name":"Moteo",
+    "wof:parent_id":1108758963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.60371,
+    8.20502,
+    2.60371,
+    8.20502
+],
+  "geometry": {"coordinates":[2.60371,8.20502],"type":"Point"}
+}

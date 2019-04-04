@@ -1,0 +1,73 @@
+{
+  "id": 1260259121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.38472,9.66167,1.38472,9.66167",
+    "geom:latitude":9.66167,
+    "geom:longitude":1.38472,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"7669263.0",
+    "gn:admin3_code":"11789953.0",
+    "gn:asciiname":"Ouake",
+    "gn:country_code":"BJ",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596746,
+    "gn:latitude":9.66167,
+    "gn:longitude":1.38472,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Ouak\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouak\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596746,
+        "wk:page":"Ouak%C3%A9"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ebc93b7bf5eb05f904fc7140d43eea4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1260259121,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1260259121,
+    "wof:lastmodified":1537587889,
+    "wof:name":"Ouake",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.38472,
+    9.66167,
+    1.38472,
+    9.66167
+],
+  "geometry": {"coordinates":[1.38472,9.66167],"type":"Point"}
+}

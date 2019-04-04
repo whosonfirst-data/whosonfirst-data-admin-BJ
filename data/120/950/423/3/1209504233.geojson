@@ -1,0 +1,61 @@
+{
+  "id": 1209504233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.37078,9.94605,3.37078,9.94605",
+    "geom:latitude":9.94605,
+    "geom:longitude":3.37078,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Fontabi",
+    "gn:country_code":"BJ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394344,
+    "gn:latitude":9.94605,
+    "gn:longitude":3.37078,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Fontabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394344
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"73377e6faebfa52af2666e87c7955fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209504233
+        }
+    ],
+    "wof:id":1209504233,
+    "wof:lastmodified":1536285085,
+    "wof:name":"Fontabi",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3707800000000003,
+    9.94605,
+    3.3707800000000003,
+    9.94605
+],
+  "geometry": {"coordinates":[3.37078,9.94605],"type":"Point"}
+}

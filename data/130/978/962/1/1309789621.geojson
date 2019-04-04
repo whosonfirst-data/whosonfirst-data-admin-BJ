@@ -1,0 +1,74 @@
+{
+  "id": 1309789621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.94123,9.90759,2.94123,9.90759",
+    "geom:latitude":9.90759,
+    "geom:longitude":2.94123,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"7669355.0",
+    "gn:admin3_code":"11789998.0",
+    "gn:asciiname":"Biro",
+    "gn:country_code":"BJ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395078,
+    "gn:latitude":9.90759,
+    "gn:longitude":2.94123,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"Biro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birou",
+        "Biro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395078,
+        "wk:page":"Biro%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"5c8629afacf133284e61145f6401f61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758943,
+            "locality_id":1309789621,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1309789621,
+    "wof:lastmodified":1537587879,
+    "wof:name":"Biro",
+    "wof:parent_id":1108758943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.94123,
+    9.90759,
+    2.94123,
+    9.90759
+],
+  "geometry": {"coordinates":[2.94123,9.90759],"type":"Point"}
+}

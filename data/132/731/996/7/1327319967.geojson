@@ -1,0 +1,67 @@
+{
+  "id": 1327319967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39045,9.77575,1.39045,9.77575",
+    "geom:latitude":9.77575,
+    "geom:longitude":1.39045,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kawado",
+    "gn:country_code":"BJ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393604,
+    "gn:latitude":9.77575,
+    "gn:longitude":1.39045,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kawado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393604
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1411b29377d377ccbf7bb7fd0f915c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758857,
+            "locality_id":1327319967,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1327319967,
+    "wof:lastmodified":1536842211,
+    "wof:name":"Kawado",
+    "wof:parent_id":1108758857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39045,
+    9.77575,
+    1.39045,
+    9.77575
+],
+  "geometry": {"coordinates":[1.39045,9.77575],"type":"Point"}
+}

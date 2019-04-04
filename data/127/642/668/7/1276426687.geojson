@@ -1,0 +1,69 @@
+{
+  "id": 1276426687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.40353,10.06908,1.40353,10.06908",
+    "geom:latitude":10.06908,
+    "geom:longitude":1.40353,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"7669273.0",
+    "gn:admin3_code":"11789901.0",
+    "gn:asciiname":"Tchoumi-Tchoumi",
+    "gn:country_code":"BJ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391345,
+    "gn:latitude":10.06908,
+    "gn:longitude":1.40353,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"Tchoumi-Tchoumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        421169231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391345
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"cd093458d3485e5dd5cb0307fb67ac1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169231,
+            "locality_id":1276426687,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276426687,
+    "wof:lastmodified":1536653538,
+    "wof:name":"Tchoumi-Tchoumi",
+    "wof:parent_id":421169231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.40353,
+    10.06908,
+    1.40353,
+    10.06908
+],
+  "geometry": {"coordinates":[1.40353,10.06908],"type":"Point"}
+}

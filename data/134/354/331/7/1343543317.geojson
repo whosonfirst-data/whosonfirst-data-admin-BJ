@@ -1,0 +1,67 @@
+{
+  "id": 1343543317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.59336,6.48699,2.59336,6.48699",
+    "geom:latitude":6.48699,
+    "geom:longitude":2.59336,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Adjacin",
+    "gn:country_code":"BJ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395888,
+    "gn:latitude":6.48699,
+    "gn:longitude":2.59336,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Adjacin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        421169223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395888
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8ab5a62210a111b9b9ca8c50e9430776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169223,
+            "locality_id":1343543317,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1343543317,
+    "wof:lastmodified":1536624758,
+    "wof:name":"Adjacin",
+    "wof:parent_id":421169223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.59336,
+    6.48699,
+    2.59336,
+    6.48699
+],
+  "geometry": {"coordinates":[2.59336,6.48699],"type":"Point"}
+}

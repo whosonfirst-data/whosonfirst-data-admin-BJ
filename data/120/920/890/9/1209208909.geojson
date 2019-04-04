@@ -1,0 +1,61 @@
+{
+  "id": 1209208909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.86346,10.25429,2.86346,10.25429",
+    "geom:latitude":10.25429,
+    "geom:longitude":2.86346,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gandokoussoukou",
+    "gn:country_code":"BJ",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394254,
+    "gn:latitude":10.25429,
+    "gn:longitude":2.86346,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gandokoussoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394254
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f85d7f486088567822bb0af9b3f4913d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209208909
+        }
+    ],
+    "wof:id":1209208909,
+    "wof:lastmodified":1536294356,
+    "wof:name":"Gandokoussoukou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.86346,
+    10.25429,
+    2.86346,
+    10.25429
+],
+  "geometry": {"coordinates":[2.86346,10.25429],"type":"Point"}
+}

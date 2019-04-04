@@ -1,0 +1,67 @@
+{
+  "id": 1225821203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.90093,7.27368,1.90093,7.27368",
+    "geom:latitude":7.27368,
+    "geom:longitude":1.90093,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Agonme",
+    "gn:country_code":"BJ",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395762,
+    "gn:latitude":7.27368,
+    "gn:longitude":1.90093,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Agonm\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395762
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3aeabf6b050bf49a8e78f7d7b0f6b882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1225821203,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1225821203,
+    "wof:lastmodified":1537047154,
+    "wof:name":"Agonme",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.90093,
+    7.27368,
+    1.90093,
+    7.27368
+],
+  "geometry": {"coordinates":[1.90093,7.27368],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226527827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01027,10.71465,1.01027,10.71465",
+    "geom:latitude":10.71465,
+    "geom:longitude":1.01027,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Daboka",
+    "gn:country_code":"BJ",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394806,
+    "gn:latitude":10.71465,
+    "gn:longitude":1.01027,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Daboka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394806
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"139c05ea0418d920eaa3838aa1824a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1226527827,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226527827,
+    "wof:lastmodified":1537022887,
+    "wof:name":"Daboka",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01027,
+    10.71465,
+    1.01027,
+    10.71465
+],
+  "geometry": {"coordinates":[1.01027,10.71465],"type":"Point"}
+}

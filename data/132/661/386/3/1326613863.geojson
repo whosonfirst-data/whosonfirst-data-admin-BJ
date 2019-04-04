@@ -1,0 +1,73 @@
+{
+  "id": 1326613863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.72094,9.8636,2.72094,9.8636",
+    "geom:latitude":9.8636,
+    "geom:longitude":2.72094,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"7669269.0",
+    "gn:asciiname":"Ndali",
+    "gn:country_code":"BJ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392595,
+    "gn:latitude":9.8636,
+    "gn:longitude":2.72094,
+    "gn:modification_date":"2018-04-10",
+    "gn:name":"Ndali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019dali",
+        "Ndali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392595,
+        "wk:page":"N%E2%80%99Dali"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"aeed4f16b2ffd48121eff5b3284d04e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758877,
+            "locality_id":1326613863,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1326613863,
+    "wof:lastmodified":1537587856,
+    "wof:name":"Ndali",
+    "wof:parent_id":1108758877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.72094,
+    9.8636,
+    2.72094,
+    9.8636
+],
+  "geometry": {"coordinates":[2.72094,9.8636],"type":"Point"}
+}

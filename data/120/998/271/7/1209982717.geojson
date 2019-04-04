@@ -1,0 +1,67 @@
+{
+  "id": 1209982717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.99481,7.12664,1.99481,7.12664",
+    "geom:latitude":7.12664,
+    "geom:longitude":1.99481,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Delli",
+    "gn:country_code":"BJ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394673,
+    "gn:latitude":7.12664,
+    "gn:longitude":1.99481,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Delli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394673
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3e083dd0c0bb8369ebf3acc48e7fd019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758949,
+            "locality_id":1209982717,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1209982717,
+    "wof:lastmodified":1536389995,
+    "wof:name":"Delli",
+    "wof:parent_id":1108758949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.99481,
+    7.12664,
+    1.99481,
+    7.12664
+],
+  "geometry": {"coordinates":[1.99481,7.12664],"type":"Point"}
+}

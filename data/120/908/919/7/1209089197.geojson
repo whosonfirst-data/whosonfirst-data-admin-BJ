@@ -1,0 +1,66 @@
+{
+  "id": 1209089197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.81667,6.66667,1.81667,6.66667",
+    "geom:latitude":6.66667,
+    "geom:longitude":1.81667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tehoukom",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391335,
+    "gn:latitude":6.66667,
+    "gn:longitude":1.81667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"T\u00e9houkom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e9noukanm\u00e9",
+        "T\u00e9houkom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391335
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8a00d42d44e5586a3463a35b2f9dfdd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209089197
+        }
+    ],
+    "wof:id":1209089197,
+    "wof:lastmodified":1537587845,
+    "wof:name":"Tehoukom",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.81667,
+    6.66667,
+    1.81667,
+    6.66667
+],
+  "geometry": {"coordinates":[1.81667,6.66667],"type":"Point"}
+}

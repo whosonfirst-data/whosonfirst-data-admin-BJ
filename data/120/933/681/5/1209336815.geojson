@@ -1,0 +1,61 @@
+{
+  "id": 1209336815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.08692,10.31203,1.08692,10.31203",
+    "geom:latitude":10.31203,
+    "geom:longitude":1.08692,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dipoko",
+    "gn:country_code":"BJ",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394609,
+    "gn:latitude":10.31203,
+    "gn:longitude":1.08692,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Dipoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394609
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a81dc6fa63bb2a85a74f8898c8fea2b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209336815
+        }
+    ],
+    "wof:id":1209336815,
+    "wof:lastmodified":1536290193,
+    "wof:name":"Dipoko",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.08692,
+    10.31203,
+    1.08692,
+    10.31203
+],
+  "geometry": {"coordinates":[1.08692,10.31203],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259865039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.29395,11.01226,3.29395,11.01226",
+    "geom:latitude":11.01226,
+    "geom:longitude":3.29395,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zondji",
+    "gn:country_code":"BJ",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390722,
+    "gn:latitude":11.01226,
+    "gn:longitude":3.29395,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Zondji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390722
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a654695c2a784b5852173895e709172e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758959,
+            "locality_id":1259865039,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1259865039,
+    "wof:lastmodified":1536805628,
+    "wof:name":"Zondji",
+    "wof:parent_id":1108758959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.29395,
+    11.01226,
+    3.29395,
+    11.01226
+],
+  "geometry": {"coordinates":[3.29395,11.01226],"type":"Point"}
+}

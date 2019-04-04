@@ -1,0 +1,66 @@
+{
+  "id": 1209200235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.31667,10.66667,1.31667,10.66667",
+    "geom:latitude":10.66667,
+    "geom:longitude":1.31667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nenebou",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392586,
+    "gn:latitude":10.66667,
+    "gn:longitude":1.31667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"N\u00e9n\u00e9bou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan\u00e9bou",
+        "N\u00e9n\u00e9bou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392586
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"1db0a3936401a4b989f6b3e941b4b519",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209200235
+        }
+    ],
+    "wof:id":1209200235,
+    "wof:lastmodified":1537587856,
+    "wof:name":"Nenebou",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.31667,
+    10.66667,
+    1.31667,
+    10.66667
+],
+  "geometry": {"coordinates":[1.31667,10.66667],"type":"Point"}
+}

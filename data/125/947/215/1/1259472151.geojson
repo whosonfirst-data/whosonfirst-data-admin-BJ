@@ -1,0 +1,70 @@
+{
+  "id": 1259472151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.43073,9.75362,2.43073,9.75362",
+    "geom:latitude":9.75362,
+    "geom:longitude":2.43073,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"7669269.0",
+    "gn:admin3_code":"11789896.0",
+    "gn:asciiname":"Bori",
+    "gn:country_code":"BJ",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394990,
+    "gn:latitude":9.75362,
+    "gn:longitude":2.43073,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"Bori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668803,
+        1108758877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394990,
+        "wk:page":"Bori%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"296bd9e2ebc2bbcc6aac70ccc2bdc0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758877,
+            "locality_id":1259472151,
+            "region_id":85668803
+        }
+    ],
+    "wof:id":1259472151,
+    "wof:lastmodified":1537487845,
+    "wof:name":"Bori",
+    "wof:parent_id":1108758877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.43073,
+    9.75362,
+    2.43073,
+    9.75362
+],
+  "geometry": {"coordinates":[2.43073,9.75362],"type":"Point"}
+}

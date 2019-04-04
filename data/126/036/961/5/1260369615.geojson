@@ -1,0 +1,71 @@
+{
+  "id": 1260369615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.53713,9.45226,1.53713,9.45226",
+    "geom:latitude":9.45226,
+    "geom:longitude":1.53713,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kaoute",
+    "gn:country_code":"BJ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393655,
+    "gn:latitude":9.45226,
+    "gn:longitude":1.53713,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kaout\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaout\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393655,
+        "wk:page":"Kaoute"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c8e19a6d861b2d84592f0d48aaeec83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1260369615,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1260369615,
+    "wof:lastmodified":1537587865,
+    "wof:name":"Kaoute",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.53713,
+    9.45226,
+    1.53713,
+    9.45226
+],
+  "geometry": {"coordinates":[1.53713,9.45226],"type":"Point"}
+}

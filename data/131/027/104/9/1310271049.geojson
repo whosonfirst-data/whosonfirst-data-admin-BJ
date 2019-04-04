@@ -1,0 +1,67 @@
+{
+  "id": 1310271049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.94461,7.17195,1.94461,7.17195",
+    "geom:latitude":7.17195,
+    "geom:longitude":1.94461,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gueguezogon",
+    "gn:country_code":"BJ",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393943,
+    "gn:latitude":7.17195,
+    "gn:longitude":1.94461,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gu\u00e9gu\u00e9zogon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393943
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"145099eef5ce36efeb1539d064f4ebf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758949,
+            "locality_id":1310271049,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1310271049,
+    "wof:lastmodified":1536757827,
+    "wof:name":"Gueguezogon",
+    "wof:parent_id":1108758949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.94461,
+    7.17195,
+    1.94461,
+    7.17195
+],
+  "geometry": {"coordinates":[1.94461,7.17195],"type":"Point"}
+}

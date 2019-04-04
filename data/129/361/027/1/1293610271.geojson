@@ -1,0 +1,73 @@
+{
+  "id": 1293610271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.77878,10.72015,2.77878,10.72015",
+    "geom:latitude":10.72015,
+    "geom:longitude":2.77878,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"10344469.0",
+    "gn:asciiname":"Sori",
+    "gn:country_code":"BJ",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391618,
+    "gn:latitude":10.72015,
+    "gn:longitude":2.77878,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Sori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sor",
+        "Sori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391618,
+        "wk:page":"Sori%2C_Benin"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8b66df63a11c90f900e7ad4c2671a861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758865,
+            "locality_id":1293610271,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293610271,
+    "wof:lastmodified":1537587847,
+    "wof:name":"Sori",
+    "wof:parent_id":1108758865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.77878,
+    10.72015,
+    2.77878,
+    10.72015
+],
+  "geometry": {"coordinates":[2.77878,10.72015],"type":"Point"}
+}

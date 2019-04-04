@@ -1,0 +1,69 @@
+{
+  "id": 1276323557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.1058,6.3861,2.1058,6.3861",
+    "geom:latitude":6.3861,
+    "geom:longitude":2.1058,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"7668936.0",
+    "gn:admin3_code":"11789955.0",
+    "gn:asciiname":"Ouakpe-Daho",
+    "gn:country_code":"BJ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205561,
+    "gn:latitude":6.3861,
+    "gn:longitude":2.1058,
+    "gn:modification_date":"2018-03-19",
+    "gn:name":"Ouakp\u00e9-Daho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421174729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205561
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"eb810c8b2dc6bd616f3a298d80ab1e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421174729,
+            "locality_id":1276323557,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1276323557,
+    "wof:lastmodified":1536792166,
+    "wof:name":"Ouakpe-Daho",
+    "wof:parent_id":421174729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1058,
+    6.3861,
+    2.1058,
+    6.3861
+],
+  "geometry": {"coordinates":[2.1058,6.3861],"type":"Point"}
+}

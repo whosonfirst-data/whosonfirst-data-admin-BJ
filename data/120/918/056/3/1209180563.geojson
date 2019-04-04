@@ -1,0 +1,61 @@
+{
+  "id": 1209180563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.95556,7.19652,1.95556,7.19652",
+    "geom:latitude":7.19652,
+    "geom:longitude":1.95556,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Allomakanme",
+    "gn:country_code":"BJ",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395630,
+    "gn:latitude":7.19652,
+    "gn:longitude":1.95556,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Allomakanm\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395630
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"83994a3526ce4f165f3d258c919ac054",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209180563
+        }
+    ],
+    "wof:id":1209180563,
+    "wof:lastmodified":1536295273,
+    "wof:name":"Allomakanme",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.95556,
+    7.19652,
+    1.95556,
+    7.19652
+],
+  "geometry": {"coordinates":[1.95556,7.19652],"type":"Point"}
+}

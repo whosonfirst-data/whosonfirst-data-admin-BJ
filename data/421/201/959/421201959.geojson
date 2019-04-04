@@ -1,0 +1,141 @@
+{
+  "id": 421201959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.82251,6.28036,1.82251,6.28036",
+    "geom:latitude":6.28036,
+    "geom:longitude":1.82251,
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:dut_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:eng_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0627\u0646\u062f \u067e\u0648\u067e\u0648\u060c \u0628\u0646\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:fre_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:ger_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:ita_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:lit_x_preferred":[
+        "Gran Popas"
+    ],
+    "name:may_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:msa_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:nld_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:per_x_preferred":[
+        "\u06af\u0631\u0627\u0646\u062f \u067e\u0648\u067e\u0648\u060c \u0628\u0646\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Grand Popo"
+    ],
+    "name:por_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:ron_x_preferred":[
+        "Grand Popo"
+    ],
+    "name:rum_x_preferred":[
+        "Grand Popo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d-\u041f\u043e\u043f\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:unk_x_variant":[
+        "Kpla"
+    ],
+    "qs:gn_country":"BJ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2393947,
+    "qs:gn_pop":9847,
+    "qs:name":"Grand-Popo",
+    "qs:name_adm0":"B\u00e9nin",
+    "qs:name_adm1":"Mono",
+    "qs:photos":81,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":81,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1352532,
+    "qs:woe_adm0":23424764,
+    "qs:woe_id":1267291,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        421177249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393947,
+        "gp:id":1267291,
+        "qs:id":1352532,
+        "wd:id":"Q1542478",
+        "wk:page":"Grand-Popo"
+    },
+    "wof:country":"BJ",
+    "wof:created":1459010098,
+    "wof:geomhash":"5ee1be91f7951d70e536f8ac27d74223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421177249,
+            "locality_id":421201959,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":421201959,
+    "wof:lastmodified":1513900076,
+    "wof:name":"Grand-Popo",
+    "wof:parent_id":421177249,
+    "wof:placetype":"locality",
+    "wof:population":9847,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.82251,
+    6.28036,
+    1.82251,
+    6.28036
+],
+  "geometry": {"coordinates":[1.82251,6.28036],"type":"Point"}
+}

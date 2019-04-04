@@ -1,0 +1,61 @@
+{
+  "id": 1209512281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.12837,10.17719,2.12837,10.17719",
+    "geom:latitude":10.17719,
+    "geom:longitude":2.12837,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Wassa-Tobre",
+    "gn:country_code":"BJ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390947,
+    "gn:latitude":10.17719,
+    "gn:longitude":2.12837,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Wassa-Tobr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390947
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"bfcdd6d0e43469242cc30dc42d0b0891",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209512281
+        }
+    ],
+    "wof:id":1209512281,
+    "wof:lastmodified":1536284844,
+    "wof:name":"Wassa-Tobre",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.12837,
+    10.17719,
+    2.12837,
+    10.17719
+],
+  "geometry": {"coordinates":[2.12837,10.17719],"type":"Point"}
+}

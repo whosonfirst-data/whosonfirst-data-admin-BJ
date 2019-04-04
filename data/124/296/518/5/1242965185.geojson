@@ -1,0 +1,67 @@
+{
+  "id": 1242965185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.69669,11.04778,2.69669,11.04778",
+    "geom:latitude":11.04778,
+    "geom:longitude":2.69669,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gokirou",
+    "gn:country_code":"BJ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394080,
+    "gn:latitude":11.04778,
+    "gn:longitude":2.69669,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Gokirou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394080
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"af32a265d7d3c375152a86db2946fd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758975,
+            "locality_id":1242965185,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1242965185,
+    "wof:lastmodified":1537001701,
+    "wof:name":"Gokirou",
+    "wof:parent_id":1108758975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.69669,
+    11.04778,
+    2.69669,
+    11.04778
+],
+  "geometry": {"coordinates":[2.69669,11.04778],"type":"Point"}
+}

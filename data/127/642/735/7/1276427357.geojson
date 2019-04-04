@@ -1,0 +1,71 @@
+{
+  "id": 1276427357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.53333,9.33333,1.53333,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":1.53333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kemetou Alidjo",
+    "gn:country_code":"BJ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393581,
+    "gn:latitude":9.33333,
+    "gn:longitude":1.53333,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"K\u00e9m\u00e9tou Alidjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9m\u00e9tou Alidjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393581,
+        "wk:page":"Kemetou_Alidjo"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"bb6a476fa13e82d202838b13c63fda8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758847,
+            "locality_id":1276427357,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1276427357,
+    "wof:lastmodified":1537587864,
+    "wof:name":"Kemetou Alidjo",
+    "wof:parent_id":1108758847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.53333,
+    9.33333,
+    1.53333,
+    9.33333
+],
+  "geometry": {"coordinates":[1.53333,9.33333],"type":"Point"}
+}

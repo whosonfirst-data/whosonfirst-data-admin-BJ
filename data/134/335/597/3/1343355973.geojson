@@ -1,0 +1,75 @@
+{
+  "id": 1343355973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.15365,10.98539,3.15365,10.98539",
+    "geom:latitude":10.98539,
+    "geom:longitude":3.15365,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7911056.0",
+    "gn:admin3_code":"11790273.0",
+    "gn:asciiname":"Bensakou",
+    "gn:country_code":"BJ",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395167,
+    "gn:latitude":10.98539,
+    "gn:longitude":3.15365,
+    "gn:modification_date":"2018-02-26",
+    "gn:name":"B\u00e9nsakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binsakou",
+        "Bens\u00e9kou",
+        "B\u00e9nsakou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395167,
+        "wk:page":"Bens%C3%A9kou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2b6da1401d13f8970f195244f8294cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758975,
+            "locality_id":1343355973,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1343355973,
+    "wof:lastmodified":1537587880,
+    "wof:name":"Bensakou",
+    "wof:parent_id":1108758975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.15365,
+    10.98539,
+    3.15365,
+    10.98539
+],
+  "geometry": {"coordinates":[3.15365,10.98539],"type":"Point"}
+}

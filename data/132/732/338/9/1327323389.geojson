@@ -1,0 +1,71 @@
+{
+  "id": 1327323389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.16517,6.37941,2.16517,6.37941",
+    "geom:latitude":6.37941,
+    "geom:longitude":2.16517,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ahozon",
+    "gn:country_code":"BJ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395715,
+    "gn:latitude":6.37941,
+    "gn:longitude":2.16517,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ahozon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacrozon",
+        "Ahozon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668809,
+        421174729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395715
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a21e4e2b482958fda18828a50575d2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421174729,
+            "locality_id":1327323389,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":1327323389,
+    "wof:lastmodified":1537587886,
+    "wof:name":"Ahozon",
+    "wof:parent_id":421174729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.16517,
+    6.37941,
+    2.16517,
+    6.37941
+],
+  "geometry": {"coordinates":[2.16517,6.37941],"type":"Point"}
+}

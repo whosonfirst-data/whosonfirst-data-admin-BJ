@@ -1,0 +1,74 @@
+{
+  "id": 1226219573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.86667,6.85,1.86667,6.85",
+    "geom:latitude":6.85,
+    "geom:longitude":1.86667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kaihoue",
+    "gn:cc2":"BJ",
+    "gn:country_code":"BJ",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393742,
+    "gn:latitude":6.85,
+    "gn:longitude":1.86667,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ka\u00efhou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u00ef",
+        "Kau",
+        "Ka\u00efi",
+        "Ka\u00efhou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393742
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"28e3a068a8bae6f562ff8c5a6d599560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758885,
+            "locality_id":1226219573,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1226219573,
+    "wof:lastmodified":1537587866,
+    "wof:name":"Kaihoue",
+    "wof:parent_id":1108758885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.86667,
+    6.85,
+    1.86667,
+    6.85
+],
+  "geometry": {"coordinates":[1.86667,6.85],"type":"Point"}
+}

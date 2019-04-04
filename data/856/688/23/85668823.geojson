@@ -1,0 +1,309 @@
+{
+  "id": 85668823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.141187,
+    "geom:area_square_m":1734498080.361275,
+    "geom:bbox":"1.5660331635,6.21389923206,2.02362877815,6.74700450316",
+    "geom:latitude":6.522928,
+    "geom:longitude":1.827585,
+    "gn:population":380078,
+    "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Mono Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "department"
+    ],
+    "lbl:latitude":6.552107,
+    "lbl:longitude":1.843185,
+    "mps:latitude":6.552107,
+    "mps:longitude":1.843185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0625\u062f\u0627\u0631\u0629 \u0645\u0648\u0646\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09a8\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bre_x_preferred":[
+        "Mono"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Mono"
+    ],
+    "name:chi_x_preferred":[
+        "\u83ab\u8afe\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Mono"
+    ],
+    "name:dut_x_preferred":[
+        "Mono"
+    ],
+    "name:eng_x_preferred":[
+        "Mono Department"
+    ],
+    "name:eng_x_variant":[
+        "Mono"
+    ],
+    "name:fin_x_preferred":[
+        "Monon depatermentti"
+    ],
+    "name:fra_x_preferred":[
+        "Mono"
+    ],
+    "name:fre_x_preferred":[
+        "Mono"
+    ],
+    "name:ger_x_preferred":[
+        "Mono"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03cc\u03bd\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0aa8\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0928\u094b \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Mono"
+    ],
+    "name:ind_x_preferred":[
+        "Departemen Mono"
+    ],
+    "name:ita_x_preferred":[
+        "dipartimento di Mono"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30ce\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cca\u0ca8\u0cca \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub178 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Mono departaments"
+    ],
+    "name:lit_x_preferred":[
+        "Mono departamentas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094b\u0928\u094b \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Mono Department"
+    ],
+    "name:nob_x_preferred":[
+        "Mono"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0648\u0646\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Departament Mono"
+    ],
+    "name:por_x_preferred":[
+        "Mono"
+    ],
+    "name:rum_x_preferred":[
+        "Departamentul Mono"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0db1\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Mono"
+    ],
+    "name:swe_x_preferred":[
+        "Mono"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0ba9\u0bcb  \u0ba4\u0bc1\u0bb1\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4b\u0c28\u0c4b \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041c\u043e\u043d\u043e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e23\u0e21\u0e42\u0e21\u0e42\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Mono Departman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u041c\u043e\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "D\u00e9partement du Sud-Ouest"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0648 \u0645\u062d\u06a9\u0645\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Mono"
+    ],
+    "name:yor_x_preferred":[
+        "Ap\u00e1 Mono"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BEN",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BEN-2180",
+    "ne:adm1_code":"BEN-2180",
+    "ne:admin":"Benin",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"BJ.CF",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"2180",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BN15",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Benin",
+    "ne:gn_a1_code":"BJ.15",
+    "ne:gn_id":"2392716",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Mono",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BN15",
+    "ne:gns_id":"-1335092",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Mono, Departement du",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BEN",
+    "ne:hasc_maybe":"BJ.MO",
+    "ne:iso_3166_2":"BJ-",
+    "ne:iso_a2":"BJ",
+    "ne:labelrank":"7",
+    "ne:latitude":"6.48568000000",
+    "ne:longitude":"1.79465000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":2,
+    "ne:name":"Mono",
+    "ne:name_alt":"",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CF",
+    "ne:provnum_ne":"10",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"BEN",
+    "ne:sub_code":"",
+    "ne:type":"D\u00e9partement",
+    "ne:type_en":"Department",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344827,
+    "ne:woe_label":"Mono, BJ, Benin",
+    "ne:woe_name":"Mono",
+    "qs:a0":"Benin",
+    "qs:a0_lc":"BJ",
+    "qs:a1":"Mono",
+    "qs:a1_lc":"BEN-2180",
+    "qs:adm0":"Benin",
+    "qs:adm0_a3":"BEN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Department",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-02-11",
+    "statoids:area_km":"1,396",
+    "statoids:area_mi":"539",
+    "statoids:as_of_date":"2002-02-11",
+    "statoids:capital":"Lokossa",
+    "statoids:country":"BJ",
+    "statoids:gec":"BN15",
+    "statoids:hasc":"BJ.MO",
+    "statoids:iso":"MO",
+    "statoids:name":"Mono",
+    "statoids:population":"360037",
+    "statoids:timezone":"+1",
+    "statoids:type":"department",
+    "unlc:subdivision":"BJ-MO",
+    "wof:belongsto":[
+        102191573,
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BN15",
+        "gn:id":2392716,
+        "gp:id":2344827,
+        "hasc:id":"BJ.MO",
+        "iso:id":"BJ-MO",
+        "qs:id":1097025,
+        "unlc:id":"BJ-MO",
+        "wd:id":"Q29135",
+        "wk:page":"Mono Department"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6ed46b77bfa198c860f08412a4e5d137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":85668823,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553814710,
+    "wof:name":"Mono",
+    "wof:parent_id":85632247,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"department",
+    "wof:population":360037,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:shortcode":"MO",
+    "wof:subdivision":"BJ-MO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56603316349975,
+    6.21389923206397,
+    2.02362877814562,
+    6.74700450315532
+],
+  "geometry": {"coordinates":[[[2.02362877814562,6.70649017987796],[2.01820275185554,6.68065196411692],[2.01928795657398,6.66243602070585],[2.01742760639894,6.65163564676772],[2.01510216643186,6.64489187356116],[2.00688561397993,6.63667532020992],[2.00176964695169,6.63013825077968],[1.99417321122479,6.61789093691726],[1.99107262490179,6.60944184046861],[1.98983239055241,6.6001142439772],[1.99091759617016,6.57303579296752],[1.99432824085568,6.51647593841386],[1.99324303523792,6.49593455593504],[1.99045250817676,6.48397146201341],[1.98487145315511,6.46963125218059],[1.96296064601705,6.41322642725788],[1.95784467898881,6.39234914799482],[1.96094526531181,6.36147248047064],[1.97629316639655,6.33927745249247],[1.98487145315511,6.31320669183543],[1.98828209784057,6.29522329332036],[1.98771365705966,6.28659332881909],[1.9877088609752,6.28652051520965],[1.88453209687884,6.27480703351785],[1.61966249982453,6.21389923206397],[1.61243859836264,6.23476267525729],[1.63310917115137,6.24569224040459],[1.76157678224274,6.27602630646891],[1.78235070781898,6.27726654171755],[1.7635404861046,6.35064707570206],[1.74411014766525,6.42573293023059],[1.71837528469166,6.46699656144222],[1.70979699703383,6.47340444056255],[1.6882996010458,6.48443735849736],[1.6816850181491,6.4898375454664],[1.67951460781296,6.49857086185585],[1.68199507741093,6.52001658100045],[1.68075484216229,6.53006764790365],[1.67445031852742,6.53859425961741],[1.65781050624992,6.5522626749825],[1.65522668476376,6.55921315646202],[1.65388309852625,6.57065948554686],[1.64664839710588,6.57319163018963],[1.63682987419941,6.57226145420282],[1.62742476424154,6.57334666071989],[1.61956994609619,6.57799753885536],[1.61119836401332,6.58468963611784],[1.60334354676729,6.59259613020731],[1.59734908149494,6.60081268445788],[1.59414514148511,6.61104461761505],[1.59476525821015,6.62026886041963],[1.59652225739632,6.62864044340176],[1.59631555182131,6.63641774538269],[1.58536014825228,6.65644236302467],[1.57244103992213,6.66690684017857],[1.56603316349975,6.67814646548703],[1.57430139189574,6.70057403656261],[1.58918229033048,6.72046032858134],[1.5933708018211,6.71853078906469],[1.64799279093461,6.69246002930697],[1.66489098473119,6.69036713333657],[1.68675011592518,6.68997955970895],[1.78080122179898,6.71207123489961],[1.84394982262626,6.73519643796527],[1.89841678210888,6.74700450315532],[1.93179975765276,6.74568675444021],[1.96265058765454,6.73697927557316],[2.02362877814562,6.70649017987796]]],"type":"Polygon"}
+}

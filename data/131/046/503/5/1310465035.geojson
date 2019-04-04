@@ -1,0 +1,67 @@
+{
+  "id": 1310465035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.8,7.38333,1.8,7.38333",
+    "geom:latitude":7.38333,
+    "geom:longitude":1.8,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Assanganlingon",
+    "gn:country_code":"BJ",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395544,
+    "gn:latitude":7.38333,
+    "gn:longitude":1.8,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Assanganlingon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668819,
+        1108758927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395544
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"b9f8e1f8bd33efb463dd873d4f308993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758927,
+            "locality_id":1310465035,
+            "region_id":85668819
+        }
+    ],
+    "wof:id":1310465035,
+    "wof:lastmodified":1536974905,
+    "wof:name":"Assanganlingon",
+    "wof:parent_id":1108758927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8,
+    7.38333,
+    1.8,
+    7.38333
+],
+  "geometry": {"coordinates":[1.8,7.38333],"type":"Point"}
+}

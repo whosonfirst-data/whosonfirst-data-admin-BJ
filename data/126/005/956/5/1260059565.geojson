@@ -1,0 +1,73 @@
+{
+  "id": 1260059565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61293,9.43406,1.61293,9.43406",
+    "geom:latitude":9.43406,
+    "geom:longitude":1.61293,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"8260658.0",
+    "gn:admin3_code":"11790047.0",
+    "gn:asciiname":"Bougou",
+    "gn:country_code":"BJ",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394933,
+    "gn:latitude":9.43406,
+    "gn:longitude":1.61293,
+    "gn:modification_date":"2018-03-26",
+    "gn:name":"Bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piougou",
+        "Bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394933
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"da8da32661fc192ee83c16ecc1dabd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1260059565,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1260059565,
+    "wof:lastmodified":1537587877,
+    "wof:name":"Bougou",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61293,
+    9.43406,
+    1.61293,
+    9.43406
+],
+  "geometry": {"coordinates":[1.61293,9.43406],"type":"Point"}
+}

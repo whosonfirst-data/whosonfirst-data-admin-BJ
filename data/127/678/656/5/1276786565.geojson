@@ -1,0 +1,67 @@
+{
+  "id": 1276786565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.08081,10.20809,1.08081,10.20809",
+    "geom:latitude":10.20809,
+    "geom:longitude":1.08081,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kountchougou",
+    "gn:country_code":"BJ",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393169,
+    "gn:latitude":10.20809,
+    "gn:longitude":1.08081,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kountchougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393169
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a4161ab6d9df8abdfa8f7ccb899ff00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758859,
+            "locality_id":1276786565,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276786565,
+    "wof:lastmodified":1536668754,
+    "wof:name":"Kountchougou",
+    "wof:parent_id":1108758859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.08081,
+    10.20809,
+    1.08081,
+    10.20809
+],
+  "geometry": {"coordinates":[1.08081,10.20809],"type":"Point"}
+}

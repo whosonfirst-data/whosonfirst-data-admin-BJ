@@ -1,0 +1,67 @@
+{
+  "id": 1277070071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.45592,10.43553,1.45592,10.43553",
+    "geom:latitude":10.43553,
+    "geom:longitude":1.45592,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koupepergou",
+    "gn:country_code":"BJ",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393159,
+    "gn:latitude":10.43553,
+    "gn:longitude":1.45592,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Koupepergou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393159
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d69dcc89f5b9fd658f8315d98a0498ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":1277070071,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1277070071,
+    "wof:lastmodified":1536786378,
+    "wof:name":"Koupepergou",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.45592,
+    10.43553,
+    1.45592,
+    10.43553
+],
+  "geometry": {"coordinates":[1.45592,10.43553],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209600861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42202,10.01471,1.42202,10.01471",
+    "geom:latitude":10.01471,
+    "geom:longitude":1.42202,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sakasson",
+    "gn:country_code":"BJ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392013,
+    "gn:latitude":10.01471,
+    "gn:longitude":1.42202,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Sakasson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392013
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6742f044b02429c0de8d851cf4759e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632247,
+            "locality_id":1209600861
+        }
+    ],
+    "wof:id":1209600861,
+    "wof:lastmodified":1536282172,
+    "wof:name":"Sakasson",
+    "wof:parent_id":85632247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42202,
+    10.01471,
+    1.42202,
+    10.01471
+],
+  "geometry": {"coordinates":[1.42202,10.01471],"type":"Point"}
+}

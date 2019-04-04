@@ -1,0 +1,67 @@
+{
+  "id": 1276527319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.78073,9.86456,1.78073,9.86456",
+    "geom:latitude":9.86456,
+    "geom:longitude":1.78073,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tiwabera",
+    "gn:country_code":"BJ",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2391178,
+    "gn:latitude":9.86456,
+    "gn:longitude":1.78073,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Tiwab\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668827,
+        1108758889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391178
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"bc3adf0865c3f44045b6db18f0af15f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758889,
+            "locality_id":1276527319,
+            "region_id":85668827
+        }
+    ],
+    "wof:id":1276527319,
+    "wof:lastmodified":1537015415,
+    "wof:name":"Tiwabera",
+    "wof:parent_id":1108758889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.78073,
+    9.86456,
+    1.78073,
+    9.86456
+],
+  "geometry": {"coordinates":[1.78073,9.86456],"type":"Point"}
+}

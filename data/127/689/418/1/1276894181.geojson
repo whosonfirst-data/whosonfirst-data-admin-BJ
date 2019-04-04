@@ -1,0 +1,67 @@
+{
+  "id": 1276894181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98411,10.89977,0.98411,10.89977",
+    "geom:latitude":10.89977,
+    "geom:longitude":0.98411,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kotiari",
+    "gn:country_code":"BJ",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2393305,
+    "gn:latitude":10.89977,
+    "gn:longitude":0.98411,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Kotiari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2393305
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"f6f7ec6df6e91ecbbd96dd18c64b01dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":1276894181,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1276894181,
+    "wof:lastmodified":1537021116,
+    "wof:name":"Kotiari",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98411,
+    10.89977,
+    0.98411,
+    10.89977
+],
+  "geometry": {"coordinates":[0.98411,10.89977],"type":"Point"}
+}

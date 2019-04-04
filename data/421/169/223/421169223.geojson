@@ -1,0 +1,461 @@
+{
+  "id": 421169223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003984,
+    "geom:area_square_m":48950086.559724,
+    "geom:bbox":"2.58144051315,6.44464971646,2.66374856358,6.52664212376",
+    "geom:latitude":6.482035,
+    "geom:longitude":2.620369,
+    "iso:country":"BJ",
+    "lbl:latitude":6.485583,
+    "lbl:longitude":2.61547,
+    "meso:adm1_en":"Oueme",
+    "meso:dissme":"OuemePorto-Novo",
+    "meso:gadm_adm2":"Porto-Novo",
+    "meso:gadm_alt":"Porto Novo",
+    "meso:gadm_hasc":"BJ.OU.PN",
+    "meso:gaul_adm2":"Porto-novo",
+    "meso:mps_x":2.61547,
+    "meso:mps_y":6.485583,
+    "meso:name_en":"Porto-Novo",
+    "meso:source":"AOTM",
+    "mps:latitude":6.485583,
+    "mps:longitude":2.61547,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:alb_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:amh_x_preferred":[
+        "\u1356\u122d\u1276 \u1296\u126e"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062a\u0648 \u0646\u0648\u0641\u0648"
+    ],
+    "name:arm_x_preferred":[
+        "\u054a\u0578\u0580\u057f\u0578 \u0546\u0578\u057e\u0578"
+    ],
+    "name:ast_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0646\u0648\u0648\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:baq_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u0442\u0430-\u041d\u043e\u0432\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u09a4\u09cb \u09a8\u09ad\u09cb"
+    ],
+    "name:bos_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:bre_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e \u041d\u043e\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e-\u041d\u043e\u0432\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u591a\u8bfa\u4f0f"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u06c6\u0631\u062a\u06c6 \u0646\u06c6\u06a4\u06c6"
+    ],
+    "name:cor_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:cze_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:dan_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:dut_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:eng_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:epo_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:est_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:fin_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:fre_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:frp_x_preferred":[
+        "P\u00f4rto-Novo"
+    ],
+    "name:fry_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2\u10dd-\u10dc\u10dd\u10d5\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:gla_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:gle_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:glg_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03cc\u03c1\u03c4\u03bf-\u039d\u03cc\u03b2\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acb\u0ab0\u0acd\u0a9f\u0acb-\u0aa8\u0acb\u0ab5\u0acb"
+    ],
+    "name:hat_x_preferred":[
+        "P\u00f2to-Novo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8\u05d5 \u05e0\u05d5\u05d1\u05d5"
+    ],
+    "name:hif_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f\u094b-\u0928\u094b\u0935\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:hun_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:ice_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:ido_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:ile_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:ilo_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:ind_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:ita_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:jav_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30eb\u30c8\u30ce\u30dc"
+    ],
+    "name:kab_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0cca-\u0ca8\u0cca\u0cb5\u0cca"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e-\u041d\u043e\u0432\u043e"
+    ],
+    "name:kik_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e-\u041d\u043e\u0432\u043e"
+    ],
+    "name:kon_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub974\ud1a0\ub178\ubcf4"
+    ],
+    "name:kur_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:lat_x_preferred":[
+        "Portus Novus"
+    ],
+    "name:lav_x_preferred":[
+        "Portonovo"
+    ],
+    "name:lij_x_preferred":[
+        "P\u00f2rto Neuvo"
+    ],
+    "name:lit_x_preferred":[
+        "Porto Novas"
+    ],
+    "name:lmo_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:ltz_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:lug_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e \u041d\u043e\u0432\u043e"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u0924\u094b-\u0928\u094b\u0935\u094d\u0939\u094b"
+    ],
+    "name:may_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:mlg_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e-\u041d\u043e\u0432\u043e"
+    ],
+    "name:nah_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:nan_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:nau_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f\u094b \u0928\u094b\u092d\u094b"
+    ],
+    "name:nno_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:nob_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:nov_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:oci_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a4b\u0a30\u0a24\u0a4b-\u0a28\u0a4b\u0a35\u0a4b"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0646\u0648\u0648\u0648"
+    ],
+    "name:pms_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0648\u0631\u0679\u0648 \u0646\u0648\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:por_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:rum_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:rup_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e-\u041d\u043e\u0432\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddd\u0dbb\u0dca\u0da7\u0ddd-\u0db1\u0ddc\u0dc0\u0ddd"
+    ],
+    "name:slo_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:slv_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:sna_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:som_x_preferred":[
+        "Borto-Novo"
+    ],
+    "name:spa_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e \u041d\u043e\u0432\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:swe_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcb \u0ba8\u0bcb\u0bb5\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4b-\u0c28\u0c4b\u0c35\u0c4b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e-\u041d\u043e\u0432\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e2d\u0e23\u0e4c\u0e42\u0e15-\u0e42\u0e19\u0e42\u0e27"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f54\u0f7c\u0f62\u0f0b\u0f4a\u0f7c\u0f0b-\u0f53\u0f7c\u0f0b\u0f56\u0f7c\u0f0d"
+    ],
+    "name:tur_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:udm_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e-\u041d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043e-\u041d\u043e\u0432\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679\u0648 \u0646\u0648\u0648\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:vec_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:vep_x_preferred":[
+        "Porto Novo"
+    ],
+    "name:vie_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:vol_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:war_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:wel_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d8\u05d0\u05be\u05e0\u05d0\u05d5\u05d5\u05d0"
+    ],
+    "name:yor_x_preferred":[
+        "Porto-Novo"
+    ],
+    "name:yue_x_preferred":[
+        "\u6ce2\u5716\u5974\u57e0"
+    ],
+    "qs:gn_country":"BJ",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":7668939,
+    "qs:gn_pop":0,
+    "qs:name":"Porto-Novo",
+    "qs:name_adm0":"B\u00e9nin",
+    "qs:name_adm1":"Oueme",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":231,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1200744,
+    "qs:woe_adm0":23424764,
+    "qs:woe_id":55967746,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-02-11",
+    "statoids:area_km":"110",
+    "statoids:as_of_date":"2002-02-11",
+    "statoids:capital":"",
+    "statoids:country":"BJ",
+    "statoids:hasc":"BJ.OU",
+    "statoids:name":"Porto-Novo",
+    "statoids:population":"223552",
+    "statoids:statoid":"BJ.OU.PN",
+    "statoids:timezone":"1",
+    "statoids:type":"commune",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7668939,
+        "gp:id":55967746,
+        "hasc:id":"BJ.OU.PN",
+        "qs:id":1200744,
+        "wd:id":"Q3799"
+    },
+    "wof:country":"BJ",
+    "wof:created":1459008800,
+    "wof:geomhash":"c982a71624b6c930bd8837bb00552772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421169223,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":421169223,
+    "wof:lastmodified":1536615897,
+    "wof:name":"Porto-Novo",
+    "wof:parent_id":85668817,
+    "wof:placetype":"county",
+    "wof:placetype_local":"commune",
+    "wof:population":223552,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:shortcode":"PN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5814405131468,
+    6.44464971645601,
+    2.66374856358369,
+    6.52664212375612
+],
+  "geometry": {"coordinates":[[[2.61043668376186,6.52664212375612],[2.61847850031193,6.52019936023872],[2.62124709420286,6.51786076750166],[2.6229662219864,6.51633710045347],[2.62555098418853,6.51483240681734],[2.628499596713,6.51335988147202],[2.63046533839598,6.51237819790848],[2.63144820923746,6.5118873561267],[2.63249661251939,6.50930350789437],[2.63430954590728,6.50523375554568],[2.63619460826821,6.50289007450992],[2.63899272976254,6.50052631831001],[2.64206288338764,6.49758571481722],[2.64445129916135,6.49495902344299],[2.64595483616429,6.49314660429934],[2.64803049454424,6.49196933919682],[2.65047494527838,6.4910830921353],[2.65237542011513,6.48965978146693],[2.65410918465314,6.4867074610827],[2.65507105504942,6.48311344636987],[2.65518935898685,6.47997734123159],[2.65518408258998,6.47767424486374],[2.65621778780821,6.47464698433658],[2.65759454961756,6.47137484293327],[2.65834092435798,6.46910406280156],[2.6591280172684,6.4666464546569],[2.66003825874892,6.46452187063221],[2.66064182052646,6.46331875931935],[2.66160012659981,6.46157377688136],[2.66282934543779,6.45855025256344],[2.66353249179607,6.45583366762445],[2.66374856358369,6.45420711474604],[2.66317051391802,6.45275152716108],[2.66164069501898,6.45008544000797],[2.66019722463445,6.44736757823199],[2.65875375424992,6.44464971645601],[2.65803182509995,6.44482641677684],[2.6565879668,6.44517981741851],[2.65442217935009,6.44570991838101],[2.65185524906959,6.44676904204245],[2.6501801543455,6.44787263235827],[2.64907943813679,6.44846022880374],[2.64750335208758,6.44897082193877],[2.64550034158597,6.44951361628933],[2.64345909897792,6.44994585709764],[2.64165075207634,6.4507389242536],[2.64028324718319,6.45174566337543],[2.63899804179815,6.45262906492429],[2.63752811963948,6.45348004567758],[2.63605984540927,6.45415135656487],[2.6345773665693,6.4545952411622],[2.6327738856432,6.45497036535493],[2.63098922680001,6.45553094876393],[2.62914197658471,6.45630503492913],[2.62696311777043,6.45691490383093],[2.62493778217837,6.45736347732758],[2.62302848449493,6.45787638565631],[2.62062877615221,6.45814177575592],[2.61773851717982,6.45821994795518],[2.61523025472398,6.45793542133448],[2.61364296601699,6.45751546753707],[2.61196709564028,6.45729080149377],[2.61032735474854,6.45702998335807],[2.60896740540375,6.45666412735482],[2.60728389569865,6.45607148596936],[2.60576751447259,6.45555590693211],[2.6041397636923,6.4550772072768],[2.6014030636778,6.45417574206434],[2.59889116951367,6.45350902866203],[2.59696831339351,6.45328587254718],[2.59171002953974,6.45253692880346],[2.59014739300886,6.45702818950167],[2.58972373689267,6.45972505082697],[2.58921045003199,6.4618552138773],[2.58860938969184,6.46396716115132],[2.58820351871973,6.4663632001226],[2.58802625465041,6.46834695111717],[2.58789126848465,6.46962445378733],[2.58772034434939,6.47133430751693],[2.58734975809735,6.47321899300857],[2.58667412384408,6.47537377656127],[2.58578150227905,6.47844918825778],[2.58478651310879,6.48141560622486],[2.58364229789234,6.48373268212146],[2.58263874052987,6.48531006570965],[2.58216741461915,6.4873454165488],[2.58190066565836,6.49069310968837],[2.58167058940258,6.4934746013355],[2.58151720523206,6.49532892910025],[2.5814405131468,6.49625609298262],[2.58396942677932,6.49825427080253],[2.58579571640624,6.49954488127416],[2.58759754767859,6.5011915449731],[2.58937698728711,6.50316942171911],[2.59074513675785,6.50462002680529],[2.59158826383299,6.50557027188519],[2.59222276034373,6.50658823564966],[2.59327451034814,6.50788726846179],[2.59461523086245,6.50923065114261],[2.59641446217984,6.51096388139849],[2.59820369409879,6.51254042557713],[2.59930640742193,6.51398538797824],[2.60026463091125,6.51565952892317],[2.60168802538346,6.51713290928813],[2.60338760441501,6.51840600254661],[2.60472374021283,6.51988095183923],[2.60579888391427,6.5215291974817],[2.60684843038202,6.52303957628347],[2.60818092759381,6.52452473964522],[2.60930880567784,6.52558343170067],[2.61006072440052,6.5262892264043],[2.61043668376186,6.52664212375612]]],"type":"Polygon"}
+}

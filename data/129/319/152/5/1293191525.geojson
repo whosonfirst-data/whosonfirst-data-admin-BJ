@@ -1,0 +1,67 @@
+{
+  "id": 1293191525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.25039,11.33338,3.25039,11.33338",
+    "geom:latitude":11.33338,
+    "geom:longitude":3.25039,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zanloa",
+    "gn:country_code":"BJ",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2390743,
+    "gn:latitude":11.33338,
+    "gn:longitude":3.25039,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Zanloa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668805,
+        1108758957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2390743
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3327fdf75272e36e0862f78768f85a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758957,
+            "locality_id":1293191525,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":1293191525,
+    "wof:lastmodified":1536717101,
+    "wof:name":"Zanloa",
+    "wof:parent_id":1108758957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.25039,
+    11.33338,
+    3.25039,
+    11.33338
+],
+  "geometry": {"coordinates":[3.25039,11.33338],"type":"Point"}
+}

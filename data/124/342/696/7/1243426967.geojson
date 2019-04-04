@@ -1,0 +1,73 @@
+{
+  "id": 1243426967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.44528,6.90683,2.44528,6.90683",
+    "geom:latitude":6.90683,
+    "geom:longitude":2.44528,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"7668898.0",
+    "gn:asciiname":"Bonou",
+    "gn:country_code":"BJ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2395005,
+    "gn:latitude":6.90683,
+    "gn:longitude":2.44528,
+    "gn:modification_date":"2017-12-28",
+    "gn:name":"Bonou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banou",
+        "Bonou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668817,
+        1108758907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2395005,
+        "wk:page":"Bonou"
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"34a0017eb7533e153b91f9abeaf3f8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758907,
+            "locality_id":1243426967,
+            "region_id":85668817
+        }
+    ],
+    "wof:id":1243426967,
+    "wof:lastmodified":1537587878,
+    "wof:name":"Bonou",
+    "wof:parent_id":1108758907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.44528,
+    6.90683,
+    2.44528,
+    6.90683
+],
+  "geometry": {"coordinates":[2.44528,6.90683],"type":"Point"}
+}

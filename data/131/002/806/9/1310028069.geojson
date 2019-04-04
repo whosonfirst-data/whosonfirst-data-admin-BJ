@@ -1,0 +1,73 @@
+{
+  "id": 1310028069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.16925,10.89726,2.16925,10.89726",
+    "geom:latitude":10.89726,
+    "geom:longitude":2.16925,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ganbore",
+    "gn:country_code":"BJ",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2394279,
+    "gn:latitude":10.89726,
+    "gn:longitude":2.16925,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Ganbor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gambou\u00e9",
+        "Gambure",
+        "Gambor\u00e9",
+        "Ganbor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825,
+        1108758971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2394279
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"3322a8a2ca3c707f71b466f9203fe773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758971,
+            "locality_id":1310028069,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1310028069,
+    "wof:lastmodified":1537587871,
+    "wof:name":"Ganbore",
+    "wof:parent_id":1108758971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.16925,
+    10.89726,
+    2.16925,
+    10.89726
+],
+  "geometry": {"coordinates":[2.16925,10.89726],"type":"Point"}
+}

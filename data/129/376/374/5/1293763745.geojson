@@ -1,0 +1,67 @@
+{
+  "id": 1293763745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.74769,6.89876,1.74769,6.89876",
+    "geom:latitude":6.89876,
+    "geom:longitude":1.74769,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Lokoui Bedjame",
+    "gn:country_code":"BJ",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2392893,
+    "gn:latitude":6.89876,
+    "gn:longitude":1.74769,
+    "gn:modification_date":"2016-12-28",
+    "gn:name":"Lokoui Bedjam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Porto-Novo",
+    "iso:country":"BJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815,
+        1108758881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2392893
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"582b128794070b03ba6c0c0c3ea48f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758881,
+            "locality_id":1293763745,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1293763745,
+    "wof:lastmodified":1536885406,
+    "wof:name":"Lokoui Bedjame",
+    "wof:parent_id":1108758881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.74769,
+    6.89876,
+    1.74769,
+    6.89876
+],
+  "geometry": {"coordinates":[1.74769,6.89876],"type":"Point"}
+}
