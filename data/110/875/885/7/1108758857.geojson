@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053419,
-    "geom:area_square_m":651313413.714589,
+    "geom:area_square_m":651313413.714587,
     "geom:bbox":"1.3375,9.39078418387,1.57642878982,9.82885691907",
     "geom:latitude":9.587493,
     "geom:longitude":1.439402,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Ouake Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":9.5567,
     "lbl:longitude":1.447534,
     "meso:adm1_en":"Donga",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758857,
-    "wof:lastmodified":1513900094,
+    "wof:lastmodified":1553718701,
     "wof:name":"Ouake",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

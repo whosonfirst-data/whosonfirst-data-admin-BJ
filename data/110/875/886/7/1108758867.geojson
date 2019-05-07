@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166414,
-    "geom:area_square_m":2024854524.891187,
+    "geom:area_square_m":2024854524.891198,
     "geom:bbox":"1.77520971567,10.0217522795,2.26126102733,10.5409189951",
     "geom:latitude":10.256746,
     "geom:longitude":2.031982,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Pehunco Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.229428,
     "lbl:longitude":2.02733,
     "meso:adm1_en":"Atacora",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108758867,
-    "wof:lastmodified":1513900099,
+    "wof:lastmodified":1553718702,
     "wof:name":"Pehunco",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

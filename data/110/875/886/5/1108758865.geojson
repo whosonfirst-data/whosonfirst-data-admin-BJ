@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.412788,
-    "geom:area_square_m":5014280632.914503,
+    "geom:area_square_m":5014280632.91451,
     "geom:bbox":"2.23909987841,10.5266441809,3.21392027543,11.1792795263",
     "geom:latitude":10.770345,
     "geom:longitude":2.698474,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Gogounou Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.772169,
     "lbl:longitude":2.552409,
     "meso:adm1_en":"Alibori",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108758865,
-    "wof:lastmodified":1513900076,
+    "wof:lastmodified":1553718702,
     "wof:name":"Gogounou",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

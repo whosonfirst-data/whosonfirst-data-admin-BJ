@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139353,
-    "geom:area_square_m":1707607437.015755,
+    "geom:area_square_m":1707607437.015754,
     "geom:bbox":"2.04032487834,7.44840904327,2.48756385461,7.94516127751",
     "geom:latitude":7.695968,
     "geom:longitude":2.269092,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Dassa-Zoume Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.684946,
     "lbl:longitude":2.273352,
     "meso:adm1_en":"Collines",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108758925,
-    "wof:lastmodified":1513900070,
+    "wof:lastmodified":1553718703,
     "wof:name":"Dassa-Zoume",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024785,
-    "geom:area_square_m":304476598.736053,
+    "geom:area_square_m":304476598.736051,
     "geom:bbox":"1.7609902118,6.43842053754,1.95260386985,6.66461889407",
     "geom:latitude":6.548042,
     "geom:longitude":1.847102,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Houeyogbe Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.545189,
     "lbl:longitude":1.845662,
     "meso:adm1_en":"Mono",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758899,
-    "wof:lastmodified":1513900077,
+    "wof:lastmodified":1553718703,
     "wof:name":"Houeyogbe",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

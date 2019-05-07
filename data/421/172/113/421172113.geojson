@@ -10,6 +10,12 @@
     "geom:latitude":11.032828,
     "geom:longitude":1.438569,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Tanguieta Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":11.029595,
     "lbl:longitude":1.394341,
     "meso:adm1_en":"Atacora",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421172113,
-    "wof:lastmodified":1536615937,
+    "wof:lastmodified":1553717337,
     "wof:name":"Tanguieta",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

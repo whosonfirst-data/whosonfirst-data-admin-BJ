@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178892,
-    "geom:area_square_m":2193415526.048378,
+    "geom:area_square_m":2193415526.048401,
     "geom:bbox":"1.641112,7.14494527637,2.23470323562,7.65874298344",
     "geom:latitude":7.438593,
     "geom:longitude":1.923695,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Djidja Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.418586,
     "lbl:longitude":1.919193,
     "meso:adm1_en":"Zou",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108758927,
-    "wof:lastmodified":1513900070,
+    "wof:lastmodified":1553718703,
     "wof:name":"Djidja",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

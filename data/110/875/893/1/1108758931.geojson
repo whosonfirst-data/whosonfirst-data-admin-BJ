@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036694,
-    "geom:area_square_m":450353310.715809,
+    "geom:area_square_m":450353310.715811,
     "geom:bbox":"2.50254846503,6.8528611524,2.741998,7.18710008722",
     "geom:latitude":6.991808,
     "geom:longitude":2.59594,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Adja-Ouere Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.940762,
     "lbl:longitude":2.584153,
     "meso:adm1_en":"Plateau",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108758931,
-    "wof:lastmodified":1513900052,
+    "wof:lastmodified":1553718703,
     "wof:name":"Adja-Ouere",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

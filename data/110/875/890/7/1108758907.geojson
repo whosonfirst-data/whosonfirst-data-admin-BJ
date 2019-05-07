@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020805,
-    "geom:area_square_m":255406399.801356,
+    "geom:area_square_m":255406399.801354,
     "geom:bbox":"2.38748541842,6.78705232474,2.57941148172,6.96091434785",
     "geom:latitude":6.867909,
     "geom:longitude":2.47936,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Bonou Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.85936,
     "lbl:longitude":2.47159,
     "meso:adm1_en":"Oueme",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1108758907,
-    "wof:lastmodified":1513900062,
+    "wof:lastmodified":1553718703,
     "wof:name":"Bonou",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

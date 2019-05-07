@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186451,
-    "geom:area_square_m":2283078065.302299,
+    "geom:area_square_m":2283078065.302302,
     "geom:bbox":"2.33868996535,7.68558396627,2.75475,8.33111936986",
     "geom:latitude":7.996042,
     "geom:longitude":2.566461,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Save Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.998436,
     "lbl:longitude":2.545672,
     "meso:adm1_en":"Collines",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108758963,
-    "wof:lastmodified":1513900107,
+    "wof:lastmodified":1553718704,
     "wof:name":"Save",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

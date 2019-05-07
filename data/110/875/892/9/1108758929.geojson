@@ -10,6 +10,12 @@
     "geom:latitude":7.548984,
     "geom:longitude":2.153459,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Cov\u00e9 Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.548707,
     "lbl:longitude":2.153262,
     "meso:adm1_en":"Zou",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108758929,
-    "wof:lastmodified":1513900069,
+    "wof:lastmodified":1555091989,
     "wof:name":"Cove",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

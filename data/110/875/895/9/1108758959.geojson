@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372694,
-    "geom:area_square_m":4524807941.479661,
+    "geom:area_square_m":4524807941.479638,
     "geom:bbox":"3.11129741748,10.5380834,3.83940148365,11.4251591915",
     "geom:latitude":10.929696,
     "geom:longitude":3.463337,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Segbana Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.910764,
     "lbl:longitude":3.493667,
     "meso:adm1_en":"Alibori",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108758959,
-    "wof:lastmodified":1513900108,
+    "wof:lastmodified":1553718704,
     "wof:name":"Segbana",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

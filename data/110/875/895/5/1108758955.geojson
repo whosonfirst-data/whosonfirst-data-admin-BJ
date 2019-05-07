@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.503835,
-    "geom:area_square_m":6094956552.134831,
+    "geom:area_square_m":6094956552.134864,
     "geom:bbox":"2.297998,11.417084342,3.30371956828,12.408552333",
     "geom:latitude":11.950143,
     "geom:longitude":2.749807,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Karimama Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":11.96343,
     "lbl:longitude":2.7422,
     "meso:adm1_en":"Alibori",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108758955,
-    "wof:lastmodified":1513900082,
+    "wof:lastmodified":1553718705,
     "wof:name":"Karimama",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

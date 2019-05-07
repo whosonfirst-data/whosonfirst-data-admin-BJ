@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010418,
-    "geom:area_square_m":128006582.016427,
+    "geom:area_square_m":128006582.016426,
     "geom:bbox":"2.4484956355,6.39578006746,2.59171002954,6.54298065995",
     "geom:latitude":6.464609,
     "geom:longitude":2.525315,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Aguegues Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.471578,
     "lbl:longitude":2.53725,
     "meso:adm1_en":"Oueme",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108758905,
-    "wof:lastmodified":1513900053,
+    "wof:lastmodified":1553718703,
     "wof:name":"Aguegues",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

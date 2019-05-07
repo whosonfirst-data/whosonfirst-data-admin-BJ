@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.276438,
-    "geom:area_square_m":3347723381.432013,
+    "geom:area_square_m":3347723381.432001,
     "geom:bbox":"2.91674206927,11.3030821754,3.593724927,11.9810973985",
     "geom:latitude":11.654786,
     "geom:longitude":3.268831,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Malanville Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":11.637927,
     "lbl:longitude":3.30911,
     "meso:adm1_en":"Alibori",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108758957,
-    "wof:lastmodified":1513900089,
+    "wof:lastmodified":1553718704,
     "wof:name":"Malanville",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

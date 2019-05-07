@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073233,
-    "geom:area_square_m":892124198.600587,
+    "geom:area_square_m":892124198.600588,
     "geom:bbox":"1.35405001968,9.7139242992,1.75294337015,10.0324253652",
     "geom:latitude":9.872885,
     "geom:longitude":1.543527,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Copargo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":9.844207,
     "lbl:longitude":1.529985,
     "meso:adm1_en":"Donga",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108758985,
-    "wof:lastmodified":1513900065,
+    "wof:lastmodified":1553718705,
     "wof:name":"Copargo",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

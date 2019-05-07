@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013418,
-    "geom:area_square_m":164613400.487076,
+    "geom:area_square_m":164613400.487078,
     "geom:bbox":"2.02564788628,7.11959210175,2.19746733754,7.27346065174",
     "geom:latitude":7.17449,
     "geom:longitude":2.101002,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Bohicon Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.166613,
     "lbl:longitude":2.078242,
     "meso:adm1_en":"Zou",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108758923,
-    "wof:lastmodified":1513900062,
+    "wof:lastmodified":1553718703,
     "wof:name":"Bohicon",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

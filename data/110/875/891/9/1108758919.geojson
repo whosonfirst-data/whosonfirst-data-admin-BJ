@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034601,
-    "geom:area_square_m":424868250.51966,
+    "geom:area_square_m":424868250.519656,
     "geom:bbox":"2.55348896323,6.61612559878,2.77139469108,6.91997548428",
     "geom:latitude":6.770662,
     "geom:longitude":2.651075,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Sakete Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.775694,
     "lbl:longitude":2.649426,
     "meso:adm1_en":"Plateau",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108758919,
-    "wof:lastmodified":1513900105,
+    "wof:lastmodified":1553718703,
     "wof:name":"Sakete",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

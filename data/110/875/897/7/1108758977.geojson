@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039488,
-    "geom:area_square_m":484791468.393942,
+    "geom:area_square_m":484791468.393936,
     "geom:bbox":"2.03251766996,6.7287181786,2.34289153568,6.96112421932",
     "geom:latitude":6.850125,
     "geom:longitude":2.176863,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Toffo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.857372,
     "lbl:longitude":2.176843,
     "meso:adm1_en":"Atlantique",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108758977,
-    "wof:lastmodified":1513900112,
+    "wof:lastmodified":1553718704,
     "wof:name":"Toffo",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

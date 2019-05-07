@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.362065,
-    "geom:area_square_m":4389508205.934485,
+    "geom:area_square_m":4389508205.934514,
     "geom:bbox":"2.02183894963,10.9496303521,2.90456970296,11.6844308223",
     "geom:latitude":11.344867,
     "geom:longitude":2.405785,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Banikoara Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":11.362234,
     "lbl:longitude":2.36241,
     "meso:adm1_en":"Alibori",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108758967,
-    "wof:lastmodified":1513900059,
+    "wof:lastmodified":1553718704,
     "wof:name":"Banikoara",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

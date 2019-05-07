@@ -10,6 +10,12 @@
     "geom:latitude":6.380993,
     "geom:longitude":2.125741,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Ouidah Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.38741,
     "lbl:longitude":2.128056,
     "meso:adm1_en":"Atlantique",
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":421174729,
-    "wof:lastmodified":1536615946,
+    "wof:lastmodified":1553717354,
     "wof:name":"Ouidah",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

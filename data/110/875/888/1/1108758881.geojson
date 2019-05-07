@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018611,
-    "geom:area_square_m":228476883.28667,
+    "geom:area_square_m":228476883.286669,
     "geom:bbox":"1.594723,6.78207937185,1.77087774602,6.96570827932",
     "geom:latitude":6.862613,
     "geom:longitude":1.688295,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Djakotomey Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.870528,
     "lbl:longitude":1.696966,
     "meso:adm1_en":"Couffo",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758881,
-    "wof:lastmodified":1513900070,
+    "wof:lastmodified":1553718702,
     "wof:name":"Djakotomey",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

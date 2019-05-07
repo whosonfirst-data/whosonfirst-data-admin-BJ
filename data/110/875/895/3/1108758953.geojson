@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031955,
-    "geom:area_square_m":391984241.601955,
+    "geom:area_square_m":391984241.601956,
     "geom:bbox":"2.08420051483,7.11902002593,2.31074778739,7.34135371168",
     "geom:latitude":7.232445,
     "geom:longitude":2.198109,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Za-Kpota Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.254781,
     "lbl:longitude":2.195947,
     "meso:adm1_en":"Zou",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108758953,
-    "wof:lastmodified":1505431805,
+    "wof:lastmodified":1553718704,
     "wof:name":"Za-Kpota",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

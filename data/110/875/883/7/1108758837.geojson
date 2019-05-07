@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.556538,
-    "geom:area_square_m":6793884306.536538,
+    "geom:area_square_m":6793884306.536559,
     "geom:bbox":"1.96400026715,8.76396494103,3.157868,9.68718463268",
     "geom:latitude":9.161327,
     "geom:longitude":2.496623,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Tchaourou Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":9.014091,
     "lbl:longitude":2.487623,
     "meso:adm1_en":"Borgou",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108758837,
-    "wof:lastmodified":1513900112,
+    "wof:lastmodified":1553718702,
     "wof:name":"Tchaourou",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

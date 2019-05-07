@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016618,
-    "geom:area_square_m":204099909.384407,
+    "geom:area_square_m":204099909.384416,
     "geom:bbox":"2.65560169413,6.51215642086,2.791663,6.767627",
     "geom:latitude":6.653231,
     "geom:longitude":2.718084,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Ifangni Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.674221,
     "lbl:longitude":2.70778,
     "meso:adm1_en":"Plateau",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108758851,
-    "wof:lastmodified":1513900077,
+    "wof:lastmodified":1553718701,
     "wof:name":"Ifangni",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

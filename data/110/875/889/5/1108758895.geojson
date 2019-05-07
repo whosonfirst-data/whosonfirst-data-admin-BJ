@@ -10,6 +10,12 @@
     "geom:latitude":6.424539,
     "geom:longitude":1.900782,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Come Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.413611,
     "lbl:longitude":1.893287,
     "meso:adm1_en":"Mono",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108758895,
-    "wof:lastmodified":1513900065,
+    "wof:lastmodified":1553718703,
     "wof:name":"Come",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

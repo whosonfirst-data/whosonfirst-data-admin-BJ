@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14464,
-    "geom:area_square_m":1770313920.152257,
+    "geom:area_square_m":1770313920.152294,
     "geom:bbox":"2.08740721307,7.83050043688,2.37707132673,8.50879677022",
     "geom:latitude":8.176334,
     "geom:longitude":2.228295,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Glazoue Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":8.177644,
     "lbl:longitude":2.231053,
     "meso:adm1_en":"Collines",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758945,
-    "wof:lastmodified":1513900075,
+    "wof:lastmodified":1553718704,
     "wof:name":"Glazoue",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

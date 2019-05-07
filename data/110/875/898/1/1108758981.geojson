@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170268,
-    "geom:area_square_m":2075960671.085732,
+    "geom:area_square_m":2075960671.085742,
     "geom:bbox":"2.75726367736,9.33737636214,3.25494151935,9.84683594802",
     "geom:latitude":9.591638,
     "geom:longitude":2.985807,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Perere Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":9.587905,
     "lbl:longitude":2.9858,
     "meso:adm1_en":"Borgou",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758981,
-    "wof:lastmodified":1513900100,
+    "wof:lastmodified":1553718705,
     "wof:name":"Perere",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

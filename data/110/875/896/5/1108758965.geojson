@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018601,
-    "geom:area_square_m":228496080.756935,
+    "geom:area_square_m":228496080.756934,
     "geom:bbox":"1.59579037813,6.44944998862,1.78464418382,6.67134345582",
     "geom:latitude":6.570656,
     "geom:longitude":1.704548,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Athieme Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.578199,
     "lbl:longitude":1.718852,
     "meso:adm1_en":"Mono",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108758965,
-    "wof:lastmodified":1513900057,
+    "wof:lastmodified":1553718704,
     "wof:name":"Athieme",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

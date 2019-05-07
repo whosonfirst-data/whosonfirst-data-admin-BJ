@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045163,
-    "geom:area_square_m":553954792.317966,
+    "geom:area_square_m":553954792.317963,
     "geom:bbox":"2.28011653057,7.00705249033,2.53654258238,7.51222013406",
     "geom:latitude":7.272298,
     "geom:longitude":2.395205,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Zagnanado Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.306766,
     "lbl:longitude":2.384578,
     "meso:adm1_en":"Zou",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108758937,
-    "wof:lastmodified":1505431805,
+    "wof:lastmodified":1553718703,
     "wof:name":"Zagnanado",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

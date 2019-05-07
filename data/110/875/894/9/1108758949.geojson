@@ -10,6 +10,12 @@
     "geom:latitude":7.188541,
     "geom:longitude":1.9703,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Abomey Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.192105,
     "lbl:longitude":1.971762,
     "meso:adm1_en":"Zou",
@@ -238,7 +244,7 @@
         }
     ],
     "wof:id":1108758949,
-    "wof:lastmodified":1513900051,
+    "wof:lastmodified":1553718704,
     "wof:name":"Abomey",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

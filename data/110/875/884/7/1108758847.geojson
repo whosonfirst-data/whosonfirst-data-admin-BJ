@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.464505,
-    "geom:area_square_m":5673483646.673811,
+    "geom:area_square_m":5673483646.673817,
     "geom:bbox":"1.398612,8.4776717482,2.23785476217,9.46142508871",
     "geom:latitude":8.964525,
     "geom:longitude":1.859944,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Bassila Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":8.888524,
     "lbl:longitude":1.888495,
     "meso:adm1_en":"Donga",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108758847,
-    "wof:lastmodified":1513900060,
+    "wof:lastmodified":1553718701,
     "wof:name":"Bassila",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

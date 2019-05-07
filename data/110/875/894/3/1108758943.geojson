@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266966,
-    "geom:area_square_m":3251424474.191456,
+    "geom:area_square_m":3251424474.19145,
     "geom:bbox":"2.76138073469,9.64078824989,3.61422901293,10.2373963765",
     "geom:latitude":9.950372,
     "geom:longitude":3.18767,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Nikki Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":9.922928,
     "lbl:longitude":3.194089,
     "meso:adm1_en":"Borgou",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108758943,
-    "wof:lastmodified":1513900094,
+    "wof:lastmodified":1553718704,
     "wof:name":"Nikki",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

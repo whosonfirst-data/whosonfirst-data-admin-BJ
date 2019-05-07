@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030712,
-    "geom:area_square_m":377193013.089925,
+    "geom:area_square_m":377193013.089926,
     "geom:bbox":"1.81983718133,6.48813699776,2.03416332888,6.77979140503",
     "geom:latitude":6.663826,
     "geom:longitude":1.929969,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Bopa Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.672788,
     "lbl:longitude":1.928353,
     "meso:adm1_en":"Mono",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758893,
-    "wof:lastmodified":1513900062,
+    "wof:lastmodified":1553718702,
     "wof:name":"Bopa",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

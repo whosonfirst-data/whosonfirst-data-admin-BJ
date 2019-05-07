@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.321179,
-    "geom:area_square_m":3899288848.749745,
+    "geom:area_square_m":3899288848.749761,
     "geom:bbox":"1.6608143235,10.5021542385,2.33326862756,11.4230893628",
     "geom:latitude":10.935672,
     "geom:longitude":2.005665,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Kerou Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":11.013024,
     "lbl:longitude":1.972559,
     "meso:adm1_en":"Atacora",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108758971,
-    "wof:lastmodified":1513900082,
+    "wof:lastmodified":1553718704,
     "wof:name":"Kerou",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

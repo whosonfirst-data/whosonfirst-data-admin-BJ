@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018637,
-    "geom:area_square_m":228693517.881569,
+    "geom:area_square_m":228693517.881568,
     "geom:bbox":"1.85803665203,6.99739723522,2.05549869246,7.16402089472",
     "geom:latitude":7.089916,
     "geom:longitude":1.955099,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Agbangnizoun Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.077233,
     "lbl:longitude":1.956601,
     "meso:adm1_en":"Zou",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108758921,
-    "wof:lastmodified":1513900053,
+    "wof:lastmodified":1553718703,
     "wof:name":"Agbangnizoun",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

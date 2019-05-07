@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03143,
-    "geom:area_square_m":385706140.646532,
+    "geom:area_square_m":385706140.646531,
     "geom:bbox":"1.73237950938,6.93371578779,1.93390309791,7.19759103214",
     "geom:latitude":7.039067,
     "geom:longitude":1.829791,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Klouekanme Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.034881,
     "lbl:longitude":1.821647,
     "meso:adm1_en":"Couffo",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758883,
-    "wof:lastmodified":1513900083,
+    "wof:lastmodified":1553718702,
     "wof:name":"Klouekanme",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

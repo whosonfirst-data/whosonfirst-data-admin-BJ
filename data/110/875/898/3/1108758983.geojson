@@ -10,6 +10,12 @@
     "geom:latitude":9.346922,
     "geom:longitude":2.603049,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Parakou Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":9.338001,
     "lbl:longitude":2.591168,
     "meso:adm1_en":"Borgou",
@@ -208,7 +214,7 @@
         }
     ],
     "wof:id":1108758983,
-    "wof:lastmodified":1513900099,
+    "wof:lastmodified":1553718704,
     "wof:name":"Parakou",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

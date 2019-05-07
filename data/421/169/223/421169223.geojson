@@ -10,6 +10,12 @@
     "geom:latitude":6.482035,
     "geom:longitude":2.620369,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Porto-Novo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.485583,
     "lbl:longitude":2.61547,
     "meso:adm1_en":"Oueme",
@@ -438,7 +444,7 @@
         }
     ],
     "wof:id":421169223,
-    "wof:lastmodified":1536615897,
+    "wof:lastmodified":1553717302,
     "wof:name":"Porto-Novo",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30312,
-    "geom:area_square_m":3694262478.341469,
+    "geom:area_square_m":3694262478.341445,
     "geom:bbox":"2.0527307585,9.38133094952,2.81147445503,9.98877875647",
     "geom:latitude":9.724872,
     "geom:longitude":2.467458,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "N'dali Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":9.727033,
     "lbl:longitude":2.505274,
     "meso:adm1_en":"Borgou",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108758877,
-    "wof:lastmodified":1513900090,
+    "wof:lastmodified":1553718702,
     "wof:name":"N'dali",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

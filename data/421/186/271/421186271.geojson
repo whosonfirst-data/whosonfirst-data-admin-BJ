@@ -10,6 +10,12 @@
     "geom:latitude":6.498521,
     "geom:longitude":2.321292,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Abomey-Calavi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.499734,
     "lbl:longitude":2.319727,
     "meso:adm1_en":"Atlantique",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421186271,
-    "wof:lastmodified":1536616034,
+    "wof:lastmodified":1553717447,
     "wof:name":"Abomey-Calavi",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

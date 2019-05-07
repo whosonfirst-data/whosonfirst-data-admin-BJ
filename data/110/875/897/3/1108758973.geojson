@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185608,
-    "geom:area_square_m":2258460960.629082,
+    "geom:area_square_m":2258460960.629084,
     "geom:bbox":"2.07031036768,9.92800302245,2.55904987546,10.56374133",
     "geom:latitude":10.246785,
     "geom:longitude":2.346371,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Sinende Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.376154,
     "lbl:longitude":2.351002,
     "meso:adm1_en":"Borgou",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758973,
-    "wof:lastmodified":1513900109,
+    "wof:lastmodified":1553718705,
     "wof:name":"Sinende",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309998,
-    "geom:area_square_m":3770590749.270176,
+    "geom:area_square_m":3770590749.270201,
     "geom:bbox":"2.9866695955,10.0742549234,3.843343,10.6492189197",
     "geom:latitude":10.367626,
     "geom:longitude":3.390942,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Kalale Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.371217,
     "lbl:longitude":3.382792,
     "meso:adm1_en":"Borgou",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108758835,
-    "wof:lastmodified":1513900077,
+    "wof:lastmodified":1553718700,
     "wof:name":"Kalale",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

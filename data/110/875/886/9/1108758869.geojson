@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069126,
-    "geom:area_square_m":840516920.980281,
+    "geom:area_square_m":840516920.980278,
     "geom:bbox":"0.776667,10.2826674434,1.08301980348,10.6544433752",
     "geom:latitude":10.472054,
     "geom:longitude":0.905342,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Kobli Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.470512,
     "lbl:longitude":0.90243,
     "meso:adm1_en":"Atacora",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758869,
-    "wof:lastmodified":1513900084,
+    "wof:lastmodified":1553718702,
     "wof:name":"Kobli",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

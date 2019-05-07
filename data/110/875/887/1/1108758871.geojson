@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09064,
-    "geom:area_square_m":1101918435.518522,
+    "geom:area_square_m":1101918435.51852,
     "geom:bbox":"1.19951615479,10.3572325505,1.64915152006,10.73592438",
     "geom:latitude":10.527061,
     "geom:longitude":1.464,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Toucountouna Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.529317,
     "lbl:longitude":1.479322,
     "meso:adm1_en":"Atacora",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108758871,
-    "wof:lastmodified":1513900113,
+    "wof:lastmodified":1553718702,
     "wof:name":"Toucountouna",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

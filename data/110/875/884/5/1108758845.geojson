@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07289,
-    "geom:area_square_m":894253539.600794,
+    "geom:area_square_m":894253539.600789,
     "geom:bbox":"1.548611,6.87691937055,1.83224863525,7.50953102206",
     "geom:latitude":7.16497,
     "geom:longitude":1.695258,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Aplahoue Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.194295,
     "lbl:longitude":1.730721,
     "meso:adm1_en":"Couffo",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108758845,
-    "wof:lastmodified":1513900055,
+    "wof:lastmodified":1553718701,
     "wof:name":"Aplahoue",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

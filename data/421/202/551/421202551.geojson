@@ -10,6 +10,12 @@
     "geom:latitude":6.675978,
     "geom:longitude":2.118768,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Allada Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.673697,
     "lbl:longitude":2.121252,
     "meso:adm1_en":"Atlantique",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421202551,
-    "wof:lastmodified":1553816389,
+    "wof:lastmodified":1555037053,
     "wof:name":"Allada",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

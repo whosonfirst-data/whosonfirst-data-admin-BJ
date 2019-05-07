@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.323479,
-    "geom:area_square_m":3942993318.029358,
+    "geom:area_square_m":3942993318.029363,
     "geom:bbox":"1.46312922409,9.35200627155,2.16961332435,10.0419752568",
     "geom:latitude":9.673564,
     "geom:longitude":1.854291,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Djougou Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":9.655044,
     "lbl:longitude":1.86101,
     "meso:adm1_en":"Donga",
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":1108758889,
-    "wof:lastmodified":1513900074,
+    "wof:lastmodified":1553718703,
     "wof:name":"Djougou",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

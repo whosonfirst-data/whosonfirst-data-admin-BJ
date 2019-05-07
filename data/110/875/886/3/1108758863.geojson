@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.267731,
-    "geom:area_square_m":3255840206.425403,
+    "geom:area_square_m":3255840206.425387,
     "geom:bbox":"1.37873218522,9.94043932515,2.00748654905,10.9013772695",
     "geom:latitude":10.426779,
     "geom:longitude":1.721391,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Kouande Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.274706,
     "lbl:longitude":1.700042,
     "meso:adm1_en":"Atacora",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108758863,
-    "wof:lastmodified":1513900084,
+    "wof:lastmodified":1553718702,
     "wof:name":"Kouande",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032137,
-    "geom:area_square_m":394341884.172168,
+    "geom:area_square_m":394341884.172167,
     "geom:bbox":"2.59335644251,6.9500606919,2.772806,7.20696769999",
     "geom:latitude":7.09142,
     "geom:longitude":2.685318,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Pobe Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.092167,
     "lbl:longitude":2.674631,
     "meso:adm1_en":"Plateau",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108758855,
-    "wof:lastmodified":1553816509,
+    "wof:lastmodified":1555037248,
     "wof:name":"Pobe",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

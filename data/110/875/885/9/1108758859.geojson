@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081763,
-    "geom:area_square_m":994874515.321564,
+    "geom:area_square_m":994874515.321568,
     "geom:bbox":"0.910382687483,9.99590460911,1.3788742527,10.4371467833",
     "geom:latitude":10.24989,
     "geom:longitude":1.134179,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Boukombe Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.295766,
     "lbl:longitude":1.091582,
     "meso:adm1_en":"Atacora",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108758859,
-    "wof:lastmodified":1513900063,
+    "wof:lastmodified":1553718701,
     "wof:name":"Boukombe",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

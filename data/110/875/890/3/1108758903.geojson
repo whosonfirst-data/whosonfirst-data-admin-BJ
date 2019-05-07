@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006626,
-    "geom:area_square_m":81397353.953203,
+    "geom:area_square_m":81397353.953202,
     "geom:bbox":"2.55178664519,6.49625609298,2.62889139838,6.64557430531",
     "geom:latitude":6.57381,
     "geom:longitude":2.589583,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Akpo-Misserete Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.608879,
     "lbl:longitude":2.593378,
     "meso:adm1_en":"Oueme",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108758903,
-    "wof:lastmodified":1513900053,
+    "wof:lastmodified":1553718703,
     "wof:name":"Akpo-Misserete",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028528,
-    "geom:area_square_m":350077959.476509,
+    "geom:area_square_m":350077959.47651,
     "geom:bbox":"2.40057536337,6.95367737419,2.55648431689,7.19923907962",
     "geom:latitude":7.068659,
     "geom:longitude":2.47547,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Ouinhi Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":7.046464,
     "lbl:longitude":2.491057,
     "meso:adm1_en":"Zou",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1108758935,
-    "wof:lastmodified":1513900096,
+    "wof:lastmodified":1553718703,
     "wof:name":"Ouinhi",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

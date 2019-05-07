@@ -10,6 +10,12 @@
     "geom:latitude":6.68664,
     "geom:longitude":1.738868,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Lokossa Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.66938,
     "lbl:longitude":1.752189,
     "meso:adm1_en":"Mono",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108758849,
-    "wof:lastmodified":1513900087,
+    "wof:lastmodified":1553718701,
     "wof:name":"Lokossa",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

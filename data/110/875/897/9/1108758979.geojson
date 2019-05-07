@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.27633,
-    "geom:area_square_m":3362088298.179353,
+    "geom:area_square_m":3362088298.179336,
     "geom:bbox":"2.46122316705,9.90178620859,3.10336153314,10.5851154936",
     "geom:latitude":10.272847,
     "geom:longitude":2.74953,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Bembereke Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":10.312314,
     "lbl:longitude":2.7434,
     "meso:adm1_en":"Borgou",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108758979,
-    "wof:lastmodified":1513900061,
+    "wof:lastmodified":1553718705,
     "wof:name":"Bembereke",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.370465,
     "geom:longitude":2.416955,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Cotonou Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.372544,
     "lbl:longitude":2.409966,
     "meso:adm1_en":"Littoral",
@@ -333,7 +339,7 @@
         }
     ],
     "wof:id":421202663,
-    "wof:lastmodified":1536616148,
+    "wof:lastmodified":1553717563,
     "wof:name":"Cotonou",
     "wof:parent_id":85668811,
     "wof:placetype":"county",

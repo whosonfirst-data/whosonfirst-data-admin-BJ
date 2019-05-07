@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051442,
-    "geom:area_square_m":631677941.582274,
+    "geom:area_square_m":631677941.582275,
     "geom:bbox":"2.20362619444,6.55116175668,2.43478875173,6.9768966154",
     "geom:latitude":6.75585,
     "geom:longitude":2.322848,
     "iso:country":"BJ",
+    "label:eng_x_preferred_longname":[
+        "Ze Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":6.772113,
     "lbl:longitude":2.34205,
     "meso:adm1_en":"Atlantique",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108758875,
-    "wof:lastmodified":1513900113,
+    "wof:lastmodified":1553718702,
     "wof:name":"Ze",
     "wof:parent_id":85668809,
     "wof:placetype":"county",
