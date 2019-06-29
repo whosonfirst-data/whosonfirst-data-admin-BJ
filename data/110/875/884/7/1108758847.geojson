@@ -32,34 +32,31 @@
     "mps:longitude":1.888495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5df4\u897f\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bassila"
     ],
     "name:eng_x_preferred":[
         "Bassila"
     ],
-    "name:fre_x_preferred":[
-        "Bassila"
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633\u06cc\u0644\u0627\u060c \u0628\u0646\u06cc\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bassila"
     ],
     "name:ita_x_preferred":[
         "Bassila"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bassila"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0633\u06cc\u0644\u0627\u060c \u0628\u0646\u06cc\u0646"
+    "name:nld_x_preferred":[
+        "Bassila"
     ],
     "name:pol_x_preferred":[
         "Bassila"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bassila"
     ],
     "name:swe_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0441\u0441\u0456\u043b\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u897f\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1108758847,
-    "wof:lastmodified":1553718701,
+    "wof:lastmodified":1561839684,
     "wof:name":"Bassila",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

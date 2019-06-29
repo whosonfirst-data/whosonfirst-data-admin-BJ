@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Commune of Savalou"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u74e6\u76e7"
-    ],
     "name:dan_x_preferred":[
-        "Savalou"
-    ],
-    "name:dut_x_preferred":[
         "Savalou"
     ],
     "name:eng_x_preferred":[
@@ -32,9 +26,6 @@
         "\u0633\u0627\u0648\u0627\u0644\u0648\u060c \u0628\u0646\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
-        "Savalou"
-    ],
-    "name:fre_x_preferred":[
         "Savalou"
     ],
     "name:hrv_x_preferred":[
@@ -52,9 +43,6 @@
     "name:lit_x_preferred":[
         "Savalu"
     ],
-    "name:may_x_preferred":[
-        "Savalou"
-    ],
     "name:msa_x_preferred":[
         "Savalou"
     ],
@@ -63,9 +51,6 @@
     ],
     "name:nob_x_preferred":[
         "Savalou"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0648\u0627\u0644\u0648\u060c \u0628\u0646\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Savalou"
@@ -76,9 +61,6 @@
     "name:ron_x_preferred":[
         "Savalou"
     ],
-    "name:rum_x_preferred":[
-        "Savalou"
-    ],
     "name:swe_x_preferred":[
         "Savalou"
     ],
@@ -87,6 +69,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0648\u0627\u0644\u0648\u0624"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u74e6\u76e7"
     ],
     "qs:gn_country":"BJ",
     "qs:gn_fcode":"PPLA",
@@ -136,7 +121,7 @@
         }
     ],
     "wof:id":421175959,
-    "wof:lastmodified":1527716341,
+    "wof:lastmodified":1561839689,
     "wof:name":"Savalou",
     "wof:parent_id":1108758841,
     "wof:placetype":"locality",

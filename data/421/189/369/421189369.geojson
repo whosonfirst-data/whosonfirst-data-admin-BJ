@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Boukoumb\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Boukoumb\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Boukoumb\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Boukoumb\u00e9"
-    ],
-    "name:fre_x_preferred":[
         "Boukoumb\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -33,9 +27,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30b3\u30f3\u30d9"
-    ],
-    "name:may_x_preferred":[
-        "Boukoumb\u00e8"
     ],
     "name:msa_x_preferred":[
         "Boukoumb\u00e8"
@@ -47,9 +38,6 @@
         "Boukoumb\u00e9"
     ],
     "name:ron_x_preferred":[
-        "Boukoumb\u00e9"
-    ],
-    "name:rum_x_preferred":[
         "Boukoumb\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -108,7 +96,7 @@
         }
     ],
     "wof:id":421189369,
-    "wof:lastmodified":1527716268,
+    "wof:lastmodified":1561839688,
     "wof:name":"Boukomb\u00e9",
     "wof:parent_id":1108758859,
     "wof:placetype":"locality",

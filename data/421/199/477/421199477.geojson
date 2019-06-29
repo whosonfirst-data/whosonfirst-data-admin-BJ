@@ -23,17 +23,14 @@
     "name:ceb_x_preferred":[
         "Natitingou"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u8482\u5ef7\u53e4"
-    ],
     "name:dan_x_preferred":[
         "Natitingou"
     ],
     "name:deu_x_preferred":[
         "Natitingou"
     ],
-    "name:dut_x_preferred":[
-        "Natitingou"
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03c4\u03b9\u03c4\u03af\u03bd\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Natitingou"
@@ -46,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Natitingou"
-    ],
-    "name:fre_x_preferred":[
-        "Natitingou"
-    ],
-    "name:ger_x_preferred":[
-        "Natitingou"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03c4\u03b9\u03c4\u03af\u03bd\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a9f\u0ac0\u0a9f\u0abf\u0a82\u0a97\u0acb\u0a89"
@@ -92,9 +80,6 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u091f\u093f\u0924\u0940\u0928\u0917\u094b\u090a\u0902"
     ],
-    "name:may_x_preferred":[
-        "Natitingou"
-    ],
     "name:msa_x_preferred":[
         "Natitingou"
     ],
@@ -104,9 +89,6 @@
     "name:nob_x_preferred":[
         "Natitingou"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062a\u06cc\u062a\u06cc\u0646\u06af\u0648\u060c \u0628\u0646\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Natitingou"
     ],
@@ -114,9 +96,6 @@
         "Natitingou"
     ],
     "name:ron_x_preferred":[
-        "Natitingou"
-    ],
-    "name:rum_x_preferred":[
         "Natitingou"
     ],
     "name:rus_x_preferred":[
@@ -309,7 +288,7 @@
         }
     ],
     "wof:id":421199477,
-    "wof:lastmodified":1513900093,
+    "wof:lastmodified":1561839689,
     "wof:name":"Natitingou",
     "wof:parent_id":421169231,
     "wof:placetype":"locality",

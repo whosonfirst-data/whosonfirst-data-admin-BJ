@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Sak\u00e9t\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Sak\u00e9te"
-    ],
     "name:eng_x_preferred":[
         "Sak\u00e9t\u00e9"
     ],
@@ -26,9 +23,6 @@
         "\u0633\u0627\u06a9\u062a\u0647\u060c \u0628\u0646\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
-        "Sak\u00e9t\u00e9"
-    ],
-    "name:fre_x_preferred":[
         "Sak\u00e9t\u00e9"
     ],
     "name:hrv_x_preferred":[
@@ -40,25 +34,19 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30b1\u30c6"
     ],
-    "name:may_x_preferred":[
-        "Sak\u00e9t\u00e9"
-    ],
     "name:msa_x_preferred":[
         "Sak\u00e9t\u00e9"
     ],
     "name:nld_x_preferred":[
         "Sak\u00e9t\u00e9"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u06a9\u062a\u0647\u060c \u0628\u0646\u06cc\u0646"
+    "name:nld_x_variant":[
+        "Sak\u00e9te"
     ],
     "name:pol_x_preferred":[
         "Sak\u00e9t\u00e9"
     ],
     "name:ron_x_preferred":[
-        "Sak\u00e9t\u00e9"
-    ],
-    "name:rum_x_preferred":[
         "Sak\u00e9t\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -115,7 +103,7 @@
         }
     ],
     "wof:id":421197475,
-    "wof:lastmodified":1527716405,
+    "wof:lastmodified":1561839689,
     "wof:name":"Sak\u00e9t\u00e9",
     "wof:parent_id":1108758919,
     "wof:placetype":"locality",

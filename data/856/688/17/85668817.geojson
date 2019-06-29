@@ -46,17 +46,14 @@
     "name:ceb_x_preferred":[
         "D\u00e9partement de l'Ou\u00e9m\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u97cb\u6885\u7701"
-    ],
     "name:dan_x_preferred":[
         "Ou\u00e9m\u00e9"
     ],
     "name:deu_x_preferred":[
         "Ou\u00e9m\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Ou\u00e9m\u00e9"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b5\u03bc\u03ad"
     ],
     "name:eng_x_preferred":[
         "Ou\u00e9m\u00e9 Department"
@@ -75,17 +72,7 @@
         "Ou\u00e9m\u00e9"
     ],
     "name:fra_x_variant":[
-        "Ou\u00e9m\u00e9",
         "Oueme"
-    ],
-    "name:fre_x_preferred":[
-        "Ou\u00e9m\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Ou\u00e9m\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b5\u03bc\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0a8f\u0aae\u0ac7 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -120,14 +107,14 @@
     "name:mar_x_preferred":[
         "\u0914\u0907\u092e\u0947 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Oueme Department"
+    ],
+    "name:nld_x_preferred":[
+        "Ou\u00e9m\u00e9"
     ],
     "name:nob_x_preferred":[
         "Ou\u00e9m\u00e9"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0645\u0647"
     ],
     "name:pol_x_preferred":[
         "Departament Ou\u00e9m\u00e9"
@@ -135,7 +122,7 @@
     "name:por_x_preferred":[
         "Oueme"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Ou\u00e9m\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -182,6 +169,9 @@
     ],
     "name:zho_x_preferred":[
         "\u97e6\u6885"
+    ],
+    "name:zho_x_variant":[
+        "\u97cb\u6885\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BEN",
@@ -304,7 +294,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550312,
+    "wof:lastmodified":1561839675,
     "wof:name":"Ou\u00e9m\u00e9",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

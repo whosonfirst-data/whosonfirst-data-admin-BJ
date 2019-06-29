@@ -41,29 +41,26 @@
     "name:bul_x_preferred":[
         "\u0414\u0436\u0443\u0433\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u6731\u53e4"
-    ],
     "name:dan_x_preferred":[
         "Djougou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Djougou"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b6\u03bf\u03cd\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Djougou"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u06af\u0648\u060c \u0628\u0646\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Djougou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Djougou"
-    ],
-    "name:ger_x_preferred":[
-        "Djougou"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b6\u03bf\u03cd\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac0\u0a9c\u0acc\u0a97\u0acc"
@@ -101,14 +98,14 @@
     "name:mar_x_preferred":[
         "\u0921\u0940\u091c\u094b\u090a\u0917\u094b\u090a\u0902"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Djougou"
+    ],
+    "name:nld_x_preferred":[
         "Djougou"
     ],
     "name:nob_x_preferred":[
         "Djougou"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0648\u06af\u0648\u060c \u0628\u0646\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Djougou"
@@ -116,7 +113,7 @@
     "name:por_x_preferred":[
         "Djougou"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Djougou"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +161,9 @@
     "name:yor_x_preferred":[
         "Djougou"
     ],
+    "name:zho_x_preferred":[
+        "\u6731\u53e4"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":1108758889,
-    "wof:lastmodified":1553718703,
+    "wof:lastmodified":1561839682,
     "wof:name":"Djougou",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

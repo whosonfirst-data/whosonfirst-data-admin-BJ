@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Mono"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u8afe\u7701"
-    ],
     "name:dan_x_preferred":[
         "Mono"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mono"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mono Department"
@@ -55,20 +55,14 @@
     "name:eng_x_variant":[
         "Mono"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0648\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Monon depatermentti"
     ],
     "name:fra_x_preferred":[
         "Mono"
-    ],
-    "name:fre_x_preferred":[
-        "Mono"
-    ],
-    "name:ger_x_preferred":[
-        "Mono"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -103,14 +97,14 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0928\u094b \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mono Department"
+    ],
+    "name:nld_x_preferred":[
+        "Mono"
     ],
     "name:nob_x_preferred":[
         "Mono"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0648\u0646\u0648"
     ],
     "name:pol_x_preferred":[
         "Departament Mono"
@@ -118,7 +112,7 @@
     "name:por_x_preferred":[
         "Mono"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Mono"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +156,9 @@
     ],
     "name:yor_x_preferred":[
         "Ap\u00e1 Mono"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u8afe\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BEN",
@@ -284,7 +281,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553814710,
+    "wof:lastmodified":1561839675,
     "wof:name":"Mono",
     "wof:parent_id":85632247,
     "wof:placetype":"region",
