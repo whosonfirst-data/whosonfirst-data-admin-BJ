@@ -32,19 +32,19 @@
     "mps:longitude":1.034151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Mat\u00e9ri"
-    ],
     "name:eng_x_preferred":[
         "Mat\u00e9ri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mat\u00e9ri"
     ],
     "name:ita_x_preferred":[
         "Mat\u00e9ri"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Mat\u00e9ri"
+    ],
+    "name:nld_x_preferred":[
         "Mat\u00e9ri"
     ],
     "name:pol_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108758833,
-    "wof:lastmodified":1553718700,
+    "wof:lastmodified":1561839684,
     "wof:name":"Materi",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

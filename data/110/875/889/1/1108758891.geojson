@@ -32,19 +32,19 @@
     "mps:longitude":2.442706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "S\u00f4-Ava"
-    ],
     "name:eng_x_preferred":[
         "S\u00f4-Ava"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "S\u00f4-Ava"
     ],
     "name:ita_x_preferred":[
         "S\u00f4-Ava"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "S\u00f4-Ava"
+    ],
+    "name:nld_x_preferred":[
         "S\u00f4-Ava"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1108758891,
-    "wof:lastmodified":1553718702,
+    "wof:lastmodified":1561839681,
     "wof:name":"So-Ava",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

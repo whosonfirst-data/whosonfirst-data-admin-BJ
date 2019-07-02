@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.41656,
-    "geom:area_square_m":5109465783.854208,
+    "geom:area_square_m":5109465783.854222,
     "geom:bbox":"1.62285491232,6.91192983589,2.56008182142,7.63240265536",
     "geom:latitude":7.265427,
     "geom:longitude":2.110191,
@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Zou"
     ],
-    "name:chi_x_preferred":[
-        "\u7956\u7701"
-    ],
     "name:dan_x_preferred":[
         "Zou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zou"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Zou Department"
@@ -55,20 +55,14 @@
     "name:eng_x_variant":[
         "Zou"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0632\u0648"
+    ],
     "name:fin_x_preferred":[
         "Zoun depatermentti"
     ],
     "name:fra_x_preferred":[
         "Zou"
-    ],
-    "name:fre_x_preferred":[
-        "Zou"
-    ],
-    "name:ger_x_preferred":[
-        "Zou"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0acb\u0aa8\u0abf\u0aaf\u0abe"
@@ -106,8 +100,11 @@
     "name:mar_x_preferred":[
         "\u091d\u094b\u090a \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zou Department"
+    ],
+    "name:nld_x_preferred":[
+        "Zou"
     ],
     "name:nob_x_preferred":[
         "Zou"
@@ -115,16 +112,13 @@
     "name:oci_x_preferred":[
         "Departament de Zou"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0632\u0648"
-    ],
     "name:pol_x_preferred":[
         "Departament Zou"
     ],
     "name:por_x_preferred":[
         "Zou"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Zou"
     ],
     "name:rus_x_preferred":[
@@ -171,6 +165,9 @@
     ],
     "name:yor_x_preferred":[
         "Ap\u00e1 Zou"
+    ],
+    "name:zho_x_preferred":[
+        "\u7956\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BEN",
@@ -293,7 +290,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553814710,
+    "wof:lastmodified":1561839675,
     "wof:name":"Zou",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

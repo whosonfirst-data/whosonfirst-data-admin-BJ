@@ -32,19 +32,19 @@
     "mps:longitude":2.519826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Ou\u00e8ss\u00e8"
-    ],
     "name:eng_x_preferred":[
         "Ou\u00e8ss\u00e8"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ou\u00e8ss\u00e8"
     ],
     "name:ita_x_preferred":[
         "Ou\u00e8ss\u00e8"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ou\u00e8ss\u00e8"
+    ],
+    "name:nld_x_preferred":[
         "Ou\u00e8ss\u00e8"
     ],
     "name:pol_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108758961,
-    "wof:lastmodified":1553718704,
+    "wof:lastmodified":1561839685,
     "wof:name":"Ouesse",
     "wof:parent_id":85668807,
     "wof:placetype":"county",
