@@ -32,10 +32,19 @@
     "mps:longitude":1.091582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Boukoumb\u00e9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03ba\u03bf\u03c5\u03bc\u03c0\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Boukoumb\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Boukoumb\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "Boukoumb\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -59,8 +68,14 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u043a\u043e\u043c\u0431\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Boukoumb\u00e9"
+    ],
     "name:swe_x_preferred":[
         "Boukoumb\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6606\u8c9d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":1108758859,
-    "wof:lastmodified":1561839684,
+    "wof:lastmodified":1563356136,
     "wof:name":"Boukombe",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

@@ -32,10 +32,19 @@
     "mps:longitude":0.90243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cobly"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03c0\u03bb\u03af"
+    ],
     "name:eng_x_preferred":[
         "Cobly"
     ],
     "name:fra_x_preferred":[
+        "Cobly"
+    ],
+    "name:frr_x_preferred":[
         "Cobly"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +59,14 @@
     "name:pol_x_preferred":[
         "Cobly"
     ],
+    "name:spa_x_preferred":[
+        "Cobly"
+    ],
     "name:swe_x_preferred":[
         "Cobly"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5e03\u91cc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1108758869,
-    "wof:lastmodified":1561839682,
+    "wof:lastmodified":1563356116,
     "wof:name":"Kobli",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

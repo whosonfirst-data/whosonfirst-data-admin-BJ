@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648\u0645\u06cc-\u06a9\u0627\u0644\u0627\u0648\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "Abomey-Calavi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03bf\u03bc\u03ad-\u039a\u03b1\u03bb\u03b1\u03b2\u03af"
     ],
     "name:eng_x_preferred":[
         "Abomey-Calavi"
@@ -25,7 +31,13 @@
     "name:fas_x_preferred":[
         "\u0627\u0628\u0648\u0645\u06cc-\u06a9\u0627\u0644\u0627\u0648\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Abomey-Calavi"
+    ],
     "name:fra_x_preferred":[
+        "Abomey-Calavi"
+    ],
+    "name:frr_x_preferred":[
         "Abomey-Calavi"
     ],
     "name:hrv_x_preferred":[
@@ -52,11 +64,17 @@
     "name:rus_x_preferred":[
         "\u0410\u0431\u043e\u043c\u0435\u0439-\u041a\u0430\u043b\u0430\u0432\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Abomey-Calavi"
+    ],
     "name:swe_x_preferred":[
         "Abomey-Calavi"
     ],
     "name:unk_x_variant":[
         "Abome Calavi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648\u0645\u06cc-\u06a9\u0627\u0644\u0627\u0648\u06cc"
     ],
     "name:vep_x_preferred":[
         "Abomei Kalavi"
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":421199603,
-    "wof:lastmodified":1561839689,
+    "wof:lastmodified":1563356296,
     "wof:name":"Abomey-Calavi",
     "wof:parent_id":421186271,
     "wof:placetype":"locality",

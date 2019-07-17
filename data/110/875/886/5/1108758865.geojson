@@ -32,6 +32,15 @@
     "mps:longitude":2.552409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0433\u043e\u0443\u043d\u043e\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Gogounou"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03b3\u03ba\u03bf\u03c5\u03bd\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Gogounou"
     ],
@@ -39,6 +48,9 @@
         "Gogounou"
     ],
     "name:fra_x_preferred":[
+        "Gogounou"
+    ],
+    "name:frr_x_preferred":[
         "Gogounou"
     ],
     "name:ita_x_preferred":[
@@ -59,8 +71,14 @@
     "name:por_x_preferred":[
         "Gogounou"
     ],
+    "name:spa_x_preferred":[
+        "Gogounou"
+    ],
     "name:swe_x_preferred":[
         "Gogounou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u53e4\u52aa"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +115,7 @@
         }
     ],
     "wof:id":1108758865,
-    "wof:lastmodified":1561839682,
+    "wof:lastmodified":1563356117,
     "wof:name":"Gogounou",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

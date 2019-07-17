@@ -32,8 +32,14 @@
     "mps:longitude":1.956601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0627\u0642\u0628\u0627\u0646\u0642\u0646\u06cc\u0632\u0648\u0646"
+    ],
     "name:deu_x_preferred":[
         "Agbangnizoun"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03ba\u03bc\u03c0\u03b1\u03bd\u03b3\u03ba\u03bd\u03b9\u03b6\u03bf\u03cd\u03bd"
     ],
     "name:eng_x_preferred":[
         "Agbangnizoun"
@@ -42,6 +48,9 @@
         "\u0627\u06af\u0628\u0627\u0646\u06af\u0646\u06cc\u0632\u0648\u0646"
     ],
     "name:fra_x_preferred":[
+        "Agbangnizoun"
+    ],
+    "name:frr_x_preferred":[
         "Agbangnizoun"
     ],
     "name:ita_x_preferred":[
@@ -53,11 +62,17 @@
     "name:nld_x_preferred":[
         "Agbangnizoun"
     ],
+    "name:spa_x_preferred":[
+        "Agbangnizoun"
+    ],
     "name:swe_x_preferred":[
         "Agbangnizoun"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0628\u0627\u0646\u06af\u0646\u06cc\u0632\u0648\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u73ed\u5c3c\u5b97"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":1108758921,
-    "wof:lastmodified":1561839682,
+    "wof:lastmodified":1563356122,
     "wof:name":"Agbangnizoun",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

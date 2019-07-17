@@ -32,10 +32,16 @@
     "mps:longitude":2.34205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u0396\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Z\u00e8"
     ],
     "name:fra_x_preferred":[
+        "Z\u00e8"
+    ],
+    "name:frr_x_preferred":[
         "Z\u00e8"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +56,14 @@
     "name:pol_x_preferred":[
         "Z\u00e8"
     ],
+    "name:spa_x_preferred":[
+        "Z\u00e8"
+    ],
     "name:swe_x_preferred":[
         "Z\u00e8"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fa4\u6751"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1108758875,
-    "wof:lastmodified":1561839681,
+    "wof:lastmodified":1563356115,
     "wof:name":"Ze",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

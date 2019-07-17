@@ -32,10 +32,16 @@
     "mps:longitude":1.812816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03b2\u03b9\u03ba\u03bb\u03ad\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Toviklin"
     ],
     "name:fra_x_preferred":[
+        "Toviklin"
+    ],
+    "name:frr_x_preferred":[
         "Toviklin"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +56,14 @@
     "name:pol_x_preferred":[
         "Toviklin"
     ],
+    "name:spa_x_preferred":[
+        "Toviklin"
+    ],
     "name:swe_x_preferred":[
         "Toviklin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u7dad\u514b\u6797"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1108758947,
-    "wof:lastmodified":1561839683,
+    "wof:lastmodified":1563356127,
     "wof:name":"Toviklin",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

@@ -32,10 +32,19 @@
     "mps:longitude":1.696966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Djakotomey"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b6\u03b1\u03ba\u03bf\u03c4\u03bf\u03bc\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Djakotomey"
     ],
     "name:fra_x_preferred":[
+        "Djakotomey"
+    ],
+    "name:frr_x_preferred":[
         "Djakotomey"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +59,14 @@
     "name:pol_x_preferred":[
         "Djakotomey"
     ],
+    "name:spa_x_preferred":[
+        "Djakotomey"
+    ],
     "name:swe_x_preferred":[
         "Djakotomey"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cc8\u79d1\u6258\u7f8e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1108758881,
-    "wof:lastmodified":1561839682,
+    "wof:lastmodified":1563356119,
     "wof:name":"Djakotomey",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

@@ -32,10 +32,19 @@
     "mps:longitude":1.845662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b5\u03b3\u03b9\u03bf\u03b3\u03ba\u03bc\u03c0\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Hou\u00e9yogb\u00e9"
     ],
+    "name:fin_x_preferred":[
+        "Hou\u00e9yogb\u00e9"
+    ],
     "name:fra_x_preferred":[
+        "Hou\u00e9yogb\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "Hou\u00e9yogb\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +59,14 @@
     "name:por_x_preferred":[
         "Hou\u00e9yogb\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "Hou\u00e9yogb\u00e9"
+    ],
     "name:swe_x_preferred":[
         "Hou\u00e9yogb\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u60e0\u5c24\u683c\u8c9d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1108758899,
-    "wof:lastmodified":1561839681,
+    "wof:lastmodified":1563356109,
     "wof:name":"Houeyogbe",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

@@ -35,10 +35,16 @@
     "name:deu_x_preferred":[
         "Djidja"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b6\u03b9\u03bd\u03c4\u03b6\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Djidja"
     ],
     "name:fra_x_preferred":[
+        "Djidja"
+    ],
+    "name:frr_x_preferred":[
         "Djidja"
     ],
     "name:ita_x_preferred":[
@@ -53,8 +59,14 @@
     "name:pol_x_preferred":[
         "Djidja"
     ],
+    "name:spa_x_preferred":[
+        "Djidja"
+    ],
     "name:swe_x_preferred":[
         "Djidja"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u8cc8"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":1108758927,
-    "wof:lastmodified":1561839682,
+    "wof:lastmodified":1563356121,
     "wof:name":"Djidja",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

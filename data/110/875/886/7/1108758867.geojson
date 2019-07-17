@@ -35,10 +35,19 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0445\u043e\u043d\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Pehonko"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bf\u03c5\u03bd\u03ba\u03cc"
+    ],
     "name:eng_x_preferred":[
         "P\u00e9hunco"
     ],
     "name:fra_x_preferred":[
+        "P\u00e9hunco"
+    ],
+    "name:frr_x_preferred":[
         "P\u00e9hunco"
     ],
     "name:ita_x_preferred":[
@@ -56,8 +65,14 @@
     "name:ron_x_preferred":[
         "P\u00e9honko"
     ],
+    "name:spa_x_preferred":[
+        "P\u00e9hunco"
+    ],
     "name:swe_x_preferred":[
         "Pehonko"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u6d2a\u79d1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":1108758867,
-    "wof:lastmodified":1561839682,
+    "wof:lastmodified":1563356116,
     "wof:name":"Pehunco",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

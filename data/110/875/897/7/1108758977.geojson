@@ -32,10 +32,22 @@
     "mps:longitude":2.176843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Toffo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c6\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Toffo"
     ],
+    "name:fin_x_preferred":[
+        "Toffo"
+    ],
     "name:fra_x_preferred":[
+        "Toffo"
+    ],
+    "name:frr_x_preferred":[
         "Toffo"
     ],
     "name:ita_x_preferred":[
@@ -59,8 +71,14 @@
     "name:slv_x_preferred":[
         "Toffo"
     ],
+    "name:spa_x_preferred":[
+        "Toffo"
+    ],
     "name:swe_x_preferred":[
         "Toffo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u798f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +115,7 @@
         }
     ],
     "wof:id":1108758977,
-    "wof:lastmodified":1561839686,
+    "wof:lastmodified":1563356147,
     "wof:name":"Toffo",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

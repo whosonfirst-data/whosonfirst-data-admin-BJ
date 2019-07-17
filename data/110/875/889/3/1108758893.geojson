@@ -32,10 +32,19 @@
     "mps:longitude":1.928353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c0\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Bopa"
     ],
+    "name:fin_x_preferred":[
+        "Bopa"
+    ],
     "name:fra_x_preferred":[
+        "Bopa"
+    ],
+    "name:frr_x_preferred":[
         "Bopa"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +59,14 @@
     "name:por_x_preferred":[
         "Bopa"
     ],
+    "name:spa_x_preferred":[
+        "Bopa"
+    ],
     "name:swe_x_preferred":[
         "Bopa"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5e15"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1108758893,
-    "wof:lastmodified":1561839681,
+    "wof:lastmodified":1563356112,
     "wof:name":"Bopa",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

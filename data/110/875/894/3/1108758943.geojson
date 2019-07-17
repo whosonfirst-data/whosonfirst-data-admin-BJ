@@ -32,8 +32,14 @@
     "mps:longitude":3.194089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u06a9\u06cc"
+    ],
     "name:cat_x_preferred":[
         "Nikki"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03af"
     ],
     "name:eng_x_preferred":[
         "Nikki"
@@ -41,7 +47,16 @@
     "name:fas_x_preferred":[
         "\u0646\u06cc\u06a9\u06cc\u060c \u0628\u0646\u06cc\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u06a9\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Nikki"
+    ],
     "name:fra_x_preferred":[
+        "Nikki"
+    ],
+    "name:frr_x_preferred":[
         "Nikki"
     ],
     "name:hrv_x_preferred":[
@@ -62,11 +77,17 @@
     "name:ron_x_preferred":[
         "Nikki"
     ],
+    "name:spa_x_preferred":[
+        "Nikki"
+    ],
     "name:swe_x_preferred":[
         "Nikki"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043a\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u57fa"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":1108758943,
-    "wof:lastmodified":1561839683,
+    "wof:lastmodified":1563356128,
     "wof:name":"Nikki",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

@@ -32,10 +32,16 @@
     "mps:longitude":2.231053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bb\u03b1\u03b6\u03bf\u03c5\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Glazou\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Glazou\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "Glazou\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +56,14 @@
     "name:pol_x_preferred":[
         "Glazou\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "Glazou\u00e9"
+    ],
     "name:swe_x_preferred":[
         "Glazou\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u7956\u57c3"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1108758945,
-    "wof:lastmodified":1561839683,
+    "wof:lastmodified":1563356129,
     "wof:name":"Glazoue",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

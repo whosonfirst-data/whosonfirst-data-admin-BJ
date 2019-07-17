@@ -32,10 +32,16 @@
     "mps:longitude":2.351002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03b5\u03bd\u03c4\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Sinend\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Sinend\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "Sinend\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +56,14 @@
     "name:pol_x_preferred":[
         "Sinend\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "Sinend\u00e9"
+    ],
     "name:swe_x_preferred":[
         "Sinend\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u5ae9\u4ee3"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1108758973,
-    "wof:lastmodified":1561839686,
+    "wof:lastmodified":1563356148,
     "wof:name":"Sinende",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

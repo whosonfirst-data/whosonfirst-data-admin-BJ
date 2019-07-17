@@ -32,10 +32,19 @@
     "mps:longitude":2.684167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Adjara"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03b6\u03b1\u03c1\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Adjarra"
     ],
     "name:fra_x_preferred":[
+        "Adjarra"
+    ],
+    "name:frr_x_preferred":[
         "Adjarra"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +59,14 @@
     "name:pol_x_preferred":[
         "Adjarra"
     ],
+    "name:spa_x_preferred":[
+        "Adjarra"
+    ],
     "name:swe_x_preferred":[
         "Adjarra"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8cc8\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1108758913,
-    "wof:lastmodified":1561839685,
+    "wof:lastmodified":1563356142,
     "wof:name":"Adjarra",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

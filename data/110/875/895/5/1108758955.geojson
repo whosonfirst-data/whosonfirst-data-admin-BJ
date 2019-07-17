@@ -32,6 +32,21 @@
     "mps:longitude":2.7422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0645\u0627\u0645\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u06cc-\u0622\u06cc\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0438\u043c\u0430\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Karimama"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b9\u03bc\u03b1\u03bc\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Karimama"
     ],
@@ -68,6 +83,9 @@
     "name:swe_x_preferred":[
         "Karimama"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u91cc\u99ac\u99ac"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":1108758955,
-    "wof:lastmodified":1561839683,
+    "wof:lastmodified":1563356125,
     "wof:name":"Karimama",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

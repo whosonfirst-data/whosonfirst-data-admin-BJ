@@ -32,11 +32,20 @@
     "mps:longitude":3.382792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b1\u03bb\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Kalal\u00e9"
     ],
+    "name:eng_x_variant":[
+        "Kalal\u00e8"
+    ],
     "name:fra_x_preferred":[
         "Kalal\u00e9"
+    ],
+    "name:frr_x_preferred":[
+        "Kalal\u00e8"
     ],
     "name:ita_x_preferred":[
         "Kalal\u00e9"
@@ -50,11 +59,17 @@
     "name:pol_x_preferred":[
         "Kalal\u00e9"
     ],
+    "name:pol_x_variant":[
+        "Materi"
+    ],
     "name:spa_x_preferred":[
         "Kalal\u00e9"
     ],
     "name:swe_x_preferred":[
         "Kalal\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u840a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":1108758835,
-    "wof:lastmodified":1561839684,
+    "wof:lastmodified":1563356135,
     "wof:name":"Kalale",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

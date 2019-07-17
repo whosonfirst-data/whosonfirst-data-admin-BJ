@@ -32,10 +32,19 @@
     "mps:longitude":2.611166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Seme-kpodji"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bc\u03ad-\u039a\u03c0\u03bf\u03bd\u03c4\u03b6\u03af"
+    ],
     "name:eng_x_preferred":[
         "S\u00e8m\u00e8-Kpodji"
     ],
     "name:fra_x_preferred":[
+        "S\u00e8m\u00e8-Kpodji"
+    ],
+    "name:frr_x_preferred":[
         "S\u00e8m\u00e8-Kpodji"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +59,14 @@
     "name:pol_x_preferred":[
         "S\u00e8m\u00e8-Kpodji"
     ],
+    "name:spa_x_preferred":[
+        "S\u00e8m\u00e8-Kpodji"
+    ],
     "name:swe_x_preferred":[
         "S\u00e8m\u00e8-Kpodji"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u6885-\u6ce2\u5409"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1108758917,
-    "wof:lastmodified":1561839685,
+    "wof:lastmodified":1563356141,
     "wof:name":"Seme-Kpodji",
     "wof:parent_id":85668817,
     "wof:placetype":"county",
