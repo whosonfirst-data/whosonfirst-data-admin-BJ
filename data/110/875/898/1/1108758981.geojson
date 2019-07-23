@@ -32,10 +32,16 @@
     "mps:longitude":2.9858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b5\u03c1\u03ad"
+    ],
     "name:eng_x_preferred":[
         "P\u00e8r\u00e8r\u00e8"
     ],
     "name:fra_x_preferred":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
+    "name:frr_x_preferred":[
         "P\u00e8r\u00e8r\u00e8"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +56,14 @@
     "name:pol_x_preferred":[
         "P\u00e8r\u00e8r\u00e8"
     ],
+    "name:spa_x_preferred":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
     "name:swe_x_preferred":[
         "P\u00e8r\u00e8r\u00e8"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u96f7\u96f7"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1108758981,
-    "wof:lastmodified":1561839685,
+    "wof:lastmodified":1563356142,
     "wof:name":"Perere",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

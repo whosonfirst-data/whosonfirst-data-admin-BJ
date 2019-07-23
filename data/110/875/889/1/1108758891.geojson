@@ -32,10 +32,16 @@
     "mps:longitude":2.442706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf-\u0391\u03b2\u03ac"
+    ],
     "name:eng_x_preferred":[
         "S\u00f4-Ava"
     ],
     "name:fra_x_preferred":[
+        "S\u00f4-Ava"
+    ],
+    "name:frr_x_preferred":[
         "S\u00f4-Ava"
     ],
     "name:ita_x_preferred":[
@@ -47,8 +53,14 @@
     "name:nld_x_preferred":[
         "S\u00f4-Ava"
     ],
+    "name:spa_x_preferred":[
+        "S\u00f4-Ava"
+    ],
     "name:swe_x_preferred":[
         "S\u00f4-Ava"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u963f\u74e6"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":1108758891,
-    "wof:lastmodified":1561839681,
+    "wof:lastmodified":1563356112,
     "wof:name":"So-Ava",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

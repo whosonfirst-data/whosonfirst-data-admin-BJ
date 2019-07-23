@@ -32,10 +32,16 @@
     "mps:longitude":1.034151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c4\u03b5\u03c1\u03af"
+    ],
     "name:eng_x_preferred":[
         "Mat\u00e9ri"
     ],
     "name:fra_x_preferred":[
+        "Mat\u00e9ri"
+    ],
+    "name:frr_x_preferred":[
         "Mat\u00e9ri"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +56,14 @@
     "name:pol_x_preferred":[
         "Mat\u00e9ri"
     ],
+    "name:spa_x_preferred":[
+        "Mat\u00e9ri"
+    ],
     "name:swe_x_preferred":[
         "Mat\u00e9ri"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6cf0\u91cc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1108758833,
-    "wof:lastmodified":1561839684,
+    "wof:lastmodified":1563356135,
     "wof:name":"Materi",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

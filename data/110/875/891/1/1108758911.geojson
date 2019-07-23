@@ -32,13 +32,22 @@
     "mps:longitude":2.647885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Avrankou"
+    ],
     "name:deu_x_preferred":[
         "Avrankou"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b2\u03c1\u03b1\u03bd\u03ba\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Avrankou"
     ],
     "name:fra_x_preferred":[
+        "Avrankou"
+    ],
+    "name:frr_x_preferred":[
         "Avrankou"
     ],
     "name:ita_x_preferred":[
@@ -56,8 +65,14 @@
     "name:rus_x_preferred":[
         "\u0410\u0432\u0440\u0430\u043d\u043a\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Avrankou"
+    ],
     "name:swe_x_preferred":[
         "Avrankou"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u592b\u862d\u5eab"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":1108758911,
-    "wof:lastmodified":1561839685,
+    "wof:lastmodified":1563356141,
     "wof:name":"Avrankou",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

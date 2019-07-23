@@ -33,14 +33,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u0627\u062f\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "regne d'Allada"
+    ],
+    "name:ceb_x_preferred":[
+        "Allada"
+    ],
     "name:deu_x_preferred":[
         "Allada"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03b1\u03bd\u03c4\u03ac"
     ],
     "name:eng_x_preferred":[
         "Allada"
     ],
     "name:fas_x_preferred":[
         "\u0622\u0644\u0627\u062f\u0627\u060c \u0628\u0646\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0644\u0627\u062f\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Allada"
     ],
     "name:fra_x_preferred":[
         "Allada"
@@ -72,8 +90,14 @@
     "name:ron_x_preferred":[
         "Allada"
     ],
+    "name:spa_x_preferred":[
+        "Allada"
+    ],
     "name:swe_x_preferred":[
         "Allada"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u9054"
     ],
     "qs:gn_country":"BJ",
     "qs:gn_fcode":"ADM2",
@@ -136,7 +160,7 @@
         }
     ],
     "wof:id":421202551,
-    "wof:lastmodified":1561839688,
+    "wof:lastmodified":1563356285,
     "wof:name":"Allada",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

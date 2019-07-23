@@ -32,10 +32,16 @@
     "mps:longitude":1.821647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03bf\u03c5\u03b5\u03ba\u03b1\u03bd\u03bc\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Klou\u00e9kanm\u00e8"
     ],
     "name:fra_x_preferred":[
+        "Klou\u00e9kanm\u00e8"
+    ],
+    "name:frr_x_preferred":[
         "Klou\u00e9kanm\u00e8"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +56,14 @@
     "name:pol_x_preferred":[
         "Klou\u00e9kanm\u00e8"
     ],
+    "name:spa_x_preferred":[
+        "Klou\u00e9kanm\u00e8"
+    ],
     "name:swe_x_preferred":[
         "Klou\u00e9kanm\u00e8"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u76e7\u57c3\u5eb7\u6885"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1108758883,
-    "wof:lastmodified":1561839682,
+    "wof:lastmodified":1563356119,
     "wof:name":"Klouekanme",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

@@ -32,10 +32,19 @@
     "mps:longitude":1.447534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ouake"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b1\u03ba\u03ad"
+    ],
     "name:eng_x_preferred":[
         "Ouak\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Ouak\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "Ouak\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +59,14 @@
     "name:pol_x_preferred":[
         "Ouak\u00e9"
     ],
+    "name:spa_x_preferred":[
+        "Ouak\u00e9"
+    ],
     "name:swe_x_preferred":[
         "Ouak\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u51f1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1108758857,
-    "wof:lastmodified":1561839684,
+    "wof:lastmodified":1563356136,
     "wof:name":"Ouake",
     "wof:parent_id":85668827,
     "wof:placetype":"county",
