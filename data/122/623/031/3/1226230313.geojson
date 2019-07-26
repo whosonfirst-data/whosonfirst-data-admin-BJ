@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Assant\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Assant\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Assant\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Assant\u00e9"
+    ],
     "name:und_x_variant":[
         "Assanoe",
         "Assanti",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1226230313,
-    "wof:lastmodified":1537587884,
+    "wof:lastmodified":1564183879,
     "wof:name":"Assante",
     "wof:parent_id":1108758945,
     "wof:placetype":"locality",

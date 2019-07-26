@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Biro"
+    ],
+    "name:ita_x_preferred":[
+        "Biro"
+    ],
+    "name:msa_x_preferred":[
+        "Biro"
+    ],
+    "name:swe_x_preferred":[
+        "Biro"
+    ],
     "name:und_x_variant":[
         "Birou",
         "Biro"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1309789621,
-    "wof:lastmodified":1537587879,
+    "wof:lastmodified":1564183707,
     "wof:name":"Biro",
     "wof:parent_id":1108758943,
     "wof:placetype":"locality",

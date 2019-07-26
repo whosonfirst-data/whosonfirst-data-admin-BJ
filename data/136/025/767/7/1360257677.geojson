@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ekp\u00e8"
+    ],
+    "name:ita_x_preferred":[
+        "Ekp\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Ekp\u00e8"
+    ],
     "name:und_x_variant":[
         "Ekp\u00e9"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1360257677,
-    "wof:lastmodified":1537587872,
+    "wof:lastmodified":1564183681,
     "wof:name":"Ekpe",
     "wof:parent_id":1108758917,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Datori"
+    ],
+    "name:ita_x_preferred":[
+        "Datori"
+    ],
+    "name:msa_x_preferred":[
+        "Datori"
+    ],
+    "name:swe_x_preferred":[
+        "Datori"
+    ],
     "name:und_x_variant":[
         "Datori-Tiokossi",
         "Datori"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226427919,
-    "wof:lastmodified":1537587875,
+    "wof:lastmodified":1564183849,
     "wof:name":"Datori",
     "wof:parent_id":1108758869,
     "wof:placetype":"locality",

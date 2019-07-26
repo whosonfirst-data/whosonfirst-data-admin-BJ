@@ -26,6 +26,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oumako"
+    ],
+    "name:ita_x_preferred":[
+        "Oumako"
+    ],
+    "name:msa_x_preferred":[
+        "Oumako"
+    ],
+    "name:swe_x_preferred":[
+        "Oumako"
+    ],
     "name:und_x_variant":[
         "Ouamako",
         "Oumako"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1259666665,
-    "wof:lastmodified":1537587854,
+    "wof:lastmodified":1564183820,
     "wof:name":"Oumako",
     "wof:parent_id":1108758895,
     "wof:placetype":"locality",

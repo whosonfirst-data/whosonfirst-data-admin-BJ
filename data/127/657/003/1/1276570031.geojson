@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Avakpa"
+    ],
+    "name:ita_x_preferred":[
+        "Avakpa"
+    ],
+    "name:msa_x_preferred":[
+        "Avakpa"
+    ],
+    "name:swe_x_preferred":[
+        "Avakpa"
+    ],
     "name:und_x_variant":[
         "Avakpa-Motchokpevi",
         "Avakpa"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276570031,
-    "wof:lastmodified":1537587883,
+    "wof:lastmodified":1564183508,
     "wof:name":"Avakpa",
     "wof:parent_id":421202551,
     "wof:placetype":"locality",

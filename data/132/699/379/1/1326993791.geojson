@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Igana"
+    ],
+    "name:msa_x_preferred":[
+        "Igana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326993791,
-    "wof:lastmodified":1537487839,
+    "wof:lastmodified":1564183338,
     "wof:name":"Igana",
     "wof:parent_id":1108758855,
     "wof:placetype":"locality",

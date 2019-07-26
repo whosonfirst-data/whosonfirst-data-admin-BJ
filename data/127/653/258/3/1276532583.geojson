@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Togodo"
+    ],
+    "name:ita_x_preferred":[
+        "Togoudo"
+    ],
+    "name:msa_x_preferred":[
+        "Togoudo"
+    ],
+    "name:swe_x_preferred":[
+        "Togoudo"
+    ],
     "name:und_x_variant":[
         "Togoudo",
         "Togbodo",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276532583,
-    "wof:lastmodified":1537587843,
+    "wof:lastmodified":1564183531,
     "wof:name":"Togodo",
     "wof:parent_id":421202551,
     "wof:placetype":"locality",

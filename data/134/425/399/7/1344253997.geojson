@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Libant\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Libant\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Libant\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "Libant\u00e8"
+    ],
     "name:und_x_variant":[
         "Libant\u00e9"
     ],
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1344253997,
-    "wof:lastmodified":1537587860,
+    "wof:lastmodified":1564183370,
     "wof:name":"Libante",
     "wof:parent_id":1108758959,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ajud\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Savi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327118885,
-    "wof:lastmodified":1537487830,
+    "wof:lastmodified":1564183352,
     "wof:name":"Savi",
     "wof:parent_id":421174729,
     "wof:placetype":"locality",

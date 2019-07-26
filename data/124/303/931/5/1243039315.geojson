@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kolokond\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Kolokond\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Kolokond\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Kolokond\u00e9"
+    ],
     "name:und_x_variant":[
         "Kolkond\u00e9",
         "Kolokond\u00e9"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1243039315,
-    "wof:lastmodified":1537587863,
+    "wof:lastmodified":1564183754,
     "wof:name":"Kolokonde",
     "wof:parent_id":1108758889,
     "wof:placetype":"locality",

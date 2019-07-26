@@ -27,8 +27,35 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
+    "name:frr_x_preferred":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
+    "name:ita_x_preferred":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
+    "name:nld_x_preferred":[
+        "Perere"
+    ],
+    "name:pol_x_preferred":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
+    "name:spa_x_preferred":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e8r\u00e8r\u00e8"
+    ],
     "name:und_x_variant":[
         "P\u00e8r\u00e8r\u00e8"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u96f7\u96f7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1293084947,
-    "wof:lastmodified":1537587852,
+    "wof:lastmodified":1564183429,
     "wof:name":"Perere",
     "wof:parent_id":1108758981,
     "wof:placetype":"locality",

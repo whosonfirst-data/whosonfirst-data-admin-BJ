@@ -27,8 +27,50 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0642\u0628\u0627\u0646\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06af\u0628\u0627\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "S\u00e9gbana"
+    ],
+    "name:fra_x_preferred":[
+        "Segbana"
+    ],
+    "name:frr_x_preferred":[
+        "S\u00e9gbana"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e9gbana"
+    ],
+    "name:msa_x_preferred":[
+        "S\u00e9gbana"
+    ],
+    "name:nld_x_preferred":[
+        "Segbana"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00e9gbana"
+    ],
+    "name:por_x_preferred":[
+        "Segbana"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00e9gbana"
+    ],
+    "name:spa_x_preferred":[
+        "Segbana"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e9gbana"
+    ],
     "name:und_x_variant":[
         "S\u00e9gbana"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5df4\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +96,7 @@
         }
     ],
     "wof:id":1310592931,
-    "wof:lastmodified":1537587850,
+    "wof:lastmodified":1564183671,
     "wof:name":"Segbana",
     "wof:parent_id":1108758959,
     "wof:placetype":"locality",

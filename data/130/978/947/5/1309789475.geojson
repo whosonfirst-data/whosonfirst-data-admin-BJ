@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tasso"
+    ],
+    "name:ita_x_preferred":[
+        "Tasso"
+    ],
+    "name:msa_x_preferred":[
+        "Tasso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309789475,
-    "wof:lastmodified":1537487828,
+    "wof:lastmodified":1564183708,
     "wof:name":"Tasso",
     "wof:parent_id":1108758943,
     "wof:placetype":"locality",

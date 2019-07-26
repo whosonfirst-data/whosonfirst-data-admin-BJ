@@ -25,6 +25,45 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u015ein"
+    ],
+    "name:ceb_x_preferred":[
+        "Shin"
+    ],
+    "name:deu_x_preferred":[
+        "Shin"
+    ],
+    "name:eus_x_preferred":[
+        "Shin"
+    ],
+    "name:fra_x_preferred":[
+        "Shin"
+    ],
+    "name:ita_x_preferred":[
+        "Shin"
+    ],
+    "name:nld_x_preferred":[
+        "Shin"
+    ],
+    "name:por_x_preferred":[
+        "Shin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Shin"
+    ],
+    "name:swe_x_preferred":[
+        "Shin"
+    ],
+    "name:tur_x_preferred":[
+        "\u015ein"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Shini",
         "Shin"
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1277094611,
-    "wof:lastmodified":1537587848,
+    "wof:lastmodified":1564183481,
     "wof:name":"Shin",
     "wof:parent_id":1108758943,
     "wof:placetype":"locality",

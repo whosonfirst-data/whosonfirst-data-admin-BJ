@@ -27,8 +27,35 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mat\u00e9ri"
+    ],
+    "name:frr_x_preferred":[
+        "Mat\u00e9ri"
+    ],
+    "name:ita_x_preferred":[
+        "Mat\u00e9ri"
+    ],
+    "name:msa_x_preferred":[
+        "Mat\u00e9ri"
+    ],
+    "name:nld_x_preferred":[
+        "Mat\u00e9ri"
+    ],
+    "name:pol_x_preferred":[
+        "Mat\u00e9ri"
+    ],
+    "name:spa_x_preferred":[
+        "Mat\u00e9ri"
+    ],
+    "name:swe_x_preferred":[
+        "Mat\u00e9ri"
+    ],
     "name:und_x_variant":[
         "Mat\u00e9ri"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u6cf0\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1242763205,
-    "wof:lastmodified":1537587858,
+    "wof:lastmodified":1564183771,
     "wof:name":"Materi",
     "wof:parent_id":1108758833,
     "wof:placetype":"locality",

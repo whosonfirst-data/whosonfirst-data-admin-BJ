@@ -26,6 +26,36 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hetin"
+    ],
+    "name:epo_x_preferred":[
+        "Hetin"
+    ],
+    "name:fra_x_preferred":[
+        "Hetin"
+    ],
+    "name:hrv_x_preferred":[
+        "Hetin"
+    ],
+    "name:hun_x_preferred":[
+        "Tam\u00e1sfalva"
+    ],
+    "name:msa_x_preferred":[
+        "Hetin"
+    ],
+    "name:ron_x_preferred":[
+        "Hetin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0442\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Hetin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0435\u0442\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Dekin-Hetin",
         "H\u00e9tin"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1276422935,
-    "wof:lastmodified":1537587867,
+    "wof:lastmodified":1564183494,
     "wof:name":"Hetin",
     "wof:parent_id":1108758909,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310479723,
-    "wof:lastmodified":1536954211,
+    "wof:lastmodified":1564183642,
     "wof:name":"Kayo",
     "wof:parent_id":1108758961,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Doum\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Doum\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Doum\u00e8"
+    ],
     "name:und_x_variant":[
         "Dume",
         "Doum\u00e9"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343649673,
-    "wof:lastmodified":1537587873,
+    "wof:lastmodified":1564183368,
     "wof:name":"Doume",
     "wof:parent_id":1108758841,
     "wof:placetype":"locality",

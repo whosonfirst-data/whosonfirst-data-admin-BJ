@@ -25,6 +25,9 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310426765,
-    "wof:lastmodified":1537029357,
+    "wof:lastmodified":1564183656,
     "wof:name":"Gona",
     "wof:parent_id":1108758975,
     "wof:placetype":"locality",

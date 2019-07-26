@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Nodi"
+    ],
+    "name:msa_x_preferred":[
+        "Nodi"
+    ],
+    "name:swe_x_preferred":[
+        "Nodi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1276533995,
-    "wof:lastmodified":1537006392,
+    "wof:lastmodified":1564183531,
     "wof:name":"Nodi",
     "wof:parent_id":1108758833,
     "wof:placetype":"locality",

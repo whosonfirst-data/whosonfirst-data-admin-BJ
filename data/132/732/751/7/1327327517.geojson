@@ -25,6 +25,39 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Guero"
+    ],
+    "name:fra_x_preferred":[
+        "Guero"
+    ],
+    "name:glg_x_preferred":[
+        "Guero"
+    ],
+    "name:heb_x_preferred":[
+        "Guero"
+    ],
+    "name:hrv_x_preferred":[
+        "Guero"
+    ],
+    "name:hun_x_preferred":[
+        "Guero"
+    ],
+    "name:ita_x_preferred":[
+        "Guero"
+    ],
+    "name:por_x_preferred":[
+        "Guero"
+    ],
+    "name:rus_x_preferred":[
+        "Guero"
+    ],
+    "name:spa_x_preferred":[
+        "Guero"
+    ],
+    "name:swe_x_preferred":[
+        "Guero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1327327517,
-    "wof:lastmodified":1536831303,
+    "wof:lastmodified":1564183327,
     "wof:name":"Guero",
     "wof:parent_id":1108758981,
     "wof:placetype":"locality",

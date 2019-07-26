@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Couss\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Coussi"
+    ],
+    "name:msa_x_preferred":[
+        "Coussi"
+    ],
+    "name:swe_x_preferred":[
+        "Couss\u00e9"
+    ],
     "name:und_x_variant":[
         "Coussi",
         "Couss\u00e9"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1243258597,
-    "wof:lastmodified":1537587876,
+    "wof:lastmodified":1564183749,
     "wof:name":"Cousse",
     "wof:parent_id":1108758977,
     "wof:placetype":"locality",

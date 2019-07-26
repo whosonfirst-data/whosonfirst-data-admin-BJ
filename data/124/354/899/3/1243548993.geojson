@@ -27,11 +27,35 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "S\u00f4-Ava"
+    ],
+    "name:frr_x_preferred":[
+        "S\u00f4-Ava"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00f4-Ava"
+    ],
+    "name:msa_x_preferred":[
+        "S\u00f4-Ava"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00f4-Ava"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00f4-Ava"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00f4-Ava"
+    ],
     "name:und_x_variant":[
         "S\u00f4 Avo",
         "S\u00f4-Ava",
         "So",
         "So-Awa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u963f\u74e6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1243548993,
-    "wof:lastmodified":1537587848,
+    "wof:lastmodified":1564183723,
     "wof:name":"So-Ava",
     "wof:parent_id":1108758891,
     "wof:placetype":"locality",

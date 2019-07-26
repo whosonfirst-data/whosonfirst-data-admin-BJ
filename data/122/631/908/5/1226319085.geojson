@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Manigri"
+    ],
+    "name:msa_x_preferred":[
+        "Manigri"
+    ],
     "name:und_x_variant":[
         "Kani",
         "Manigri"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226319085,
-    "wof:lastmodified":1537587859,
+    "wof:lastmodified":1564183896,
     "wof:name":"Manigri",
     "wof:parent_id":1108758847,
     "wof:placetype":"locality",

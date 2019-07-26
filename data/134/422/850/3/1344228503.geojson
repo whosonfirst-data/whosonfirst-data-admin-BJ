@@ -27,8 +27,17 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lagb\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Lagb\u00e9"
+    ],
     "name:und_x_variant":[
         "Lagb\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06af\u0628\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1344228503,
-    "wof:lastmodified":1537587860,
+    "wof:lastmodified":1564183369,
     "wof:name":"Lagbe",
     "wof:parent_id":1108758851,
     "wof:placetype":"locality",

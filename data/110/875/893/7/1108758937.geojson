@@ -35,6 +35,33 @@
     "name:eng_x_preferred":[
         "Za-Kpota"
     ],
+    "name:fra_x_preferred":[
+        "Zagnanado"
+    ],
+    "name:frr_x_preferred":[
+        "Zagnanado"
+    ],
+    "name:ita_x_preferred":[
+        "Zangnanado"
+    ],
+    "name:msa_x_preferred":[
+        "Zagnanado"
+    ],
+    "name:nld_x_preferred":[
+        "Zagnanado"
+    ],
+    "name:spa_x_preferred":[
+        "Zagnanado"
+    ],
+    "name:swe_x_preferred":[
+        "Zagnanado"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06af\u0646\u0646\u0627\u062f\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u5c3c\u4e9e\u7d0d\u591a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -68,7 +95,7 @@
         }
     ],
     "wof:id":1108758937,
-    "wof:lastmodified":1553718703,
+    "wof:lastmodified":1564183633,
     "wof:name":"Zagnanado",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

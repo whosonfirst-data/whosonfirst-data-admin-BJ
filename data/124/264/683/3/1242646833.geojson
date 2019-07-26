@@ -26,6 +26,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Affam\u00e8"
+    ],
+    "name:ita_x_preferred":[
+        "Affam\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Affam\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "Affam\u00e8"
+    ],
     "name:und_x_variant":[
         "Affam\u00e8"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1242646833,
-    "wof:lastmodified":1537587888,
+    "wof:lastmodified":1564183777,
     "wof:name":"Affame",
     "wof:parent_id":1108758907,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Tanv\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Tanv\u00e9"
+    ],
     "name:und_x_variant":[
         "Tanv\u00e9"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276294877,
-    "wof:lastmodified":1537587846,
+    "wof:lastmodified":1564183501,
     "wof:name":"Tanve",
     "wof:parent_id":1108758921,
     "wof:placetype":"locality",

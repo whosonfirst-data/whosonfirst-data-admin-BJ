@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pakpan\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Kpan\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Kpan\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Pakpan\u00e9"
+    ],
     "name:und_x_variant":[
         "Kpan\u00e9",
         "Pakpan\u00e9"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343449943,
-    "wof:lastmodified":1537587853,
+    "wof:lastmodified":1564183417,
     "wof:name":"Pakpane",
     "wof:parent_id":1108758981,
     "wof:placetype":"locality",

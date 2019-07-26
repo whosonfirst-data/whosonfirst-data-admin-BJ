@@ -25,8 +25,17 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sah\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Sah\u00e9"
+    ],
     "name:und_x_variant":[
         "Sah\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1260378053,
-    "wof:lastmodified":1537587851,
+    "wof:lastmodified":1564183619,
     "wof:name":"Sahe",
     "wof:parent_id":1108758883,
     "wof:placetype":"locality",

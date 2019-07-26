@@ -25,6 +25,114 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Salou"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0644\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Salou"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Salou"
+    ],
+    "name:ceb_x_preferred":[
+        "Salou"
+    ],
+    "name:ces_x_preferred":[
+        "Salou"
+    ],
+    "name:deu_x_preferred":[
+        "Salou"
+    ],
+    "name:eus_x_preferred":[
+        "Salou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Salou"
+    ],
+    "name:fra_x_preferred":[
+        "Salou"
+    ],
+    "name:glg_x_preferred":[
+        "Salou"
+    ],
+    "name:hun_x_preferred":[
+        "Salou"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u0578\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Salou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ed\u30a6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b4\ub85c\uc6b0"
+    ],
+    "name:lat_x_preferred":[
+        "Salou"
+    ],
+    "name:lit_x_preferred":[
+        "Salou"
+    ],
+    "name:mlg_x_preferred":[
+        "Salou"
+    ],
+    "name:msa_x_preferred":[
+        "Salou"
+    ],
+    "name:nld_x_preferred":[
+        "Salou"
+    ],
+    "name:nor_x_preferred":[
+        "Salou"
+    ],
+    "name:oci_x_preferred":[
+        "Salou"
+    ],
+    "name:pol_x_preferred":[
+        "Salou"
+    ],
+    "name:por_x_preferred":[
+        "Salou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Salou"
+    ],
+    "name:sqi_x_preferred":[
+        "Salou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Salou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u0443"
+    ],
+    "name:uzb_x_preferred":[
+        "Salou"
+    ],
+    "name:war_x_preferred":[
+        "Salou"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u6d1b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +156,7 @@
         }
     ],
     "wof:id":1243257695,
-    "wof:lastmodified":1537074553,
+    "wof:lastmodified":1564183751,
     "wof:name":"Salou",
     "wof:parent_id":1108758981,
     "wof:placetype":"locality",

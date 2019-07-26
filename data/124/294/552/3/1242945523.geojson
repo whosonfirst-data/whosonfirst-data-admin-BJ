@@ -25,6 +25,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zoungu\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Zoungu\u00e8"
+    ],
     "name:und_x_variant":[
         "Zoungu\u00e9",
         "Zounk\u00e9"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1242945523,
-    "wof:lastmodified":1537587839,
+    "wof:lastmodified":1564183739,
     "wof:name":"Zounke",
     "wof:parent_id":1108758909,
     "wof:placetype":"locality",

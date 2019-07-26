@@ -25,6 +25,9 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Samou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343949621,
-    "wof:lastmodified":1537034218,
+    "wof:lastmodified":1564183393,
     "wof:name":"Samou",
     "wof:parent_id":1108758967,
     "wof:placetype":"locality",

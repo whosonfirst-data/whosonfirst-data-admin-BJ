@@ -25,6 +25,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Massi"
+    ],
+    "name:msa_x_preferred":[
+        "Massi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293271617,
-    "wof:lastmodified":1537487834,
+    "wof:lastmodified":1564183463,
     "wof:name":"Massi",
     "wof:parent_id":1108758985,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Babi"
+    ],
+    "name:ceb_x_preferred":[
+        "Babi"
+    ],
+    "name:deu_x_preferred":[
+        "Babi"
+    ],
+    "name:ind_x_preferred":[
+        "Babi"
+    ],
+    "name:ita_x_preferred":[
+        "Babi"
+    ],
+    "name:por_x_preferred":[
+        "Babi"
+    ],
+    "name:spa_x_preferred":[
+        "Babi"
+    ],
+    "name:swe_x_preferred":[
+        "Babi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1225940041,
-    "wof:lastmodified":1536876762,
+    "wof:lastmodified":1564183837,
     "wof:name":"Babi",
     "wof:parent_id":1108758979,
     "wof:placetype":"locality",

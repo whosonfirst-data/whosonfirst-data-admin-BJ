@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guilmaro"
+    ],
+    "name:ita_x_preferred":[
+        "Guilmaro"
+    ],
+    "name:msa_x_preferred":[
+        "Guilmaro"
+    ],
+    "name:swe_x_preferred":[
+        "Guilmaro"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326716025,
-    "wof:lastmodified":1537487840,
+    "wof:lastmodified":1564183333,
     "wof:name":"Guilmaro",
     "wof:parent_id":1108758863,
     "wof:placetype":"locality",

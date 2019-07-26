@@ -25,6 +25,21 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Batin"
+    ],
+    "name:deu_x_preferred":[
+        "Batin"
+    ],
+    "name:ita_x_preferred":[
+        "Batin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Batin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310590219,
-    "wof:lastmodified":1536795012,
+    "wof:lastmodified":1564183673,
     "wof:name":"Batin",
     "wof:parent_id":1108758979,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648\u06a9\u0648\u062a\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648\u06a9\u0648\u062a\u0627"
+    ],
     "name:und_x_variant":[
         "Ab\u00e9okouta"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226130443,
-    "wof:lastmodified":1537587889,
+    "wof:lastmodified":1564183871,
     "wof:name":"Abeokouta",
     "wof:parent_id":1108758841,
     "wof:placetype":"locality",

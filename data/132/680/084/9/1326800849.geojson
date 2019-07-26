@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Djanglam\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Djanglanm\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Djanglanm\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "Djanglam\u00e9"
+    ],
     "name:und_x_variant":[
         "Djanglanm\u00e9",
         "Djanglam\u00e9"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1326800849,
-    "wof:lastmodified":1537587874,
+    "wof:lastmodified":1564183304,
     "wof:name":"Djanglame",
     "wof:parent_id":421177249,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nassi"
+    ],
+    "name:ita_x_preferred":[
+        "Nassi"
+    ],
+    "name:swe_x_preferred":[
+        "Nassi"
+    ],
     "name:und_x_variant":[
         "Miassi",
         "Niassi",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327222829,
-    "wof:lastmodified":1537587855,
+    "wof:lastmodified":1564183317,
     "wof:name":"Nassi",
     "wof:parent_id":1108758981,
     "wof:placetype":"locality",

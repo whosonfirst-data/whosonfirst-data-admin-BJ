@@ -25,6 +25,33 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kokoro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e7\u05d5\u05e8\u05d5"
+    ],
+    "name:ind_x_preferred":[
+        "Kokoro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u3053\u309d\u308d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0434\u0446\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Kokoro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "N\u1ed7i l\u00f2ng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fc3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276636775,
-    "wof:lastmodified":1536868289,
+    "wof:lastmodified":1564183527,
     "wof:name":"Kokoro",
     "wof:parent_id":1108758961,
     "wof:placetype":"locality",

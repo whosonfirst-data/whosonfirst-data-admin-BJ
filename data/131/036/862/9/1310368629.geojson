@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Zaka"
+    ],
+    "name:ceb_x_preferred":[
+        "Zaka"
+    ],
+    "name:fra_x_preferred":[
+        "Zaka"
+    ],
+    "name:swe_x_preferred":[
+        "Zaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310368629,
-    "wof:lastmodified":1536614704,
+    "wof:lastmodified":1564183648,
     "wof:name":"Zaka",
     "wof:parent_id":1108758927,
     "wof:placetype":"locality",

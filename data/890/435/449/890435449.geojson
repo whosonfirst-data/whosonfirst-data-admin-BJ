@@ -15,6 +15,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:fra_x_preferred":[
+        "Dogbo"
+    ],
+    "name:ita_x_preferred":[
+        "Dogbo"
+    ],
+    "name:msa_x_preferred":[
+        "Dogbo"
+    ],
     "qs:name":"Dogbo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":890435449,
-    "wof:lastmodified":1527793045,
+    "wof:lastmodified":1564183719,
     "wof:name":"Dogbo",
     "wof:parent_id":1108758887,
     "wof:placetype":"locality",

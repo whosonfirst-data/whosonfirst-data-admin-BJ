@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanson"
+    ],
+    "name:fra_x_preferred":[
+        "Sanson"
+    ],
+    "name:ita_x_preferred":[
+        "Sanson"
+    ],
+    "name:msa_x_preferred":[
+        "Sanson"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1242773051,
-    "wof:lastmodified":1537487830,
+    "wof:lastmodified":1564183766,
     "wof:name":"Sanson",
     "wof:parent_id":1108758837,
     "wof:placetype":"locality",

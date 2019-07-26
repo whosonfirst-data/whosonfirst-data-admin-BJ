@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043a\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u043a\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243352585,
-    "wof:lastmodified":1536941502,
+    "wof:lastmodified":1564183758,
     "wof:name":"Bereke",
     "wof:parent_id":1108758979,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "Gogoro"
+    ],
+    "name:zho_x_preferred":[
+        "Gogoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1360073193,
-    "wof:lastmodified":1536962705,
+    "wof:lastmodified":1564183684,
     "wof:name":"Gogoro",
     "wof:parent_id":1108758963,
     "wof:placetype":"locality",

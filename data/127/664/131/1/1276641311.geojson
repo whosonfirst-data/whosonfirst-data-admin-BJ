@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tobr\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Tobr\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Tobr\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Tobr\u00e9"
+    ],
     "name:und_x_variant":[
         "Tobr",
         "Tobr\u00e9"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276641311,
-    "wof:lastmodified":1537587843,
+    "wof:lastmodified":1564183523,
     "wof:name":"Tobre",
     "wof:parent_id":1108758867,
     "wof:placetype":"locality",

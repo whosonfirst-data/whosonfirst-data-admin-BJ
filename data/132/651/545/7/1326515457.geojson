@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kouga"
+    ],
+    "name:deu_x_preferred":[
+        "Kouga"
+    ],
+    "name:swe_x_preferred":[
+        "Kouga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326515457,
-    "wof:lastmodified":1537007555,
+    "wof:lastmodified":1564183306,
     "wof:name":"Kouga",
     "wof:parent_id":421169231,
     "wof:placetype":"locality",

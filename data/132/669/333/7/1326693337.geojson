@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "D\u00e9kanm\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Dekanm\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Dekanm\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "Dekanm\u00e8"
+    ],
     "name:und_x_variant":[
         "D\u00e9kam\u00e9",
         "D\u00e9kanm\u00e9"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1326693337,
-    "wof:lastmodified":1537587875,
+    "wof:lastmodified":1564183308,
     "wof:name":"Dekanme",
     "wof:parent_id":1108758921,
     "wof:placetype":"locality",

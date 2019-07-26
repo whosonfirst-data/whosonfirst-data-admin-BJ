@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Naogon"
+    ],
+    "name:msa_x_preferred":[
+        "Naogon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326593091,
-    "wof:lastmodified":1537487834,
+    "wof:lastmodified":1564183309,
     "wof:name":"Naogon",
     "wof:parent_id":1108758941,
     "wof:placetype":"locality",

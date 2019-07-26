@@ -27,6 +27,21 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barei"
+    ],
+    "name:ita_x_preferred":[
+        "Barei"
+    ],
+    "name:msa_x_preferred":[
+        "Barei"
+    ],
+    "name:por_x_preferred":[
+        "Barei"
+    ],
+    "name:swe_x_preferred":[
+        "Barei"
+    ],
     "name:und_x_variant":[
         "Bar\u00e9l",
         "Barei"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293177291,
-    "wof:lastmodified":1537587881,
+    "wof:lastmodified":1564183471,
     "wof:name":"Barei",
     "wof:parent_id":1108758889,
     "wof:placetype":"locality",

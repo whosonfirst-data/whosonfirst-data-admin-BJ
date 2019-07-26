@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Atom\u00e9-Av\u00e9gam\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Atom\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Atom\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "Atom\u00e9-Av\u00e9gam\u00e9"
+    ],
     "name:und_x_variant":[
         "Atom\u00e9",
         "Atom\u00e9 V\u00e9gam\u00e9",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1242764755,
-    "wof:lastmodified":1537587883,
+    "wof:lastmodified":1564183771,
     "wof:name":"Atome-Avegame",
     "wof:parent_id":1108758845,
     "wof:placetype":"locality",

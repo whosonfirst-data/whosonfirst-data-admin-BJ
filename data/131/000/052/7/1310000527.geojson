@@ -26,6 +26,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Birni-Lafia"
+    ],
+    "name:msa_x_preferred":[
+        "Birni-Lafia"
+    ],
+    "name:swe_x_preferred":[
+        "Birni-Lafia"
+    ],
     "name:und_x_variant":[
         "Rini Lafia",
         "Birnilafa",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1310000527,
-    "wof:lastmodified":1537587879,
+    "wof:lastmodified":1564183644,
     "wof:name":"Birni Lafia",
     "wof:parent_id":1108758955,
     "wof:placetype":"locality",

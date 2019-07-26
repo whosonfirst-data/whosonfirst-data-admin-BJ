@@ -25,6 +25,24 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toyo"
+    ],
+    "name:deu_x_preferred":[
+        "Toyo"
+    ],
+    "name:fra_x_preferred":[
+        "Toyo"
+    ],
+    "name:nld_x_preferred":[
+        "Toyo"
+    ],
+    "name:spa_x_preferred":[
+        "Toyo"
+    ],
+    "name:swe_x_preferred":[
+        "Toyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1277068607,
-    "wof:lastmodified":1536788478,
+    "wof:lastmodified":1564183479,
     "wof:name":"Toyo",
     "wof:parent_id":1108758955,
     "wof:placetype":"locality",

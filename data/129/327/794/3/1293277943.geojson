@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Topoga"
+    ],
+    "name:ita_x_preferred":[
+        "Tapoga"
+    ],
+    "name:msa_x_preferred":[
+        "Tapoga"
+    ],
+    "name:swe_x_preferred":[
+        "Tapoga"
+    ],
     "name:und_x_variant":[
         "Holli",
         "Topoga",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1293277943,
-    "wof:lastmodified":1537587843,
+    "wof:lastmodified":1564183464,
     "wof:name":"Topoga",
     "wof:parent_id":1108758833,
     "wof:placetype":"locality",

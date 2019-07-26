@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sokponta"
+    ],
+    "name:ita_x_preferred":[
+        "Sokponta"
+    ],
+    "name:msa_x_preferred":[
+        "Sokponta"
+    ],
+    "name:swe_x_preferred":[
+        "Sokponta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1360063389,
-    "wof:lastmodified":1537487829,
+    "wof:lastmodified":1564183685,
     "wof:name":"Sokponta",
     "wof:parent_id":1108758945,
     "wof:placetype":"locality",

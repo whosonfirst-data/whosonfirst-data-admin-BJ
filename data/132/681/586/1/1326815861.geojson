@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gu\u00e9n\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Gu\u00e9n\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "Gu\u00e9n\u00e8"
+    ],
     "name:und_x_variant":[
         "Gu\u00e9n\u00e9"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326815861,
-    "wof:lastmodified":1537587868,
+    "wof:lastmodified":1564183303,
     "wof:name":"Guene",
     "wof:parent_id":1108758957,
     "wof:placetype":"locality",

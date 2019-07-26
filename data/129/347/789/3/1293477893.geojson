@@ -25,6 +25,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u06cc\u062f\u0632\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u06cc\u062f\u0632\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293477893,
-    "wof:lastmodified":1537487852,
+    "wof:lastmodified":1564183445,
     "wof:name":"Abidzi",
     "wof:parent_id":1108758839,
     "wof:placetype":"locality",

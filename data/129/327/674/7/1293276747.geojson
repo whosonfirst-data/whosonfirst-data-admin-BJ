@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Liss\u00e8gazoun"
+    ],
+    "name:msa_x_preferred":[
+        "Liss\u00e8gazoun"
+    ],
+    "name:swe_x_preferred":[
+        "Liss\u00e8gazoun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293276747,
-    "wof:lastmodified":1537487835,
+    "wof:lastmodified":1564183463,
     "wof:name":"Lissegazoun",
     "wof:parent_id":421202551,
     "wof:placetype":"locality",

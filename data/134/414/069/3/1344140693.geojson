@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koda"
+    ],
+    "name:ita_x_preferred":[
+        "Kod\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Kod\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "Koda"
+    ],
     "name:und_x_variant":[
         "Kod\u00e9",
         "Koda"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1344140693,
-    "wof:lastmodified":1537587863,
+    "wof:lastmodified":1564183374,
     "wof:name":"Koda",
     "wof:parent_id":1108758837,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Gb\u00e9hou\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Gb\u00e9hou\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Gb\u00e9hou\u00e9"
+    ],
     "name:und_x_variant":[
         "Gbehou\u00e9"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343631745,
-    "wof:lastmodified":1537587870,
+    "wof:lastmodified":1564183366,
     "wof:name":"Gbehoue",
     "wof:parent_id":421177249,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bougou"
+    ],
+    "name:ita_x_preferred":[
+        "Bougou"
+    ],
+    "name:msa_x_preferred":[
+        "Bougou"
+    ],
+    "name:ron_x_preferred":[
+        "Bougou"
+    ],
     "name:und_x_variant":[
         "Piougou",
         "Bougou"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1260059565,
-    "wof:lastmodified":1537587877,
+    "wof:lastmodified":1564183632,
     "wof:name":"Bougou",
     "wof:parent_id":1108758889,
     "wof:placetype":"locality",

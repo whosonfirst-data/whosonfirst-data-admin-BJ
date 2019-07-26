@@ -25,6 +25,24 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Simia"
+    ],
+    "name:ita_x_preferred":[
+        "Simia"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ubbf8\uc544"
+    ],
+    "name:nld_x_preferred":[
+        "Simia"
+    ],
+    "name:por_x_preferred":[
+        "Simia"
+    ],
+    "name:spa_x_preferred":[
+        "Simia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1260166607,
-    "wof:lastmodified":1536870067,
+    "wof:lastmodified":1564183624,
     "wof:name":"Simia",
     "wof:parent_id":1108758867,
     "wof:placetype":"locality",

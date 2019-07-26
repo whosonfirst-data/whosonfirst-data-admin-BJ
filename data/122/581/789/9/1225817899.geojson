@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Seko"
+    ],
+    "name:deu_x_preferred":[
+        "Seko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044d\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "B\u00e9ko",
         "S\u00e9ko"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1225817899,
-    "wof:lastmodified":1537587849,
+    "wof:lastmodified":1564183869,
     "wof:name":"Seko",
     "wof:parent_id":1108758909,
     "wof:placetype":"locality",

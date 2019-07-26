@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dassari"
+    ],
+    "name:ita_x_preferred":[
+        "Dassari"
+    ],
+    "name:msa_x_preferred":[
+        "Dassari"
+    ],
+    "name:swe_x_preferred":[
+        "Dassari"
+    ],
     "name:und_x_variant":[
         "Dassori",
         "Dassari"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1310697397,
-    "wof:lastmodified":1537587875,
+    "wof:lastmodified":1564183677,
     "wof:name":"Dassari",
     "wof:parent_id":1108758833,
     "wof:placetype":"locality",

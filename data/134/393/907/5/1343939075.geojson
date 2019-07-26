@@ -25,6 +25,21 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hoko"
+    ],
+    "name:epo_x_preferred":[
+        "Hoko"
+    ],
+    "name:ido_x_preferred":[
+        "Hoko"
+    ],
+    "name:spa_x_preferred":[
+        "Hoko"
+    ],
+    "name:swe_x_preferred":[
+        "Hoko"
+    ],
     "name:und_x_variant":[
         "Okoo",
         "Oko",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343939075,
-    "wof:lastmodified":1537587867,
+    "wof:lastmodified":1564183392,
     "wof:name":"Hoko",
     "wof:parent_id":1108758945,
     "wof:placetype":"locality",

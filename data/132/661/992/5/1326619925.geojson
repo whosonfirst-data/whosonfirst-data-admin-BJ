@@ -25,6 +25,36 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Coli"
+    ],
+    "name:deu_x_preferred":[
+        "Coli"
+    ],
+    "name:fra_x_preferred":[
+        "Coli"
+    ],
+    "name:ind_x_preferred":[
+        "Coli"
+    ],
+    "name:ita_x_preferred":[
+        "Coli"
+    ],
+    "name:nld_x_preferred":[
+        "Coli"
+    ],
+    "name:por_x_preferred":[
+        "Coli"
+    ],
+    "name:ron_x_preferred":[
+        "Coli"
+    ],
+    "name:srp_x_preferred":[
+        "Koli"
+    ],
+    "name:swe_x_preferred":[
+        "Coli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1326619925,
-    "wof:lastmodified":1536856376,
+    "wof:lastmodified":1564183312,
     "wof:name":"Coli",
     "wof:parent_id":1108758977,
     "wof:placetype":"locality",

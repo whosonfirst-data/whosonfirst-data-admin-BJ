@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Aklo"
+    ],
+    "name:ita_x_preferred":[
+        "Aklo"
+    ],
+    "name:spa_x_preferred":[
+        "Aklo"
+    ],
     "name:und_x_variant":[
         "Aklo-Com\u00e9",
         "Aklo"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293562349,
-    "wof:lastmodified":1537587886,
+    "wof:lastmodified":1564183451,
     "wof:name":"Aklo",
     "wof:parent_id":1108758895,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gomparou"
+    ],
+    "name:msa_x_preferred":[
+        "Gomparou"
+    ],
+    "name:swe_x_preferred":[
+        "Gomparou"
+    ],
     "name:und_x_variant":[
         "Gomparu",
         "Gonmparou",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1343353399,
-    "wof:lastmodified":1537587869,
+    "wof:lastmodified":1564183391,
     "wof:name":"Gomparou",
     "wof:parent_id":1108758967,
     "wof:placetype":"locality",

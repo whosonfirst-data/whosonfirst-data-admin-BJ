@@ -25,6 +25,24 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Abala"
+    ],
+    "name:deu_x_preferred":[
+        "Abala"
+    ],
+    "name:fra_x_preferred":[
+        "Abala"
+    ],
+    "name:ita_x_preferred":[
+        "Abala"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0431\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Abala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1326808435,
-    "wof:lastmodified":1537080002,
+    "wof:lastmodified":1564183304,
     "wof:name":"Abala",
     "wof:parent_id":1108758841,
     "wof:placetype":"locality",

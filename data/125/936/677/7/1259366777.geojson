@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sessera"
+    ],
+    "name:ita_x_preferred":[
+        "Sessera"
+    ],
+    "name:pms_x_preferred":[
+        "S\u00e9ssera"
+    ],
+    "name:spa_x_preferred":[
+        "Sessera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259366777,
-    "wof:lastmodified":1537025195,
+    "wof:lastmodified":1564183792,
     "wof:name":"Sessera",
     "wof:parent_id":1108758981,
     "wof:placetype":"locality",

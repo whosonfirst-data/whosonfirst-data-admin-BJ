@@ -27,6 +27,33 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Bori"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Bori"
+    ],
+    "name:ita_x_preferred":[
+        "Bori"
+    ],
+    "name:msa_x_preferred":[
+        "Bori"
+    ],
+    "name:por_x_preferred":[
+        "Bori"
+    ],
+    "name:ron_x_preferred":[
+        "Bori"
+    ],
+    "name:swe_x_preferred":[
+        "Bori"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1259472151,
-    "wof:lastmodified":1537487845,
+    "wof:lastmodified":1564183808,
     "wof:name":"Bori",
     "wof:parent_id":1108758877,
     "wof:placetype":"locality",
