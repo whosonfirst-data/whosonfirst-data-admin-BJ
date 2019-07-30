@@ -25,6 +25,9 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Derou Garou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209203677,
-    "wof:lastmodified":1536294525,
+    "wof:lastmodified":1564183579,
     "wof:name":"Derou Garou",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

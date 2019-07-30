@@ -26,6 +26,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Hozin"
+    ],
+    "name:msa_x_preferred":[
+        "Hozin"
+    ],
     "name:und_x_variant":[
         "Hozuin",
         "Hozin"
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209088531,
-    "wof:lastmodified":1537587867,
+    "wof:lastmodified":1564183545,
     "wof:name":"Hozin",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

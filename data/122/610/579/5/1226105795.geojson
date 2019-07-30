@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Takon"
+    ],
+    "name:msa_x_preferred":[
+        "Takon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226105795,
-    "wof:lastmodified":1537487828,
+    "wof:lastmodified":1564183847,
     "wof:name":"Takon",
     "wof:parent_id":1108758919,
     "wof:placetype":"locality",

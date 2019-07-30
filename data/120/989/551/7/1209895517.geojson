@@ -25,6 +25,9 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boungou"
+    ],
     "name:und_x_variant":[
         "Bougou",
         "Boungou"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209895517,
-    "wof:lastmodified":1537587877,
+    "wof:lastmodified":1564183585,
     "wof:name":"Boungou",
     "wof:parent_id":1108758863,
     "wof:placetype":"locality",

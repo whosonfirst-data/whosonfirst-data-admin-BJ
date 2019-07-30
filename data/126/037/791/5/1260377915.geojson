@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Godohou"
+    ],
+    "name:ita_x_preferred":[
+        "Godohou"
+    ],
+    "name:msa_x_preferred":[
+        "Godohou"
+    ],
+    "name:swe_x_preferred":[
+        "Godohou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1260377915,
-    "wof:lastmodified":1537487841,
+    "wof:lastmodified":1564183617,
     "wof:name":"Godohou",
     "wof:parent_id":1108758883,
     "wof:placetype":"locality",

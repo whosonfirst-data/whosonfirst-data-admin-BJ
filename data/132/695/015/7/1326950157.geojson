@@ -27,6 +27,21 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kouaba"
+    ],
+    "name:fra_x_preferred":[
+        "Kouaba"
+    ],
+    "name:ita_x_preferred":[
+        "Kouaba"
+    ],
+    "name:msa_x_preferred":[
+        "Kouaba"
+    ],
+    "name:swe_x_preferred":[
+        "Kouaba"
+    ],
     "name:und_x_variant":[
         "Kouaha",
         "Kouaba"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1326950157,
-    "wof:lastmodified":1537587862,
+    "wof:lastmodified":1564183314,
     "wof:name":"Kouaba",
     "wof:parent_id":421169231,
     "wof:placetype":"locality",

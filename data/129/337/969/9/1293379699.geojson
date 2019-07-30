@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Azohou\u00e9-Cada"
+    ],
+    "name:ita_x_preferred":[
+        "Azohou\u00e8-Cada"
+    ],
+    "name:msa_x_preferred":[
+        "Azohou\u00e8-Cada"
+    ],
+    "name:swe_x_preferred":[
+        "Azohou\u00e9-Cada"
+    ],
     "name:und_x_variant":[
         "Azo\u00e9-Cada",
         "Azohou\u00e8-Kada",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293379699,
-    "wof:lastmodified":1537587883,
+    "wof:lastmodified":1564183427,
     "wof:name":"Azohoue-Cada",
     "wof:parent_id":1108758873,
     "wof:placetype":"locality",

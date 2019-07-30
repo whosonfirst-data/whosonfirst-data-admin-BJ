@@ -27,6 +27,21 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manta"
+    ],
+    "name:fra_x_preferred":[
+        "Manta"
+    ],
+    "name:ita_x_preferred":[
+        "Manta"
+    ],
+    "name:msa_x_preferred":[
+        "Manta"
+    ],
+    "name:swe_x_preferred":[
+        "Manta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276976999,
-    "wof:lastmodified":1537487835,
+    "wof:lastmodified":1564183524,
     "wof:name":"Manta",
     "wof:parent_id":1108758859,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sagon"
+    ],
+    "name:msa_x_preferred":[
+        "Sagon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u0648\u06ba "
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1310576911,
-    "wof:lastmodified":1537487831,
+    "wof:lastmodified":1564183675,
     "wof:name":"Sagon",
     "wof:parent_id":1108758935,
     "wof:placetype":"locality",

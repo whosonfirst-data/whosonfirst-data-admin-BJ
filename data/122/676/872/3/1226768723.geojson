@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Tangbo-Djevi\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Tangbo-Djevi\u00e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226768723,
-    "wof:lastmodified":1537487852,
+    "wof:lastmodified":1564183874,
     "wof:name":"Tangbo-Djevie",
     "wof:parent_id":1108758875,
     "wof:placetype":"locality",

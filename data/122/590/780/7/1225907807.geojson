@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Banigb\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Banigb\u00e9"
+    ],
     "name:und_x_variant":[
         "Banigb\u00e9"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1225907807,
-    "wof:lastmodified":1537587881,
+    "wof:lastmodified":1564183869,
     "wof:name":"Banigbe",
     "wof:parent_id":1108758931,
     "wof:placetype":"locality",

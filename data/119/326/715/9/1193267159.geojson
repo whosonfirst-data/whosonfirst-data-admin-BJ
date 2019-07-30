@@ -25,6 +25,9 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soue"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1193267159,
-    "wof:lastmodified":1536374621,
+    "wof:lastmodified":1564183608,
     "wof:name":"Soue",
     "wof:parent_id":1108758973,
     "wof:placetype":"locality",

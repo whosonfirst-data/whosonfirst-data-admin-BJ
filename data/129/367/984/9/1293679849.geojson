@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koronti\u00e8re"
+    ],
+    "name:ita_x_preferred":[
+        "Koronti\u00e8re"
+    ],
+    "name:msa_x_preferred":[
+        "Koronti\u00e8re"
+    ],
+    "name:swe_x_preferred":[
+        "Koronti\u00e8re"
+    ],
     "name:und_x_variant":[
         "Koronti\u00e8re"
     ],
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293679849,
-    "wof:lastmodified":1537587862,
+    "wof:lastmodified":1564183453,
     "wof:name":"Korontiere",
     "wof:parent_id":1108758859,
     "wof:placetype":"locality",

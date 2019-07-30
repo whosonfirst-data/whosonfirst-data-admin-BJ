@@ -25,6 +25,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dunkassa"
+    ],
+    "name:msa_x_preferred":[
+        "Dunkassa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226239365,
-    "wof:lastmodified":1536943390,
+    "wof:lastmodified":1564183878,
     "wof:name":"Dunkassa",
     "wof:parent_id":1108758959,
     "wof:placetype":"locality",

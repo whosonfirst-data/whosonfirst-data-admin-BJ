@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kinta"
+    ],
+    "name:msa_x_preferred":[
+        "Kinta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310663895,
-    "wof:lastmodified":1537487837,
+    "wof:lastmodified":1564183670,
     "wof:name":"Kinta",
     "wof:parent_id":1108758939,
     "wof:placetype":"locality",

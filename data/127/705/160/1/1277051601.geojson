@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zoungoudo"
+    ],
+    "name:msa_x_preferred":[
+        "Zoungoudo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1277051601,
-    "wof:lastmodified":1537487825,
+    "wof:lastmodified":1564183511,
     "wof:name":"Zoungoudo",
     "wof:parent_id":1108758921,
     "wof:placetype":"locality",

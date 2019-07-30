@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gb\u00e9roubou\u00e8"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e9roubouay"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e9roubouay"
+    ],
+    "name:swe_x_preferred":[
+        "Gb\u00e9roubou\u00e8"
+    ],
     "name:und_x_variant":[
         "B\u00e9roubouay",
         "Berubuaye",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1210010353,
-    "wof:lastmodified":1537587880,
+    "wof:lastmodified":1564183595,
     "wof:name":"Gberouboue",
     "wof:parent_id":1108758979,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Konia"
+    ],
+    "name:pol_x_preferred":[
+        "Konia"
+    ],
+    "name:swe_x_preferred":[
+        "Konia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243540127,
-    "wof:lastmodified":1536670530,
+    "wof:lastmodified":1564183721,
     "wof:name":"Konia",
     "wof:parent_id":1108758957,
     "wof:placetype":"locality",

@@ -25,6 +25,48 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tosa"
+    ],
+    "name:deu_x_preferred":[
+        "Tosa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0633\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Tosa"
+    ],
+    "name:fra_x_preferred":[
+        "Tosa"
+    ],
+    "name:hrv_x_preferred":[
+        "Tosa"
+    ],
+    "name:ita_x_preferred":[
+        "Tosa"
+    ],
+    "name:lit_x_preferred":[
+        "Tosa"
+    ],
+    "name:nld_x_preferred":[
+        "Tosa"
+    ],
+    "name:pol_x_preferred":[
+        "Tosa"
+    ],
+    "name:por_x_preferred":[
+        "Tosa"
+    ],
+    "name:slk_x_preferred":[
+        "Tosa"
+    ],
+    "name:spa_x_preferred":[
+        "Tosa"
+    ],
+    "name:swe_x_preferred":[
+        "Tosa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -34,7 +76,7 @@
         "gn:id":2391096
     },
     "wof:country":"BJ",
-    "wof:geomhash":"14fc14f296275b28aa3eab6854e6f7c7",
+    "wof:geomhash":"61ea8d1f3d2b93c854f5081ea7386060",
     "wof:hierarchy":[
         {
             "country_id":85632247,
@@ -42,7 +84,7 @@
         }
     ],
     "wof:id":1209086555,
-    "wof:lastmodified":1536298168,
+    "wof:lastmodified":1564183544,
     "wof:name":"Tosa",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",
@@ -53,9 +95,9 @@
 },
   "bbox": [
     1.73333,
-    6.9833300000000005,
+    6.98333,
     1.73333,
-    6.9833300000000005
+    6.98333
 ],
   "geometry": {"coordinates":[1.73333,6.98333],"type":"Point"}
 }

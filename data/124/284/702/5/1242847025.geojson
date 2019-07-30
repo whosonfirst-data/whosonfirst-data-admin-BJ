@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Atchoupa"
+    ],
+    "name:ita_x_preferred":[
+        "Atchoukpa"
+    ],
+    "name:msa_x_preferred":[
+        "Atchoukpa"
+    ],
+    "name:swe_x_preferred":[
+        "Atchoupa"
+    ],
     "name:und_x_variant":[
         "Atchoukpa",
         "Atchupa",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1242847025,
-    "wof:lastmodified":1537587884,
+    "wof:lastmodified":1564183764,
     "wof:name":"Atchoupa",
     "wof:parent_id":1108758911,
     "wof:placetype":"locality",

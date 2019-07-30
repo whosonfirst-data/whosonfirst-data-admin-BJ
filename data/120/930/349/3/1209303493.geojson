@@ -25,6 +25,33 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lou"
+    ],
+    "name:ces_x_preferred":[
+        "Lou"
+    ],
+    "name:deu_x_preferred":[
+        "Lou"
+    ],
+    "name:fin_x_preferred":[
+        "Lou"
+    ],
+    "name:fra_x_preferred":[
+        "Lou"
+    ],
+    "name:hat_x_preferred":[
+        "Lou"
+    ],
+    "name:nld_x_preferred":[
+        "Lou"
+    ],
+    "name:spa_x_preferred":[
+        "Lou"
+    ],
+    "name:swe_x_preferred":[
+        "Lou"
+    ],
     "name:und_x_variant":[
         "Lu",
         "Lou"
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1209303493,
-    "wof:lastmodified":1537587859,
+    "wof:lastmodified":1564183542,
     "wof:name":"Lou",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

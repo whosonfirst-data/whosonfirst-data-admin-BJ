@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "P\u00e9n\u00e9ssoulou"
+    ],
+    "name:msa_x_preferred":[
+        "P\u00e9n\u00e9ssoulou"
+    ],
     "name:und_x_variant":[
         "Penesolu",
         "P\u00e9messoulou",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1293860257,
-    "wof:lastmodified":1537587852,
+    "wof:lastmodified":1564183475,
     "wof:name":"Penessoulou",
     "wof:parent_id":1108758847,
     "wof:placetype":"locality",

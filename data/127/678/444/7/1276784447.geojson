@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Basso"
+    ],
+    "name:ita_x_preferred":[
+        "Basso"
+    ],
+    "name:msa_x_preferred":[
+        "Basso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276784447,
-    "wof:lastmodified":1537487847,
+    "wof:lastmodified":1564183516,
     "wof:name":"Basso",
     "wof:parent_id":1108758835,
     "wof:placetype":"locality",

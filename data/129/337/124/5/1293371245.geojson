@@ -25,6 +25,9 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Aloba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293371245,
-    "wof:lastmodified":1536954733,
+    "wof:lastmodified":1564183427,
     "wof:name":"Aloba",
     "wof:parent_id":1108758839,
     "wof:placetype":"locality",

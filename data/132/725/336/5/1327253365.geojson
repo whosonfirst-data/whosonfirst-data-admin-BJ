@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lougou"
+    ],
+    "name:ita_x_preferred":[
+        "Lougou"
+    ],
+    "name:msa_x_preferred":[
+        "Lougou"
+    ],
+    "name:swe_x_preferred":[
+        "Lougou"
+    ],
     "name:und_x_variant":[
         "Lugu",
         "Lougou"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327253365,
-    "wof:lastmodified":1537587859,
+    "wof:lastmodified":1564183317,
     "wof:name":"Lougou",
     "wof:parent_id":1108758959,
     "wof:placetype":"locality",

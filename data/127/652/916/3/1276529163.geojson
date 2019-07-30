@@ -26,6 +26,24 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u067e\u0627\u0633\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Akpassi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u067e\u0627\u0633\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Akpassi"
+    ],
+    "name:msa_x_preferred":[
+        "Akpassi"
+    ],
+    "name:swe_x_preferred":[
+        "Akpassi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1276529163,
-    "wof:lastmodified":1537487850,
+    "wof:lastmodified":1564183522,
     "wof:name":"Akpassi",
     "wof:parent_id":1108758839,
     "wof:placetype":"locality",

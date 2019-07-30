@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lanta"
+    ],
+    "name:ita_x_preferred":[
+        "Lanta"
+    ],
+    "name:msa_x_preferred":[
+        "Lanta"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u0679\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1360171711,
-    "wof:lastmodified":1537487835,
+    "wof:lastmodified":1564183695,
     "wof:name":"Lanta",
     "wof:parent_id":1108758883,
     "wof:placetype":"locality",

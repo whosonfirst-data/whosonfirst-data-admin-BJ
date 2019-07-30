@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Tchoumi-Tchoumi"
+    ],
+    "name:msa_x_preferred":[
+        "Tchoumi-Tchoumi"
+    ],
+    "name:swe_x_preferred":[
+        "Tchoumi-Tchoumi"
+    ],
     "name:und_x_variant":[
         "Tcheumi-Tchoumi",
         "Tchoumi-Tchoumi"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276786337,
-    "wof:lastmodified":1537587845,
+    "wof:lastmodified":1564183516,
     "wof:name":"Tchoumi-Tchoumi",
     "wof:parent_id":421169231,
     "wof:placetype":"locality",

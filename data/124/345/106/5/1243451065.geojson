@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sam"
+    ],
+    "name:ita_x_preferred":[
+        "Sam"
+    ],
+    "name:msa_x_preferred":[
+        "Sam"
+    ],
+    "name:swe_x_preferred":[
+        "Sam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1243451065,
-    "wof:lastmodified":1537487831,
+    "wof:lastmodified":1564183783,
     "wof:name":"Sam",
     "wof:parent_id":1108758975,
     "wof:placetype":"locality",

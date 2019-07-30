@@ -25,6 +25,87 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ang_x_preferred":[
+        "H\u0101m"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a"
+    ],
+    "name:aym_x_preferred":[
+        "Utjawi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Llar"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0627\u06b5"
+    ],
+    "name:epo_x_preferred":[
+        "Hejmo"
+    ],
+    "name:est_x_preferred":[
+        "Kodu"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646\u0645\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Koti"
+    ],
+    "name:fra_x_preferred":[
+        "Foyer"
+    ],
+    "name:isl_x_preferred":[
+        "Heimili"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cb8\u0ca4\u0cbf"
+    ],
+    "name:kur_x_preferred":[
+        "Mal"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Thuis"
+    ],
+    "name:nno_x_preferred":[
+        "Heim"
+    ],
+    "name:nor_x_preferred":[
+        "Hjem"
+    ],
+    "name:por_x_preferred":[
+        "Lar"
+    ],
+    "name:ron_x_preferred":[
+        "Acas\u0103"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5a\u1c72\u1c5f\u1c5c"
+    ],
+    "name:snd_x_preferred":[
+        "\u06af\u06be\u0631"
+    ],
+    "name:spa_x_preferred":[
+        "Hogar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Hem"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06be\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Ch\u1ed7 \u1edf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +129,7 @@
         }
     ],
     "wof:id":1343438161,
-    "wof:lastmodified":1536779008,
+    "wof:lastmodified":1564183418,
     "wof:name":"Home",
     "wof:parent_id":1108758883,
     "wof:placetype":"locality",

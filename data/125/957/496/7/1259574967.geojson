@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bogo-Bogo"
+    ],
+    "name:msa_x_preferred":[
+        "Bogo-Bogo"
+    ],
+    "name:swe_x_preferred":[
+        "Bogo-Bogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259574967,
-    "wof:lastmodified":1537487846,
+    "wof:lastmodified":1564183814,
     "wof:name":"Bogo Bogo",
     "wof:parent_id":1108758955,
     "wof:placetype":"locality",

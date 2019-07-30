@@ -27,6 +27,21 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Founougo"
+    ],
+    "name:ita_x_preferred":[
+        "Founougo"
+    ],
+    "name:msa_x_preferred":[
+        "Founougo"
+    ],
+    "name:por_x_preferred":[
+        "Founougo"
+    ],
+    "name:swe_x_preferred":[
+        "Founougo"
+    ],
     "name:und_x_variant":[
         "Founogo",
         "Founougo"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243059339,
-    "wof:lastmodified":1537587871,
+    "wof:lastmodified":1564183762,
     "wof:name":"Founougo",
     "wof:parent_id":1108758967,
     "wof:placetype":"locality",

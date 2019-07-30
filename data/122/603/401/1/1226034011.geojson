@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guinagourou"
+    ],
+    "name:ita_x_preferred":[
+        "Guinagourou"
+    ],
+    "name:msa_x_preferred":[
+        "Guinagourou"
+    ],
+    "name:swe_x_preferred":[
+        "Guinagourou"
+    ],
     "name:und_x_variant":[
         "Guinaguru",
         "Guinagourou"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226034011,
-    "wof:lastmodified":1537587868,
+    "wof:lastmodified":1564183863,
     "wof:name":"Guinagourou",
     "wof:parent_id":1108758981,
     "wof:placetype":"locality",

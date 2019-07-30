@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0642\u0648\u0642\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u06af\u0648"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u06af\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1260377085,
-    "wof:lastmodified":1537487850,
+    "wof:lastmodified":1564183617,
     "wof:name":"Agougou",
     "wof:parent_id":1108758847,
     "wof:placetype":"locality",

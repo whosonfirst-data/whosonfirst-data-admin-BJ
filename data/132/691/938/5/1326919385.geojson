@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "D\u00e9rassi"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00e8rassi"
+    ],
+    "name:msa_x_preferred":[
+        "D\u00e8rassi"
+    ],
+    "name:swe_x_preferred":[
+        "D\u00e9rassi"
+    ],
     "name:und_x_variant":[
         "Deressi",
         "D\u00e9rassi"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1326919385,
-    "wof:lastmodified":1537587875,
+    "wof:lastmodified":1564183343,
     "wof:name":"Derassi",
     "wof:parent_id":1108758835,
     "wof:placetype":"locality",

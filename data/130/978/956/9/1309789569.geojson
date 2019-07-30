@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gb\u00e9gourou"
+    ],
+    "name:ita_x_preferred":[
+        "Gb\u00e9gourou"
+    ],
+    "name:msa_x_preferred":[
+        "Gb\u00e9gourou"
+    ],
+    "name:swe_x_preferred":[
+        "Gb\u00e9gourou"
+    ],
     "name:und_x_variant":[
         "Gb\u00e9gourou"
     ],
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1309789569,
-    "wof:lastmodified":1537587870,
+    "wof:lastmodified":1564183708,
     "wof:name":"Gbegourou",
     "wof:parent_id":1108758837,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0576\u057f\u0578"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10dc\u10e2\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0442\u043e"
+    ],
     "name:und_x_variant":[
         "Quinto",
         "Kinto"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343450617,
-    "wof:lastmodified":1537587864,
+    "wof:lastmodified":1564183407,
     "wof:name":"Kinto",
     "wof:parent_id":421186271,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tant\u00e9ga"
+    ],
+    "name:ita_x_preferred":[
+        "Tant\u00e9ga"
+    ],
+    "name:msa_x_preferred":[
+        "Tant\u00e9ga"
+    ],
+    "name:swe_x_preferred":[
+        "Tant\u00e9ga"
+    ],
     "name:und_x_variant":[
         "Tant\u00e9ga"
     ],
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1210002197,
-    "wof:lastmodified":1537587846,
+    "wof:lastmodified":1564183592,
     "wof:name":"Tantega",
     "wof:parent_id":1108758833,
     "wof:placetype":"locality",

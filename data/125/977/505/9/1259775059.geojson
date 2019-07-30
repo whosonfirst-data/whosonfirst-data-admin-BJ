@@ -25,6 +25,21 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kosse"
+    ],
+    "name:deu_x_preferred":[
+        "Kosse"
+    ],
+    "name:fra_x_preferred":[
+        "Kosse"
+    ],
+    "name:por_x_preferred":[
+        "Kosse"
+    ],
+    "name:swe_x_preferred":[
+        "Kosse"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259775059,
-    "wof:lastmodified":1536936091,
+    "wof:lastmodified":1564183800,
     "wof:name":"Kosse",
     "wof:parent_id":1108758975,
     "wof:placetype":"locality",

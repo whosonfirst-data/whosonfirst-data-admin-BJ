@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Yoko"
+    ],
+    "name:msa_x_preferred":[
+        "Yoko"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u06a9\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1192982099,
-    "wof:lastmodified":1537487825,
+    "wof:lastmodified":1564183605,
     "wof:name":"Yoko",
     "wof:parent_id":1108758919,
     "wof:placetype":"locality",

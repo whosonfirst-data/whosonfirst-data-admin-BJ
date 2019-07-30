@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ina"
+    ],
+    "name:ita_x_preferred":[
+        "Ina"
+    ],
+    "name:msa_x_preferred":[
+        "Ina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209198065,
-    "wof:lastmodified":1537487839,
+    "wof:lastmodified":1564183588,
     "wof:name":"Ina",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

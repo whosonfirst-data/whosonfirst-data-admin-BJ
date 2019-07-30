@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boni"
+    ],
+    "name:ita_x_preferred":[
+        "Boni"
+    ],
+    "name:msa_x_preferred":[
+        "Boni"
+    ],
+    "name:swe_x_preferred":[
+        "Boni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1360274361,
-    "wof:lastmodified":1537487846,
+    "wof:lastmodified":1564183688,
     "wof:name":"Boni",
     "wof:parent_id":1108758983,
     "wof:placetype":"locality",

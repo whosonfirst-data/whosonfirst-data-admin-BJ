@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Monsey"
+    ],
+    "name:msa_x_preferred":[
+        "Monsey"
+    ],
+    "name:swe_x_preferred":[
+        "Monsey"
+    ],
     "name:und_x_variant":[
         "Masi",
         "Mossey",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1293092713,
-    "wof:lastmodified":1537587857,
+    "wof:lastmodified":1564183423,
     "wof:name":"Monsey",
     "wof:parent_id":1108758955,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Azov\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Azov\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "Azov\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "Azov\u00e9"
+    ],
     "name:und_x_variant":[
         "Azom\u00e9",
         "Azov\u00e9"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1243541559,
-    "wof:lastmodified":1537587882,
+    "wof:lastmodified":1564183722,
     "wof:name":"Azove",
     "wof:parent_id":1108758845,
     "wof:placetype":"locality",

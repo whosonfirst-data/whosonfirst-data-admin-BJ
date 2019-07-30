@@ -25,6 +25,54 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bane"
+    ],
+    "name:ces_x_preferred":[
+        "Bane"
+    ],
+    "name:dan_x_preferred":[
+        "Bane"
+    ],
+    "name:deu_x_preferred":[
+        "Bane"
+    ],
+    "name:fra_x_preferred":[
+        "Bane"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0576\u0565"
+    ],
+    "name:ita_x_preferred":[
+        "Bane"
+    ],
+    "name:kur_x_preferred":[
+        "Bane"
+    ],
+    "name:nld_x_preferred":[
+        "Bane"
+    ],
+    "name:pol_x_preferred":[
+        "Bane"
+    ],
+    "name:por_x_preferred":[
+        "Bane"
+    ],
+    "name:slv_x_preferred":[
+        "Bane"
+    ],
+    "name:spa_x_preferred":[
+        "Bane"
+    ],
+    "name:swe_x_preferred":[
+        "Bane"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1277071329,
-    "wof:lastmodified":1536784600,
+    "wof:lastmodified":1564183482,
     "wof:name":"Bane",
     "wof:parent_id":1108758967,
     "wof:placetype":"locality",

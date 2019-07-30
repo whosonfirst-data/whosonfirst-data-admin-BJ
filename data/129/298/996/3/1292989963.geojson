@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Tchatchou"
+    ],
+    "name:msa_x_preferred":[
+        "Tchatchou"
+    ],
     "name:und_x_variant":[
         "Chachu",
         "Tchatchou"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1292989963,
-    "wof:lastmodified":1537587845,
+    "wof:lastmodified":1564183455,
     "wof:name":"Tchatchou",
     "wof:parent_id":1108758837,
     "wof:placetype":"locality",

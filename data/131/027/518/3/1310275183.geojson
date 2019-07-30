@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Doutou"
+    ],
+    "name:ita_x_preferred":[
+        "Doutou"
+    ],
+    "name:msa_x_preferred":[
+        "Doutou"
+    ],
+    "name:swe_x_preferred":[
+        "Doutou"
+    ],
     "name:und_x_variant":[
         "Sahou\u00e9 Doutou",
         "Doutou-Terre-Rouge",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1310275183,
-    "wof:lastmodified":1537587872,
+    "wof:lastmodified":1564183658,
     "wof:name":"Doutou",
     "wof:parent_id":1108758899,
     "wof:placetype":"locality",

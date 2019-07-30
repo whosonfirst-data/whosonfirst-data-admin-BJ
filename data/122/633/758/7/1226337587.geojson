@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "S\u00e9k\u00e9r\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e8k\u00e8r\u00e8"
+    ],
+    "name:msa_x_preferred":[
+        "S\u00e8k\u00e8r\u00e8"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e9k\u00e9r\u00e9"
+    ],
     "name:und_x_variant":[
         "S\u00e9k\u00e9r\u00e9"
     ],
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1226337587,
-    "wof:lastmodified":1537587849,
+    "wof:lastmodified":1564183857,
     "wof:name":"Sekere",
     "wof:parent_id":1108758973,
     "wof:placetype":"locality",

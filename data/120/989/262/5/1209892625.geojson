@@ -25,6 +25,30 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donga"
+    ],
+    "name:deu_x_preferred":[
+        "Donga"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Donga"
+    ],
+    "name:ita_x_preferred":[
+        "Donga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30f3\u30ac"
+    ],
+    "name:slk_x_preferred":[
+        "Donga"
+    ],
+    "name:swe_x_preferred":[
+        "Donga"
+    ],
     "name:und_x_variant":[
         "Ou\u00e9m\u00e9",
         "Dongo",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1209892625,
-    "wof:lastmodified":1537587873,
+    "wof:lastmodified":1564183586,
     "wof:name":"Donga",
     "wof:parent_id":1108758889,
     "wof:placetype":"locality",

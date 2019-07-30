@@ -27,6 +27,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sonsoro"
+    ],
+    "name:msa_x_preferred":[
+        "Sonsoro"
+    ],
+    "name:swe_x_preferred":[
+        "Sonsoro"
+    ],
     "name:und_x_variant":[
         "Sansora",
         "Sansoro",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1310097193,
-    "wof:lastmodified":1537587851,
+    "wof:lastmodified":1564183647,
     "wof:name":"Sonsoro",
     "wof:parent_id":1108758975,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lozi"
+    ],
+    "name:fra_x_preferred":[
+        "Lozi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u0438"
+    ],
     "name:und_x_variant":[
         "Losi",
         "Lozi"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226123583,
-    "wof:lastmodified":1537587859,
+    "wof:lastmodified":1564183881,
     "wof:name":"Lozi",
     "wof:parent_id":1108758841,
     "wof:placetype":"locality",

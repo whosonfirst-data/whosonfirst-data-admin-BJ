@@ -25,6 +25,21 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gando"
+    ],
+    "name:deu_x_preferred":[
+        "Gando"
+    ],
+    "name:fra_x_preferred":[
+        "Gando"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043d\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Gando"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293678193,
-    "wof:lastmodified":1537008706,
+    "wof:lastmodified":1564183453,
     "wof:name":"Gando",
     "wof:parent_id":1108758979,
     "wof:placetype":"locality",

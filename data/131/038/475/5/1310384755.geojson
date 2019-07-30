@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Onklou"
+    ],
+    "name:ita_x_preferred":[
+        "Onklou"
+    ],
+    "name:msa_x_preferred":[
+        "Onklou"
+    ],
+    "name:swe_x_preferred":[
+        "Onklou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310384755,
-    "wof:lastmodified":1537487833,
+    "wof:lastmodified":1564183643,
     "wof:name":"Onklou",
     "wof:parent_id":1108758889,
     "wof:placetype":"locality",

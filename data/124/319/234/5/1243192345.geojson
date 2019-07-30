@@ -25,6 +25,33 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043a\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Beke"
+    ],
+    "name:ceb_x_preferred":[
+        "Beke"
+    ],
+    "name:deu_x_preferred":[
+        "Beke"
+    ],
+    "name:fra_x_preferred":[
+        "Beke"
+    ],
+    "name:nds_x_preferred":[
+        "Beke"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Beke"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043a\u0435"
+    ],
     "name:und_x_variant":[
         "Ouassa-B\u00e9ket",
         "B\u00e9k\u00e9"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1243192345,
-    "wof:lastmodified":1537587880,
+    "wof:lastmodified":1564183784,
     "wof:name":"Beke",
     "wof:parent_id":1108758867,
     "wof:placetype":"locality",

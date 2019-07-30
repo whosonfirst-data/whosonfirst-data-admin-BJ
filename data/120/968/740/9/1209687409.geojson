@@ -26,6 +26,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Issaba"
+    ],
+    "name:msa_x_preferred":[
+        "Issaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -44,7 +50,7 @@
         }
     ],
     "wof:id":1209687409,
-    "wof:lastmodified":1537487839,
+    "wof:lastmodified":1564183564,
     "wof:name":"Issaba",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

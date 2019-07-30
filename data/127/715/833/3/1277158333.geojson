@@ -25,6 +25,36 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0644\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "Hula"
+    ],
+    "name:deu_x_preferred":[
+        "Hula"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062d\u0648\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Houla"
+    ],
+    "name:ita_x_preferred":[
+        "Houla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30a6\u30e9"
+    ],
+    "name:nno_x_preferred":[
+        "Houla"
+    ],
+    "name:spa_x_preferred":[
+        "Hula"
+    ],
+    "name:zho_x_preferred":[
+        "\u4faf\u62c9\u9547"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1277158333,
-    "wof:lastmodified":1536658845,
+    "wof:lastmodified":1564183510,
     "wof:name":"Houla",
     "wof:parent_id":1108758945,
     "wof:placetype":"locality",

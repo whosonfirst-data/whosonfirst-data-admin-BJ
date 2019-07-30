@@ -26,6 +26,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pira"
+    ],
+    "name:ita_x_preferred":[
+        "Pira"
+    ],
+    "name:msa_x_preferred":[
+        "Pira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209803385,
-    "wof:lastmodified":1537487831,
+    "wof:lastmodified":1564183582,
     "wof:name":"Pira",
     "wof:parent_id":1108758839,
     "wof:placetype":"locality",

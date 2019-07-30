@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pahou"
+    ],
+    "name:ita_x_preferred":[
+        "Pahou"
+    ],
+    "name:msa_x_preferred":[
+        "Pahou"
+    ],
+    "name:swe_x_preferred":[
+        "Pahou"
+    ],
     "name:und_x_variant":[
         "Pahu",
         "Pahou"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1225928451,
-    "wof:lastmodified":1537587853,
+    "wof:lastmodified":1564183840,
     "wof:name":"Pahou",
     "wof:parent_id":421174729,
     "wof:placetype":"locality",

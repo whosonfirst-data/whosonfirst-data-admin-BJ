@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koui"
+    ],
+    "name:fra_x_preferred":[
+        "Koui"
+    ],
+    "name:swe_x_preferred":[
+        "Koui"
+    ],
     "name:und_x_variant":[
         "Koni",
         "Koui"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343783237,
-    "wof:lastmodified":1537587863,
+    "wof:lastmodified":1564183386,
     "wof:name":"Koui",
     "wof:parent_id":1108758959,
     "wof:placetype":"locality",

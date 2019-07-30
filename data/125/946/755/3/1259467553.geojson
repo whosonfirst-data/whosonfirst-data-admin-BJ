@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:fra_x_preferred":[
+        "Sekou"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e9kou"
+    ],
+    "name:msa_x_preferred":[
+        "S\u00e9kou"
+    ],
     "name:und_x_variant":[
         "S\u00e9kou",
         "S\u00e9kkou",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1259467553,
-    "wof:lastmodified":1537587850,
+    "wof:lastmodified":1564183803,
     "wof:name":"Segou",
     "wof:parent_id":421202551,
     "wof:placetype":"locality",

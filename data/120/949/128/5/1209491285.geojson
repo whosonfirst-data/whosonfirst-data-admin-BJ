@@ -27,6 +27,12 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mougnon"
+    ],
+    "name:msa_x_preferred":[
+        "Mougnon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209491285,
-    "wof:lastmodified":1537487834,
+    "wof:lastmodified":1564183561,
     "wof:name":"Mougnon",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

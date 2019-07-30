@@ -26,6 +26,27 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u062c\u0627\u0647\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Adjaha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062c\u0627\u0647\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Adjaha"
+    ],
+    "name:ita_x_preferred":[
+        "Adjaha"
+    ],
+    "name:msa_x_preferred":[
+        "Adjaha"
+    ],
+    "name:swe_x_preferred":[
+        "Adjaha"
+    ],
     "name:und_x_variant":[
         "Ajaha",
         "Adjah",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1277160267,
-    "wof:lastmodified":1537587888,
+    "wof:lastmodified":1564183536,
     "wof:name":"Adjaha",
     "wof:parent_id":421177249,
     "wof:placetype":"locality",

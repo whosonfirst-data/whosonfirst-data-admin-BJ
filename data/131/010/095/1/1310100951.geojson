@@ -25,6 +25,30 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maka"
+    ],
+    "name:deu_x_preferred":[
+        "Maka"
+    ],
+    "name:fra_x_preferred":[
+        "Maka"
+    ],
+    "name:ita_x_preferred":[
+        "Maka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ab"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Maka"
+    ],
+    "name:swe_x_preferred":[
+        "Maka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1310100951,
-    "wof:lastmodified":1537002307,
+    "wof:lastmodified":1564183667,
     "wof:name":"Maka",
     "wof:parent_id":1108758863,
     "wof:placetype":"locality",

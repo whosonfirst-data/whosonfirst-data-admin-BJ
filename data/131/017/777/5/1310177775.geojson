@@ -26,6 +26,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vakon"
+    ],
+    "name:ita_x_preferred":[
+        "Vakon"
+    ],
+    "name:msa_x_preferred":[
+        "Vakon"
+    ],
+    "name:swe_x_preferred":[
+        "Vakon"
+    ],
     "name:und_x_variant":[
         "Vacon",
         "Vakon"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310177775,
-    "wof:lastmodified":1537587842,
+    "wof:lastmodified":1564183662,
     "wof:name":"Vakon",
     "wof:parent_id":1108758903,
     "wof:placetype":"locality",

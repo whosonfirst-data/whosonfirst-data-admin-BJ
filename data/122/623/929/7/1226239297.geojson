@@ -25,6 +25,15 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sein"
+    ],
+    "name:fra_x_preferred":[
+        "Sein"
+    ],
+    "name:nld_x_preferred":[
+        "Sein"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1226239297,
-    "wof:lastmodified":1536943477,
+    "wof:lastmodified":1564183880,
     "wof:name":"Sein",
     "wof:parent_id":85668805,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaboua"
+    ],
+    "name:ita_x_preferred":[
+        "Kaboua"
+    ],
+    "name:msa_x_preferred":[
+        "Kaboua"
+    ],
+    "name:swe_x_preferred":[
+        "Kaboua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1326508451,
-    "wof:lastmodified":1537487839,
+    "wof:lastmodified":1564183314,
     "wof:name":"Kaboua",
     "wof:parent_id":1108758963,
     "wof:placetype":"locality",

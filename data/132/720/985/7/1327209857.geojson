@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u06cc\u0632\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u06cc\u0632\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Akiza"
+    ],
+    "name:msa_x_preferred":[
+        "Akiza"
+    ],
     "name:und_x_variant":[
         "Akiza",
         "S\u00e9m\u00e9-Akiza"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327209857,
-    "wof:lastmodified":1537587849,
+    "wof:lastmodified":1564183355,
     "wof:name":"Seme-Akiza",
     "wof:parent_id":1108758939,
     "wof:placetype":"locality",

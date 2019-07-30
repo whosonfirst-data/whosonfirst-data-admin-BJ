@@ -25,6 +25,18 @@
     "iso:country":"BJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Katagon"
+    ],
+    "name:ita_x_preferred":[
+        "Katagon"
+    ],
+    "name:msa_x_preferred":[
+        "Katagon"
+    ],
+    "name:swe_x_preferred":[
+        "Katagon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1327106087,
-    "wof:lastmodified":1537487838,
+    "wof:lastmodified":1564183349,
     "wof:name":"Katagon",
     "wof:parent_id":1108758903,
     "wof:placetype":"locality",
