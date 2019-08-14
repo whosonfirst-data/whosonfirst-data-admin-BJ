@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CL"
+    ],
     "lbl:latitude":8.006149,
     "lbl:longitude":2.18346,
     "mps:latitude":8.006149,
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85668807,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563355776,
+    "wof:lastmodified":1565654249,
     "wof:name":"Collines",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

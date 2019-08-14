@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":6.552107,
     "lbl:longitude":1.843185,
     "mps:latitude":6.552107,
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85668823,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563355778,
+    "wof:lastmodified":1565654250,
     "wof:name":"Mono",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

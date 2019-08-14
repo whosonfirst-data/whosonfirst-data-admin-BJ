@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AK"
+    ],
     "lbl:latitude":10.672771,
     "lbl:longitude":1.596898,
     "mps:latitude":10.672771,
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85668825,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563355780,
+    "wof:lastmodified":1565654250,
     "wof:name":"Atakora",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

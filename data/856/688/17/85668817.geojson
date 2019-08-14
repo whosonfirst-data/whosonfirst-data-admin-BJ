@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OU"
+    ],
     "lbl:latitude":6.485051,
     "lbl:longitude":2.597431,
     "mps:latitude":6.485051,
@@ -303,16 +306,13 @@
         }
     ],
     "wof:id":85668817,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563355773,
+    "wof:lastmodified":1565654249,
     "wof:name":"Ou\u00e9m\u00e9",
     "wof:parent_id":85632247,
     "wof:placetype":"region",
