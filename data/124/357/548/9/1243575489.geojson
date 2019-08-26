@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.69315,10.7639,2.73315,10.8039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243575489,
-    "wof:lastmodified":1536617455,
+    "wof:lastmodified":1566615470,
     "wof:name":"Kerou",
     "wof:parent_id":1108758865,
     "wof:placetype":"locality",

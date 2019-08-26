@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.1159,6.40255,2.1559,6.44255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gakp\u00e9"
     ],
@@ -40,8 +44,7 @@
         "Gakp\u00e9"
     ],
     "name:und_x_variant":[
-        "Gankp\u00e9",
-        "Gakp\u00e9"
+        "Gankp\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1242963121,
-    "wof:lastmodified":1564183774,
+    "wof:lastmodified":1566615482,
     "wof:name":"Gakpe",
     "wof:parent_id":421174729,
     "wof:placetype":"locality",

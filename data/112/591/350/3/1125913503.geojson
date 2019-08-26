@@ -9,15 +9,18 @@
     "geom:bbox":"1.71674,6.63869,1.71674,6.63869",
     "geom:latitude":6.63869,
     "geom:longitude":1.71674,
-    "gn:gn_country":"BJ",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":86971,
+    "gn:country":"BJ",
+    "gn:fcode":"PPLA",
     "gn:population":86971,
     "iso:country":"BJ",
+    "lbl:bbox":"1.69674,6.61869,1.73674,6.65869",
     "lbl:latitude":6.63869,
     "lbl:longitude":1.71674,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u0648\u0643\u0648\u0633\u0627"
@@ -103,7 +106,7 @@
     "name:swe_x_preferred":[
         "Lokossa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Locossa"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +133,7 @@
     "qs_pg:qs_id":1035330,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1125913503,
-    "wof:lastmodified":1563356306,
+    "wof:lastmodified":1566615447,
     "wof:name":"Lokossa",
     "wof:parent_id":1108758849,
     "wof:placetype":"locality",

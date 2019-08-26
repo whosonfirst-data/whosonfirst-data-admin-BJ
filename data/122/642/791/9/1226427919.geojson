@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"0.76281,10.38851,0.80281,10.42851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Datori"
     ],
@@ -40,8 +44,7 @@
         "Datori"
     ],
     "name:und_x_variant":[
-        "Datori-Tiokossi",
-        "Datori"
+        "Datori-Tiokossi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226427919,
-    "wof:lastmodified":1564183849,
+    "wof:lastmodified":1566615525,
     "wof:name":"Datori",
     "wof:parent_id":1108758869,
     "wof:placetype":"locality",

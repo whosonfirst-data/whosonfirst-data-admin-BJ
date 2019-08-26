@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.46343,7.06411,2.50343,7.10411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ouinhi"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209481465,
-    "wof:lastmodified":1564183550,
+    "wof:lastmodified":1566615325,
     "wof:name":"Ouinhi",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

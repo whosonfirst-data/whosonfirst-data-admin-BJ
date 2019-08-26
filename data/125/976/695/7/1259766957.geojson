@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.94092,9.83713,2.98092,9.87713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259766957,
-    "wof:lastmodified":1536947344,
+    "wof:lastmodified":1566615503,
     "wof:name":"Sonpararou",
     "wof:parent_id":1108758943,
     "wof:placetype":"locality",

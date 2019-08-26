@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.03173,7.06943,2.07173,7.10943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kinta"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310663895,
-    "wof:lastmodified":1564183670,
+    "wof:lastmodified":1566615409,
     "wof:name":"Kinta",
     "wof:parent_id":1108758939,
     "wof:placetype":"locality",

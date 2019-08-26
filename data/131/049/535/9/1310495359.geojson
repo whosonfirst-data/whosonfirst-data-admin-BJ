@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"3.24253,10.31864,3.28253,10.35864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "P\u00e9onga"
     ],
@@ -37,9 +41,6 @@
         "P\u00e9onga"
     ],
     "name:swe_x_preferred":[
-        "P\u00e9onga"
-    ],
-    "name:und_x_variant":[
         "P\u00e9onga"
     ],
     "src:geom":"geonames",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1310495359,
-    "wof:lastmodified":1564183637,
+    "wof:lastmodified":1566615389,
     "wof:name":"Peonga",
     "wof:parent_id":1108758835,
     "wof:placetype":"locality",

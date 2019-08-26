@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.8503,7.08415,1.8903,7.12415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lanta"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1360171711,
-    "wof:lastmodified":1564183695,
+    "wof:lastmodified":1566615426,
     "wof:name":"Lanta",
     "wof:parent_id":1108758883,
     "wof:placetype":"locality",

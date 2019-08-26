@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.006149,
     "lbl:longitude":2.18346,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.006149,
     "mps:longitude":2.18346,
     "mz:hierarchy_label":1,
@@ -149,7 +150,7 @@
         "Collines"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b95\u0bbe\u0bb2\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c32\u0c3f\u0c28\u0c4d\u0c38\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement du Collines"
     ],
     "name:urd_x_preferred":[
@@ -251,9 +252,9 @@
     "qs:type":"Department",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-02-11",
+    "src:population_date":"2002-02-11",
     "statoids:area_km":"13,561",
     "statoids:area_mi":"5,236",
     "statoids:as_of_date":"2002-02-11",
@@ -278,7 +279,7 @@
         "gp:id":55967670,
         "hasc:id":"BJ.CL",
         "iso:id":"BJ-CO",
-        "qs:id":1200743,
+        "qs_pg:id":1200743,
         "unlc:id":"BJ-CO",
         "wd:id":"Q29141",
         "wk:page":"Collines Department"
@@ -299,11 +300,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565654249,
+    "wof:lastmodified":1566615245,
     "wof:name":"Collines",
     "wof:parent_id":85632247,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":535923,
     "wof:population_rank":11,

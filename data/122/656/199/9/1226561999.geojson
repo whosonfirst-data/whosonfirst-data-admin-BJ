@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.60434,10.30492,1.64434,10.34492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ganiperou",
         "Ganikp\u00e9rou"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226561999,
-    "wof:lastmodified":1537587871,
+    "wof:lastmodified":1566615532,
     "wof:name":"Ganikperou",
     "wof:parent_id":1108758863,
     "wof:placetype":"locality",

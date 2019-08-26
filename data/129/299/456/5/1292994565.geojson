@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.62907,10.15168,2.66907,10.19168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gomar\u00e9",
         "Gamar\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292994565,
-    "wof:lastmodified":1537587871,
+    "wof:lastmodified":1566615273,
     "wof:name":"Gamare",
     "wof:parent_id":1108758979,
     "wof:placetype":"locality",

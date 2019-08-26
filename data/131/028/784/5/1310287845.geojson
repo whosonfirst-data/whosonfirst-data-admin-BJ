@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.64667,6.61333,1.68667,6.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u062f\u0648\u0647\u0648\u0646"
     ],
@@ -46,8 +50,7 @@
         "Adohoun"
     ],
     "name:und_x_variant":[
-        "Adohoun-Lanzoum\u00e9",
-        "Adohoun"
+        "Adohoun-Lanzoum\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1310287845,
-    "wof:lastmodified":1564183665,
+    "wof:lastmodified":1566615406,
     "wof:name":"Adohoun",
     "wof:parent_id":1108758965,
     "wof:placetype":"locality",

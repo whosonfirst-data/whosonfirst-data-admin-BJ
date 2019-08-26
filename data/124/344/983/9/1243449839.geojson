@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.00535,10.26566,2.04535,10.30566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243449839,
-    "wof:lastmodified":1536800715,
+    "wof:lastmodified":1566615488,
     "wof:name":"Ouberekou",
     "wof:parent_id":1108758867,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.86082,7.30115,1.90082,7.34115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226713279,
-    "wof:lastmodified":1536762798,
+    "wof:lastmodified":1566615542,
     "wof:name":"Agonhohoun",
     "wof:parent_id":1108758927,
     "wof:placetype":"locality",

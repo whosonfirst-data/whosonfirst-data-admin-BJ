@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.66333,6.98,1.70333,7.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "D\u00e9kpo",
         "D\u00e9kpo-Agnibandjin"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243149477,
-    "wof:lastmodified":1537587875,
+    "wof:lastmodified":1566615468,
     "wof:name":"Dekpo-Agnibandjin",
     "wof:parent_id":1108758845,
     "wof:placetype":"locality",

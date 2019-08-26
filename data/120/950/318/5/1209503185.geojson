@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.909,7.61356,1.949,7.65356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hebenogon",
         "Iaiadji"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209503185,
-    "wof:lastmodified":1537587867,
+    "wof:lastmodified":1566615332,
     "wof:name":"Iaiadji",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

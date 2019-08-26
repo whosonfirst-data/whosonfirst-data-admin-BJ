@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.48211,9.25133,1.52211,9.29133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193254897,
-    "wof:lastmodified":1536365034,
+    "wof:lastmodified":1566615358,
     "wof:name":"Goutoungadoni",
     "wof:parent_id":1108758847,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"3.50768,11.73047,3.54768,11.77047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Doka"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259568781,
-    "wof:lastmodified":1564183829,
+    "wof:lastmodified":1566615512,
     "wof:name":"Doka",
     "wof:parent_id":1108758957,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.39646,11.21617,2.43646,11.25617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oun\u00e9"
     ],
@@ -40,9 +44,7 @@
         "Ounet"
     ],
     "name:und_x_variant":[
-        "Unet",
-        "Ounet",
-        "Oun\u00e9"
+        "Unet"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1226771179,
-    "wof:lastmodified":1564183885,
+    "wof:lastmodified":1566615548,
     "wof:name":"Oune",
     "wof:parent_id":1108758967,
     "wof:placetype":"locality",

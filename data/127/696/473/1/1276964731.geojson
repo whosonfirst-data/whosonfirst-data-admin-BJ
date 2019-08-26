@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.52864,10.32984,1.56864,10.36984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276964731,
-    "wof:lastmodified":1536928334,
+    "wof:lastmodified":1566615313,
     "wof:name":"Moussoukoto",
     "wof:parent_id":421169231,
     "wof:placetype":"locality",

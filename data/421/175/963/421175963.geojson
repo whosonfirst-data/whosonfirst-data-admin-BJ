@@ -10,8 +10,12 @@
     "geom:latitude":6.98008,
     "geom:longitude":2.6649,
     "iso:country":"BJ",
+    "lbl:bbox":"2.6449,6.96008,2.6849,7.00008",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u067e\u0648\u0628\u0647"
@@ -79,7 +83,7 @@
     "name:swe_x_preferred":[
         "Pob\u00e8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ipobe"
     ],
     "name:zho_x_preferred":[
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":2392108,
         "gp:id":1268450,
-        "qs:id":1035341,
+        "qs_pg:id":1035341,
         "wd:id":"Q269353"
     },
     "wof:country":"BJ",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":421175963,
-    "wof:lastmodified":1563356292,
+    "wof:lastmodified":1566615444,
     "wof:name":"Pob\u00e9",
     "wof:parent_id":1108758855,
     "wof:placetype":"locality",

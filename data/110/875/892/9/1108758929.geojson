@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.548707,
     "lbl:longitude":2.153262,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Zou",
     "meso:dissme":"ZouCove",
     "meso:gadm_adm2":"Cov\u00e8",
@@ -32,6 +34,7 @@
     "mps:longitude":2.153262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0648\u0647"
     ],
@@ -90,7 +93,7 @@
         "\u79d1\u97cb"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632247,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108758929,
-    "wof:lastmodified":1563356121,
+    "wof:lastmodified":1566615377,
     "wof:name":"Cove",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

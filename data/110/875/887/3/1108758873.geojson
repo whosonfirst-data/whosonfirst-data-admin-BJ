@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.539945,
     "lbl:longitude":2.149697,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Atlantique",
     "meso:dissme":"AtlantiqueTori-Bossito",
     "meso:gadm_adm2":"Tori-Bossito",
@@ -32,6 +34,7 @@
     "mps:longitude":2.149697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03c1\u03af-\u039c\u03c0\u03bf\u03c3\u03b9\u03c4\u03cc"
     ],
@@ -66,9 +69,9 @@
         "\u6258\u91cc\u535a\u897f\u6258"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-02-11",
+    "src:population_date":"2002-02-11",
     "statoids:area_km":"263",
     "statoids:as_of_date":"2002-02-11",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108758873,
-    "wof:lastmodified":1563356114,
+    "wof:lastmodified":1566615375,
     "wof:name":"Tori-Bossito",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

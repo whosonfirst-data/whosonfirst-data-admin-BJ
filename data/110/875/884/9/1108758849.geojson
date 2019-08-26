@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.66938,
     "lbl:longitude":1.752189,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mono",
     "meso:dissme":"MonoLokossa",
     "meso:gadm_adm2":"Athi\u00e9m\u00e9",
@@ -32,6 +34,7 @@
     "mps:longitude":1.752189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0643\u0648\u0633\u0627"
     ],
@@ -129,9 +132,9 @@
         "\u6d1b\u79d1\u85a9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-02-11",
+    "src:population_date":"2002-02-11",
     "statoids:area_km":"260",
     "statoids:as_of_date":"2002-02-11",
     "statoids:capital":"",
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1108758849,
-    "wof:lastmodified":1563356131,
+    "wof:lastmodified":1566615381,
     "wof:name":"Lokossa",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

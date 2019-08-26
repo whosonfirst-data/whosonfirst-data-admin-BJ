@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.08,6.48,2.12,6.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Facinahou\u00e9",
         "Fannouhou\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209800037,
-    "wof:lastmodified":1537587872,
+    "wof:lastmodified":1566615346,
     "wof:name":"Fannouhoue",
     "wof:parent_id":1108758873,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.93556,7.17652,1.97556,7.21652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209180563,
-    "wof:lastmodified":1536295273,
+    "wof:lastmodified":1566615344,
     "wof:name":"Allomakanme",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

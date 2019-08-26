@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.74088,10.01824,2.78088,10.05824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sikuro",
         "Sikouro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309706409,
-    "wof:lastmodified":1537587848,
+    "wof:lastmodified":1566615434,
     "wof:name":"Sikouro",
     "wof:parent_id":1108758979,
     "wof:placetype":"locality",

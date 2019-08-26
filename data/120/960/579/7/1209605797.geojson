@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"0.86048,10.40813,0.90048,10.44813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -34,7 +38,7 @@
         "gn:id":2392638
     },
     "wof:country":"BJ",
-    "wof:geomhash":"329583e36f97ced7f544ecd47f6d0284",
+    "wof:geomhash":"a255fb84c3150bff78be3a3902c861e6",
     "wof:hierarchy":[
         {
             "country_id":85632247,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209605797,
-    "wof:lastmodified":1536282016,
+    "wof:lastmodified":1566615337,
     "wof:name":"Nanagade",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.8804799999999999,
+    0.88048,
     10.42813,
-    0.8804799999999999,
+    0.88048,
     10.42813
 ],
   "geometry": {"coordinates":[0.88048,10.42813],"type":"Point"}

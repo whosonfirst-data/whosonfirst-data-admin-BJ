@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.58,6.51333,2.62,6.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ounkanm\u00e9",
         "Hounkam\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259765339,
-    "wof:lastmodified":1537587867,
+    "wof:lastmodified":1566615503,
     "wof:name":"Hounkame",
     "wof:parent_id":1108758903,
     "wof:placetype":"locality",

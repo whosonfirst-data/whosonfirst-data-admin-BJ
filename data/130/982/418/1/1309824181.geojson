@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.55893,8.87189,2.59893,8.91189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309824181,
-    "wof:lastmodified":1536904847,
+    "wof:lastmodified":1566615437,
     "wof:name":"Borone",
     "wof:parent_id":1108758837,
     "wof:placetype":"locality",

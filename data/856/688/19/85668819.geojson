@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.225614,
     "lbl:longitude":2.157033,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.225614,
     "mps:longitude":2.157033,
     "mz:hierarchy_label":1,
@@ -172,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0417\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Center"
     ],
     "name:urd_x_preferred":[
@@ -260,9 +261,9 @@
     "qs:type":"Department",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-02-11",
+    "src:population_date":"2002-02-11",
     "statoids:area_km":"5,106",
     "statoids:area_mi":"1,971",
     "statoids:as_of_date":"2002-02-11",
@@ -287,7 +288,7 @@
         "gp:id":2344829,
         "hasc:id":"BJ.ZO",
         "iso:id":"BJ-ZO",
-        "qs:id":1083804,
+        "qs_pg:id":1083804,
         "unlc:id":"BJ-ZO",
         "wd:id":"Q29172",
         "wk:page":"Zou Department"
@@ -308,11 +309,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565654249,
+    "wof:lastmodified":1566615244,
     "wof:name":"Zou",
     "wof:parent_id":85632247,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":599954,
     "wof:population_rank":11,

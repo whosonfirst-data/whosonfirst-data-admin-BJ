@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.51333,9.31333,1.55333,9.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00e9m\u00e9tou Alidjo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276427357,
-    "wof:lastmodified":1537587864,
+    "wof:lastmodified":1566615292,
     "wof:name":"Kemetou Alidjo",
     "wof:parent_id":1108758847,
     "wof:placetype":"locality",

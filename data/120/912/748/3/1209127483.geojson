@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"3.26091,10.9657,3.30091,11.0057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u00e9ss\u00e9",
         "Gbassa",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209127483,
-    "wof:lastmodified":1537587870,
+    "wof:lastmodified":1566615328,
     "wof:name":"Gbesse",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

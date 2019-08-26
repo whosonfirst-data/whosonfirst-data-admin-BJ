@@ -25,15 +25,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.67138,6.65736,2.71138,6.69736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Lagb\u00e9"
     ],
     "name:msa_x_preferred":[
-        "Lagb\u00e9"
-    ],
-    "name:und_x_variant":[
         "Lagb\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1344228503,
-    "wof:lastmodified":1564183369,
+    "wof:lastmodified":1566615210,
     "wof:name":"Lagbe",
     "wof:parent_id":1108758851,
     "wof:placetype":"locality",

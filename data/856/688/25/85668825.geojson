@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.672771,
     "lbl:longitude":1.596898,
+    "lbl:min_zoom":8.0,
     "mps:latitude":10.672771,
     "mps:longitude":1.596898,
     "mz:hierarchy_label":1,
@@ -150,7 +151,7 @@
         "Atacora"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0b9f\u0bcd\u0b95\u0bcb\u0bb0\u0bbe  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b85\u0b9f\u0bcd\u0b95\u0bcb\u0bb0\u0bbe \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c1f\u0c3e\u0c15\u0c4b\u0c30\u0c3e \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -167,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0430\u043a\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Northwest"
     ],
     "name:urd_x_preferred":[
@@ -252,9 +253,9 @@
     "qs:type":"Department",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-02-11",
+    "src:population_date":"2002-02-11",
     "statoids:area_km":"20,459",
     "statoids:area_mi":"7,899",
     "statoids:as_of_date":"2002-02-11",
@@ -279,7 +280,7 @@
         "gp:id":2344824,
         "hasc:id":"BJ.AK",
         "iso:id":"BJ-AK",
-        "qs:id":318308,
+        "qs_pg:id":318308,
         "unlc:id":"BJ-AK",
         "wd:id":"Q29154",
         "wk:page":"Atakora Department"
@@ -300,11 +301,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565654250,
+    "wof:lastmodified":1566615245,
     "wof:name":"Atakora",
     "wof:parent_id":85632247,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":549417,
     "wof:population_rank":11,

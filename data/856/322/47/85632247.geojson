@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":10.330607,
     "lbl:longitude":2.362221,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":10.330607,
     "mps:longitude":2.362221,
     "mz:hierarchy_label":1,
@@ -765,9 +767,7 @@
         "\u0411\u0435\u043d\u0456\u043d"
     ],
     "name:und_x_variant":[
-        "Republika Benin"
-    ],
-    "name:unk_x_variant":[
+        "Republika Benin",
         "Dahome"
     ],
     "name:urd_x_preferred":[
@@ -922,7 +922,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"229",
     "statoids:ds":"DY",
@@ -968,7 +968,7 @@
         "mzb:id":"benin",
         "ne:adm0_a3":"BEN",
         "nyt:id":"59420450478987673601",
-        "qs:id":91357,
+        "qs_pg:id":91357,
         "uncrt:id":"DY",
         "wd:id":"Q962",
         "wk:page":"Benin",
@@ -990,7 +990,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565654250,
+    "wof:lastmodified":1566615246,
     "wof:name":"Benin",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

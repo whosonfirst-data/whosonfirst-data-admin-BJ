@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.51009,9.34319,1.55009,9.38319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209594795,
-    "wof:lastmodified":1537487838,
+    "wof:lastmodified":1566615334,
     "wof:name":"Kadjimani",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

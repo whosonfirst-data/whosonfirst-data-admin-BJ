@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.64667,6.76333,2.68667,6.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Itaco",
         "Illaco"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276631525,
-    "wof:lastmodified":1537587866,
+    "wof:lastmodified":1566615310,
     "wof:name":"Illaco",
     "wof:parent_id":1108758919,
     "wof:placetype":"locality",

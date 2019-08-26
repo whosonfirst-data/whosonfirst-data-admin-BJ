@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.93328,7.16273,1.97328,7.20273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "D\u00e8tohou"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326806349,
-    "wof:lastmodified":1564183304,
+    "wof:lastmodified":1566615166,
     "wof:name":"Detohou",
     "wof:parent_id":1108758949,
     "wof:placetype":"locality",

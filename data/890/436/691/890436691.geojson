@@ -11,10 +11,14 @@
     "geom:longitude":3.38327,
     "gn:country":"BJ",
     "gn:fcode":"PPL",
-    "gn:pop":37117,
+    "gn:population":37117,
     "iso:country":"BJ",
+    "lbl:bbox":"3.36327,11.84819,3.40327,11.88819",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0646\u0648\u06cc\u0644\u0647"
     ],
@@ -84,7 +88,7 @@
     "name:swe_x_preferred":[
         "Malanville"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mallanville"
     ],
     "name:zho_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":2392837,
         "gp:id":1268004,
-        "qs:id":1035342,
+        "qs_pg:id":1035342,
         "wd:id":"Q2337446",
         "wk:page":"Malanville"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890436691,
-    "wof:lastmodified":1563356302,
+    "wof:lastmodified":1566615447,
     "wof:name":"Malanville",
     "wof:parent_id":1108758957,
     "wof:placetype":"locality",

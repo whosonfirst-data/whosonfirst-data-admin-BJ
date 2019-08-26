@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.78221,7.30596,1.82221,7.34596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260355441,
-    "wof:lastmodified":1536613187,
+    "wof:lastmodified":1566615373,
     "wof:name":"Ahitinme",
     "wof:parent_id":1108758927,
     "wof:placetype":"locality",

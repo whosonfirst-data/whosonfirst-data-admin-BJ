@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.44667,9.97836,1.48667,10.01836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Boungou"
     ],
     "name:und_x_variant":[
-        "Bougou",
-        "Boungou"
+        "Bougou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209895517,
-    "wof:lastmodified":1564183585,
+    "wof:lastmodified":1566615346,
     "wof:name":"Boungou",
     "wof:parent_id":1108758863,
     "wof:placetype":"locality",

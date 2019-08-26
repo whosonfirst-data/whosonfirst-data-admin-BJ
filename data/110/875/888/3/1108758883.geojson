@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.034881,
     "lbl:longitude":1.821647,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Couffo",
     "meso:dissme":"CouffoKlouekanme",
     "meso:gadm_adm2":"Klou\u00e9kanm\u00e8",
@@ -32,6 +34,7 @@
     "mps:longitude":1.821647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u039a\u03bb\u03bf\u03c5\u03b5\u03ba\u03b1\u03bd\u03bc\u03ad"
     ],
@@ -66,9 +69,9 @@
         "\u514b\u76e7\u57c3\u5eb7\u6885"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-02-11",
+    "src:population_date":"2002-02-11",
     "statoids:area_km":"250",
     "statoids:as_of_date":"2002-02-11",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108758883,
-    "wof:lastmodified":1563356119,
+    "wof:lastmodified":1566615377,
     "wof:name":"Klouekanme",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

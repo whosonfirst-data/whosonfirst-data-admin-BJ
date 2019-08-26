@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.98218,7.74991,2.02218,7.78991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gobada"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343836259,
-    "wof:lastmodified":1564183378,
+    "wof:lastmodified":1566615216,
     "wof:name":"Gobada",
     "wof:parent_id":1108758841,
     "wof:placetype":"locality",

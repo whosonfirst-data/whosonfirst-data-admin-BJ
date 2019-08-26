@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.71067,9.69835,1.75067,9.73835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -34,7 +38,7 @@
         "gn:id":2391803
     },
     "wof:country":"BJ",
-    "wof:geomhash":"8809031c3a7228f5ecff205a2076f255",
+    "wof:geomhash":"157f057bd75c21a6e7c781c5ba959cb5",
     "wof:hierarchy":[
         {
             "country_id":85632247,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209391357,
-    "wof:lastmodified":1536288450,
+    "wof:lastmodified":1566615319,
     "wof:name":"Seriveri",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    1.7306700000000002,
+    1.73067,
     9.71835,
-    1.7306700000000002,
+    1.73067,
     9.71835
 ],
   "geometry": {"coordinates":[1.73067,9.71835],"type":"Point"}

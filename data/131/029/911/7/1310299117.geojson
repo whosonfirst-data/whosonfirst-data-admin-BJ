@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"3.13152,10.21086,3.17152,10.25086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bassi"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1310299117,
-    "wof:lastmodified":1564183662,
+    "wof:lastmodified":1566615405,
     "wof:name":"Bassi",
     "wof:parent_id":1108758835,
     "wof:placetype":"locality",

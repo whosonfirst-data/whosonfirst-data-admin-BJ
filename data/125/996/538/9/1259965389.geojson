@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.10548,10.71545,2.14548,10.75545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u00e9k\u00e9r\u00e9",
         "Pikire"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259965389,
-    "wof:lastmodified":1537587852,
+    "wof:lastmodified":1566615494,
     "wof:name":"Pikire",
     "wof:parent_id":1108758971,
     "wof:placetype":"locality",

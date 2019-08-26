@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.01602,10.60667,2.05602,10.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kossou"
     ],
@@ -32,8 +36,7 @@
         "Kossou"
     ],
     "name:und_x_variant":[
-        "Kossu",
-        "Kossou"
+        "Kossu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243259661,
-    "wof:lastmodified":1564183750,
+    "wof:lastmodified":1566615468,
     "wof:name":"Kossou",
     "wof:parent_id":1108758971,
     "wof:placetype":"locality",

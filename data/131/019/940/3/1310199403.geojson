@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.29501,11.18233,2.33501,11.22233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kokiborou"
     ],
@@ -40,8 +44,7 @@
         "Kokiborou"
     ],
     "name:und_x_variant":[
-        "Kokilb\u00e9rou",
-        "Kokiborou"
+        "Kokilb\u00e9rou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1310199403,
-    "wof:lastmodified":1564183669,
+    "wof:lastmodified":1566615408,
     "wof:name":"Kokiborou",
     "wof:parent_id":1108758967,
     "wof:placetype":"locality",
