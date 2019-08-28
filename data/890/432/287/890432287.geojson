@@ -11,10 +11,14 @@
     "geom:longitude":2.18333,
     "gn:country":"BJ",
     "gn:fcode":"PPL",
-    "gn:pop":21672,
+    "gn:population":21672,
     "iso:country":"BJ",
+    "lbl:bbox":"2.16333,7.73,2.20333,7.77",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Dassa-Zoum\u00e8"
     ],
@@ -216,7 +220,7 @@
     "name:swe_x_preferred":[
         "Dassa-Zoum\u00e8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dassa Zume"
     ],
     "name:vec_x_preferred":[
@@ -259,7 +263,7 @@
     "wof:concordances":{
         "gn:id":2394711,
         "gp:id":1266772,
-        "qs:id":278594,
+        "qs_pg:id":278594,
         "wd:id":"Q2609335",
         "wk:page":"Dassa-Zoum\u00e9"
     },
@@ -276,7 +280,7 @@
         }
     ],
     "wof:id":890432287,
-    "wof:lastmodified":1563356304,
+    "wof:lastmodified":1566615447,
     "wof:name":"Dassa-Zoum\u00e9",
     "wof:parent_id":1108758925,
     "wof:placetype":"locality",

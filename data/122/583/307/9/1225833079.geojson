@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.58371,8.18502,2.62371,8.22502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mateo",
         "Mot\u00e9o"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225833079,
-    "wof:lastmodified":1537587857,
+    "wof:lastmodified":1566615557,
     "wof:name":"Moteo",
     "wof:parent_id":1108758963,
     "wof:placetype":"locality",

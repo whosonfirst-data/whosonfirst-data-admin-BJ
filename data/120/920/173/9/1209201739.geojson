@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.75237,7.19154,1.79237,7.23154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -34,7 +38,7 @@
         "gn:id":2393462
     },
     "wof:country":"BJ",
-    "wof:geomhash":"187b9a8ee45f4c379a704e9c3a2c914e",
+    "wof:geomhash":"ca7b70f1df97cb6b758d15d608e45f71",
     "wof:hierarchy":[
         {
             "country_id":85632247,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209201739,
-    "wof:lastmodified":1536294586,
+    "wof:lastmodified":1566615342,
     "wof:name":"Kogbitokoe",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     1.77237,
-    7.2115399999999985,
+    7.21154,
     1.77237,
-    7.2115399999999985
+    7.21154
 ],
   "geometry": {"coordinates":[1.77237,7.21154],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.8211,8.35918,1.8611,8.39918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310682395,
-    "wof:lastmodified":1536661771,
+    "wof:lastmodified":1566615414,
     "wof:name":"Tchokobo",
     "wof:parent_id":1108758839,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.36112,9.73225,1.40112,9.77225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209787207,
-    "wof:lastmodified":1536396646,
+    "wof:lastmodified":1566615329,
     "wof:name":"Alitokoum",
     "wof:parent_id":1108758857,
     "wof:placetype":"locality",

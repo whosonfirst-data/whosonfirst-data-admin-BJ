@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.49667,6.84667,2.53667,6.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Agonvi",
         "Agonvy"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260372669,
-    "wof:lastmodified":1537587887,
+    "wof:lastmodified":1566615366,
     "wof:name":"Agonvy",
     "wof:parent_id":1108758907,
     "wof:placetype":"locality",

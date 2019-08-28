@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.10999,10.17499,2.14999,10.21499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tobr\u00e9"
     ],
@@ -40,8 +44,7 @@
         "Tobr\u00e9"
     ],
     "name:und_x_variant":[
-        "Tobr",
-        "Tobr\u00e9"
+        "Tobr"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276641311,
-    "wof:lastmodified":1564183523,
+    "wof:lastmodified":1566615308,
     "wof:name":"Tobre",
     "wof:parent_id":1108758867,
     "wof:placetype":"locality",

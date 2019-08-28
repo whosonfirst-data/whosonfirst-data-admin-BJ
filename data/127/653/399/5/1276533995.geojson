@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.00997,10.89821,1.04997,10.93821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Nodi"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276533995,
-    "wof:lastmodified":1564183531,
+    "wof:lastmodified":1566615313,
     "wof:name":"Nodi",
     "wof:parent_id":1108758833,
     "wof:placetype":"locality",

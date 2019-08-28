@@ -12,6 +12,8 @@
     "iso:country":"BJ",
     "lbl:latitude":6.491262,
     "lbl:longitude":2.625751,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -576,7 +578,7 @@
         "gn:id":2392087,
         "gp:id":1268465,
         "loc:id":"n80165057",
-        "qs:id":1167980,
+        "qs_pg:id":1167980,
         "wd:id":"Q3799",
         "wk:page":"Porto-Novo"
     },
@@ -593,7 +595,7 @@
         }
     ],
     "wof:id":421168997,
-    "wof:lastmodified":1563356239,
+    "wof:lastmodified":1566615442,
     "wof:name":"Porto-Novo",
     "wof:parent_id":421169223,
     "wof:placetype":"locality",

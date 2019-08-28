@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"3.41664,10.78795,3.45664,10.82795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310097077,
-    "wof:lastmodified":1537007952,
+    "wof:lastmodified":1566615395,
     "wof:name":"Alfabe",
     "wof:parent_id":1108758959,
     "wof:placetype":"locality",

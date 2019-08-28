@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.34576,9.78102,1.38576,9.82102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1309891903,
-    "wof:lastmodified":1536806766,
+    "wof:lastmodified":1566615440,
     "wof:name":"Katakpalao",
     "wof:parent_id":85668827,
     "wof:placetype":"locality",

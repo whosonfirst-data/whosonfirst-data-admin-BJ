@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.21051,10.37932,1.25051,10.41932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Imafot\u00e9",
         "Inafonnt\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193122637,
-    "wof:lastmodified":1537587866,
+    "wof:lastmodified":1566615357,
     "wof:name":"Inafonnte",
     "wof:parent_id":421169231,
     "wof:placetype":"locality",

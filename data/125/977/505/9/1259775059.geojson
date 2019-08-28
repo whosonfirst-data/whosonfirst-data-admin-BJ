@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.96488,11.02447,3.00488,11.06447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kosse"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1259775059,
-    "wof:lastmodified":1564183800,
+    "wof:lastmodified":1566615498,
     "wof:name":"Kosse",
     "wof:parent_id":1108758975,
     "wof:placetype":"locality",

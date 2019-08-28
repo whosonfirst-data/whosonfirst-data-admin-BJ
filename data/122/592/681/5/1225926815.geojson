@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.81333,6.66333,1.85333,6.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zounkpa",
         "Zounkp\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225926815,
-    "wof:lastmodified":1537587838,
+    "wof:lastmodified":1566615519,
     "wof:name":"Zounkpe",
     "wof:parent_id":1108758893,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.86333,7.54667,1.90333,7.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632247
@@ -34,7 +38,7 @@
         "gn:id":2394108
     },
     "wof:country":"BJ",
-    "wof:geomhash":"05727dedb30cef45ed44161cfb3cd3ae",
+    "wof:geomhash":"9d9e66120cddc42ea5c2de9c4f7a4ca7",
     "wof:hierarchy":[
         {
             "country_id":85632247,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209591597,
-    "wof:lastmodified":1536282460,
+    "wof:lastmodified":1566615333,
     "wof:name":"Glodjogon",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     1.88333,
-    7.5666699999999985,
+    7.56667,
     1.88333,
-    7.5666699999999985
+    7.56667
 ],
   "geometry": {"coordinates":[1.88333,7.56667],"type":"Point"}
 }

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"3.13365,10.96539,3.17365,11.00539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "B\u00e9nsakou"
     ],
@@ -43,9 +47,7 @@
         "Bens\u00e9kou"
     ],
     "name:und_x_variant":[
-        "Binsakou",
-        "Bens\u00e9kou",
-        "B\u00e9nsakou"
+        "Binsakou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1343355973,
-    "wof:lastmodified":1564183392,
+    "wof:lastmodified":1566615225,
     "wof:name":"Bensakou",
     "wof:parent_id":1108758975,
     "wof:placetype":"locality",

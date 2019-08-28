@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.53,9.73,1.57,9.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dori",
         "Babanzaour\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226726383,
-    "wof:lastmodified":1537587882,
+    "wof:lastmodified":1566615521,
     "wof:name":"Babanzaoure",
     "wof:parent_id":1108758985,
     "wof:placetype":"locality",

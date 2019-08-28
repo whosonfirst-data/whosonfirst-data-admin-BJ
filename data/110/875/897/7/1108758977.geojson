@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.857372,
     "lbl:longitude":2.176843,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Atlantique",
     "meso:dissme":"AtlantiqueToffo",
     "meso:gadm_adm2":"Toffo",
@@ -32,6 +34,7 @@
     "mps:longitude":2.176843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:dan_x_preferred":[
         "Toffo"
     ],
@@ -81,9 +84,9 @@
         "\u6258\u798f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-02-11",
+    "src:population_date":"2002-02-11",
     "statoids:area_km":"515",
     "statoids:as_of_date":"2002-02-11",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1108758977,
-    "wof:lastmodified":1563356147,
+    "wof:lastmodified":1566615386,
     "wof:name":"Toffo",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

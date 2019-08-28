@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.97546,9.71933,3.01546,9.75933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226126129,
-    "wof:lastmodified":1536606254,
+    "wof:lastmodified":1566615546,
     "wof:name":"Kinson",
     "wof:parent_id":1108758981,
     "wof:placetype":"locality",

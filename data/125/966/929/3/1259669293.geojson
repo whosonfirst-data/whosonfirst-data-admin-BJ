@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.15183,10.8502,1.19183,10.8902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259669293,
-    "wof:lastmodified":1537084315,
+    "wof:lastmodified":1566615508,
     "wof:name":"Tinetini",
     "wof:parent_id":1108758833,
     "wof:placetype":"locality",

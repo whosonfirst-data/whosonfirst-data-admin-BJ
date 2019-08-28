@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.62039,10.02603,2.66039,10.06603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guesu",
         "Gu\u00e9ssou",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360180693,
-    "wof:lastmodified":1537587868,
+    "wof:lastmodified":1566615423,
     "wof:name":"Guessou-Sud",
     "wof:parent_id":1108758979,
     "wof:placetype":"locality",

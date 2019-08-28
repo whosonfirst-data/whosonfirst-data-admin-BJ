@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.0051,6.95385,2.0451,6.99385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Djakotomey"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242850211,
-    "wof:lastmodified":1564183773,
+    "wof:lastmodified":1566615481,
     "wof:name":"Djakotomey II",
     "wof:parent_id":1108758939,
     "wof:placetype":"locality",

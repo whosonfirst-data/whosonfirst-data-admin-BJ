@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.54548,9.97679,1.58548,10.01679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pandourou",
         "T\u00e9\u00e9bani"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242993057,
-    "wof:lastmodified":1537587845,
+    "wof:lastmodified":1566615484,
     "wof:name":"Teebani",
     "wof:parent_id":1108758863,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.71154,10.37869,2.75154,10.41869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gamia"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293090025,
-    "wof:lastmodified":1564183424,
+    "wof:lastmodified":1566615250,
     "wof:name":"Gamia",
     "wof:parent_id":1108758979,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.81333,7.39667,1.85333,7.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adjadohond\u00e9gon",
         "P\u00e9t\u00e9ki"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276940489,
-    "wof:lastmodified":1537587852,
+    "wof:lastmodified":1566615297,
     "wof:name":"Peteki",
     "wof:parent_id":1108758927,
     "wof:placetype":"locality",

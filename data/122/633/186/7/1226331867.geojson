@@ -24,15 +24,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.36333,6.81333,2.40333,6.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Djigb\u00e9"
     ],
     "name:msa_x_preferred":[
-        "Djigb\u00e9"
-    ],
-    "name:und_x_variant":[
         "Djigb\u00e9"
     ],
     "src:geom":"geonames",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1226331867,
-    "wof:lastmodified":1564183856,
+    "wof:lastmodified":1566615529,
     "wof:name":"Djigbe",
     "wof:parent_id":1108758875,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.48992,9.84661,2.52992,9.88661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209900043,
-    "wof:lastmodified":1536386851,
+    "wof:lastmodified":1566615323,
     "wof:name":"Borosson",
     "wof:parent_id":1108758877,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.95282,10.71331,2.99282,10.75331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zougou",
         "Zugu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226164151,
-    "wof:lastmodified":1537587839,
+    "wof:lastmodified":1566615527,
     "wof:name":"Zougou-Pantrossi",
     "wof:parent_id":1108758865,
     "wof:placetype":"locality",

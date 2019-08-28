@@ -10,8 +10,12 @@
     "geom:latitude":7.92807,
     "geom:longitude":1.97558,
     "iso:country":"BJ",
+    "lbl:bbox":"1.95558,7.90807,1.99558,7.94807",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0633\u0627\u0648\u0627\u0644\u0648"
@@ -82,9 +86,6 @@
     "name:swe_x_preferred":[
         "Savalou"
     ],
-    "name:unk_x_variant":[
-        "Savalu"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0648\u0627\u0644\u0648\u0624"
     ],
@@ -122,7 +123,7 @@
     "wof:concordances":{
         "gn:id":2391895,
         "gp:id":1268593,
-        "qs:id":1035340,
+        "qs_pg:id":1035340,
         "wd:id":"Q544623",
         "wk:page":"Savalou"
     },
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421175959,
-    "wof:lastmodified":1563356293,
+    "wof:lastmodified":1566615445,
     "wof:name":"Savalou",
     "wof:parent_id":1108758841,
     "wof:placetype":"locality",

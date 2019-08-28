@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.55951,8.91555,2.59951,8.95555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Igini",
         "Guiny",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360281331,
-    "wof:lastmodified":1537587868,
+    "wof:lastmodified":1566615426,
     "wof:name":"Guini",
     "wof:parent_id":1108758837,
     "wof:placetype":"locality",

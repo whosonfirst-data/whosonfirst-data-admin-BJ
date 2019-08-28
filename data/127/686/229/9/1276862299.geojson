@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.71124,10.25192,1.75124,10.29192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tocro",
         "Tokoro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276862299,
-    "wof:lastmodified":1537587843,
+    "wof:lastmodified":1566615288,
     "wof:name":"Tokoro",
     "wof:parent_id":1108758863,
     "wof:placetype":"locality",

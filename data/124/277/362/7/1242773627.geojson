@@ -26,8 +26,12 @@
     "gn:population":3604,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.14667,6.74667,2.18667,6.78667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hinvi"
     ],
@@ -41,8 +45,7 @@
         "Hinvi"
     ],
     "name:und_x_variant":[
-        "Henvi",
-        "Hinvi"
+        "Henvi"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1242773627,
-    "wof:lastmodified":1564183765,
+    "wof:lastmodified":1566615477,
     "wof:name":"Hinvi",
     "wof:parent_id":421202551,
     "wof:placetype":"locality",

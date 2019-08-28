@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.64522,10.79569,2.68522,10.83569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Kali"
     ],
@@ -246,7 +250,7 @@
         }
     ],
     "wof:id":1293195103,
-    "wof:lastmodified":1564183472,
+    "wof:lastmodified":1566615281,
     "wof:name":"Kali",
     "wof:parent_id":1108758865,
     "wof:placetype":"locality",

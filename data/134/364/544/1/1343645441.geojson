@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"3.30985,10.30297,3.34985,10.34297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bagassi",
         "Bagazi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343645441,
-    "wof:lastmodified":1537587882,
+    "wof:lastmodified":1566615208,
     "wof:name":"Bagazi",
     "wof:parent_id":1108758835,
     "wof:placetype":"locality",

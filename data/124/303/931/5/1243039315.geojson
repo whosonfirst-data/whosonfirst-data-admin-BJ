@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.75473,9.87204,1.79473,9.91204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kolokond\u00e9"
     ],
@@ -40,8 +44,7 @@
         "Kolokond\u00e9"
     ],
     "name:und_x_variant":[
-        "Kolkond\u00e9",
-        "Kolokond\u00e9"
+        "Kolkond\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1243039315,
-    "wof:lastmodified":1564183754,
+    "wof:lastmodified":1566615470,
     "wof:name":"Kolokonde",
     "wof:parent_id":1108758889,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.57358,9.87455,1.61358,9.91455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tani"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1277163695,
-    "wof:lastmodified":1564183535,
+    "wof:lastmodified":1566615316,
     "wof:name":"Tani",
     "wof:parent_id":1108758985,
     "wof:placetype":"locality",

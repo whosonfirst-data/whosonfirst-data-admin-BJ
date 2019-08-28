@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.64406,9.6031,2.68406,9.6431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u043e\u043d\u0435"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1292989837,
-    "wof:lastmodified":1564183456,
+    "wof:lastmodified":1566615271,
     "wof:name":"Samone",
     "wof:parent_id":1108758877,
     "wof:placetype":"locality",

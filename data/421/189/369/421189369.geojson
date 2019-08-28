@@ -10,8 +10,12 @@
     "geom:latitude":10.17711,
     "geom:longitude":1.10621,
     "iso:country":"BJ",
+    "lbl:bbox":"1.08621,10.15711,1.12621,10.19711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Boukoumb\u00e9"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Boukoumb\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boukomo\u00e9"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2394914,
         "gp:id":1266643,
-        "qs:id":44235,
+        "qs_pg:id":44235,
         "wd:id":"Q2269235",
         "wk:page":"Boukoumb\u00e9"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421189369,
-    "wof:lastmodified":1563356289,
+    "wof:lastmodified":1566615443,
     "wof:name":"Boukomb\u00e9",
     "wof:parent_id":1108758859,
     "wof:placetype":"locality",

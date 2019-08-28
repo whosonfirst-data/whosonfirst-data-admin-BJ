@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.74433,6.55337,1.78433,6.59337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Don Agbodougb\u00e9",
         "Don-Alonougb\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326512947,
-    "wof:lastmodified":1537587873,
+    "wof:lastmodified":1566615167,
     "wof:name":"Don-Alonougbe",
     "wof:parent_id":1108758965,
     "wof:placetype":"locality",

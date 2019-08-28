@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.71468,7.05417,2.75468,7.09417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293072497,
-    "wof:lastmodified":1536888051,
+    "wof:lastmodified":1566615247,
     "wof:name":"Illemon",
     "wof:parent_id":1108758855,
     "wof:placetype":"locality",

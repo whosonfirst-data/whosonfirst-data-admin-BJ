@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"3.37372,10.94264,3.41372,10.98264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bessaka",
         "Gb\u00e9ssaka"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276540789,
-    "wof:lastmodified":1537587870,
+    "wof:lastmodified":1566615314,
     "wof:name":"Gbessaka",
     "wof:parent_id":1108758959,
     "wof:placetype":"locality",

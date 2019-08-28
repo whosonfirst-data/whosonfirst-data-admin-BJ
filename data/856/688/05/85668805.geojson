@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.297426,
     "lbl:longitude":2.881676,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.297426,
     "mps:longitude":2.881676,
     "mz:hierarchy_label":1,
@@ -155,7 +156,7 @@
         "Alibori"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb2\u0bbf\u0baa\u0bcb\u0bb0\u0bbf  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b85\u0bb2\u0bbf\u0baa\u0bcb\u0bb0\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c3f\u0c2c\u0c4b\u0c30\u0c3f \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -172,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0410\u043b\u0456\u0431\u043e\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement de l\u2019Alibori"
     ],
     "name:urd_x_preferred":[
@@ -257,9 +258,9 @@
     "qs:type":"Department",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-02-11",
+    "src:population_date":"2002-02-11",
     "statoids:area_km":"25,683",
     "statoids:area_mi":"9,916",
     "statoids:as_of_date":"2002-02-11",
@@ -284,7 +285,7 @@
         "gp:id":55967672,
         "hasc:id":"BJ.AL",
         "iso:id":"BJ-AL",
-        "qs:id":264100,
+        "qs_pg:id":264100,
         "unlc:id":"BJ-AL",
         "wd:id":"Q29165",
         "wk:page":"Alibori Department"
@@ -305,11 +306,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565654249,
+    "wof:lastmodified":1566615244,
     "wof:name":"Alibori",
     "wof:parent_id":85632247,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":521093,
     "wof:population_rank":11,

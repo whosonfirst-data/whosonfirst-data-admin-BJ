@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.12203,6.83255,2.16203,6.87255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Couss\u00e9"
     ],
@@ -35,10 +39,6 @@
         "Coussi"
     ],
     "name:swe_x_preferred":[
-        "Couss\u00e9"
-    ],
-    "name:und_x_variant":[
-        "Coussi",
         "Couss\u00e9"
     ],
     "src:geom":"geonames",
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1243258597,
-    "wof:lastmodified":1564183749,
+    "wof:lastmodified":1566615468,
     "wof:name":"Cousse",
     "wof:parent_id":1108758977,
     "wof:placetype":"locality",

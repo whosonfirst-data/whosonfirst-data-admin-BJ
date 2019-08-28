@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.52739,6.46056,2.56739,6.50056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hou\u00e9dom\u00e9"
     ],
@@ -38,8 +42,7 @@
         "Hou\u00e9dom\u00e9"
     ],
     "name:und_x_variant":[
-        "Aguegue-Houedome",
-        "Hou\u00e9dom\u00e9"
+        "Aguegue-Houedome"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1259765435,
-    "wof:lastmodified":1564183811,
+    "wof:lastmodified":1566615504,
     "wof:name":"Houedome",
     "wof:parent_id":1108758905,
     "wof:placetype":"locality",

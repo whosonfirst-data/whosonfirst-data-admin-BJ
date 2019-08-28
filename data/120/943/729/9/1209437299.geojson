@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"1.04244,10.91685,1.08244,10.95685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sokou\u00e9ou",
         "Sako\u00e9houm"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209437299,
-    "wof:lastmodified":1537587851,
+    "wof:lastmodified":1566615350,
     "wof:name":"Sakoehoum",
     "wof:parent_id":85632247,
     "wof:placetype":"locality",

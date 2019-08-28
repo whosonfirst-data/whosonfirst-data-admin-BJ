@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.83331,11.06132,2.87331,11.10132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360006995,
-    "wof:lastmodified":1537055925,
+    "wof:lastmodified":1566615419,
     "wof:name":"Koussougourou",
     "wof:parent_id":1108758975,
     "wof:placetype":"locality",

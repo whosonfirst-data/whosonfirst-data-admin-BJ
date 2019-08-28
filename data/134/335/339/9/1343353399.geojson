@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.42114,11.31134,2.46114,11.35134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Gomparou"
     ],
@@ -38,8 +42,7 @@
     ],
     "name:und_x_variant":[
         "Gomparu",
-        "Gonmparou",
-        "Gomparou"
+        "Gonmparou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1343353399,
-    "wof:lastmodified":1564183391,
+    "wof:lastmodified":1566615224,
     "wof:name":"Gomparou",
     "wof:parent_id":1108758967,
     "wof:placetype":"locality",

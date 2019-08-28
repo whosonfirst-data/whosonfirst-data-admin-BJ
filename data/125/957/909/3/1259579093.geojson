@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Porto-Novo",
     "iso:country":"BJ",
+    "lbl:bbox":"2.46947,9.31882,2.50947,9.35882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u06cc\u0627\u06a9\u0633\u0633\u06cc\u0631\u0648"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259579093,
-    "wof:lastmodified":1564183813,
+    "wof:lastmodified":1566615505,
     "wof:name":"Yakassirou",
     "wof:parent_id":1108758983,
     "wof:placetype":"locality",

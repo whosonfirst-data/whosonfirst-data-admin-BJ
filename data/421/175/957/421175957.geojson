@@ -10,8 +10,12 @@
     "geom:latitude":8.04253,
     "geom:longitude":2.48599,
     "iso:country":"BJ",
+    "lbl:bbox":"2.46599,8.02253,2.50599,8.06253",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0633\u0627\u0648\u0647"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":2391893,
         "gp:id":1268594,
-        "qs:id":1035339,
+        "qs_pg:id":1035339,
         "wd:id":"Q2609291",
         "wk:page":"Sav\u00e9"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421175957,
-    "wof:lastmodified":1563356293,
+    "wof:lastmodified":1566615445,
     "wof:name":"Sav\u00e9",
     "wof:parent_id":1108758963,
     "wof:placetype":"locality",
