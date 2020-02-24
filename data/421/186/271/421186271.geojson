@@ -150,6 +150,9 @@
     },
     "wof:country":"BJ",
     "wof:created":1459009475,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e830ca0d10954d5526382479a1cf428",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421186271,
-    "wof:lastmodified":1566615444,
+    "wof:lastmodified":1582347043,
     "wof:name":"Abomey-Calavi",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

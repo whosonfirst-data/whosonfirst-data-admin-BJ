@@ -122,6 +122,9 @@
     },
     "wof:country":"BJ",
     "wof:created":1459009864,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c0f28c6426c1dd197401e6a704fe9093",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421195933,
-    "wof:lastmodified":1566615442,
+    "wof:lastmodified":1582347042,
     "wof:name":"Kpomasse",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

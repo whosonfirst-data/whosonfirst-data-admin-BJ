@@ -350,6 +350,9 @@
     },
     "wof:country":"BJ",
     "wof:created":1459010125,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6fb2b8d6d17857a93c8873b6fb7f04b7",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
         }
     ],
     "wof:id":421202663,
-    "wof:lastmodified":1566615443,
+    "wof:lastmodified":1582347043,
     "wof:name":"Cotonou",
     "wof:parent_id":85668811,
     "wof:placetype":"county",

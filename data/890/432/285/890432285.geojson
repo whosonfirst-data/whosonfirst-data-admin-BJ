@@ -289,6 +289,9 @@
     },
     "wof:country":"BJ",
     "wof:created":1469051935,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f4f582e427a91675a2d6b8079afec6e6",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":890432285,
-    "wof:lastmodified":1566615447,
+    "wof:lastmodified":1582347043,
     "wof:name":"Djougou",
     "wof:parent_id":1108758889,
     "wof:placetype":"locality",

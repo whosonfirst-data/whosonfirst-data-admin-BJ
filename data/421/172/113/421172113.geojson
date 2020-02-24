@@ -131,6 +131,9 @@
     },
     "wof:country":"BJ",
     "wof:created":1459008920,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1493c602363a13c0270bea2976221d21",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421172113,
-    "wof:lastmodified":1566615444,
+    "wof:lastmodified":1582347043,
     "wof:name":"Tanguieta",
     "wof:parent_id":85668825,
     "wof:placetype":"county",
