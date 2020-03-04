@@ -231,6 +231,9 @@
     },
     "wof:country":"BJ",
     "wof:created":1459008800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8edc50c3255e84c965f0f6daa2697b17",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":421169231,
-    "wof:lastmodified":1566615442,
+    "wof:lastmodified":1582347043,
     "wof:name":"Natitingou",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

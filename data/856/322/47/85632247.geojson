@@ -976,6 +976,10 @@
     },
     "wof:country":"BJ",
     "wof:country_alpha3":"BEN",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"197871b96b90ad7a50de457e41bcdd2e",
     "wof:hierarchy":[
         {
@@ -990,7 +994,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566615246,
+    "wof:lastmodified":1583226643,
     "wof:name":"Benin",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -155,6 +155,9 @@
     },
     "wof:country":"BJ",
     "wof:created":1459009137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8fc1126b0ac42c24b1f4c5f06b8ffeb9",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421177249,
-    "wof:lastmodified":1566615446,
+    "wof:lastmodified":1582347043,
     "wof:name":"Grand-Popo",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

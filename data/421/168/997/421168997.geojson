@@ -584,6 +584,9 @@
     },
     "wof:country":"BJ",
     "wof:created":1459008789,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c982a71624b6c930bd8837bb00552772",
     "wof:hierarchy":[
         {
@@ -595,7 +598,7 @@
         }
     ],
     "wof:id":421168997,
-    "wof:lastmodified":1566615442,
+    "wof:lastmodified":1582347042,
     "wof:name":"Porto-Novo",
     "wof:parent_id":421169223,
     "wof:placetype":"locality",
