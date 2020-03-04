@@ -920,7 +920,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -995,7 +994,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1582347038,
+    "wof:lastmodified":1583226643,
     "wof:name":"Benin",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
