@@ -952,9 +952,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Benin",
-        "digitalenvoy:country_code":[
-            204
-        ],
+        "digitalenvoy:country_code":204,
         "fb:id":"en.benin",
         "fifa:id":"BEN",
         "fips:code":"BN",
@@ -997,7 +995,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529077,
+    "wof:lastmodified":1583797280,
     "wof:name":"Benin",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
