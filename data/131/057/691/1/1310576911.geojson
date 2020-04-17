@@ -38,14 +38,14 @@
         "Sagon"
     ],
     "name:urd_x_preferred":[
-        "\u0633\u06af\u0648\u06ba "
+        "\u0633\u06af\u0648\u06ba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
         85632247,
-        85668819,
-        1108758935
+        1108758935,
+        85668819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1310576911,
-    "wof:lastmodified":1566615413,
+    "wof:lastmodified":1587163120,
     "wof:name":"Sagon",
     "wof:parent_id":1108758935,
     "wof:placetype":"locality",
