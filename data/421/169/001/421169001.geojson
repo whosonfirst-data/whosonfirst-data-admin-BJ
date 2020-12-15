@@ -430,6 +430,9 @@
         "wd:id":"Q43595",
         "wk:page":"Cotonou"
     },
+    "wof:coterminous":[
+        421202663
+    ],
     "wof:country":"BJ",
     "wof:created":1459008790,
     "wof:geom_alt":[
@@ -446,7 +449,7 @@
         }
     ],
     "wof:id":421169001,
-    "wof:lastmodified":1607390893,
+    "wof:lastmodified":1607981950,
     "wof:name":"Cotonou",
     "wof:parent_id":421202663,
     "wof:placetype":"locality",

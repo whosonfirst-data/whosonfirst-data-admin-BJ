@@ -584,6 +584,9 @@
         "wd:id":"Q3799",
         "wk:page":"Porto-Novo"
     },
+    "wof:coterminous":[
+        421169223
+    ],
     "wof:country":"BJ",
     "wof:created":1459008789,
     "wof:geom_alt":[
@@ -600,7 +603,7 @@
         }
     ],
     "wof:id":421168997,
-    "wof:lastmodified":1607390893,
+    "wof:lastmodified":1607981950,
     "wof:name":"Porto-Novo",
     "wof:parent_id":421169223,
     "wof:placetype":"locality",
