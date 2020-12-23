@@ -426,6 +426,7 @@
     "wof:concordances":{
         "gn:id":2394819,
         "gp:id":1266711,
+        "ne:id":1159151141,
         "qs_pg:id":492757,
         "wd:id":"Q43595",
         "wk:page":"Cotonou"
@@ -449,7 +450,8 @@
         }
     ],
     "wof:id":421169001,
-    "wof:lastmodified":1607981950,
+    "wof:lastmodified":1608688179,
+    "wof:megacity":1,
     "wof:name":"Cotonou",
     "wof:parent_id":421202663,
     "wof:placetype":"locality",
