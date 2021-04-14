@@ -1021,7 +1021,8 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1082,7 +1083,8 @@
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"cb8400f14dcd2cc5125d58971e07799a",
     "wof:hierarchy":[
@@ -1098,7 +1100,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1617827843,
+    "wof:lastmodified":1618362676,
     "wof:name":"Benin",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
