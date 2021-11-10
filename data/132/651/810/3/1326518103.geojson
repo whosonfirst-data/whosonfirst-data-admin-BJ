@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Kouffo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d5\u05e4\u05d5"
+    ],
     "name:swe_x_preferred":[
         "Kouffo"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1326518103,
-    "wof:lastmodified":1566615167,
+    "wof:lastmodified":1636501326,
     "wof:name":"Kouffo",
     "wof:parent_id":1108758841,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
         "Koninga",
         "Angara"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u06af\u0627\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1209992887,
-    "wof:lastmodified":1566615324,
+    "wof:lastmodified":1636501330,
     "wof:name":"Angara",
     "wof:parent_id":1108758889,
     "wof:placetype":"locality",

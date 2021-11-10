@@ -29,6 +29,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u062c\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u099c\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b3\u03b9\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u062c\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05b0\u05d2\u05b8'\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Dja"
+    ],
+    "name:ind_x_preferred":[
+        "Dja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u5ddd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub514\uc790"
+    ],
+    "name:nld_x_preferred":[
+        "Dja"
+    ],
+    "name:tur_x_preferred":[
+        "Dja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Dja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1327206461,
-    "wof:lastmodified":1566615201,
+    "wof:lastmodified":1636501327,
     "wof:name":"Dja",
     "wof:parent_id":1108758917,
     "wof:placetype":"locality",

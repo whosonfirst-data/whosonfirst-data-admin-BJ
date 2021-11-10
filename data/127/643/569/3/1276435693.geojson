@@ -35,7 +35,16 @@
     "name:deu_x_preferred":[
         "Sourou"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Sourou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d0\u05d5\u05e8\u05d5\u05d0\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Sourou"
     ],
     "name:swe_x_preferred":[
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1276435693,
-    "wof:lastmodified":1566615290,
+    "wof:lastmodified":1636501330,
     "wof:name":"Sourou",
     "wof:parent_id":1108758983,
     "wof:placetype":"locality",

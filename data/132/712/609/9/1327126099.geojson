@@ -77,6 +77,9 @@
     "name:glg_x_preferred":[
         "Zibo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05d1\u05d5"
+    ],
     "name:ind_x_preferred":[
         "Zibo"
     ],
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1327126099,
-    "wof:lastmodified":1566615178,
+    "wof:lastmodified":1636501326,
     "wof:name":"Zibo",
     "wof:parent_id":1108758959,
     "wof:placetype":"locality",

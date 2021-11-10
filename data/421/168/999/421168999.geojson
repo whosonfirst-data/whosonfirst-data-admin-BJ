@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0648\u06cc\u062f\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u0993\u0989\u0987\u09a6\u09be\u09b9"
+    ],
     "name:cat_x_preferred":[
         "Ouidah"
     ],
@@ -68,7 +71,13 @@
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05d3\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0909\u0907\u0926\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Ouidah"
+    ],
+    "name:hun_x_preferred":[
         "Ouidah"
     ],
     "name:ind_x_preferred":[
@@ -128,6 +137,9 @@
     "name:swe_x_preferred":[
         "Ouidah"
     ],
+    "name:tur_x_preferred":[
+        "Ouidah"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u0457\u0434\u0430"
     ],
@@ -136,6 +148,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u062f\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Ouidah"
     ],
     "name:yor_x_preferred":[
         "Ouidah"
@@ -282,7 +297,7 @@
         }
     ],
     "wof:id":421168999,
-    "wof:lastmodified":1566615442,
+    "wof:lastmodified":1636501333,
     "wof:name":"Ouidah",
     "wof:parent_id":421174729,
     "wof:placetype":"locality",

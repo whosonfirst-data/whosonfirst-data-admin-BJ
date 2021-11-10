@@ -28,6 +28,9 @@
     "name:azb_x_preferred":[
         "\u0644\u0648\u06a9\u0648\u0633\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u0995\u09cb\u09b8\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Lokossa"
     ],
@@ -61,6 +64,9 @@
     "name:frr_x_preferred":[
         "Lokossa"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u0915\u094b\u0938\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Lokossa"
     ],
@@ -75,6 +81,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30b3\u30c3\u30b5"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ucf54\uc0ac"
     ],
     "name:lit_x_preferred":[
         "Lokosa"
@@ -106,11 +115,20 @@
     "name:swe_x_preferred":[
         "Lokossa"
     ],
+    "name:tur_x_preferred":[
+        "Lokossa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043a\u043e\u0441\u0430"
+    ],
     "name:und_x_variant":[
         "Locossa"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u06a9\u0648\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Lokossa"
     ],
     "name:war_x_preferred":[
         "Lokossa"
@@ -160,7 +178,7 @@
         }
     ],
     "wof:id":1125913503,
-    "wof:lastmodified":1566615447,
+    "wof:lastmodified":1636501334,
     "wof:name":"Lokossa",
     "wof:parent_id":1108758849,
     "wof:placetype":"locality",
