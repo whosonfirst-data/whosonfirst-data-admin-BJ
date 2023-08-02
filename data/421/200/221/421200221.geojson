@@ -50,6 +50,9 @@
     "name:ita_x_preferred":[
         "Cov\u00e8"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f4\u30a7"
+    ],
     "name:msa_x_preferred":[
         "Cov\u00e8"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421200221,
-    "wof:lastmodified":1566615445,
+    "wof:lastmodified":1690858521,
     "wof:name":"Cov\u00e9",
     "wof:parent_id":1108758941,
     "wof:placetype":"locality",

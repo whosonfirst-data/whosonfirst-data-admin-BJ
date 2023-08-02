@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0647\u06cc\u06a9\u0648\u0646"
+    ],
     "name:deu_x_preferred":[
         "Bohicon"
     ],
@@ -72,6 +75,9 @@
         "Bohicon"
     ],
     "name:spa_x_preferred":[
+        "Bohicon"
+    ],
+    "name:swa_x_preferred":[
         "Bohicon"
     ],
     "name:swe_x_preferred":[
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421199601,
-    "wof:lastmodified":1566615445,
+    "wof:lastmodified":1690858520,
     "wof:name":"Bohicon",
     "wof:parent_id":1108758923,
     "wof:placetype":"locality",

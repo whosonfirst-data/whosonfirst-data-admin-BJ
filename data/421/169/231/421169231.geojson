@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Natitingou"
+    ],
     "name:ara_x_preferred":[
         "\u0646\u0627\u062a\u064a\u062a\u0646\u063a\u0648"
     ],
@@ -45,7 +48,13 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u099f\u09bf\u099f\u09bf\u0999\u09cd\u0997\u09c1"
     ],
+    "name:cat_x_preferred":[
+        "Natitingou"
+    ],
     "name:ceb_x_preferred":[
+        "Natitingou"
+    ],
+    "name:ces_x_preferred":[
         "Natitingou"
     ],
     "name:dan_x_preferred":[
@@ -83,6 +92,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d8\u05d9\u05d8\u05d9\u05e0\u05d2\u05d5\u05d0\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05d0\u05d8\u05d9\u05d8\u05d9\u05e0\u05d2\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0928\u093f\u091f\u0947\u091f\u093f\u0928\u0917\u094c"
@@ -150,6 +162,9 @@
     "name:spa_x_preferred":[
         "Natitingou"
     ],
+    "name:swa_x_preferred":[
+        "Natitingou"
+    ],
     "name:swe_x_preferred":[
         "Natitingou"
     ],
@@ -176,6 +191,9 @@
     ],
     "name:war_x_preferred":[
         "Natitingou"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d0\u10e2\u10d8\u10e2\u10d8\u10dc\u10d2\u10e3"
     ],
     "name:yor_x_preferred":[
         "Natitingou"
@@ -247,7 +265,7 @@
         }
     ],
     "wof:id":421169231,
-    "wof:lastmodified":1636501333,
+    "wof:lastmodified":1690858516,
     "wof:name":"Natitingou",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

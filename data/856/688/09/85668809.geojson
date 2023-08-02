@@ -77,6 +77,9 @@
     "name:eus_x_preferred":[
         "Atlantique departamendua"
     ],
+    "name:eus_x_variant":[
+        "Atlantique"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0622\u062a\u0644\u0627\u0646\u062a\u06cc\u06a9"
     ],
@@ -116,11 +119,17 @@
     "name:kor_x_preferred":[
         "\uc544\ud2c0\ub791\ud2f0\ud06c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ud2c0\ub791\ud2f0\ud06c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Atlantikas departaments"
     ],
     "name:lit_x_preferred":[
         "Atlanto departamentas"
+    ],
+    "name:ltz_x_preferred":[
+        "Atlantique"
     ],
     "name:mar_x_preferred":[
         "\u0905\u091f\u0932\u093e\u0902\u091f\u093f\u0915 \u0935\u093f\u092d\u093e\u0917"
@@ -152,6 +161,9 @@
     "name:spa_x_preferred":[
         "Atlantique"
     ],
+    "name:swa_x_preferred":[
+        "Atlantique"
+    ],
     "name:swe_x_preferred":[
         "Atlantique"
     ],
@@ -181,6 +193,9 @@
     ],
     "name:vie_x_preferred":[
         "Atlantique"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u897f\u6d0b\u7701"
     ],
     "name:yor_x_preferred":[
         "Ap\u00e1 Atlantique"
@@ -306,7 +321,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501329,
+    "wof:lastmodified":1690858496,
     "wof:name":"Atlantique",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tanguieta"
+    ],
     "name:deu_x_preferred":[
         "Tangui\u00e9ta"
     ],
@@ -54,6 +57,9 @@
         "Tangui\u00e9ta"
     ],
     "name:spa_x_preferred":[
+        "Tangui\u00e9ta"
+    ],
+    "name:swa_x_preferred":[
         "Tangui\u00e9ta"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421173527,
-    "wof:lastmodified":1566615443,
+    "wof:lastmodified":1690858517,
     "wof:name":"Tangui\u00e9ta",
     "wof:parent_id":421172113,
     "wof:placetype":"locality",

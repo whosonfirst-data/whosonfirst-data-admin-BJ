@@ -27,6 +27,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0411\u0435\u043d\u0438\u043d"
+    ],
     "name:ace_x_preferred":[
         "Benin"
     ],
@@ -48,8 +51,14 @@
     "name:amh_x_preferred":[
         "\u1264\u1292\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Benin"
+    ],
     "name:ang_x_preferred":[
         "Benin"
+    ],
+    "name:anp_x_preferred":[
+        "\u092c\u0947\u0928\u093f\u0928"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a\u0646"
@@ -65,6 +74,9 @@
     ],
     "name:ast_x_preferred":[
         "Ben\u00edn"
+    ],
+    "name:avk_x_preferred":[
+        "Benina"
     ],
     "name:aym_x_preferred":[
         "Binin"
@@ -107,6 +119,9 @@
     ],
     "name:bho_x_preferred":[
         "\u092c\u0947\u0928\u093f\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Benin"
     ],
     "name:bjn_x_preferred":[
         "Benin"
@@ -162,10 +177,16 @@
     "name:cor_x_preferred":[
         "Benin"
     ],
+    "name:cos_x_preferred":[
+        "Benin"
+    ],
     "name:crh_x_preferred":[
         "Benin"
     ],
     "name:cym_x_preferred":[
+        "Benin"
+    ],
+    "name:dag_x_preferred":[
         "Benin"
     ],
     "name:dan_x_preferred":[
@@ -295,6 +316,9 @@
     "name:glv_x_preferred":[
         "Benin"
     ],
+    "name:gpe_x_preferred":[
+        "Benin"
+    ],
     "name:grn_x_preferred":[
         "Mben\u0129"
     ],
@@ -303,6 +327,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0abf\u0aa8"
+    ],
+    "name:guw_x_preferred":[
+        "Ben\u1eb9"
     ],
     "name:hak_x_preferred":[
         "B\u00e9nin"
@@ -343,6 +370,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0565\u0576\u056b\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0565\u0576\u056b\u0576"
+    ],
     "name:ibo_x_preferred":[
         "Benin"
     ],
@@ -376,6 +406,9 @@
     "name:jav_x_preferred":[
         "Benin"
     ],
+    "name:jav_x_variant":[
+        "B\u00e9nin"
+    ],
     "name:jbo_x_preferred":[
         "benin"
     ],
@@ -407,6 +440,9 @@
     ],
     "name:kbp_x_preferred":[
         "Peen\u025b\u025b"
+    ],
+    "name:kcg_x_preferred":[
+        "Bini"
     ],
     "name:khm_x_preferred":[
         "\u1794\u17c1\u178e\u17b6\u17c6\u1784"
@@ -469,6 +505,9 @@
     "name:lit_x_preferred":[
         "Beninas"
     ],
+    "name:lld_x_preferred":[
+        "Benin"
+    ],
     "name:lmo_x_preferred":[
         "Benin"
     ],
@@ -505,6 +544,12 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928\u093f\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u044d\u043d\u0438\u043d"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0435\u043d\u0438\u043d"
+    ],
     "name:min_x_preferred":[
         "Benin"
     ],
@@ -530,6 +575,9 @@
         "\u0411\u0435\u043d\u0438\u043d"
     ],
     "name:msa_x_preferred":[
+        "Benin"
+    ],
+    "name:mwl_x_preferred":[
         "Benin"
     ],
     "name:mya_x_preferred":[
@@ -580,7 +628,13 @@
     "name:nov_x_preferred":[
         "Benin"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d3\u07e3\u07cd\u07eb"
+    ],
     "name:nso_x_preferred":[
+        "Benin"
+    ],
+    "name:nya_x_preferred":[
         "Benin"
     ],
     "name:oci_x_preferred":[
@@ -608,6 +662,9 @@
         "\u0a2c\u0a47\u0a28\u0a3f\u0a28"
     ],
     "name:pap_x_preferred":[
+        "Benin"
+    ],
+    "name:pcm_x_preferred":[
         "Benin"
     ],
     "name:pdc_x_preferred":[
@@ -643,6 +700,9 @@
     "name:que_x_preferred":[
         "Binin"
     ],
+    "name:rmy_x_preferred":[
+        "Benin"
+    ],
     "name:roh_x_preferred":[
         "Benin"
     ],
@@ -670,6 +730,9 @@
     "name:san_x_preferred":[
         "\u092c\u0947\u0928\u093f\u0928\u094d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c6e\u1c71\u1c64\u1c71"
+    ],
     "name:scn_x_preferred":[
         "Benin"
     ],
@@ -678,6 +741,12 @@
     ],
     "name:sgs_x_preferred":[
         "Benins"
+    ],
+    "name:shi_x_preferred":[
+        "Benin"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1015\u1084\u1087\u107c\u102d\u107c\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dd9\u0db1\u0dd2\u0db1\u0dca"
@@ -691,8 +760,17 @@
     "name:sme_x_preferred":[
         "Benin"
     ],
+    "name:smj_x_preferred":[
+        "Benijnna"
+    ],
+    "name:smn_x_preferred":[
+        "Benin"
+    ],
     "name:smo_x_preferred":[
         "Benin"
+    ],
+    "name:sms_x_preferred":[
+        "Beniin"
     ],
     "name:sna_x_preferred":[
         "Benin"
@@ -763,6 +841,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0435\u043d\u0438\u043d"
     ],
+    "name:tay_x_preferred":[
+        "Benin"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c28\u0c3f\u0c28\u0c4d"
     ],
@@ -781,8 +862,14 @@
     "name:tir_x_preferred":[
         "\u1264\u1292\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Penen"
+    ],
     "name:ton_x_preferred":[
         "Penini"
+    ],
+    "name:trv_x_preferred":[
+        "Benin"
     ],
     "name:tso_x_preferred":[
         "Benin"
@@ -790,7 +877,13 @@
     "name:tuk_x_preferred":[
         "Benin"
     ],
+    "name:tum_x_preferred":[
+        "Benin"
+    ],
     "name:tur_x_preferred":[
+        "Benin"
+    ],
+    "name:twi_x_preferred":[
         "Benin"
     ],
     "name:udm_x_preferred":[
@@ -1100,7 +1193,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1618362676,
+    "wof:lastmodified":1690858497,
     "wof:name":"Benin",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -64,6 +64,9 @@
     "name:frr_x_preferred":[
         "Lokossa"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e7\u05d5\u05e1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u094b\u0915\u094b\u0938\u093e"
     ],
@@ -109,7 +112,13 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u043a\u043e\u0441\u0441\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u043a\u043e\u0441\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Lokossa"
+    ],
+    "name:swa_x_preferred":[
         "Lokossa"
     ],
     "name:swe_x_preferred":[
@@ -178,7 +187,7 @@
         }
     ],
     "wof:id":1125913503,
-    "wof:lastmodified":1636501334,
+    "wof:lastmodified":1690858524,
     "wof:name":"Lokossa",
     "wof:parent_id":1108758849,
     "wof:placetype":"locality",

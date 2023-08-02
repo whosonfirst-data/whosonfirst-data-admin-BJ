@@ -73,6 +73,12 @@
         "Kouffo",
         "Couffo"
     ],
+    "name:epo_x_preferred":[
+        "Departemento Kouffo"
+    ],
+    "name:eus_x_preferred":[
+        "Kouffo"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0641\u0648"
     ],
@@ -115,6 +121,9 @@
     "name:kor_x_preferred":[
         "\ucfe0\ud3ec \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ucfe0\ud3ec\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Kufo departaments"
     ],
@@ -151,6 +160,9 @@
     "name:spa_x_preferred":[
         "Kouffo"
     ],
+    "name:swa_x_preferred":[
+        "Couffo"
+    ],
     "name:swe_x_preferred":[
         "Couffo"
     ],
@@ -177,6 +189,9 @@
     ],
     "name:vie_x_preferred":[
         "Kouffo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e93\u798f\u7701"
     ],
     "name:yor_x_preferred":[
         "Ap\u00e1 Kouffo"
@@ -303,7 +318,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501329,
+    "wof:lastmodified":1690858496,
     "wof:name":"Kouffo",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

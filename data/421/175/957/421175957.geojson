@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Sav\u00e9"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0648\u0647"
     ],
     "name:ceb_x_preferred":[
         "Commune of Save"
+    ],
+    "name:deu_x_preferred":[
+        "Sav\u00e8"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03b2\u03ad"
@@ -34,6 +40,9 @@
     ],
     "name:fas_x_variant":[
         "\u0633\u0627\u0648\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Sav\u00e9"
     ],
     "name:fra_x_preferred":[
         "Sav\u00e8"
@@ -67,6 +76,9 @@
     ],
     "name:spa_x_preferred":[
         "Sav\u00e8"
+    ],
+    "name:swa_x_preferred":[
+        "Sav\u00e9"
     ],
     "name:swe_x_preferred":[
         "Sav\u00e8"
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":421175957,
-    "wof:lastmodified":1566615445,
+    "wof:lastmodified":1690858519,
     "wof:name":"Sav\u00e9",
     "wof:parent_id":1108758963,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Boukoumb\u00e9"
+    ],
     "name:ceb_x_preferred":[
+        "Boukoumb\u00e9"
+    ],
+    "name:deu_x_preferred":[
         "Boukoumb\u00e9"
     ],
     "name:ell_x_preferred":[
@@ -26,11 +32,17 @@
     "name:eng_x_preferred":[
         "Boukoumb\u00e9"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0648\u0628\u0647"
+    ],
     "name:fra_x_preferred":[
         "Boukoumb\u00e9"
     ],
     "name:frr_x_preferred":[
         "Boukoumb\u00e9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e7\u05d5\u05de\u05d1\u05d4"
     ],
     "name:ita_x_preferred":[
         "Boukoumb\u00e9"
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":421189369,
-    "wof:lastmodified":1566615443,
+    "wof:lastmodified":1690858517,
     "wof:name":"Boukomb\u00e9",
     "wof:parent_id":1108758859,
     "wof:placetype":"locality",

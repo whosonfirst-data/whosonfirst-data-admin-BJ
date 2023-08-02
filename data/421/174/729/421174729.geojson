@@ -36,11 +36,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Ouidah"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u062f\u0627"
     ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u06cc\u062f\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Vida"
     ],
     "name:ben_x_preferred":[
         "\u0993\u0989\u0987\u09a6\u09be\u09b9"
@@ -99,6 +105,9 @@
     "name:hun_x_preferred":[
         "Ouidah"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0564\u0561"
+    ],
     "name:ind_x_preferred":[
         "Ouidah"
     ],
@@ -113,6 +122,9 @@
     ],
     "name:lit_x_preferred":[
         "Uida"
+    ],
+    "name:ltz_x_preferred":[
+        "Ouidah"
     ],
     "name:msa_x_preferred":[
         "Ouidah"
@@ -138,10 +150,16 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u0434\u0430"
     ],
+    "name:smn_x_preferred":[
+        "Ouidah"
+    ],
     "name:sna_x_preferred":[
         "Ouidah"
     ],
     "name:spa_x_preferred":[
+        "Ouidah"
+    ],
+    "name:swa_x_preferred":[
         "Ouidah"
     ],
     "name:swe_x_preferred":[
@@ -229,7 +247,7 @@
         }
     ],
     "wof:id":421174729,
-    "wof:lastmodified":1636501333,
+    "wof:lastmodified":1690858517,
     "wof:name":"Ouidah",
     "wof:parent_id":85668809,
     "wof:placetype":"county",
