@@ -20,6 +20,12 @@
     "name:azb_x_preferred":[
         "\u0642\u0631\u0627\u0646\u062f \u067e\u0648\u067e\u0648"
     ],
+    "name:cat_x_preferred":[
+        "Grand-Popo"
+    ],
+    "name:ceb_x_preferred":[
+        "Grand-Popo"
+    ],
     "name:ces_x_preferred":[
         "Grand-Popo"
     ],
@@ -53,11 +59,17 @@
     "name:ita_x_preferred":[
         "Grand-Popo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\u30fb\u30dd\u30dd"
+    ],
     "name:lit_x_preferred":[
         "Gran Popas"
     ],
     "name:lit_x_variant":[
         "Grand Popas"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0440\u0430\u043d-\u041f\u043e\u043f\u043e"
     ],
     "name:msa_x_preferred":[
         "Grand-Popo"
@@ -76,6 +88,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u043d-\u041f\u043e\u043f\u043e"
+    ],
+    "name:smn_x_preferred":[
+        "Grand-Popo"
     ],
     "name:spa_x_preferred":[
         "Grand-Popo"
@@ -139,7 +154,7 @@
         }
     ],
     "wof:id":421201959,
-    "wof:lastmodified":1566615445,
+    "wof:lastmodified":1690858521,
     "wof:name":"Grand-Popo",
     "wof:parent_id":421177249,
     "wof:placetype":"locality",

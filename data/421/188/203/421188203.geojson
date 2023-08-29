@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "K\u00e9tou"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u062a\u0648"
     ],
@@ -26,10 +29,16 @@
     "name:ceb_x_preferred":[
         "Commune of Ketou"
     ],
+    "name:deu_x_preferred":[
+        "K\u00e9tou"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03c4\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
+        "K\u00e9tou"
+    ],
+    "name:epo_x_preferred":[
         "K\u00e9tou"
     ],
     "name:fas_x_preferred":[
@@ -50,6 +59,9 @@
     "name:ita_x_preferred":[
         "K\u00e9tou"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30c8\u30a5"
+    ],
     "name:lit_x_preferred":[
         "Ketu"
     ],
@@ -69,6 +81,9 @@
         "\u041a\u0435\u0442\u0443"
     ],
     "name:spa_x_preferred":[
+        "K\u00e9tou"
+    ],
+    "name:swa_x_preferred":[
         "K\u00e9tou"
     ],
     "name:swe_x_preferred":[
@@ -124,7 +139,7 @@
         }
     ],
     "wof:id":421188203,
-    "wof:lastmodified":1566615443,
+    "wof:lastmodified":1690858518,
     "wof:name":"K\u00e9tou",
     "wof:parent_id":1108758853,
     "wof:placetype":"locality",

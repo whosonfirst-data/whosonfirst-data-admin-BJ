@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Com\u00e9"
     ],
+    "name:deu_x_preferred":[
+        "Com\u00e9"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bc\u03ad"
     ],
@@ -67,8 +70,14 @@
     "name:ron_x_preferred":[
         "Com\u00e9"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0435"
+    ],
     "name:spa_x_preferred":[
         "Com\u00e8"
+    ],
+    "name:swa_x_preferred":[
+        "Com\u00e9"
     ],
     "name:swe_x_preferred":[
         "Com\u00e8"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":890420451,
-    "wof:lastmodified":1566615447,
+    "wof:lastmodified":1690858523,
     "wof:name":"Com\u00e9",
     "wof:parent_id":1108758895,
     "wof:placetype":"locality",

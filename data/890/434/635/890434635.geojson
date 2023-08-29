@@ -19,10 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:aka_x_preferred":[
+        "B\u00e9t\u00e9rou"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u062a\u0631\u0648"
     ],
     "name:ceb_x_preferred":[
+        "B\u00e9t\u00e9rou"
+    ],
+    "name:deu_x_preferred":[
         "B\u00e9t\u00e9rou"
     ],
     "name:eng_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890434635,
-    "wof:lastmodified":1566615447,
+    "wof:lastmodified":1690858523,
     "wof:name":"B\u00e9t\u00e9rou",
     "wof:parent_id":1108758837,
     "wof:placetype":"locality",

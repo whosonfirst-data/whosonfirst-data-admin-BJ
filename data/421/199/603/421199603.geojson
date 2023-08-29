@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648\u0645\u064a \u0643\u0627\u0644\u0627\u0641\u064a"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0628\u0648\u0645\u06cc-\u06a9\u0627\u0644\u0627\u0648\u06cc"
     ],
     "name:ceb_x_preferred":[
+        "Abomey-Calavi"
+    ],
+    "name:deu_x_preferred":[
         "Abomey-Calavi"
     ],
     "name:ell_x_preferred":[
@@ -50,6 +56,9 @@
     "name:ita_x_preferred":[
         "Abomey-Calavi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30dc\u30e1\uff1d\u30ab\u30e9\u30f4\u30a3"
+    ],
     "name:lit_x_preferred":[
         "Abomei Kalavis"
     ],
@@ -57,6 +66,9 @@
         "Abomey-Calavi"
     ],
     "name:nld_x_preferred":[
+        "Abomey-Calavi"
+    ],
+    "name:nob_x_preferred":[
         "Abomey-Calavi"
     ],
     "name:pol_x_preferred":[
@@ -67,6 +79,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0431\u043e\u043c\u0435\u0439-\u041a\u0430\u043b\u0430\u0432\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Abomey-Calavi"
     ],
     "name:spa_x_preferred":[
         "Abomey-Calavi"
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":421199603,
-    "wof:lastmodified":1566615445,
+    "wof:lastmodified":1690858520,
     "wof:name":"Abomey-Calavi",
     "wof:parent_id":421186271,
     "wof:placetype":"locality",

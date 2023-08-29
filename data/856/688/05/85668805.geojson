@@ -71,8 +71,14 @@
     "name:eng_x_variant":[
         "Alibori"
     ],
+    "name:epo_x_preferred":[
+        "Departemento Alibori"
+    ],
     "name:eus_x_preferred":[
         "Alibori departamendua"
+    ],
+    "name:eus_x_variant":[
+        "Alibori"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0622\u0644\u06cc\u0628\u0648\u0631\u06cc"
@@ -112,6 +118,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\ub9ac\ubcf4\ub9ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\ub9ac\ubcf4\ub9ac\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Alibori departaments"
@@ -155,6 +164,9 @@
     "name:spa_x_preferred":[
         "Alibori"
     ],
+    "name:swa_x_preferred":[
+        "Alibori"
+    ],
     "name:swe_x_preferred":[
         "Alibori"
     ],
@@ -184,6 +196,9 @@
     ],
     "name:vie_x_preferred":[
         "Alibori"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u9ece\u535a\u91cc\u7701"
     ],
     "name:yor_x_preferred":[
         "Ap\u00e1 Alibori"
@@ -309,7 +324,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501328,
+    "wof:lastmodified":1690858494,
     "wof:name":"Alibori",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

@@ -71,8 +71,14 @@
     "name:eng_x_variant":[
         "Borgou"
     ],
+    "name:epo_x_preferred":[
+        "Departemento Borgou"
+    ],
     "name:eus_x_preferred":[
         "Borgou departamendua"
+    ],
+    "name:eus_x_variant":[
+        "Borgou"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0631\u06af\u0648"
@@ -113,6 +119,9 @@
     "name:kor_x_preferred":[
         "\ubcf4\ub974\uad6c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubcf4\ub974\uad6c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Borgu departaments"
     ],
@@ -149,6 +158,9 @@
     "name:spa_x_preferred":[
         "Borgou"
     ],
+    "name:swa_x_preferred":[
+        "Borgou"
+    ],
     "name:swe_x_preferred":[
         "Borgou"
     ],
@@ -178,6 +190,9 @@
     ],
     "name:vie_x_preferred":[
         "Borgou"
+    ],
+    "name:wuu_x_preferred":[
+        "\u535a\u5c14\u53e4\u7701"
     ],
     "name:yor_x_preferred":[
         "Ap\u00e1 Borgou"
@@ -303,7 +318,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501328,
+    "wof:lastmodified":1690858494,
     "wof:name":"Borgou",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

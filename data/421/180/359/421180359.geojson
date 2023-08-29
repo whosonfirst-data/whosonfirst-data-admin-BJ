@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Nikki"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u0643\u064a"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u06cc\u06a9\u06cc"
     ],
     "name:cat_x_preferred":[
+        "Nikki"
+    ],
+    "name:deu_x_preferred":[
         "Nikki"
     ],
     "name:ell_x_preferred":[
@@ -50,6 +59,9 @@
     "name:ita_x_preferred":[
         "Nikki"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30c3\u30ad"
+    ],
     "name:msa_x_preferred":[
         "Nikki"
     ],
@@ -66,6 +78,9 @@
         "\u041d\u0438\u043a\u043a\u0438"
     ],
     "name:spa_x_preferred":[
+        "Nikki"
+    ],
+    "name:swa_x_preferred":[
         "Nikki"
     ],
     "name:swe_x_preferred":[
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421180359,
-    "wof:lastmodified":1566615443,
+    "wof:lastmodified":1690858517,
     "wof:name":"Nikki",
     "wof:parent_id":1108758943,
     "wof:placetype":"locality",

@@ -72,8 +72,17 @@
         "Atakora",
         "Atacora"
     ],
+    "name:epo_x_preferred":[
+        "Departemento Atakora"
+    ],
     "name:eus_x_preferred":[
         "Atakora departamendua"
+    ],
+    "name:eus_x_variant":[
+        "Atakora"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0622\u062a\u0627\u06a9\u0648\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Atakora"
@@ -92,6 +101,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d8\u05e7\u05d5\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d8\u05d0\u05e7\u05d5\u05e8\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0905\u091f\u0915\u094b\u0930\u093e \u0935\u093f\u092d\u093e\u0917"
@@ -113,6 +125,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ud0c0\ucf54\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ud0c0\ucf54\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Atakoras departaments"
@@ -150,6 +165,9 @@
     "name:spa_x_preferred":[
         "Atakora"
     ],
+    "name:swa_x_preferred":[
+        "Atakora"
+    ],
     "name:swe_x_preferred":[
         "Atacora"
     ],
@@ -179,6 +197,9 @@
     ],
     "name:vie_x_preferred":[
         "Atakora"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u5854\u79d1\u62c9\u7701"
     ],
     "name:yor_x_preferred":[
         "Ap\u00e1 Atakora"
@@ -304,7 +325,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501329,
+    "wof:lastmodified":1690858497,
     "wof:name":"Atakora",
     "wof:parent_id":85632247,
     "wof:placetype":"region",
