@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013418,
-    "geom:area_square_m":164613400.487078,
+    "geom:area_square_m":164613183.958471,
     "geom:bbox":"2.025648,7.119592,2.197467,7.273461",
     "geom:latitude":7.17449,
     "geom:longitude":2.101002,
@@ -131,11 +131,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.ZO.BO",
         "wd:id":"Q2356092"
     },
     "wof:country":"BJ",
     "wof:created":1481322731,
-    "wof:geomhash":"003839a4d2f544ac7f31afac24b117b7",
+    "wof:geomhash":"9680df423d93a070dae79cfe7aac8c66",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108758923,
-    "wof:lastmodified":1690858503,
+    "wof:lastmodified":1694492377,
     "wof:name":"Bohicon",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

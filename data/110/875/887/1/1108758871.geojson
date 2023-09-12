@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09064,
-    "geom:area_square_m":1101918435.51852,
+    "geom:area_square_m":1101918433.544125,
     "geom:bbox":"1.199516,10.357233,1.649152,10.735924",
     "geom:latitude":10.527061,
     "geom:longitude":1.464,
@@ -104,11 +104,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AK.TO",
         "wd:id":"Q3532838"
     },
     "wof:country":"BJ",
     "wof:created":1481322700,
-    "wof:geomhash":"a3626d79c344bde08b140ecc682da6ba",
+    "wof:geomhash":"d63288cffecf3af052d68061b36b9bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108758871,
-    "wof:lastmodified":1690858500,
+    "wof:lastmodified":1694492376,
     "wof:name":"Toucountouna",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

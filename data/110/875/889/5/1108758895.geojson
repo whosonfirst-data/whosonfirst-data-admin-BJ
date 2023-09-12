@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014012,
-    "geom:area_square_m":172170338.177211,
+    "geom:area_square_m":172170493.549411,
     "geom:bbox":"1.823185,6.351716,1.973685,6.503982",
     "geom:latitude":6.424539,
     "geom:longitude":1.900782,
@@ -122,11 +122,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.MO.CO",
         "wd:id":"Q2991511"
     },
     "wof:country":"BJ",
     "wof:created":1481322716,
-    "wof:geomhash":"a561574e9ebe40dceb9ff01e4db1feda",
+    "wof:geomhash":"23cc77ca68327dbc324a8850f18fca99",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108758895,
-    "wof:lastmodified":1690858499,
+    "wof:lastmodified":1694492376,
     "wof:name":"Come",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

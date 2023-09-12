@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005808,
-    "geom:area_square_m":71358566.626641,
+    "geom:area_square_m":71358520.501498,
     "geom:bbox":"2.631448,6.427625,2.724148,6.541557",
     "geom:latitude":6.48558,
     "geom:longitude":2.6803,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.OU.AA",
         "wd:id":"Q2476120"
     },
     "wof:country":"BJ",
     "wof:created":1481322727,
-    "wof:geomhash":"e91f4871ac691c87343918b89d319ebd",
+    "wof:geomhash":"c9d3b9695da77edefff2d54eff1206f7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758913,
-    "wof:lastmodified":1690858511,
+    "wof:lastmodified":1694492378,
     "wof:name":"Adjarra",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

@@ -89,11 +89,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.ZO.ZB",
         "wd:id":"Q2050232"
     },
     "wof:country":"BJ",
     "wof:created":1481322743,
-    "wof:geomhash":"078342c7d5ce29b7952b5d5314996c5e",
+    "wof:geomhash":"bce7fa6d9541e2574871316439e2ac3b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108758939,
-    "wof:lastmodified":1566615380,
+    "wof:lastmodified":1694492377,
     "wof:name":"Zogbodomey",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

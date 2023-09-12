@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037179,
-    "geom:area_square_m":456427025.311381,
+    "geom:area_square_m":456426909.408214,
     "geom:bbox":"1.851758,6.726571,2.09948,7.025814",
     "geom:latitude":6.866663,
     "geom:longitude":1.969808,
@@ -101,11 +101,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CF.LA",
         "wd:id":"Q2360019"
     },
     "wof:country":"BJ",
     "wof:created":1481322709,
-    "wof:geomhash":"66d480efb5f346751992569608563770",
+    "wof:geomhash":"921b87029cca53ab6a2dd8d58f7edf88",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108758885,
-    "wof:lastmodified":1690858502,
+    "wof:lastmodified":1694492377,
     "wof:name":"Lalo",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

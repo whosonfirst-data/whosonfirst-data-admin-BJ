@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289102,
-    "geom:area_square_m":3506573085.676273,
+    "geom:area_square_m":3506572837.50325,
     "geom:bbox":"2.616424,10.903565,3.265772,11.657671",
     "geom:latitude":11.211205,
     "geom:longitude":2.966673,
@@ -191,11 +191,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AL.KN",
         "wd:id":"Q845666"
     },
     "wof:country":"BJ",
     "wof:created":1481322764,
-    "wof:geomhash":"98b61b855c70e636eaf8a3ae5e2dc8a1",
+    "wof:geomhash":"4c8716a714140c13491f80d54b3dbf83",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1108758975,
-    "wof:lastmodified":1690858514,
+    "wof:lastmodified":1694492936,
     "wof:name":"Kandi",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

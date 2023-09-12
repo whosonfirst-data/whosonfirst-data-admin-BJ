@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143589,
-    "geom:area_square_m":1744107734.364823,
+    "geom:area_square_m":1744108069.285569,
     "geom:bbox":"0.800278,10.529692,1.26414,11.093494",
     "geom:latitude":10.790321,
     "geom:longitude":1.030569,
@@ -101,11 +101,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AK.MA",
         "wd:id":"Q3300020"
     },
     "wof:country":"BJ",
     "wof:created":1481322678,
-    "wof:geomhash":"7a7a00c9c064f104da998f285dfc9228",
+    "wof:geomhash":"f32c83b8b475929a3e9da0155a918eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108758833,
-    "wof:lastmodified":1690858507,
+    "wof:lastmodified":1694492378,
     "wof:name":"Materi",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

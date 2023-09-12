@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053419,
-    "geom:area_square_m":651313413.714587,
+    "geom:area_square_m":651313218.258783,
     "geom:bbox":"1.3375,9.390784,1.576429,9.828857",
     "geom:latitude":9.587493,
     "geom:longitude":1.439402,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.DO.OU",
         "wd:id":"Q1125581"
     },
     "wof:country":"BJ",
     "wof:created":1481322692,
-    "wof:geomhash":"e4de3dd29822632c7b6917c15c88aa0b",
+    "wof:geomhash":"69f6b385a36f343fd4fd20946c882666",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758857,
-    "wof:lastmodified":1690858508,
+    "wof:lastmodified":1694492378,
     "wof:name":"Ouake",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

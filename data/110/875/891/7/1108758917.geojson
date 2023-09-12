@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017972,
-    "geom:area_square_m":220840369.779656,
+    "geom:area_square_m":220840374.209663,
     "geom:bbox":"2.442756,6.351944,2.712389,6.45822",
     "geom:latitude":6.398395,
     "geom:longitude":2.595141,
@@ -95,11 +95,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.OU.SK",
         "wd:id":"Q2100355"
     },
     "wof:country":"BJ",
     "wof:created":1481322728,
-    "wof:geomhash":"fdb6bbaf4734e2e021b46d309f1f38bf",
+    "wof:geomhash":"d0fcb5f336268c8e460e8312e1059fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108758917,
-    "wof:lastmodified":1690858510,
+    "wof:lastmodified":1694492378,
     "wof:name":"Seme-Kpodji",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012287,
-    "geom:area_square_m":150732238.406534,
+    "geom:area_square_m":150732354.802267,
     "geom:bbox":"1.886077,7.118457,2.039884,7.244518",
     "geom:latitude":7.188541,
     "geom:longitude":1.9703,
@@ -275,11 +275,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.ZO.AB",
         "wd:id":"Q189685"
     },
     "wof:country":"BJ",
     "wof:created":1481322750,
-    "wof:geomhash":"ef0089857f1776aac3babbbefcf5495f",
+    "wof:geomhash":"a84c8b57047bb48f6456fbe9d8855351",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -289,7 +290,7 @@
         }
     ],
     "wof:id":1108758949,
-    "wof:lastmodified":1690858504,
+    "wof:lastmodified":1694492377,
     "wof:name":"Abomey",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

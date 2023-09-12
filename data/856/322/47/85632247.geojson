@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.501641,
-    "geom:area_square_m":115776415652.353821,
+    "geom:area_square_m":115784241698.125305,
     "geom:bbox":"0.776667,6.230061,3.843343,12.408552",
     "geom:latitude":9.653087,
     "geom:longitude":2.338661,
@@ -13,6 +13,9 @@
     "iso:country":"BJ",
     "itu:country_code":[
         "229"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BJ"
@@ -1118,7 +1121,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"229",
     "statoids:ds":"DY",
     "statoids:fifa":"BEN",
@@ -1179,7 +1183,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"cb8400f14dcd2cc5125d58971e07799a",
+    "wof:geomhash":"0a4a213b2afc6d54a1db53d4094ec238",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1193,12 +1197,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858497,
+    "wof:lastmodified":1694492182,
     "wof:name":"Benin",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":10323474,
-    "wof:population_rank":14,
+    "wof:population":11801151,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bj",
     "wof:shortcode":"BJ",
     "wof:superseded_by":[],

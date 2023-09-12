@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081763,
-    "geom:area_square_m":994874515.321568,
+    "geom:area_square_m":994874207.154415,
     "geom:bbox":"0.910383,9.995905,1.378874,10.437147",
     "geom:latitude":10.24989,
     "geom:longitude":1.134179,
@@ -113,11 +113,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AK.BO",
         "wd:id":"Q2269235"
     },
     "wof:country":"BJ",
     "wof:created":1481322694,
-    "wof:geomhash":"5501d219a105bf8f084f0e1c81441a3c",
+    "wof:geomhash":"9a6a2153f0728e7a518417401c211e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108758859,
-    "wof:lastmodified":1690858508,
+    "wof:lastmodified":1694492378,
     "wof:name":"Boukombe",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

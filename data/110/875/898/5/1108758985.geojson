@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073233,
-    "geom:area_square_m":892124198.600588,
+    "geom:area_square_m":892123931.97446,
     "geom:bbox":"1.35405,9.713924,1.752943,10.032425",
     "geom:latitude":9.872885,
     "geom:longitude":1.543527,
@@ -107,11 +107,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.DO.CP",
         "wd:id":"Q986059"
     },
     "wof:country":"BJ",
     "wof:created":1481322769,
-    "wof:geomhash":"559faa465552c0b55cd5c5ab762f2a38",
+    "wof:geomhash":"39239a678c66ae59c3e147212866362d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108758985,
-    "wof:lastmodified":1690858511,
+    "wof:lastmodified":1694492379,
     "wof:name":"Copargo",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

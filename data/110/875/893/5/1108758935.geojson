@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028528,
-    "geom:area_square_m":350077959.47651,
+    "geom:area_square_m":350077959.476509,
     "geom:bbox":"2.40057536337,6.95367737419,2.55648431689,7.19923907962",
     "geom:latitude":7.068659,
     "geom:longitude":2.47547,
@@ -92,11 +92,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.ZO.ON",
         "wd:id":"Q1134277"
     },
     "wof:country":"BJ",
     "wof:created":1481322739,
-    "wof:geomhash":"b93b198ab93a5bde78e05c83a600f102",
+    "wof:geomhash":"514612a049353188a7f79f25f856a1ca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108758935,
-    "wof:lastmodified":1566615381,
+    "wof:lastmodified":1694492377,
     "wof:name":"Ouinhi",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

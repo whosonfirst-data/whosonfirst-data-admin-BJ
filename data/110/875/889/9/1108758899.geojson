@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024785,
-    "geom:area_square_m":304476598.736051,
+    "geom:area_square_m":304476546.753241,
     "geom:bbox":"1.76099,6.438421,1.952604,6.664619",
     "geom:latitude":6.548042,
     "geom:longitude":1.847102,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.MO.HO",
         "wd:id":"Q3141428"
     },
     "wof:country":"BJ",
     "wof:created":1481322717,
-    "wof:geomhash":"2b6a79b5f20af8b4c70d8cf7e1e84c6b",
+    "wof:geomhash":"42719acfeed7adeefcd048aa1e364eea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758899,
-    "wof:lastmodified":1690858498,
+    "wof:lastmodified":1694492376,
     "wof:name":"Houeyogbe",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

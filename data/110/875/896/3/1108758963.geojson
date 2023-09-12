@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186451,
-    "geom:area_square_m":2283078065.302302,
+    "geom:area_square_m":2283078258.330331,
     "geom:bbox":"2.33869,7.685584,2.75475,8.331119",
     "geom:latitude":7.996042,
     "geom:longitude":2.566461,
@@ -150,11 +150,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CL.SE",
         "wd:id":"Q2609291"
     },
     "wof:country":"BJ",
     "wof:created":1481322757,
-    "wof:geomhash":"4b10399cf59abe11835e3924002887fd",
+    "wof:geomhash":"e107b13de69667a9e8e30727888e3206",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1108758963,
-    "wof:lastmodified":1690858510,
+    "wof:lastmodified":1694492936,
     "wof:name":"Save",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

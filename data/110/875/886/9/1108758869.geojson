@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069126,
-    "geom:area_square_m":840516920.980278,
+    "geom:area_square_m":840516982.736252,
     "geom:bbox":"0.776667,10.282667,1.08302,10.654443",
     "geom:latitude":10.472054,
     "geom:longitude":0.905342,
@@ -101,11 +101,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AK.CB",
         "wd:id":"Q545022"
     },
     "wof:country":"BJ",
     "wof:created":1481322698,
-    "wof:geomhash":"4ee57e84e83733f0734c22b95845b33d",
+    "wof:geomhash":"1ed169fef3a3887832bbee0387a1133c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108758869,
-    "wof:lastmodified":1690858500,
+    "wof:lastmodified":1694492376,
     "wof:name":"Kobli",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

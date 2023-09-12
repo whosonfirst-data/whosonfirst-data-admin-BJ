@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026624,
-    "geom:area_square_m":327063302.481294,
+    "geom:area_square_m":327063299.499754,
     "geom:bbox":"2.021318,6.436903,2.253165,6.621903",
     "geom:latitude":6.538865,
     "geom:longitude":2.149699,
@@ -95,11 +95,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AQ.TB",
         "wd:id":"Q1134963"
     },
     "wof:country":"BJ",
     "wof:created":1481322703,
-    "wof:geomhash":"aeef44e8d5b8ac7a66571c92fba16c29",
+    "wof:geomhash":"ae41bef084fbd8d509fa0a547edc8c94",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108758873,
-    "wof:lastmodified":1690858500,
+    "wof:lastmodified":1694492376,
     "wof:name":"Tori-Bossito",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

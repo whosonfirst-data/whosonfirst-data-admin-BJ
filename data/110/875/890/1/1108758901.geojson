@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026192,
-    "geom:area_square_m":321655863.671637,
+    "geom:area_square_m":321655756.178362,
     "geom:bbox":"2.407604,6.615219,2.58179,6.79732",
     "geom:latitude":6.706451,
     "geom:longitude":2.496437,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.OU.AH",
         "wd:id":"Q1134538"
     },
     "wof:country":"BJ",
     "wof:created":1481322718,
-    "wof:geomhash":"f4df3c0dae3c1374575f4a0fdd855338",
+    "wof:geomhash":"7d12cb549a6b86dc78691bc02f2a2714",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758901,
-    "wof:lastmodified":1690858512,
+    "wof:lastmodified":1694492378,
     "wof:name":"Adjohoun",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

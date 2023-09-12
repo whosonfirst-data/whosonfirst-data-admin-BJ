@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024132,
-    "geom:area_square_m":296306957.643795,
+    "geom:area_square_m":296306797.453363,
     "geom:bbox":"1.589949,6.709152,1.92315,6.85261",
     "geom:latitude":6.777537,
     "geom:longitude":1.754203,
@@ -137,11 +137,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CF.DO",
         "wd:id":"Q2566827"
     },
     "wof:country":"BJ",
     "wof:created":1481322711,
-    "wof:geomhash":"10da69176d77e69052e625f0bfd9e2b1",
+    "wof:geomhash":"48540782b96e95b6f42af495df92fd18",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108758887,
-    "wof:lastmodified":1690858501,
+    "wof:lastmodified":1694492377,
     "wof:name":"Dogbo",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

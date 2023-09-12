@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018611,
-    "geom:area_square_m":228476883.286669,
+    "geom:area_square_m":228476771.768479,
     "geom:bbox":"1.594723,6.782079,1.770878,6.965708",
     "geom:latitude":6.862613,
     "geom:longitude":1.688295,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CF.DJ",
         "wd:id":"Q3032740"
     },
     "wof:country":"BJ",
     "wof:created":1481322707,
-    "wof:geomhash":"3fcf093d510b32217a09c732f0e3dc9c",
+    "wof:geomhash":"7453662b98885936867a87b98acb2dff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758881,
-    "wof:lastmodified":1690858502,
+    "wof:lastmodified":1694492376,
     "wof:name":"Djakotomey",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

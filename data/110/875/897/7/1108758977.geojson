@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039488,
-    "geom:area_square_m":484791468.393936,
+    "geom:area_square_m":484791519.092644,
     "geom:bbox":"2.032518,6.728718,2.342892,6.961124",
     "geom:latitude":6.850125,
     "geom:longitude":2.176863,
@@ -113,11 +113,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AQ.TF",
         "wd:id":"Q2095710"
     },
     "wof:country":"BJ",
     "wof:created":1481322765,
-    "wof:geomhash":"ed47f3551a083161ecc57818f75597d1",
+    "wof:geomhash":"31d8f5e8c0dd98a4aff654c903c42c59",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108758977,
-    "wof:lastmodified":1690858513,
+    "wof:lastmodified":1694492379,
     "wof:name":"Toffo",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

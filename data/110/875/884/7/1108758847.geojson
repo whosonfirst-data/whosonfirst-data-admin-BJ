@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.464505,
-    "geom:area_square_m":5673483646.673817,
+    "geom:area_square_m":5673483360.650254,
     "geom:bbox":"1.398612,8.477672,2.237855,9.461425",
     "geom:latitude":8.964525,
     "geom:longitude":1.859944,
@@ -119,11 +119,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.DO.BA",
         "wd:id":"Q1893077"
     },
     "wof:country":"BJ",
     "wof:created":1481322685,
-    "wof:geomhash":"e4e16146fe9329357b63306cc31f8f23",
+    "wof:geomhash":"5d33b3174773c6fdf029a279cae92be4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108758847,
-    "wof:lastmodified":1690858506,
+    "wof:lastmodified":1694492377,
     "wof:name":"Bassila",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

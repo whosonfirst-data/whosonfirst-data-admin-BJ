@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139353,
-    "geom:area_square_m":1707607437.015754,
+    "geom:area_square_m":1707607235.362051,
     "geom:bbox":"2.040325,7.448409,2.487564,7.945161",
     "geom:latitude":7.695968,
     "geom:longitude":2.269092,
@@ -296,11 +296,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CL.DZ",
         "wd:id":"Q2609335"
     },
     "wof:country":"BJ",
     "wof:created":1481322732,
-    "wof:geomhash":"ce73f3a351c80d42e8f8867c3fd34853",
+    "wof:geomhash":"b331c6d1ba963c24b6a9e961d1120a50",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -310,7 +311,7 @@
         }
     ],
     "wof:id":1108758925,
-    "wof:lastmodified":1690858503,
+    "wof:lastmodified":1694492377,
     "wof:name":"Dassa-Zoume",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

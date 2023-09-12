@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020805,
-    "geom:area_square_m":255406399.801354,
+    "geom:area_square_m":255406573.43429,
     "geom:bbox":"2.387485,6.787052,2.579411,6.960914",
     "geom:latitude":6.867909,
     "geom:longitude":2.47936,
@@ -92,11 +92,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.OU.BO",
         "wd:id":"Q1134995"
     },
     "wof:country":"BJ",
     "wof:created":1481322722,
-    "wof:geomhash":"c50a4b293ac973085aa02d29449a1225",
+    "wof:geomhash":"6b90996df8bf31162ce7f88d3fadc196",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108758907,
-    "wof:lastmodified":1690858512,
+    "wof:lastmodified":1694492378,
     "wof:name":"Bonou",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

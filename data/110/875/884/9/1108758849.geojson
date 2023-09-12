@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021893,
-    "geom:area_square_m":268870025.49571,
+    "geom:area_square_m":268870219.866215,
     "geom:bbox":"1.575278,6.610794,1.895048,6.771966",
     "geom:latitude":6.68664,
     "geom:longitude":1.738868,
@@ -179,11 +179,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.MO.LO",
         "wd:id":"Q219058"
     },
     "wof:country":"BJ",
     "wof:created":1481322687,
-    "wof:geomhash":"a9e8c84478ac8e562c892b15c62fc0ed",
+    "wof:geomhash":"eb5573d6a84550f028cf7ad547f4cc10",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":1108758849,
-    "wof:lastmodified":1690858506,
+    "wof:lastmodified":1694492936,
     "wof:name":"Lokossa",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

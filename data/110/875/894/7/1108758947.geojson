@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010656,
-    "geom:area_square_m":130804370.235689,
+    "geom:area_square_m":130804574.955393,
     "geom:bbox":"1.753896,6.831339,1.872424,6.960376",
     "geom:latitude":6.897204,
     "geom:longitude":1.813968,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CF.TO",
         "wd:id":"Q2647400"
     },
     "wof:country":"BJ",
     "wof:created":1481322749,
-    "wof:geomhash":"3197e27e1f7b86b6cfbdc6bd5f0d7ce5",
+    "wof:geomhash":"83dabd1c8d09723c28d00f3caee9a89a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758947,
-    "wof:lastmodified":1690858504,
+    "wof:lastmodified":1694492377,
     "wof:name":"Toviklin",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

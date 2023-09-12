@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07289,
-    "geom:area_square_m":894253539.600789,
+    "geom:area_square_m":894253513.62615,
     "geom:bbox":"1.548611,6.876919,1.832249,7.509531",
     "geom:latitude":7.16497,
     "geom:longitude":1.695258,
@@ -131,11 +131,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CF.AP",
         "wd:id":"Q2336677"
     },
     "wof:country":"BJ",
     "wof:created":1481322684,
-    "wof:geomhash":"6ac1d217feb6ea0fc567de3ea3533278",
+    "wof:geomhash":"d2ace6091c49c99c8ce59857e34ee317",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108758845,
-    "wof:lastmodified":1690858507,
+    "wof:lastmodified":1694492378,
     "wof:name":"Aplahoue",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

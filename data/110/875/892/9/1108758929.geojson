@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1419708.129403,
+    "geom:area_square_m":1419810.851735,
     "geom:bbox":"2.144826,7.544649,2.16551,7.553817",
     "geom:latitude":7.548985,
     "geom:longitude":2.153459,
@@ -97,6 +97,15 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:areakm":525,
+    "statoids:country":"BJ",
+    "statoids:date":"2002-02-11",
+    "statoids:hasc":"BJ.ZO.CO",
+    "statoids:name":"Cov\u00e8",
+    "statoids:population":34442,
+    "statoids:statoid":"BJ.ZO",
+    "statoids:timezone":"+1",
+    "statoids:type":"commune",
     "wof:belongsto":[
         102191573,
         85632247,
@@ -104,11 +113,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.ZO.CO",
         "wd:id":"Q2464735"
     },
     "wof:country":"BJ",
     "wof:created":1481322735,
-    "wof:geomhash":"6b074a920eb27fa3f8de58569d8846d4",
+    "wof:geomhash":"db1f3378bdd6e746a7e31aab5dc5a852",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +128,7 @@
         }
     ],
     "wof:id":1108758929,
-    "wof:lastmodified":1690858502,
+    "wof:lastmodified":1694492377,
     "wof:name":"Cove",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

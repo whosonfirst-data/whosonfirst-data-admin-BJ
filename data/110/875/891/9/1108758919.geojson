@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034601,
-    "geom:area_square_m":424868250.519656,
+    "geom:area_square_m":424868259.79067,
     "geom:bbox":"2.553489,6.616126,2.771395,6.919975",
     "geom:latitude":6.770662,
     "geom:longitude":2.651075,
@@ -122,11 +122,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.PL.SA",
         "wd:id":"Q959156"
     },
     "wof:country":"BJ",
     "wof:created":1481322729,
-    "wof:geomhash":"bb08d3c717db8c2deada6162f896017d",
+    "wof:geomhash":"cdaded87c9e8feaee518c841f5ac8a67",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108758919,
-    "wof:lastmodified":1690858510,
+    "wof:lastmodified":1694492378,
     "wof:name":"Sakete",
     "wof:parent_id":85668821,
     "wof:placetype":"county",
