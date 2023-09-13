@@ -1122,7 +1122,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"229",
     "statoids:ds":"DY",
     "statoids:fifa":"BEN",
@@ -1197,7 +1197,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694492182,
+    "wof:lastmodified":1694639633,
     "wof:name":"Benin",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
