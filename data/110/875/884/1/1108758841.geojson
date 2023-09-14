@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215321,
-    "geom:area_square_m":2637378338.695089,
+    "geom:area_square_m":2637377957.399889,
     "geom:bbox":"1.636093,7.557641,2.128004,8.205962",
     "geom:latitude":7.87293,
     "geom:longitude":1.862399,
@@ -155,11 +155,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CL.SL",
         "wd:id":"Q544623"
     },
     "wof:country":"BJ",
     "wof:created":1481322683,
-    "wof:geomhash":"281f17c071c7f42a0b1931c33592dfac",
+    "wof:geomhash":"d4fb663cd7528092801c05c67c1c74c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":1108758841,
-    "wof:lastmodified":1690858506,
+    "wof:lastmodified":1694492377,
     "wof:name":"Savalou",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

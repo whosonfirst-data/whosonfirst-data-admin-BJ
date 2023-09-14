@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30312,
-    "geom:area_square_m":3694262478.341445,
+    "geom:area_square_m":3694262148.685798,
     "geom:bbox":"2.052731,9.381331,2.811474,9.988779",
     "geom:latitude":9.724872,
     "geom:longitude":2.467458,
@@ -122,11 +122,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.BO.ND",
         "wd:id":"Q1115202"
     },
     "wof:country":"BJ",
     "wof:created":1481322705,
-    "wof:geomhash":"8098f1ab514dc7d413cb19068ab3f7e5",
+    "wof:geomhash":"1ab6c57864e70c600606620efe015165",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108758877,
-    "wof:lastmodified":1690858499,
+    "wof:lastmodified":1694492376,
     "wof:name":"N'dali",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

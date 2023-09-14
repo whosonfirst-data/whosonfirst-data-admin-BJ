@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166414,
-    "geom:area_square_m":2024854524.891198,
+    "geom:area_square_m":2024854382.898904,
     "geom:bbox":"1.77521,10.021752,2.261261,10.540919",
     "geom:latitude":10.256746,
     "geom:longitude":2.031982,
@@ -110,11 +110,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AK.PE",
         "wd:id":"Q371196"
     },
     "wof:country":"BJ",
     "wof:created":1481322697,
-    "wof:geomhash":"65c664e5881d84c03413ace4eb55fbff",
+    "wof:geomhash":"54a90b450f6bda78ff4c74c67ad21b42",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108758867,
-    "wof:lastmodified":1690858500,
+    "wof:lastmodified":1694492376,
     "wof:name":"Pehunco",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

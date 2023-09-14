@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036114,
-    "geom:area_square_m":442904472.204827,
+    "geom:area_square_m":442904500.497488,
     "geom:bbox":"2.167345,7.085017,2.370449,7.548808",
     "geom:latitude":7.336536,
     "geom:longitude":2.283642,
@@ -119,11 +119,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.ZO.CO",
         "wd:id":"Q2464735"
     },
     "wof:country":"BJ",
     "wof:created":1481322744,
-    "wof:geomhash":"2223083b25e1db9f2427d27d659ff876",
+    "wof:geomhash":"f31fe60cace5d8c310f44f7292121328",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108758941,
-    "wof:lastmodified":1690858505,
+    "wof:lastmodified":1694492377,
     "wof:name":"Cove",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

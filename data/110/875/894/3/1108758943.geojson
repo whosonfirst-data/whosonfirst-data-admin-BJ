@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266966,
-    "geom:area_square_m":3251424474.19145,
+    "geom:area_square_m":3251424549.020905,
     "geom:bbox":"2.761381,9.640788,3.614229,10.237396",
     "geom:latitude":9.950372,
     "geom:longitude":3.18767,
@@ -131,11 +131,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.BO.NI",
         "wd:id":"Q2378608"
     },
     "wof:country":"BJ",
     "wof:created":1481322747,
-    "wof:geomhash":"13221b146ab69ca7284396be263f4b36",
+    "wof:geomhash":"dd7828f405ef17c03fddfe778a2cc3d6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108758943,
-    "wof:lastmodified":1690858505,
+    "wof:lastmodified":1694492377,
     "wof:name":"Nikki",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

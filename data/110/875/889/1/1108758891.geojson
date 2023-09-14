@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015023,
-    "geom:area_square_m":184576206.425416,
+    "geom:area_square_m":184576097.742067,
     "geom:bbox":"2.367344,6.396346,2.499345,6.623719",
     "geom:latitude":6.482457,
     "geom:longitude":2.430701,
@@ -92,11 +92,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AQ.SA",
         "wd:id":"Q1118769"
     },
     "wof:country":"BJ",
     "wof:created":1481322713,
-    "wof:geomhash":"c08616af182f0c134b677fd72150d1a0",
+    "wof:geomhash":"e2d8aa2e6bb1842293b271568c0f3dbc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108758891,
-    "wof:lastmodified":1690858499,
+    "wof:lastmodified":1694492376,
     "wof:name":"So-Ava",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

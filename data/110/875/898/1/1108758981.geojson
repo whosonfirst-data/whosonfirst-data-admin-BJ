@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170268,
-    "geom:area_square_m":2075960671.085742,
+    "geom:area_square_m":2075961022.741399,
     "geom:bbox":"2.757264,9.337376,3.254942,9.846836",
     "geom:latitude":9.591638,
     "geom:longitude":2.985807,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.BO.PE",
         "wd:id":"Q2716795"
     },
     "wof:country":"BJ",
     "wof:created":1481322767,
-    "wof:geomhash":"76791dac6b41ebb57c154e50af25fd9e",
+    "wof:geomhash":"fbe8f1e620bd919e4d52de66d823e5f7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758981,
-    "wof:lastmodified":1690858511,
+    "wof:lastmodified":1694492378,
     "wof:name":"Perere",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309998,
-    "geom:area_square_m":3770590749.270201,
+    "geom:area_square_m":3770590637.029507,
     "geom:bbox":"2.98667,10.074255,3.843343,10.649219",
     "geom:latitude":10.367626,
     "geom:longitude":3.390942,
@@ -113,11 +113,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.BO.KL",
         "wd:id":"Q3192088"
     },
     "wof:country":"BJ",
     "wof:created":1481322680,
-    "wof:geomhash":"6daed132f3cf1791910f5e92865a0229",
+    "wof:geomhash":"3ab11fb13d25268d124040d1439b0813",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108758835,
-    "wof:lastmodified":1690858508,
+    "wof:lastmodified":1694492378,
     "wof:name":"Kalale",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

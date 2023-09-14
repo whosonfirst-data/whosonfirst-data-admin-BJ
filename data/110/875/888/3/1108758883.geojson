@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03143,
-    "geom:area_square_m":385706140.646531,
+    "geom:area_square_m":385705840.639123,
     "geom:bbox":"1.73238,6.933716,1.933903,7.197591",
     "geom:latitude":7.039067,
     "geom:longitude":1.829791,
@@ -101,11 +101,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CF.KL",
         "wd:id":"Q3197910"
     },
     "wof:country":"BJ",
     "wof:created":1481322708,
-    "wof:geomhash":"53e4a254879b9e3d88ae2e948186c37e",
+    "wof:geomhash":"c9567773651b87c16eaa7138d2bc9dff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108758883,
-    "wof:lastmodified":1690858502,
+    "wof:lastmodified":1694492376,
     "wof:name":"Klouekanme",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

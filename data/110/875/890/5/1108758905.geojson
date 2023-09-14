@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010418,
-    "geom:area_square_m":128006582.016426,
+    "geom:area_square_m":128006646.855839,
     "geom:bbox":"2.448496,6.39578,2.59171,6.542981",
     "geom:latitude":6.464609,
     "geom:longitude":2.525315,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.OU.AG",
         "wd:id":"Q605293"
     },
     "wof:country":"BJ",
     "wof:created":1481322720,
-    "wof:geomhash":"b67083250b4b3bdd3a89ad27cffdfe20",
+    "wof:geomhash":"b93f8988c733591208b6ccd1d8d12b15",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758905,
-    "wof:lastmodified":1690858512,
+    "wof:lastmodified":1694492378,
     "wof:name":"Aguegues",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

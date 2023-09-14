@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006626,
-    "geom:area_square_m":81397353.953202,
+    "geom:area_square_m":81397284.673528,
     "geom:bbox":"2.551787,6.496256,2.628891,6.645574",
     "geom:latitude":6.57381,
     "geom:longitude":2.589583,
@@ -104,11 +104,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.OU.AM",
         "wd:id":"Q2274435"
     },
     "wof:country":"BJ",
     "wof:created":1481322719,
-    "wof:geomhash":"14d76f112ae82af1b0ed08ab4d31e0ee",
+    "wof:geomhash":"1c7dbd52c7b2559f94f72fc706e78e6f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108758903,
-    "wof:lastmodified":1690858512,
+    "wof:lastmodified":1694492378,
     "wof:name":"Akpo-Misserete",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

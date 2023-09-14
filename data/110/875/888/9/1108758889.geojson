@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.323479,
-    "geom:area_square_m":3942993318.029363,
+    "geom:area_square_m":3942993748.586179,
     "geom:bbox":"1.463129,9.352006,2.169613,10.041975",
     "geom:latitude":9.673564,
     "geom:longitude":1.854291,
@@ -221,11 +221,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.DO.DJ",
         "wd:id":"Q868198"
     },
     "wof:country":"BJ",
     "wof:created":1481322712,
-    "wof:geomhash":"9541f0608f0de91acbb8226545d9063d",
+    "wof:geomhash":"579f8021c4ccb310927339143a5f9a62",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -235,7 +236,7 @@
         }
     ],
     "wof:id":1108758889,
-    "wof:lastmodified":1690858501,
+    "wof:lastmodified":1694492936,
     "wof:name":"Djougou",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

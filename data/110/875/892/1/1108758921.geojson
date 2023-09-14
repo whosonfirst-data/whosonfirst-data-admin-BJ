@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018637,
-    "geom:area_square_m":228693517.881568,
+    "geom:area_square_m":228693517.881569,
     "geom:bbox":"1.85803665203,6.99739723522,2.05549869246,7.16402089472",
     "geom:latitude":7.089916,
     "geom:longitude":1.955099,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.ZO.AG",
         "wd:id":"Q527734"
     },
     "wof:country":"BJ",
     "wof:created":1481322730,
-    "wof:geomhash":"1f0f875d7f6612af8fc4836a76a0847e",
+    "wof:geomhash":"2cab0859752ece2a1e1b0464f7130f93",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758921,
-    "wof:lastmodified":1566615378,
+    "wof:lastmodified":1694492377,
     "wof:name":"Agbangnizoun",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051442,
-    "geom:area_square_m":631677941.582275,
+    "geom:area_square_m":631677941.582274,
     "geom:bbox":"2.20362619444,6.55116175668,2.43478875173,6.9768966154",
     "geom:latitude":6.75585,
     "geom:longitude":2.322848,
@@ -89,11 +89,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AQ.ZE",
         "wd:id":"Q2256918"
     },
     "wof:country":"BJ",
     "wof:created":1481322704,
-    "wof:geomhash":"698e4aa25e77e33fe9d0740e571b8970",
+    "wof:geomhash":"8dacbd4e7922d5e401ec13a474b930b8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108758875,
-    "wof:lastmodified":1566615375,
+    "wof:lastmodified":1694492376,
     "wof:name":"Ze",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

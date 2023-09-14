@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144562,
-    "geom:area_square_m":1772479904.615379,
+    "geom:area_square_m":1772479847.740544,
     "geom:bbox":"2.403022,7.180286,2.796035,7.68957",
     "geom:latitude":7.440895,
     "geom:longitude":2.601581,
@@ -128,11 +128,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.PL.KE",
         "wd:id":"Q2474638"
     },
     "wof:country":"BJ",
     "wof:created":1481322690,
-    "wof:geomhash":"5b110f6a9680ebce621f50e621e22f83",
+    "wof:geomhash":"a39f2bc4bf64e3c1b6365a0e0bbaa137",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108758853,
-    "wof:lastmodified":1690858509,
+    "wof:lastmodified":1694492378,
     "wof:name":"Ketou",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

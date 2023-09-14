@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006196,
-    "geom:area_square_m":76109139.110883,
+    "geom:area_square_m":76109284.952031,
     "geom:bbox":"2.606301,6.511887,2.697374,6.623897",
     "geom:latitude":6.565432,
     "geom:longitude":2.648753,
@@ -101,11 +101,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.OU.AV",
         "wd:id":"Q2375902"
     },
     "wof:country":"BJ",
     "wof:created":1481322724,
-    "wof:geomhash":"835e298eecc20410bbacaf7be3cbad81",
+    "wof:geomhash":"a7da3909ba0cfcfaa199f8d41e0b1071",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108758911,
-    "wof:lastmodified":1690858510,
+    "wof:lastmodified":1694492378,
     "wof:name":"Avrankou",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

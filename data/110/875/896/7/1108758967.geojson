@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.362065,
-    "geom:area_square_m":4389508205.934514,
+    "geom:area_square_m":4389508278.136917,
     "geom:bbox":"2.021839,10.94963,2.90457,11.684431",
     "geom:latitude":11.344867,
     "geom:longitude":2.405785,
@@ -125,11 +125,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AL.BA",
         "wd:id":"Q2200458"
     },
     "wof:country":"BJ",
     "wof:created":1481322760,
-    "wof:geomhash":"d60c975fae7c7e7035fa4dd29e8b2230",
+    "wof:geomhash":"63b94f8e1f480639225c3c4a5cbf323a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108758967,
-    "wof:lastmodified":1690858509,
+    "wof:lastmodified":1694492378,
     "wof:name":"Banikoara",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

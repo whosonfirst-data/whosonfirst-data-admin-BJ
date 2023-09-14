@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.217742,
-    "geom:area_square_m":2663963030.620207,
+    "geom:area_square_m":2663962909.423594,
     "geom:bbox":"1.613055,8.064503,2.123301,8.629916",
     "geom:latitude":8.33739,
     "geom:longitude":1.867548,
@@ -104,11 +104,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CL.BA",
         "wd:id":"Q1133694"
     },
     "wof:country":"BJ",
     "wof:created":1481322682,
-    "wof:geomhash":"bd1ae95699815e132fa3bdc6099e3644",
+    "wof:geomhash":"206f7c395a463a980ecab55122d217b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108758839,
-    "wof:lastmodified":1690858507,
+    "wof:lastmodified":1694492378,
     "wof:name":"Bante",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14464,
-    "geom:area_square_m":1770313920.152294,
+    "geom:area_square_m":1770314248.077715,
     "geom:bbox":"2.087407,7.8305,2.377071,8.508797",
     "geom:latitude":8.176334,
     "geom:longitude":2.228295,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.CL.GL",
         "wd:id":"Q2449849"
     },
     "wof:country":"BJ",
     "wof:created":1481322748,
-    "wof:geomhash":"ad064991942364e750dd30ed5766ff80",
+    "wof:geomhash":"b75ab43f08c6c3278b383e423c2eff35",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758945,
-    "wof:lastmodified":1690858505,
+    "wof:lastmodified":1694492377,
     "wof:name":"Glazoue",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

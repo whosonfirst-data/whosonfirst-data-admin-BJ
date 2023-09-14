@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031955,
-    "geom:area_square_m":391984241.601956,
+    "geom:area_square_m":391984241.601955,
     "geom:bbox":"2.08420051483,7.11902002593,2.31074778739,7.34135371168",
     "geom:latitude":7.232445,
     "geom:longitude":2.198109,
@@ -85,10 +85,12 @@
         85668819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BJ.ZO.ZN"
+    },
     "wof:country":"BJ",
     "wof:created":1481322751,
-    "wof:geomhash":"a9db995ef70c32f6c1ed372e554bad73",
+    "wof:geomhash":"158fe15a367f9ebd26fb9648e8abf2b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":1108758953,
-    "wof:lastmodified":1566615379,
+    "wof:lastmodified":1694492377,
     "wof:name":"Za-Kpota",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

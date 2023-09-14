@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012914,
-    "geom:area_square_m":158634762.317122,
+    "geom:area_square_m":158634848.336378,
     "geom:bbox":"2.415012,6.516594,2.575416,6.630246",
     "geom:latitude":6.577164,
     "geom:longitude":2.497919,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.OU.DA",
         "wd:id":"Q2684866"
     },
     "wof:country":"BJ",
     "wof:created":1481322723,
-    "wof:geomhash":"cd863598bc2c34cdf5e541bd6df0c4e4",
+    "wof:geomhash":"34d8ca2912e1058f09f934a8bcdda8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108758909,
-    "wof:lastmodified":1690858512,
+    "wof:lastmodified":1694492378,
     "wof:name":"Dangbo",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045163,
-    "geom:area_square_m":553954792.317963,
+    "geom:area_square_m":553954792.317966,
     "geom:bbox":"2.28011653057,7.00705249033,2.53654258238,7.51222013406",
     "geom:latitude":7.272298,
     "geom:longitude":2.395205,
@@ -85,10 +85,12 @@
         85668819
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"BJ.ZO.ZK"
+    },
     "wof:country":"BJ",
     "wof:created":1481322741,
-    "wof:geomhash":"cdfcad10e8f1ee05f93e864de2246ddd",
+    "wof:geomhash":"27aaab6f6675050d2286aa6ce6da25be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":1108758937,
-    "wof:lastmodified":1566615381,
+    "wof:lastmodified":1694492378,
     "wof:name":"Zagnanado",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

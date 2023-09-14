@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016618,
-    "geom:area_square_m":204099909.384416,
+    "geom:area_square_m":204099954.893251,
     "geom:bbox":"2.655602,6.512156,2.791663,6.767627",
     "geom:latitude":6.653231,
     "geom:longitude":2.718084,
@@ -107,11 +107,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.PL.IF",
         "wd:id":"Q1134264"
     },
     "wof:country":"BJ",
     "wof:created":1481322688,
-    "wof:geomhash":"a2f360aae7efaf0426bd3ce2af6cb565",
+    "wof:geomhash":"82fa71193d3573a1bad18f028bc3f3ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108758851,
-    "wof:lastmodified":1690858508,
+    "wof:lastmodified":1694492378,
     "wof:name":"Ifangni",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

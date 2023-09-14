@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.503835,
-    "geom:area_square_m":6094956552.134864,
+    "geom:area_square_m":6094956638.113838,
     "geom:bbox":"2.297998,11.417084,3.30372,12.408552",
     "geom:latitude":11.950143,
     "geom:longitude":2.749807,
@@ -119,11 +119,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AL.KR",
         "wd:id":"Q1860831"
     },
     "wof:country":"BJ",
     "wof:created":1481322753,
-    "wof:geomhash":"f83a73c80cf4582c3b1d40146370ad3a",
+    "wof:geomhash":"7db5fe08fcde64f999a26a9d620d7c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108758955,
-    "wof:lastmodified":1690858504,
+    "wof:lastmodified":1694492377,
     "wof:name":"Karimama",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039334,
-    "geom:area_square_m":479917012.476019,
+    "geom:area_square_m":479916906.732839,
     "geom:bbox":"2.463077,9.245993,2.756428,9.450849",
     "geom:latitude":9.346922,
     "geom:longitude":2.603049,
@@ -236,11 +236,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.BO.PA",
         "wd:id":"Q688324"
     },
     "wof:country":"BJ",
     "wof:created":1481322768,
-    "wof:geomhash":"2e4e29c96b44a046acb2fab8491c548d",
+    "wof:geomhash":"84e1e2c8ee78804a152bb458cb7e007f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -250,7 +251,7 @@
         }
     ],
     "wof:id":1108758983,
-    "wof:lastmodified":1690858511,
+    "wof:lastmodified":1694492379,
     "wof:name":"Parakou",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

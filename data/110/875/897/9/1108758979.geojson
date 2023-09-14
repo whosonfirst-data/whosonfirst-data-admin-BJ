@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.27633,
-    "geom:area_square_m":3362088298.179336,
+    "geom:area_square_m":3362088448.555521,
     "geom:bbox":"2.461223,9.901786,3.103362,10.585115",
     "geom:latitude":10.272847,
     "geom:longitude":2.74953,
@@ -125,11 +125,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.BO.BE",
         "wd:id":"Q2271297"
     },
     "wof:country":"BJ",
     "wof:created":1481322766,
-    "wof:geomhash":"3f877ac9327dab55de3a34b011498d6d",
+    "wof:geomhash":"2cb6e892f4bb56946de323a3e9113c2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108758979,
-    "wof:lastmodified":1690858513,
+    "wof:lastmodified":1694492379,
     "wof:name":"Bembereke",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

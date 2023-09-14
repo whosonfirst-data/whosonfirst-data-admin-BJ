@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.412788,
-    "geom:area_square_m":5014280632.91451,
+    "geom:area_square_m":5014280390.755176,
     "geom:bbox":"2.2391,10.526644,3.21392,11.17928",
     "geom:latitude":10.770345,
     "geom:longitude":2.698474,
@@ -119,11 +119,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"BJ.AL.GO",
         "wd:id":"Q583110"
     },
     "wof:country":"BJ",
     "wof:created":1481322696,
-    "wof:geomhash":"1433cfb2c8a55f4604d067e9af0fc4b7",
+    "wof:geomhash":"faf620692836eecddd50a41c38eb6817",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108758865,
-    "wof:lastmodified":1690858501,
+    "wof:lastmodified":1694492376,
     "wof:name":"Gogounou",
     "wof:parent_id":85668805,
     "wof:placetype":"county",
