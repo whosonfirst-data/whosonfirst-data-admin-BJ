@@ -104,6 +104,7 @@
         "hasc:id":"BJ.CF.KL",
         "wd:id":"Q3197910"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322708,
     "wof:geomhash":"c9567773651b87c16eaa7138d2bc9dff",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108758883,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886875,
     "wof:name":"Klouekanme",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

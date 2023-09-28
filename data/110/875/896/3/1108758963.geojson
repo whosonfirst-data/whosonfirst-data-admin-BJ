@@ -153,6 +153,7 @@
         "hasc:id":"BJ.CL.SE",
         "wd:id":"Q2609291"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322757,
     "wof:geomhash":"e107b13de69667a9e8e30727888e3206",
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108758963,
-    "wof:lastmodified":1694492936,
+    "wof:lastmodified":1695886776,
     "wof:name":"Save",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

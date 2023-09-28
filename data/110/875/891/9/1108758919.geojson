@@ -125,6 +125,7 @@
         "hasc:id":"BJ.PL.SA",
         "wd:id":"Q959156"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322729,
     "wof:geomhash":"cdaded87c9e8feaee518c841f5ac8a67",
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108758919,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886879,
     "wof:name":"Sakete",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

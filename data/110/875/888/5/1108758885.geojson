@@ -104,6 +104,7 @@
         "hasc:id":"BJ.CF.LA",
         "wd:id":"Q2360019"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322709,
     "wof:geomhash":"921b87029cca53ab6a2dd8d58f7edf88",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108758885,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886875,
     "wof:name":"Lalo",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

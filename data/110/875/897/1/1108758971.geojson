@@ -116,6 +116,7 @@
         "hasc:id":"BJ.AK.KE",
         "wd:id":"Q2269207"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322761,
     "wof:geomhash":"53dbb5fd31d5baa5358f22732f6b5bb8",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108758971,
-    "wof:lastmodified":1694492379,
+    "wof:lastmodified":1695886880,
     "wof:name":"Kerou",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

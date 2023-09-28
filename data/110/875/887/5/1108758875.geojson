@@ -92,6 +92,7 @@
         "hasc:id":"BJ.AQ.ZE",
         "wd:id":"Q2256918"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322704,
     "wof:geomhash":"8dacbd4e7922d5e401ec13a474b930b8",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108758875,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886875,
     "wof:name":"Ze",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

@@ -107,6 +107,7 @@
         "hasc:id":"BJ.PL.AO",
         "wd:id":"Q1133867"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322738,
     "wof:geomhash":"67463f2de3d21622b788ba6f82ded899",
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108758931,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886877,
     "wof:name":"Adja-Ouere",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

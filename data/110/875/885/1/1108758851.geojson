@@ -110,6 +110,7 @@
         "hasc:id":"BJ.PL.IF",
         "wd:id":"Q1134264"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322688,
     "wof:geomhash":"82fa71193d3573a1bad18f028bc3f3ec",
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108758851,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Ifangni",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

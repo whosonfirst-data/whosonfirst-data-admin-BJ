@@ -107,6 +107,7 @@
         "hasc:id":"BJ.CL.BA",
         "wd:id":"Q1133694"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322682,
     "wof:geomhash":"206f7c395a463a980ecab55122d217b2",
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108758839,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Bante",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

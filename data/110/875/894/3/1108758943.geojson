@@ -134,6 +134,7 @@
         "hasc:id":"BJ.BO.NI",
         "wd:id":"Q2378608"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322747,
     "wof:geomhash":"dd7828f405ef17c03fddfe778a2cc3d6",
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108758943,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886877,
     "wof:name":"Nikki",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

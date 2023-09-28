@@ -299,6 +299,7 @@
         "hasc:id":"BJ.CL.DZ",
         "wd:id":"Q2609335"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322732,
     "wof:geomhash":"b331c6d1ba963c24b6a9e961d1120a50",
@@ -311,7 +312,7 @@
         }
     ],
     "wof:id":1108758925,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886876,
     "wof:name":"Dassa-Zoume",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

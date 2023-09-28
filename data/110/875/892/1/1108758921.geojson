@@ -101,6 +101,7 @@
         "hasc:id":"BJ.ZO.AG",
         "wd:id":"Q527734"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322730,
     "wof:geomhash":"2cab0859752ece2a1e1b0464f7130f93",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108758921,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886876,
     "wof:name":"Agbangnizoun",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

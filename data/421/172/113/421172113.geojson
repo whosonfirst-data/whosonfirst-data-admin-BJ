@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.45989,
-    "geom:area_square_m":5581476141.473667,
+    "geom:area_square_m":5581475645.652154,
     "geom:bbox":"1.042219,10.413761,1.942465,11.480865",
     "geom:latitude":11.032828,
     "geom:longitude":1.438569,
@@ -135,12 +135,13 @@
         "qs_pg:id":1296978,
         "wd:id":"Q2269248"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1459008920,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65f4fabe72f90be99fa2185f34e344ac",
+    "wof:geomhash":"425f35d4de976b7cbf9009e4bcf3802c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421172113,
-    "wof:lastmodified":1690858518,
+    "wof:lastmodified":1695886787,
     "wof:name":"Tanguieta",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

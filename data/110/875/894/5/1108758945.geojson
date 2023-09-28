@@ -101,6 +101,7 @@
         "hasc:id":"BJ.CL.GL",
         "wd:id":"Q2449849"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322748,
     "wof:geomhash":"b75ab43f08c6c3278b383e423c2eff35",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108758945,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886877,
     "wof:name":"Glazoue",
     "wof:parent_id":85668807,
     "wof:placetype":"county",

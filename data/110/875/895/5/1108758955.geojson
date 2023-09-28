@@ -122,6 +122,7 @@
         "hasc:id":"BJ.AL.KR",
         "wd:id":"Q1860831"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322753,
     "wof:geomhash":"7db5fe08fcde64f999a26a9d620d7c0d",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108758955,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886876,
     "wof:name":"Karimama",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

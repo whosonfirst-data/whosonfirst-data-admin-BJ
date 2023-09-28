@@ -131,6 +131,7 @@
         "hasc:id":"BJ.PL.KE",
         "wd:id":"Q2474638"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322690,
     "wof:geomhash":"a39f2bc4bf64e3c1b6365a0e0bbaa137",
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1108758853,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Ketou",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

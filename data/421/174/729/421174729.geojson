@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025808,
-    "geom:area_square_m":317137923.47151,
+    "geom:area_square_m":317137858.248827,
     "geom:bbox":"1.96047,6.301323,2.271416,6.48824",
     "geom:latitude":6.380993,
     "geom:longitude":2.125741,
@@ -232,12 +232,13 @@
         "qs_pg:id":896688,
         "wd:id":"Q850031"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1459009042,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c7df51150091a6399ee735734a29b61",
+    "wof:geomhash":"63a9857addb7a0f974e29613beb3ea59",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -247,7 +248,7 @@
         }
     ],
     "wof:id":421174729,
-    "wof:lastmodified":1690858517,
+    "wof:lastmodified":1695886776,
     "wof:name":"Ouidah",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

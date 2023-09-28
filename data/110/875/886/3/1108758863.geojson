@@ -119,6 +119,7 @@
         "hasc:id":"BJ.AK.KO",
         "wd:id":"Q2527479"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322695,
     "wof:geomhash":"bfff2da55cda8cc0798c4dad6ae53ce6",
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108758863,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886875,
     "wof:name":"Kouande",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

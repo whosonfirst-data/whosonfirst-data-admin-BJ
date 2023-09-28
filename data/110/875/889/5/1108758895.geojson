@@ -125,6 +125,7 @@
         "hasc:id":"BJ.MO.CO",
         "wd:id":"Q2991511"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322716,
     "wof:geomhash":"23cc77ca68327dbc324a8850f18fca99",
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108758895,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886875,
     "wof:name":"Come",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

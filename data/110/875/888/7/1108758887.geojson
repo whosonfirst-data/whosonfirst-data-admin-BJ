@@ -140,6 +140,7 @@
         "hasc:id":"BJ.CF.DO",
         "wd:id":"Q2566827"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322711,
     "wof:geomhash":"48540782b96e95b6f42af495df92fd18",
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108758887,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886875,
     "wof:name":"Dogbo",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

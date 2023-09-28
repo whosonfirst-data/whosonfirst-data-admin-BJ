@@ -104,6 +104,7 @@
         "hasc:id":"BJ.AK.MA",
         "wd:id":"Q3300020"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322678,
     "wof:geomhash":"f32c83b8b475929a3e9da0155a918eaf",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108758833,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Materi",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

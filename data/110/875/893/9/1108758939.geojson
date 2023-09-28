@@ -92,6 +92,7 @@
         "hasc:id":"BJ.ZO.ZB",
         "wd:id":"Q2050232"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322743,
     "wof:geomhash":"bce7fa6d9541e2574871316439e2ac3b",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108758939,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886877,
     "wof:name":"Zogbodomey",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

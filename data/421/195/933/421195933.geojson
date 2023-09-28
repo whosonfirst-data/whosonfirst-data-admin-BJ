@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023908,
-    "geom:area_square_m":293755174.918883,
+    "geom:area_square_m":293755120.822198,
     "geom:bbox":"1.941811,6.340613,2.088129,6.62317",
     "geom:latitude":6.453114,
     "geom:longitude":2.013055,
@@ -129,12 +129,13 @@
         "qs_pg:id":141167,
         "wd:id":"Q2693366"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1459009864,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1fd3b317ad2570237d356a680a280503",
+    "wof:geomhash":"d633758b9c4b3eec99ad2ee11b30fb27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421195933,
-    "wof:lastmodified":1690858515,
+    "wof:lastmodified":1695886787,
     "wof:name":"Kpomasse",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

@@ -107,6 +107,7 @@
         "hasc:id":"BJ.AK.TO",
         "wd:id":"Q3532838"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322700,
     "wof:geomhash":"d63288cffecf3af052d68061b36b9bd9",
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108758871,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886874,
     "wof:name":"Toucountouna",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

@@ -116,6 +116,7 @@
         "hasc:id":"BJ.AQ.TF",
         "wd:id":"Q2095710"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322765,
     "wof:geomhash":"31d8f5e8c0dd98a4aff654c903c42c59",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108758977,
-    "wof:lastmodified":1694492379,
+    "wof:lastmodified":1695886880,
     "wof:name":"Toffo",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

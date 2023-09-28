@@ -104,6 +104,7 @@
         "hasc:id":"BJ.AK.CB",
         "wd:id":"Q545022"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322698,
     "wof:geomhash":"1ed169fef3a3887832bbee0387a1133c",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108758869,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886875,
     "wof:name":"Kobli",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

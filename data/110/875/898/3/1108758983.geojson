@@ -239,6 +239,7 @@
         "hasc:id":"BJ.BO.PA",
         "wd:id":"Q688324"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322768,
     "wof:geomhash":"84e1e2c8ee78804a152bb458cb7e007f",
@@ -251,7 +252,7 @@
         }
     ],
     "wof:id":1108758983,
-    "wof:lastmodified":1694492379,
+    "wof:lastmodified":1695886879,
     "wof:name":"Parakou",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

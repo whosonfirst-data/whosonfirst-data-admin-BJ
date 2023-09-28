@@ -146,6 +146,7 @@
         "hasc:id":"BJ.AL.MA",
         "wd:id":"Q2337446"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322754,
     "wof:geomhash":"f634233e91c10ad3e728aaba5e09db7b",
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":1108758957,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886877,
     "wof:name":"Malanville",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

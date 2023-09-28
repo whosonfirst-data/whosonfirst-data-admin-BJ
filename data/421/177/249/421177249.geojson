@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022284,
-    "geom:area_square_m":273860853.052166,
+    "geom:area_square_m":273860663.121487,
     "geom:bbox":"1.630718,6.230061,1.977221,6.477931",
     "geom:latitude":6.345138,
     "geom:longitude":1.8312,
@@ -168,12 +168,13 @@
         "qs_pg:id":1136724,
         "wd:id":"Q1542478"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1459009137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b263d2355077767310741bc157fcc2c9",
+    "wof:geomhash":"45411c920e36064cf1a78577f38d207e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421177249,
-    "wof:lastmodified":1690858521,
+    "wof:lastmodified":1695886788,
     "wof:name":"Grand-Popo",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

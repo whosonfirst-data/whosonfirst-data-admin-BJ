@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043096,
-    "geom:area_square_m":529463353.231466,
+    "geom:area_square_m":529463608.267293,
     "geom:bbox":"2.20911,6.340305,2.416652,6.698475",
     "geom:latitude":6.498521,
     "geom:longitude":2.321292,
@@ -166,12 +166,13 @@
         "qs_pg:id":1063140,
         "wd:id":"Q2473939"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1459009475,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6961b8e7f83ddbf0df6d8adf226ea8b1",
+    "wof:geomhash":"5279ec5ccb50f6ffcc5b048679bd9a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":421186271,
-    "wof:lastmodified":1690858518,
+    "wof:lastmodified":1695886788,
     "wof:name":"Abomey-Calavi",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

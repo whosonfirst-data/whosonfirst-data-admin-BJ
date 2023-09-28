@@ -224,6 +224,7 @@
         "hasc:id":"BJ.DO.DJ",
         "wd:id":"Q868198"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322712,
     "wof:geomhash":"579f8021c4ccb310927339143a5f9a62",
@@ -236,7 +237,7 @@
         }
     ],
     "wof:id":1108758889,
-    "wof:lastmodified":1694492936,
+    "wof:lastmodified":1695886776,
     "wof:name":"Djougou",
     "wof:parent_id":85668827,
     "wof:placetype":"county",
