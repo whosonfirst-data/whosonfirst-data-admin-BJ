@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.756027,
-    "geom:area_square_m":21336672354.932583,
+    "geom:area_square_m":21336673364.848846,
     "geom:bbox":"0.759881,9.946887,2.356167,11.473771",
     "geom:latitude":10.683899,
     "geom:longitude":1.582111,
@@ -303,14 +303,16 @@
         "gn:id":2395524,
         "gp:id":2344824,
         "hasc:id":"BJ.AK",
+        "iso:code":"BJ-AK",
         "iso:id":"BJ-AK",
         "qs_pg:id":318308,
         "unlc:id":"BJ-AK",
         "wd:id":"Q29154",
         "wk:page":"Atakora Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"1f05546efc1b22e3631b3012add38359",
+    "wof:geomhash":"f3c9c3b057551d548b9bbcd641eead58",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -325,7 +327,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858497,
+    "wof:lastmodified":1695884882,
     "wof:name":"Atakora",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

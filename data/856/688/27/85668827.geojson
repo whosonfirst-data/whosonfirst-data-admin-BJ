@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.905763,
-    "geom:area_square_m":11051273808.790834,
+    "geom:area_square_m":11051275660.831482,
     "geom:bbox":"1.323154,8.475607,2.220103,10.040447",
     "geom:latitude":9.336324,
     "geom:longitude":1.788044,
@@ -298,14 +298,16 @@
         "gn:id":2597274,
         "gp:id":55967671,
         "hasc:id":"BJ.DO",
+        "iso:code":"BJ-DO",
         "iso:id":"BJ-DO",
         "qs_pg:id":575164,
         "unlc:id":"BJ-DO",
         "wd:id":"Q29161",
         "wk:page":"Donga Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"50108586f2d2f5bdac3d26f23df1ee56",
+    "wof:geomhash":"c344205f8aeaf14402470bb7f224d1e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858494,
+    "wof:lastmodified":1695884882,
     "wof:name":"Donga",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

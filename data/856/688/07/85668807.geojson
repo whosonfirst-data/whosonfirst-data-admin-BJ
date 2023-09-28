@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.176855,
-    "geom:area_square_m":14405817439.63834,
+    "geom:area_square_m":14405818667.175879,
     "geom:bbox":"1.60107,7.426033,2.744773,8.776674",
     "geom:latitude":8.122761,
     "geom:longitude":2.194288,
@@ -296,14 +296,16 @@
         "gn:id":2597272,
         "gp:id":55967670,
         "hasc:id":"BJ.CL",
+        "iso:code":"BJ-CO",
         "iso:id":"BJ-CO",
         "qs_pg:id":1200743,
         "unlc:id":"BJ-CO",
         "wd:id":"Q29141",
         "wk:page":"Collines Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"e63901308ed0c1d9c1aca8e43577fede",
+    "wof:geomhash":"121dc06b0f8315f982222e0cbeb50fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858496,
+    "wof:lastmodified":1695884882,
     "wof:name":"Collines",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256572,
-    "geom:area_square_m":3151530980.976142,
+    "geom:area_square_m":3151531440.32134,
     "geom:bbox":"1.957845,6.286521,2.487425,6.92056",
     "geom:latitude":6.598127,
     "geom:longitude":2.220157,
@@ -299,14 +299,16 @@
         "gn:id":2395504,
         "gp:id":2344825,
         "hasc:id":"BJ.AQ",
+        "iso:code":"BJ-AQ",
         "iso:id":"BJ-AQ",
         "qs_pg:id":235567,
         "unlc:id":"BJ-AQ",
         "wd:id":"Q29147",
         "wk:page":"Atlantique Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"bb0fbf86625538b31b76a82c03bfb59c",
+    "wof:geomhash":"377be0de6ace081685a4a8ef43b26083",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858496,
+    "wof:lastmodified":1695884882,
     "wof:name":"Atlantique",
     "wof:parent_id":85632247,
     "wof:placetype":"region",
