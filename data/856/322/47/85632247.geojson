@@ -1161,6 +1161,7 @@
         "hasc:id":"BJ",
         "icao:code":"TY",
         "ioc:id":"BEN",
+        "iso:code":"BJ",
         "itu:id":"BEN",
         "loc:id":"n79110959",
         "m49:code":"204",
@@ -1175,6 +1176,7 @@
         "wk:page":"Benin",
         "wmo:id":"BJ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
     "wof:country_alpha3":"BEN",
     "wof:geom_alt":[
@@ -1197,7 +1199,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639633,
+    "wof:lastmodified":1695881295,
     "wof:name":"Benin",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
