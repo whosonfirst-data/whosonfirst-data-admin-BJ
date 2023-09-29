@@ -122,6 +122,7 @@
         "hasc:id":"BJ.DO.BA",
         "wd:id":"Q1893077"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322685,
     "wof:geomhash":"5d33b3174773c6fdf029a279cae92be4",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108758847,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886877,
     "wof:name":"Bassila",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22427,
-    "geom:area_square_m":2752468492.684277,
+    "geom:area_square_m":2752469131.561603,
     "geom:bbox":"1.531927,6.68998,2.093134,7.536385",
     "geom:latitude":6.998202,
     "geom:longitude":1.773873,
@@ -296,14 +296,16 @@
         "gn:id":2597273,
         "gp:id":55967668,
         "hasc:id":"BJ.CF",
+        "iso:code":"BJ-KO",
         "iso:id":"BJ-KO",
         "qs_pg:id":575163,
         "unlc:id":"BJ-KO",
         "wd:id":"Q29173",
         "wk:page":"Kouffo Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"05ddc700fbe2a40aeb225bcbec7ad983",
+    "wof:geomhash":"1fc6d5136a4d96b3fc3decce25be0a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858496,
+    "wof:lastmodified":1695884882,
     "wof:name":"Kouffo",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

@@ -131,6 +131,7 @@
         "hasc:id":"BJ.BO.TC",
         "wd:id":"Q1364580"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322681,
     "wof:geomhash":"f5e8583417597feb14eaae44c0555e15",
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1108758837,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Tchaourou",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

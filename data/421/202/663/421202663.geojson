@@ -387,6 +387,7 @@
         "qs_pg:id":225266,
         "wd:id":"Q43595"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421169001
     ],
@@ -395,7 +396,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"507b549342f9584e02d078d38cf2c8fa",
+    "wof:geomhash":"b990921b556a46de7ccf45656a2ada45",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -405,7 +406,7 @@
         }
     ],
     "wof:id":421202663,
-    "wof:lastmodified":1690858517,
+    "wof:lastmodified":1695886403,
     "wof:name":"Cotonou",
     "wof:parent_id":85668811,
     "wof:placetype":"county",

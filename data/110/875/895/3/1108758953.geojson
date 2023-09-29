@@ -88,6 +88,7 @@
     "wof:concordances":{
         "hasc:id":"BJ.ZO.ZN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322751,
     "wof:geomhash":"158fe15a367f9ebd26fb9648e8abf2b3",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108758953,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886876,
     "wof:name":"Za-Kpota",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

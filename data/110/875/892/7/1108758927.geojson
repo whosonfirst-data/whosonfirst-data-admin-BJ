@@ -98,6 +98,7 @@
         "hasc:id":"BJ.ZO.DJ",
         "wd:id":"Q1133856"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322734,
     "wof:geomhash":"05e0c4aa4f0df38a709cdccdc825112a",
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108758927,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886876,
     "wof:name":"Djidja",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

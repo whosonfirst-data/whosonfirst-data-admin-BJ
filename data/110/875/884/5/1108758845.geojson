@@ -134,6 +134,7 @@
         "hasc:id":"BJ.CF.AP",
         "wd:id":"Q2336677"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322684,
     "wof:geomhash":"d2ace6091c49c99c8ce59857e34ee317",
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108758845,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Aplahoue",
     "wof:parent_id":85668815,
     "wof:placetype":"county",

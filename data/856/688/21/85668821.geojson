@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252075,
-    "geom:area_square_m":3092434383.679336,
+    "geom:area_square_m":3092433661.340816,
     "geom:bbox":"2.417765,6.504298,2.792315,7.659714",
     "geom:latitude":7.18671,
     "geom:longitude":2.625202,
@@ -293,14 +293,16 @@
         "gn:id":2597277,
         "gp:id":55967669,
         "hasc:id":"BJ.PL",
+        "iso:code":"BJ-PL",
         "iso:id":"BJ-PL",
         "qs_pg:id":894129,
         "unlc:id":"BJ-PL",
         "wd:id":"Q32108",
         "wk:page":"Plateau Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"e1f7e73205d57a98ebbed196c99a5105",
+    "wof:geomhash":"dff9ae39dcb806b75802552e94ce0030",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858495,
+    "wof:lastmodified":1695884882,
     "wof:name":"Plateau",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

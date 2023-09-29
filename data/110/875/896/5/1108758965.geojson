@@ -119,6 +119,7 @@
         "hasc:id":"BJ.MO.AT",
         "wd:id":"Q2682057"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322758,
     "wof:geomhash":"7d4e3c28d2d1a8979a2fd8eda354c418",
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108758965,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886879,
     "wof:name":"Athieme",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

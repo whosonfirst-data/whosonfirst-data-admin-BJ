@@ -104,6 +104,7 @@
         "hasc:id":"BJ.OU.AV",
         "wd:id":"Q2375902"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322724,
     "wof:geomhash":"a7da3909ba0cfcfaa199f8d41e0b1071",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108758911,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886879,
     "wof:name":"Avrankou",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

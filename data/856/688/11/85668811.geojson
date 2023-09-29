@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00472,
-    "geom:area_square_m":58002012.749698,
+    "geom:area_square_m":58002532.478256,
     "geom:bbox":"2.359853,6.336401,2.483952,6.395837",
     "geom:latitude":6.363618,
     "geom:longitude":2.424063,
@@ -302,14 +302,16 @@
         "gn:id":2597275,
         "gp:id":55967673,
         "hasc:id":"BJ.LI",
+        "iso:code":"BJ-LI",
         "iso:id":"BJ-LI",
         "qs_pg:id":224308,
         "unlc:id":"BJ-LI",
         "wd:id":"Q29158",
         "wk:page":"Littoral Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"9a8ee3ec21b4ea6f14972c568c2c486e",
+    "wof:geomhash":"88c84da3d02731f33463cca32a5ef88c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -324,7 +326,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858494,
+    "wof:lastmodified":1695884882,
     "wof:name":"Littoral",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

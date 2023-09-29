@@ -95,6 +95,7 @@
         "hasc:id":"BJ.ZO.ON",
         "wd:id":"Q1134277"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322739,
     "wof:geomhash":"514612a049353188a7f79f25f856a1ca",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108758935,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886877,
     "wof:name":"Ouinhi",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

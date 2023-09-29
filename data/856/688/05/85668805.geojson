@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.21028,
-    "geom:area_square_m":26797401514.536457,
+    "geom:area_square_m":26797396475.402702,
     "geom:bbox":"2.015429,10.517834,3.837246,12.399244",
     "geom:latitude":11.326073,
     "geom:longitude":2.899471,
@@ -302,14 +302,16 @@
         "gn:id":2597271,
         "gp:id":55967672,
         "hasc:id":"BJ.AL",
+        "iso:code":"BJ-AL",
         "iso:id":"BJ-AL",
         "qs_pg:id":264100,
         "unlc:id":"BJ-AL",
         "wd:id":"Q29165",
         "wk:page":"Alibori Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"db55730723c2e9291e1e5069a09ac32f",
+    "wof:geomhash":"b0a59885544c072a11287524c3332ece",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -324,7 +326,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858494,
+    "wof:lastmodified":1695884882,
     "wof:name":"Alibori",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

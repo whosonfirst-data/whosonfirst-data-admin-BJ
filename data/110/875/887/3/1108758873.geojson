@@ -98,6 +98,7 @@
         "hasc:id":"BJ.AQ.TB",
         "wd:id":"Q1134963"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322703,
     "wof:geomhash":"ae41bef084fbd8d509fa0a547edc8c94",
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108758873,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886875,
     "wof:name":"Tori-Bossito",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

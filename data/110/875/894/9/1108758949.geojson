@@ -278,6 +278,7 @@
         "hasc:id":"BJ.ZO.AB",
         "wd:id":"Q189685"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322750,
     "wof:geomhash":"a84c8b57047bb48f6456fbe9d8855351",
@@ -290,7 +291,7 @@
         }
     ],
     "wof:id":1108758949,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886877,
     "wof:name":"Abomey",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

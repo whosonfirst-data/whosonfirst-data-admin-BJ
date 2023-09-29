@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031691,
-    "geom:area_square_m":389202912.671764,
+    "geom:area_square_m":389203094.513072,
     "geom:bbox":"1.986668,6.580894,2.247617,6.782367",
     "geom:latitude":6.675978,
     "geom:longitude":2.118768,
@@ -160,12 +160,13 @@
         "qs_pg:id":224315,
         "wd:id":"Q960239"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1459010122,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c575a7fc8abf82dc6906531e3819526b",
+    "wof:geomhash":"ba3ee045da98d4626b7e059c106bab90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":421202551,
-    "wof:lastmodified":1690858516,
+    "wof:lastmodified":1695886788,
     "wof:name":"Allada",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

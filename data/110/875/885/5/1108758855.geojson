@@ -131,6 +131,7 @@
         "hasc:id":"BJ.PL.PB",
         "wd:id":"Q269353"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322691,
     "wof:geomhash":"45987828a3e126187dc6943cfcfd89ee",
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1108758855,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Pobe",
     "wof:parent_id":85668821,
     "wof:placetype":"county",

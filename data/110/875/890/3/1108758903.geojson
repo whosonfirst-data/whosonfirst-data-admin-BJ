@@ -107,6 +107,7 @@
         "hasc:id":"BJ.OU.AM",
         "wd:id":"Q2274435"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322719,
     "wof:geomhash":"1c7dbd52c7b2559f94f72fc706e78e6f",
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108758903,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886879,
     "wof:name":"Akpo-Misserete",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

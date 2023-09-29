@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112183,
-    "geom:area_square_m":1377882304.063904,
+    "geom:area_square_m":1377882500.075825,
     "geom:bbox":"2.384899,6.347932,2.718803,6.993553",
     "geom:latitude":6.629277,
     "geom:longitude":2.539303,
@@ -306,14 +306,16 @@
         "gn:id":2392325,
         "gp:id":2344828,
         "hasc:id":"BJ.OU",
+        "iso:code":"BJ-OU",
         "iso:id":"BJ-OU",
         "qs_pg:id":1083803,
         "unlc:id":"BJ-OU",
         "wd:id":"Q29169",
         "wk:page":"Ou\u00e9m\u00e9 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"42d52e32e51c9c34117e7e20d966498b",
+    "wof:geomhash":"a89b4dea69864f9eafdadd0da742ec1d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858495,
+    "wof:lastmodified":1695884326,
     "wof:name":"Ou\u00e9m\u00e9",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

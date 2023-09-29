@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003984,
-    "geom:area_square_m":48950100.989528,
+    "geom:area_square_m":48950100.989527,
     "geom:bbox":"2.581441,6.44465,2.663749,6.526642",
     "geom:latitude":6.482035,
     "geom:longitude":2.620369,
@@ -549,6 +549,7 @@
         "qs_pg:id":1200744,
         "wd:id":"Q3799"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421168997
     ],
@@ -557,7 +558,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf2609d0b70995900f36cc9101fbb455",
+    "wof:geomhash":"a504801a8b2da9484b0caa8434473e7a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -567,7 +568,7 @@
         }
     ],
     "wof:id":421169223,
-    "wof:lastmodified":1690858516,
+    "wof:lastmodified":1695886403,
     "wof:name":"Porto-Novo",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

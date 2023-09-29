@@ -182,6 +182,7 @@
         "hasc:id":"BJ.MO.LO",
         "wd:id":"Q219058"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322687,
     "wof:geomhash":"eb5573d6a84550f028cf7ad547f4cc10",
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":1108758849,
-    "wof:lastmodified":1694492936,
+    "wof:lastmodified":1695886776,
     "wof:name":"Lokossa",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

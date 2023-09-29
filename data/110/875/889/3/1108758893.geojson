@@ -101,6 +101,7 @@
         "hasc:id":"BJ.MO.BO",
         "wd:id":"Q2910571"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322715,
     "wof:geomhash":"e9992ce668e3cfdcb04f2d15697a7758",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108758893,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886874,
     "wof:name":"Bopa",
     "wof:parent_id":85668823,
     "wof:placetype":"county",

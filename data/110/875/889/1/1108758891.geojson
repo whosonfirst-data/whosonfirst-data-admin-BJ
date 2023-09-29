@@ -95,6 +95,7 @@
         "hasc:id":"BJ.AQ.SA",
         "wd:id":"Q1118769"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322713,
     "wof:geomhash":"e2d8aa2e6bb1842293b271568c0f3dbc",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108758891,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886874,
     "wof:name":"So-Ava",
     "wof:parent_id":85668809,
     "wof:placetype":"county",

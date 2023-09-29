@@ -122,6 +122,7 @@
         "hasc:id":"BJ.ZO.CO",
         "wd:id":"Q2464735"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322744,
     "wof:geomhash":"f31fe60cace5d8c310f44f7292121328",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108758941,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886877,
     "wof:name":"Cove",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

@@ -116,6 +116,7 @@
         "hasc:id":"BJ.AK.BO",
         "wd:id":"Q2269235"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322694,
     "wof:geomhash":"9a6a2153f0728e7a518417401c211e0d",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108758859,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Boukombe",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

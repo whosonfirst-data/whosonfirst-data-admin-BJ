@@ -116,6 +116,7 @@
         "hasc:id":"BJ.BO.KL",
         "wd:id":"Q3192088"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322680,
     "wof:geomhash":"3ab11fb13d25268d124040d1439b0813",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108758835,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Kalale",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

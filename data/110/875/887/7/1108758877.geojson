@@ -125,6 +125,7 @@
         "hasc:id":"BJ.BO.ND",
         "wd:id":"Q1115202"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322705,
     "wof:geomhash":"1ab6c57864e70c600606620efe015165",
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108758877,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886875,
     "wof:name":"N'dali",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

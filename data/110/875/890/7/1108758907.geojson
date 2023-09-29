@@ -95,6 +95,7 @@
         "hasc:id":"BJ.OU.BO",
         "wd:id":"Q1134995"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322722,
     "wof:geomhash":"6b90996df8bf31162ce7f88d3fadc196",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108758907,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886879,
     "wof:name":"Bonou",
     "wof:parent_id":85668817,
     "wof:placetype":"county",

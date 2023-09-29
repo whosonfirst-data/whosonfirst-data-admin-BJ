@@ -134,6 +134,7 @@
         "hasc:id":"BJ.ZO.BO",
         "wd:id":"Q2356092"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322731,
     "wof:geomhash":"9680df423d93a070dae79cfe7aac8c66",
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108758923,
-    "wof:lastmodified":1694492377,
+    "wof:lastmodified":1695886876,
     "wof:name":"Bohicon",
     "wof:parent_id":85668819,
     "wof:placetype":"county",

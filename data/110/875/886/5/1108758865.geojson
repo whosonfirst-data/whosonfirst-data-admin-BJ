@@ -122,6 +122,7 @@
         "hasc:id":"BJ.AL.GO",
         "wd:id":"Q583110"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322696,
     "wof:geomhash":"faf620692836eecddd50a41c38eb6817",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108758865,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886875,
     "wof:name":"Gogounou",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

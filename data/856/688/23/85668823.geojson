@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141187,
-    "geom:area_square_m":1734498080.361275,
+    "geom:area_square_m":1734498319.920103,
     "geom:bbox":"1.566033,6.213899,2.023629,6.747005",
     "geom:latitude":6.522928,
     "geom:longitude":1.827585,
@@ -299,14 +299,16 @@
         "gn:id":2392716,
         "gp:id":2344827,
         "hasc:id":"BJ.MO",
+        "iso:code":"BJ-MO",
         "iso:id":"BJ-MO",
         "qs_pg:id":1097025,
         "unlc:id":"BJ-MO",
         "wd:id":"Q29135",
         "wk:page":"Mono Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"555cdecbbbb39ee3098edac0734c26a1",
+    "wof:geomhash":"eda3b979e8d89525633f5899f42e0786",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858496,
+    "wof:lastmodified":1695884326,
     "wof:name":"Mono",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

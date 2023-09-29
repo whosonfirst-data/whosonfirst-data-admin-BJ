@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.41656,
-    "geom:area_square_m":5109465783.854222,
+    "geom:area_square_m":5109465174.107918,
     "geom:bbox":"1.622855,6.91193,2.560082,7.632403",
     "geom:latitude":7.265427,
     "geom:longitude":2.110191,
@@ -296,14 +296,16 @@
         "gn:id":2390719,
         "gp:id":2344829,
         "hasc:id":"BJ.ZO",
+        "iso:code":"BJ-ZO",
         "iso:id":"BJ-ZO",
         "qs_pg:id":1083804,
         "unlc:id":"BJ-ZO",
         "wd:id":"Q29172",
         "wk:page":"Zou Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"652e7496e2752b57e22609a043f3147b",
+    "wof:geomhash":"6721fd02139922e69aff5c4fc967c2ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858495,
+    "wof:lastmodified":1695884326,
     "wof:name":"Zou",
     "wof:parent_id":85632247,
     "wof:placetype":"region",

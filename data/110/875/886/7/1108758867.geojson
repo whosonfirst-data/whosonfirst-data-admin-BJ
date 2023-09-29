@@ -113,6 +113,7 @@
         "hasc:id":"BJ.AK.PE",
         "wd:id":"Q371196"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322697,
     "wof:geomhash":"54a90b450f6bda78ff4c74c67ad21b42",
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108758867,
-    "wof:lastmodified":1694492376,
+    "wof:lastmodified":1695886875,
     "wof:name":"Pehunco",
     "wof:parent_id":85668825,
     "wof:placetype":"county",

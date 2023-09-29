@@ -128,6 +128,7 @@
         "hasc:id":"BJ.AL.BA",
         "wd:id":"Q2200458"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322760,
     "wof:geomhash":"63b94f8e1f480639225c3c4a5cbf323a",
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108758967,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886878,
     "wof:name":"Banikoara",
     "wof:parent_id":85668805,
     "wof:placetype":"county",

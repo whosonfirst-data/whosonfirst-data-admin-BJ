@@ -110,6 +110,7 @@
         "hasc:id":"BJ.DO.CP",
         "wd:id":"Q986059"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322769,
     "wof:geomhash":"39239a678c66ae59c3e147212866362d",
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108758985,
-    "wof:lastmodified":1694492379,
+    "wof:lastmodified":1695886879,
     "wof:name":"Copargo",
     "wof:parent_id":85668827,
     "wof:placetype":"county",

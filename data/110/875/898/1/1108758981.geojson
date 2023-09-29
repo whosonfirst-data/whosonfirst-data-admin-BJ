@@ -101,6 +101,7 @@
         "hasc:id":"BJ.BO.PE",
         "wd:id":"Q2716795"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BJ",
     "wof:created":1481322767,
     "wof:geomhash":"fbe8f1e620bd919e4d52de66d823e5f7",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108758981,
-    "wof:lastmodified":1694492378,
+    "wof:lastmodified":1695886879,
     "wof:name":"Perere",
     "wof:parent_id":85668803,
     "wof:placetype":"county",

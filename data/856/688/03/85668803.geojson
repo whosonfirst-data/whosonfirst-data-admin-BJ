@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.11162,
-    "geom:area_square_m":25730525322.80788,
+    "geom:area_square_m":25730525726.638824,
     "geom:bbox":"1.970247,8.771218,3.837419,10.630609",
     "geom:latitude":9.775569,
     "geom:longitude":2.761061,
@@ -296,14 +296,16 @@
         "gn:id":2394992,
         "gp:id":2344826,
         "hasc:id":"BJ.BO",
+        "iso:code":"BJ-BO",
         "iso:id":"BJ-BO",
         "qs_pg:id":894846,
         "unlc:id":"BJ-BO",
         "wd:id":"Q29136",
         "wk:page":"Borgou Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BJ",
-    "wof:geomhash":"74aa7e80c47c960c7339753a42ce1b5b",
+    "wof:geomhash":"a73902799a70977b8f5e2146010e3de5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690858494,
+    "wof:lastmodified":1695884882,
     "wof:name":"Borgou",
     "wof:parent_id":85632247,
     "wof:placetype":"region",
