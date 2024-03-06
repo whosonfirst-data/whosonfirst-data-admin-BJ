@@ -38,6 +38,12 @@
     "name:swe_x_preferred":[
         "Nassi"
     ],
+    "name:und_x_variant":[
+        "Miassi",
+        "Niassi",
+        "Nyassy",
+        "Niassy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,6 +54,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2392610
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2392534
+        ]
     },
     "wof:country":"BJ",
     "wof:geomhash":"7c1238dbc9a89a35636aac752e729f31",
@@ -61,13 +72,15 @@
         }
     ],
     "wof:id":1326919249,
-    "wof:lastmodified":1566615194,
+    "wof:lastmodified":1706239330,
     "wof:name":"Nassi",
     "wof:parent_id":1108758981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bj",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327222829
+    ],
     "wof:tags":[]
 },
   "bbox": [
